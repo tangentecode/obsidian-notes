@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/html-summary/content-html.md",
+                "file": "computer-science/summaries/html-summary/contents-html.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "content-html"
+              "title": "contents-html"
             }
           }
         ]
@@ -168,7 +168,7 @@
   "active": "1a73cfaa8a277e9c",
   "lastOpenFiles": [
     "computer-science/summaries/html-summary/common-tags.md",
-    "computer-science/summaries/html-summary/content-html.md",
+    "computer-science/summaries/html-summary/contents-html.md",
     "computer-science/summaries/html-summary/general-layout.md",
     "computer-science/summaries/html-summary/hyperlinks.md",
     "computer-science/summaries/html-summary/images.md",
