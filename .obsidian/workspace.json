@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a943d8713ddf609e",
+        "id": "741883f8fd662f8c",
         "type": "tabs",
         "children": [
           {
-            "id": "d99778194d56dafc",
+            "id": "8af0c600fd8c0247",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,10 +148,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "8af0c600fd8c0247",
   "lastOpenFiles": [
-    "courses/CS50P/certificates/CS50P.md",
+    "courses/CS50P/certificates/CS50P.pdf",
     "courses/courses.md",
+    "courses/CS50P/certificates/CS50P.md",
     "courses/CS50P/certificates",
     "courses/CS50P/certificate/CS50P.md",
     "courses/CS50P/certificate",
@@ -187,7 +188,6 @@
     "Python/PyQt6/Important Points/Layout.md",
     "Python/PyQt6/Important Points/Initialization of a Window.md",
     "Python/PyQt6/Important Points/Init.md",
-    "Python/PyQt6/Important Points/Execution.md",
     "Python/PyQt6/IMG_0093.png"
   ]
 }
