@@ -90,4 +90,8 @@ main:
 - after the last character of `string` there's always an Escape Character (`\0`) stored at the last index of the array in Memory to indicate the end of the `string`
 	![](string.png)
 - Regarding the explanation in [lecture-0-scratch](lecture-0-scratch.md) about `ASCII` it would look like this in decimal notation
-![](string-decimal.png)
+	![](string-decimal.png)
+
+## strlen
+
+- 
