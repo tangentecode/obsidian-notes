@@ -7,5 +7,7 @@
 	4. **linking**
 
 ## Assembly
-- Very low level language
-- Based
+- Low level language
+- Based on processor architecture
+- Directly moves data in memory and performs other operation
+- Example:
