@@ -108,4 +108,5 @@ char a = 'A' - 32;
 ## Command Line Arguments
 
 - The [main](lecture-1-c.md) function takes two special parameters:
-	1. **argc**: 
+	1. **argc**: `int` number of arguments provided in he command line starting with index
+	2. 
