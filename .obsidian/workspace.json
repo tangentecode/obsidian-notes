@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "770aae34fdf45bc8",
+        "id": "918f600eacd64aa2",
         "type": "tabs",
         "children": [
           {
-            "id": "e3234d4bac6965f4",
+            "id": "029f6826414ee3cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,11 +148,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "029f6826414ee3cf",
   "lastOpenFiles": [
-    "computer science/Repositorys/Untitled",
-    "computer science/Repositorys/Basic Geometry Engine/Basic-Geometry-Engine.md",
+    "computer science/Repositorys/2048 Python PyQt6 Project.md",
+    "computer science/Repositorys/Basic-Geometry-Engine.md",
     "computer science/Repositorys/Repositorys.md",
+    "computer science/Repositorys/2048 Python PyQt6 Project",
     "Basic.md",
     "computer science/Repositorys/Basic Geometry Engine",
     "computer science/Repositorys",
@@ -169,7 +170,6 @@
     "courses/CS50P/certificates/CS50P.md",
     "computer science/Courses/CS50P/certificates",
     "courses/CS50P/certificate/CS50P.md",
-    "courses/CS50P/certificate",
     "CS50P/certificate/CS50P.md",
     "courses/CS50P/Untitled.md",
     "computer science/Courses/CS50P/certificates/CS50P A4.png",
