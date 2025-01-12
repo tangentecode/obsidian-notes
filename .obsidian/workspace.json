@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2548ec0dc9933130",
+        "id": "36791ee59c1020e6",
         "type": "tabs",
         "children": [
           {
-            "id": "f9f8a6422bde009f",
+            "id": "39f294e8d627a83a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,8 +166,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f9f8a6422bde009f",
+  "active": "39f294e8d627a83a",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/content.md",
+    "computer-science/python-guides/os-library/content.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/courses/cs50x/notes/img",
     "lecture-3-algorithms.md",
@@ -178,7 +180,6 @@
     "computer-science/courses/courses.md",
     "computer-science/courses/cs50x/notes",
     "computer-science/repositorys/combat-master-reshade-presets.md",
-    "computer-science/courses/cs50x/content.md",
     "computer-science/courses/cs50p/content.md",
     "computer-science/courses/cs50x/code/week 3",
     "computer-science/courses/cs50x/code/week 2",
@@ -186,8 +187,7 @@
     "computer-science/courses/cs50x/code/week 0",
     "computer-science/courses/cs50x/code",
     "computer-science/python-guides/os-library/example-code.md",
-    "computer-science/python-guides/os-library/code-of-conduct.md",
-    "computer-science/python-guides/pyqt6 guide/code-of-conduct.md",
+    "computer-science/python-guides/pyqt6 guide/content.md",
     "computer-science/python-guides/pyqt6 guide/pyqt6-guide.md",
     "computer-science/python-guides/pyqt6 guide/projects/2048.md",
     "computer-science/python/pyqt6 guide/projects/2048 Game.md",
