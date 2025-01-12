@@ -25,7 +25,11 @@ Example:
 ```
 would equal **seven**
 
-- Generally you use 8 
+- Generally you use 8 Bits so one Byte
+
+| 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
 
 
 
