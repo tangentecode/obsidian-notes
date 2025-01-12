@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dcabde5bcb3182b3",
+        "id": "a47a1b06f1378a7f",
         "type": "tabs",
         "children": [
           {
-            "id": "2427cd86aaf59064",
+            "id": "a8c6214f2ed3c1a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "dynamic-memory-managment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dynamic-memory-managment"
             }
           }
         ]
@@ -63,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "573dceb8a324aff9",
@@ -162,8 +165,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "2427cd86aaf59064",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "dynamic-memory-managment.md",
+    "computer-science/repositorys/LICENSE.txt.md",
+    "computer-science/repositorys/basic-geometry-engine.md",
+    "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "schule/contents-schule.md",
     "computer-science/repositorys/combat-master-tool.md",
@@ -195,10 +202,6 @@
     "computer-science/courses/cs50x/notes/img/string.png",
     "computer-science/c-summary/types.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
-    "computer-science/courses/cs50x/notes/lecture-1-c.md",
-    "basic-cli-commands.md",
-    "computer-science/c-summary/conditionals.md",
-    "computer-science/c-summary/style.md",
     "computer-science/c-summary",
     "computer-science/courses/cs50x/notes/img/general-instructions.png",
     "computer-science/courses/cs50x/notes/img",

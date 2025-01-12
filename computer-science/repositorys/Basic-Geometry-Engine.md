@@ -52,7 +52,7 @@ python core.py
 
 # License
 
-[MIT license](./LICENSE)
+[MIT license](LICENSE.txt.md)
 
 
 
