@@ -79,7 +79,7 @@
 
 - Stands **HyperText Transfer Protocol**
 - Transfers web page data
-- Status Codes: 
+- HTTP Status Codes: 
 
 | 200 | OK                    |
 | --- | --------------------- |
@@ -92,4 +92,6 @@
 | 418 | I'm a Teapot          |
 | 500 | Internal Server Error |
 | 503 | Service Unavailable   |
+> Use `curl `
 
+- **HTTPS**: Secure Version of HTTP
