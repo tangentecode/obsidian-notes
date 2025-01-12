@@ -9,4 +9,10 @@ else {
 }
 ```
 
-## Chain condotions
+## Chain conditions
+
+### 1. `and`
+
+```c
+if (x > y) && and x 
+```
