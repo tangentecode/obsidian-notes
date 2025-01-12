@@ -3,9 +3,11 @@
 - Uses `<form>`, `<input>`, `<button>` [tag](common-tags.md) 
 
 ## Example
-```
+
+```html
 <form>
-    <input autocomplete="off" autofocus name="email" pattern=".+@.+\.edu" placeholder="Email" type="email">
+    <input name="email" pattern=".+@.+\.edu"type="email">
             <button>Register</button>
-        </form>
+</form>
 ```
+
