@@ -56,6 +56,7 @@
 
 
 
-## IP Adresses
+## IP Addresses
 
-- stands for **Inter **
+- Stands for **Internet Protocol**
+- Address for a device on a network
