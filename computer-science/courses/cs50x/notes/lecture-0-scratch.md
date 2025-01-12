@@ -77,6 +77,9 @@ would equal **seven**
     <tr><td>Z</td><td>01011010</td><td>90</td></tr>
   </tbody>
 </table>
-- 
 
 - [More information](https://en.wikipedia.org/wiki/ASCII)
+
+## UNICODE
+
+- unicode is similar to ASCII but with an extended range characters
