@@ -11,4 +11,6 @@
 	10. [style](style.md)
 
 - Python
+	1. [pyqt6-guide](pyqt6-guide.md)`
+	
 	
