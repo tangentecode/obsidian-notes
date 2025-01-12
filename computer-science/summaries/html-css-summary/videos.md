@@ -1,2 +1,3 @@
 - Uses `<video>` [tag](common-tags.md) with the optional attribute `controls muted`
 - Specify the source of the video with `src` like [images](images.md) in `<source>` 
+- Set `type` of `<source>` to `video/`
