@@ -4,4 +4,4 @@
 	- Progress: [Completed](https://cs50.me/cs50p)
 	- Certificate: 
 
-2. 
+3. [CS50X]

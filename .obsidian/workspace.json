@@ -148,8 +148,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29805a3cd14d2182",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "courses/Untitled",
     "courses/CS50P/Content.md",
     "courses/Courses.md",
     "courses/CS50P.md",
@@ -185,7 +186,6 @@
     "Python/PyQt6/PyQt 6 Guide.md",
     "Python/PyQt6/IMG_0093.png",
     "Python/OS Library/Project Management.md",
-    "Python/OS Library/Path Operations.md",
-    "Python/OS Library/Miscellaneous.md"
+    "Python/OS Library/Path Operations.md"
   ]
 }
