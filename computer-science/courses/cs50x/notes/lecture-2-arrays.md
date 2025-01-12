@@ -107,4 +107,5 @@ char a = 'A' - 32;
 
 ## Command Line Arguments
 
-- The [lecture-0-scratch](lecture-0-scratch.md)
+- The [main](lecture-1-c.md) function takes two special parameters:
+	1. **argc**: 
