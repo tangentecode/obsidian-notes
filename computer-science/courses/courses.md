@@ -8,7 +8,7 @@
 	- Progress: [Running](https://cs50.me/cs50x)
 	- Certificate: 
 
-3. [Low Level Academy]
-	- Progress: [Not Started]
+3. [Low Level Academy]()
+	- Progress: [Not Started]()
 
 ## Notes

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f2f6dd0f25d7a754",
+        "id": "a15de3a70b03ecc1",
         "type": "tabs",
         "children": [
           {
-            "id": "08095ff3adc55c0c",
+            "id": "01b0bd5082283381",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/courses/courses.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "courses"
+              "title": "New tab"
             }
           }
         ]
@@ -165,26 +161,27 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "08095ff3adc55c0c",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
-    "computer-science/summary/python-summary/pyqt6 guide/pyqt6-guide.md",
+    "computer-science/summaries/python-summary/pyqt6 guide/content-pyqt.md",
+    "computer-science/courses/courses.md",
+    "computer-science/summaries/python-summary/pyqt6 guide/pyqt6-guide.md",
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
-    "computer-science/summary",
+    "computer-science/summaries",
     "Untitled",
-    "computer-science/summary/html-css-summary",
-    "computer-science/summary/javascript-summary",
-    "computer-science/summary/sql-summary",
-    "computer-science/summary/python-summary",
+    "computer-science/summaries/html-css-summary",
+    "computer-science/summaries/javascript-summary",
+    "computer-science/summaries/sql-summary",
+    "computer-science/summaries/python-summary",
     "computer-science/courses/cs50x/notes/Untitled.md",
-    "computer-science/summary/c-summary/dynamic-memory-managment.md",
+    "computer-science/summaries/c-summary/dynamic-memory-managment.md",
     "computer-science/repositorys/LICENSE.txt.md",
     "computer-science/repositorys/basic-geometry-engine.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "schule/contents-schule.md",
     "computer-science/repositorys/combat-master-tool.md",
-    "computer-science/summary/python-summary/os-library/environment-variables.md",
+    "computer-science/summaries/python-summary/os-library/environment-variables.md",
     "schule/Erdkunde/Erdkunde Zusammenfassung.md",
-    "computer-science/summary/python-summary/pyqt6 guide/content-pyqt.md",
     "computer-science/repositorys/2048-python-pyqt6-project.md",
     "Untitled.md",
     "schule/Chemie/Chemie Test.md",
@@ -197,12 +194,11 @@
     "schule/Latein",
     "schule/Erdkunde",
     "schule/Deutsch",
-    "computer-science/summary/python-summary/os-library/example-code.md",
-    "computer-science/summary/python-summary/os-library/content-os.md",
-    "computer-science/summary/c-summary/variables.md",
-    "computer-science/summary/c-summary/contents-c.md",
+    "computer-science/summaries/python-summary/os-library/example-code.md",
+    "computer-science/summaries/python-summary/os-library/content-os.md",
+    "computer-science/summaries/c-summary/variables.md",
+    "computer-science/summaries/c-summary/contents-c.md",
     "computer-science/courses/cs50x/content-cs50.md",
-    "computer-science/summary/c-summary/libraries.md",
     "computer-science/courses/cs50x/notes/img/ciphertext.png",
     "computer-science/courses/cs50x/notes/img/string-decimal.png",
     "computer-science/courses/cs50x/notes/img/string.png",
@@ -212,7 +208,7 @@
     "computer-science/courses/cs50x/notes/img/rgb.png",
     "computer-science/courses/cs50x/notes/img/input-output.png",
     "Untitled.canvas",
-    "computer-science/summary/python-summary/pyqt6 guide/empty-window.png",
+    "computer-science/summaries/python-summary/pyqt6 guide/empty-window.png",
     "computer-science/courses/cs50p/certificates/CS50P.png"
   ]
 }
