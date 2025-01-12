@@ -76,3 +76,8 @@ main:
 00000000000000000000000001001000
 ...
 ```
+
+
+## Arrays
+
+- Used to chain multiple values of the same [types](types.md) 

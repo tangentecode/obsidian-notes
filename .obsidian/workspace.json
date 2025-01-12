@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/c-summary/types.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "types"
+              "title": "lecture-2-arrays"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/c-summary/types.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for types"
+              "title": "Backlinks for lecture-2-arrays"
             }
           },
           {
@@ -168,6 +168,7 @@
   },
   "active": "58ba08f82c2fb91c",
   "lastOpenFiles": [
+    "computer-science/c-summary/types.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
@@ -182,7 +183,6 @@
     "computer-science/c-summary/variables.md",
     "computer-science/c-summary/printf.md",
     "computer-science/c-summary/operators.md",
-    "computer-science/c-summary/types.md",
     "computer-science/c-summary/run-programm.md",
     "computer-science/c-summary/cs50-lib.md",
     "computer-science/c-summary",
