@@ -11,14 +11,17 @@
             "id": "7db967321d571c30",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "computer-science/repositorys/repositorys.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 2.1704428239271296,
+                  "y": 160.2314436118649,
+                  "zoom": -0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "repositorys"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/repositorys/repositorys.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for repositorys"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -150,12 +153,13 @@
   },
   "active": "7db967321d571c30",
   "lastOpenFiles": [
+    "computer-science/repositorys/repositorys.md",
+    "Untitled.canvas",
     "computer-science/python/pyqt6 guide/PyQt 6 Guide.md",
     "computer-science/python/pyqt6 guide/IMG_0093.png",
     "computer-science/repositorys/basic-geometry-engine.md",
     "computer-science/repositorys/2048-python-pyqt6-project.md",
     "computer-science/repositorys/combat-master-reshade-presets.md",
-    "computer-science/repositorys/repositorys.md",
     "computer-science/repositorys/file-operations-python.md",
     "docs/1..md",
     "docs",
@@ -187,7 +191,6 @@
     "CS50P.md",
     "().md",
     "2025-01-08.md",
-    "Schule/Chemie/Chemie Test.md",
-    "Schule/Physik/Schaltungen.md"
+    "Schule/Chemie/Chemie Test.md"
   ]
 }
