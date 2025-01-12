@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/CS50P/certificate/CS50P.md",
+                "file": "courses/courses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS50P"
+              "title": "courses"
             }
           }
         ]
@@ -148,9 +148,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d99778194d56dafc",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "courses/CS50P/certificates/CS50P.md",
     "courses/courses.md",
+    "courses/CS50P/certificates",
     "courses/CS50P/certificate/CS50P.md",
     "courses/CS50P/certificate",
     "CS50P/certificate/CS50P.md",
@@ -165,9 +167,8 @@
     "courses/CS50P/Final Project CS50p/project/__pycache__/test_project.cpython-312-pytest-8.3.4.pyc",
     "courses/CS50P/Final Project CS50p/project/__pycache__",
     "courses/CS50P/Final Project CS50p/project/test_project.py",
-    "courses/CS50P/Final Project CS50p/project/project.py",
-    "courses/CS50P/certficates/CS50P A4.png",
-    "courses/CS50P/certficates/CS50P.png",
+    "courses/CS50P/certificates/CS50P A4.png",
+    "courses/CS50P/certificates/CS50P.png",
     "courses/CS50P.md",
     "CS50P.md",
     "().md",
@@ -187,7 +188,6 @@
     "Python/PyQt6/Important Points/Initialization of a Window.md",
     "Python/PyQt6/Important Points/Init.md",
     "Python/PyQt6/Important Points/Execution.md",
-    "Python/PyQt6/Important Points/Button.md",
     "Python/PyQt6/IMG_0093.png"
   ]
 }
