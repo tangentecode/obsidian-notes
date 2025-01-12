@@ -1,3 +1,6 @@
 ## Declaration
+- Only variable name and type:
+
+
 ## Definition
-## Initiali
+## Initialization
