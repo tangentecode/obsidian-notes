@@ -11,8 +11,16 @@ else {
 
 ## Chain conditions
 
-### 1. `and`
+### 1. and
 
 ```c
-if (x > y) && and x 
+if (x > y) && (x == y) {
+	// both conditions are met
+}
+```
+
+### 2. or
+
+```c
+if 
 ```
