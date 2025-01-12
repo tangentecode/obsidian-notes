@@ -99,4 +99,4 @@ main:
 
 ## Misc
 
-- In `ASCII` you can subtract 32 from a 
+- In `ASCII` you can subtract 32 from a uppercase [char](types.md) to get its lowercase variant  
