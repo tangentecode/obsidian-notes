@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Rosé Pine",
+  "accentColor": "#48298e",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "baseFontSize": 16,
+  "baseFontSizeAction": true
+}
