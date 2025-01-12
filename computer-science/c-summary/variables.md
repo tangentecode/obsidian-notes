@@ -35,7 +35,7 @@ age --;
 
 ## Arrays
 
-- Declare `int scores[3];` with the size that needs to be [allocated](dynamic-memory-managment) in square brackets
+- Declare `int scores[3];` with the size that needs to be [allocated](dynamic-memory-managment.md) in square brackets
 
 - Define each index individually
 ```c

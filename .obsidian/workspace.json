@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a47a1b06f1378a7f",
+        "id": "f8076a873feb8b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "a8c6214f2ed3c1a6",
+            "id": "99eab09e2e1240f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dynamic-memory-managment.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dynamic-memory-managment"
+              "title": "New tab"
             }
           }
         ]
@@ -67,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "573dceb8a324aff9",
@@ -165,9 +162,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "99eab09e2e1240f2",
   "lastOpenFiles": [
-    "dynamic-memory-managment.md",
+    "computer-science/c-summary/dynamic-memory-managment.md",
     "computer-science/repositorys/LICENSE.txt.md",
     "computer-science/repositorys/basic-geometry-engine.md",
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
