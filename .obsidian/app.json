@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "showRibbon": false
+  "showRibbon": false,
+  "alwaysUpdateLinks": true
 }
