@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/CS50 Courses.md",
+                "file": "().md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS50 Courses"
+              "title": "()"
             }
           }
         ]
@@ -151,6 +151,7 @@
   "active": "29805a3cd14d2182",
   "lastOpenFiles": [
     "courses/CS50 Courses.md",
+    "().md",
     "courses/CS50P",
     "Untitled",
     "courses",
@@ -185,7 +186,6 @@
     "Python/OS Library/Miscellaneous.md",
     "Python/OS Library/File and Directory Operation.md",
     "Python/OS Library/Example Code.md",
-    "create a link.md",
-    "Welcome.md"
+    "create a link.md"
   ]
 }
