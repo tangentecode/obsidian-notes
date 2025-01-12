@@ -9,7 +9,7 @@
 
 | IP    |     |
 | ----- | --- |
-| DNS   |     |
+| TCP   |     |
 | DHCP  |     |
 | HTTP  |     |
 | HTTPS |     |
