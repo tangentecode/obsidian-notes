@@ -11,10 +11,14 @@
             "id": "0111a79680de4066",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/python/os-library/Project Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Management"
             }
           }
         ]
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/python/os-library/Project Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Project Management"
             }
           },
           {
@@ -146,6 +151,7 @@
   },
   "active": "0111a79680de4066",
   "lastOpenFiles": [
+    "computer-science/python/os-library/code-of-conduct.md",
     "computer-science/repositorys/file-operations-python.md",
     "Untitled.canvas",
     "computer-science/repositorys/repositorys.md",
@@ -175,7 +181,7 @@
     "Repositorys/Combat.md",
     "Combat.md",
     "Basic.md",
-    "computer-science/python/os-library/Environment Variables.md",
+    "computer-science/python/os-library/environment-variables.md",
     "courses/CS50P/certificates/CS50P.md",
     "courses/CS50P/certificate/CS50P.md",
     "CS50P/certificate/CS50P.md",
