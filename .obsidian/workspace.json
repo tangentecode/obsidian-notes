@@ -149,8 +149,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b3253abcd60d89f4",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/code/week 3",
+    "computer-science/courses/cs50x/code/week 2",
+    "computer-science/courses/cs50x/code/week 1",
+    "computer-science/courses/cs50x/code/week 0",
     "computer-science/courses/courses.md",
     "computer-science/courses/cs50x/content.md",
     "computer-science/courses/cs50x/code",
@@ -181,15 +185,11 @@
     "computer-science/courses/cs50p/Final Project CS50p/project/README.md",
     "computer-science/courses/cs50p/Final Project CS50p/project/project.py",
     "computer-science/courses/cs50p/Final Project CS50p/vid.txt",
-    "computer-science/courses/cs50p/Final Project CS50p/project",
     "computer-science/courses/cs50p/certificates/CS50P.png",
-    "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/courses/cs50p/certificates/CS50P A4.png",
-    "computer-science/courses/cs50p/certificates/CS50P A4.pdf",
     "computer-science/courses/cs50p/Content.md",
     "Repositorys/Combat.md",
     "Combat.md",
-    "Basic.md",
-    "computer-science/python/os-library/environment-variables.md"
+    "Basic.md"
   ]
 }
