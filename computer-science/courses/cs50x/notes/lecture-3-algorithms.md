@@ -72,4 +72,5 @@
 ## DHCP
 
 - stands for **Dynamic Host Configuration Protocol**
-- 
+- Assigns IP addresses to devices
+
