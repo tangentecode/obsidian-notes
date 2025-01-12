@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9bacf8da5d7b0c68",
+        "id": "76d04071cfa6c7bc",
         "type": "tabs",
         "children": [
           {
-            "id": "93c067103298f9f5",
+            "id": "a83fc7e85bb3887b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -144,8 +148,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "a83fc7e85bb3887b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "computer science/python",
+    "computer science/python/OS Library/Environment Variables.md",
     "computer science/Courses/CS50P/Final Project CS50p/project/README.md",
     "computer science/Courses/CS50P/Content.md",
     "computer science/other",
@@ -163,14 +170,12 @@
     "CS50P",
     "computer science/Courses/CS50P/Final Project CS50p/project/showcase.mp4",
     "courses/CS50P/Untitled.md",
-    "courses/CS50P/certficates",
     "computer science/Courses/CS50P/certificates/CS50P A4.png",
     "computer science/Courses/CS50P/certificates/CS50P.png",
     "courses/CS50P.md",
     "CS50P.md",
     "().md",
     "2025-01-08.md",
-    "Python/OS Library/Environment Variables.md",
     "Schule/Chemie/Chemie Test.md",
     "Schule/Physik/Schaltungen.md",
     "Schule/Latein/Vokabel Test.md",
@@ -178,11 +183,11 @@
     "Schule/Erdkunde/Erdkunde Zusammenfassung.md",
     "Schule/Deutsch/Rezension.md",
     "Schule/Deutsch/Rezension Wociek.md",
-    "Python/PyQt6/Projects/Simple 2048 Game.md",
-    "Python/PyQt6/Projects/2048 Game.md",
-    "Python/PyQt6/Important Points/Text.md",
-    "Python/PyQt6/Important Points/Layout.md",
-    "Python/PyQt6/Important Points/Initialization of a Window.md",
-    "Python/PyQt6/IMG_0093.png"
+    "computer science/python/PyQt6/Projects/Simple 2048 Game.md",
+    "computer science/python/PyQt6/Projects/2048 Game.md",
+    "computer science/python/PyQt6/Important Points/Text.md",
+    "computer science/python/PyQt6/Important Points/Layout.md",
+    "computer science/python/PyQt6/Important Points/Initialization of a Window.md",
+    "computer science/python/PyQt6/IMG_0093.png"
   ]
 }
