@@ -13,3 +13,7 @@
 ## Submissions
 
 [All submissions](https://submit.cs50.io/courses/1202)
+
+## Final Project
+
+[README](README.md)

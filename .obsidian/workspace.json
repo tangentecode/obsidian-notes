@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5480f809725d0e3",
+        "id": "9bacf8da5d7b0c68",
         "type": "tabs",
         "children": [
           {
-            "id": "3880da7f8679b325",
+            "id": "93c067103298f9f5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -146,11 +146,13 @@
   },
   "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer science/Courses/CS50P/Final Project CS50p/project/README.md",
+    "computer science/Courses/CS50P/Content.md",
+    "computer science/other",
     "computer science/Repositorys",
     "computer science/Untitled.md",
     "computer science",
     "computer science/Courses/Courses.md",
-    "computer science/Courses/CS50P/Content.md",
     "computer science/Courses/CS50P/certificates/CS50P.pdf",
     "courses/CS50P/certificates/CS50P.md",
     "computer science/Courses/CS50P/certificates",
@@ -159,12 +161,9 @@
     "CS50P/certificate/CS50P.md",
     "CS50P/certificate",
     "CS50P",
-    "computer science/Courses/CS50P/Final Project CS50p/project/README.md",
     "computer science/Courses/CS50P/Final Project CS50p/project/showcase.mp4",
     "courses/CS50P/Untitled.md",
     "courses/CS50P/certficates",
-    "courses/CS50P/Final Project CS50p/project/__pycache__/project.cpython-312.pyc",
-    "courses/CS50P/Final Project CS50p/project/__pycache__/test_project.cpython-312-pytest-8.3.4.pyc",
     "computer science/Courses/CS50P/certificates/CS50P A4.png",
     "computer science/Courses/CS50P/certificates/CS50P.png",
     "courses/CS50P.md",
