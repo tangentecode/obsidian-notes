@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/CS50 Courses.md",
+                "file": "courses/Courses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CS50 Courses"
+              "title": "Courses"
             }
           }
         ]
@@ -148,10 +148,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "29805a3cd14d2182",
   "lastOpenFiles": [
+    "courses/CS50P/Content.md",
+    "courses/Courses.md",
     "courses/CS50P.md",
-    "courses/CS50 Courses.md",
     "CS50P.md",
     "().md",
     "courses/CS50P",
@@ -185,7 +186,6 @@
     "Python/PyQt6/IMG_0093.png",
     "Python/OS Library/Project Management.md",
     "Python/OS Library/Path Operations.md",
-    "Python/OS Library/Miscellaneous.md",
-    "Python/OS Library/File and Directory Operation.md"
+    "Python/OS Library/Miscellaneous.md"
   ]
 }
