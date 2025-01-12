@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/python/pyqt6 guide/code-of-conduct.md",
+                "file": "computer-science/python/pyqt6 guide/projects/2048.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "code-of-conduct"
+              "title": "2048"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/python/pyqt6 guide/code-of-conduct.md",
+                "file": "computer-science/python/pyqt6 guide/projects/2048.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for code-of-conduct"
+              "title": "Backlinks for 2048"
             }
           },
           {
@@ -151,6 +151,8 @@
   },
   "active": "f35a13574b6d6789",
   "lastOpenFiles": [
+    "computer-science/python/pyqt6 guide/projects/2048 Game.md",
+    "computer-science/python/pyqt6 guide/projects/2048.md",
     "computer-science/python/pyqt6 guide/code-of-conduct.md",
     "computer-science/python/os-library/code-of-conduct.md",
     "computer-science/python/os-library/example-code.md",
@@ -188,8 +190,6 @@
     "Combat.md",
     "Basic.md",
     "computer-science/python/os-library/environment-variables.md",
-    "courses/CS50P/certificates/CS50P.md",
-    "courses/CS50P/certificate/CS50P.md",
-    "CS50P/certificate/CS50P.md"
+    "courses/CS50P/certificates/CS50P.md"
   ]
 }
