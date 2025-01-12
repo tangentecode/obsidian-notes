@@ -13,6 +13,8 @@
 | DHCP  |     |
 | HTTP  |     |
 | HTTPS |     |
+| HTML  |     |
+| CSS   |     |
 
 
 
