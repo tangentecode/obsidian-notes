@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "638c7e989317c0d2",
+        "id": "eca7236246ff99fa",
         "type": "tabs",
         "children": [
           {
-            "id": "ed0c19b4ccd8e22a",
+            "id": "1430398bfac4297a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,7 +148,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed0c19b4ccd8e22a",
+  "active": "1430398bfac4297a",
   "lastOpenFiles": [
     "computer-science/repositorys/combat-master-reshade-presets.md",
     "computer-science/repositorys/repositorys.md",
