@@ -1,7 +1,7 @@
 ## Include
 
 - Use `#include` to import third party and built in library's
-
+- [cs50-lib](cs50-lib.md)
 - Common built in libraries are:
 
 	- **stdio.h**: Provides input and output functions like `printf`, `scanf`, file operations (`fopen`, `fclose`, etc.), and error handling (`perror`).

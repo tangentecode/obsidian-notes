@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dafab87eed0ca52b",
+        "id": "620bd95b5755f125",
         "type": "tabs",
         "children": [
           {
-            "id": "228b6138adfd92b8",
+            "id": "9c6d173b99ceaf07",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,7 +166,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "228b6138adfd92b8",
+  "active": "9c6d173b99ceaf07",
   "lastOpenFiles": [
     "computer-science/courses/cs50x/notes/c/cs50-lib.md",
     "computer-science/courses/cs50x/notes/c/libraries.md",
