@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ecd6ccbd869dd376",
+        "id": "6688c649b3f26aac",
         "type": "tabs",
         "children": [
           {
-            "id": "182ef395c54abe37",
+            "id": "3ab38578bef5ca52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/content-computer-science.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "content-computer-science"
+              "title": "New tab"
             }
           }
         ]
