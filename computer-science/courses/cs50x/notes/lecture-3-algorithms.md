@@ -58,3 +58,4 @@
 
 ## IP Adresses
 
+- stands for **Inter **
