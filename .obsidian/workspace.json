@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ecfe799c11a4bf",
+        "id": "c47443edac370e97",
         "type": "tabs",
         "children": [
           {
-            "id": "ecdb109e369f199c",
+            "id": "2cc59d9b5a24f68c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,14 +149,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "ecdb109e369f199c",
+  "active": "2cc59d9b5a24f68c",
   "lastOpenFiles": [
-    "lecture-3-algorithms.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
-    "computer-science/courses/cs50x/notes/algorithm-time.png",
-    "computer-science/courses/cs50x/notes/yellow-rgb.png",
-    "computer-science/courses/cs50x/notes/rgb.png",
-    "computer-science/courses/cs50x/notes/input-output.png",
+    "computer-science/courses/cs50x/notes/img",
+    "lecture-3-algorithms.md",
+    "computer-science/courses/cs50x/notes/img/algorithm-time.png",
+    "computer-science/courses/cs50x/notes/img/yellow-rgb.png",
+    "computer-science/courses/cs50x/notes/img/rgb.png",
+    "computer-science/courses/cs50x/notes/img/input-output.png",
     "computer-science/courses/courses.md",
     "computer-science/courses/cs50x/notes",
     "computer-science/repositorys/combat-master-reshade-presets.md",
@@ -189,11 +190,9 @@
     "computer.md",
     "computer-science/courses/cs50p/final-project-cs50p/project/test_project.py",
     "computer-science/courses/cs50p/final-project-cs50p/project/showcase.mp4",
-    "computer-science/courses/cs50p/final-project-cs50p/project/requirements.txt",
     "computer-science/courses/cs50p/final-project-cs50p/project/README.md",
     "computer-science/courses/cs50p/certificates/CS50P.png",
     "computer-science/courses/cs50p/certificates/CS50P A4.png",
-    "Repositorys/Combat.md",
-    "Combat.md"
+    "Repositorys/Combat.md"
   ]
 }
