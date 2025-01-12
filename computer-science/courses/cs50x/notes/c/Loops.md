@@ -2,4 +2,13 @@
 
 ## `for` loop
 
-- Iterates the code in the code as long the condition (the second parameter) is no longer me
+- Iterates the code in the code as long the condition (the second parameter) is no longer met:
+```c
+for (int i = 0; i < 3; i++) {
+	// do something three times
+}
+```
+
+
+## `while` loop
+
