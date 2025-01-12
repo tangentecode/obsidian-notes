@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "741883f8fd662f8c",
+        "id": "c5480f809725d0e3",
         "type": "tabs",
         "children": [
           {
-            "id": "8af0c600fd8c0247",
+            "id": "3880da7f8679b325",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Courses.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Courses"
+              "title": "New tab"
             }
           }
         ]
@@ -150,25 +146,27 @@
   },
   "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
-    "Courses/CS50P/Content.md",
-    "Courses/Courses.md",
-    "Courses/CS50P/certificates/CS50P.pdf",
+    "computer science/Repositorys",
+    "computer science/Untitled.md",
+    "computer science",
+    "computer science/Courses/Courses.md",
+    "computer science/Courses/CS50P/Content.md",
+    "computer science/Courses/CS50P/certificates/CS50P.pdf",
     "courses/CS50P/certificates/CS50P.md",
-    "Courses/CS50P/certificates",
+    "computer science/Courses/CS50P/certificates",
     "courses/CS50P/certificate/CS50P.md",
     "courses/CS50P/certificate",
     "CS50P/certificate/CS50P.md",
     "CS50P/certificate",
     "CS50P",
-    "Courses/CS50P/Final Project CS50p/project/README.md",
-    "Courses/CS50P/Final Project CS50p/project/showcase.mp4",
+    "computer science/Courses/CS50P/Final Project CS50p/project/README.md",
+    "computer science/Courses/CS50P/Final Project CS50p/project/showcase.mp4",
     "courses/CS50P/Untitled.md",
     "courses/CS50P/certficates",
     "courses/CS50P/Final Project CS50p/project/__pycache__/project.cpython-312.pyc",
     "courses/CS50P/Final Project CS50p/project/__pycache__/test_project.cpython-312-pytest-8.3.4.pyc",
-    "courses/CS50P/Final Project CS50p/project/__pycache__",
-    "Courses/CS50P/certificates/CS50P A4.png",
-    "Courses/CS50P/certificates/CS50P.png",
+    "computer science/Courses/CS50P/certificates/CS50P A4.png",
+    "computer science/Courses/CS50P/certificates/CS50P.png",
     "courses/CS50P.md",
     "CS50P.md",
     "().md",
@@ -186,7 +184,6 @@
     "Python/PyQt6/Important Points/Text.md",
     "Python/PyQt6/Important Points/Layout.md",
     "Python/PyQt6/Important Points/Initialization of a Window.md",
-    "Python/PyQt6/Important Points/Init.md",
     "Python/PyQt6/IMG_0093.png"
   ]
 }
