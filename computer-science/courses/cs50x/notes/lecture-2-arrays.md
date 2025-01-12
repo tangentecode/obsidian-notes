@@ -86,6 +86,6 @@ main:
 
 ## Strings
 
-- A `string` is an `Array` of [chars](types.md)
-- after the last character of `string` there's always an Escape Character ()stored at the last index of the array in Memory
+- A `string` is an [data types](types.md)  that cinsi `Array` of [chars](types.md)
+- after the last character of `string` there's always an Escape Character (`\0`) stored at the last index of the array in Memory to indicate the end of the `string`
 	![](string.png)
