@@ -35,4 +35,5 @@ age --;
 
 ## Arrays
 
-- Declare
+- Declare `int scores[3];` with the size [allocated](dynamic-memory-managment)
+``
