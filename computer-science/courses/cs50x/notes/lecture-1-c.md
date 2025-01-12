@@ -21,5 +21,6 @@
 
 ## The Programming Language "C"
 
-- Browse official C [docs](https://devdocs.io/c/)
 - 
+- Browse official C [docs](https://devdocs.io/c/)
+- Download C Compiler [MingGW](https://www.mingw-w64.org/)
