@@ -60,3 +60,6 @@
 
 - Stands for **Internet Protocol**
 - Address for a device on a network
+- Format ```#.#.#.#``` (Numbers ranging from 0-255)
+- Versions:
+- 
