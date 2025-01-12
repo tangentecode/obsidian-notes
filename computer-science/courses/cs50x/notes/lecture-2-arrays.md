@@ -81,4 +81,5 @@ main:
 ## Arrays
 
 - Used to chain multiple values of the same [type](types.md) together
-- The values live at an index on the `Array` that start with 0 directly 
+- The values live at an index on the `Array` that start with 0 directly after each other in memory
+- Declare `Arrays` like in [variables](variables.md)
