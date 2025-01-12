@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "contents-summaries"
             }
+          },
+          {
+            "id": "bb5839d00f1606d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/summaries/c-summary/contents-c.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "contents-c"
+            }
           }
         ]
       }
@@ -167,6 +181,7 @@
   },
   "active": "01b0bd5082283381",
   "lastOpenFiles": [
+    "computer-science/summaries/c-summary/contents-c.md",
     "computer-science/summaries/contents-summaries.md",
     "computer-science/summaries/python-summary/pyqt6 guide/content-pyqt.md",
     "computer-science/courses/courses.md",
@@ -202,7 +217,6 @@
     "computer-science/summaries/python-summary/os-library/example-code.md",
     "computer-science/summaries/python-summary/os-library/content-os.md",
     "computer-science/summaries/c-summary/variables.md",
-    "computer-science/summaries/c-summary/contents-c.md",
     "computer-science/courses/cs50x/notes/img/ciphertext.png",
     "computer-science/courses/cs50x/notes/img/string-decimal.png",
     "computer-science/courses/cs50x/notes/img/string.png",
