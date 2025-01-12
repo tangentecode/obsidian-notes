@@ -35,7 +35,8 @@
               "title": "printf"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/c/types.md",
+                "file": "computer-science/courses/cs50x/notes/c/printf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for types"
+              "title": "Backlinks for printf"
             }
           },
           {
@@ -180,10 +181,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ff6f6a5e862526eb",
+  "active": "9c6d173b99ceaf07",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/c/printf.md",
     "computer-science/courses/cs50x/notes/c/types.md",
+    "computer-science/courses/cs50x/notes/c/printf.md",
     "computer-science/courses/cs50x/notes/c/libraries.md",
     "computer-science/courses/cs50x/notes/c/cs50-lib.md",
     "computer-science/courses/cs50x/notes/c/run-programm.md",
