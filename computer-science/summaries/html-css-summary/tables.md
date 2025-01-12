@@ -1,5 +1,9 @@
-- Uses `<table>` to specify start and end of the table
+## [Tags](common-tags.md)
 
+- `<table>`: Defines the table.
+- `<tr>`: Table row.
+- `<th>`: Table header cell (bold and centered by default).
+- `<td>`: Table data cell.
 
 
 
