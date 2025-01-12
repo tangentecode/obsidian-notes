@@ -12,3 +12,7 @@ for (int i = 0; i < 3; i++) {
 
 ## `while` loop
 
+- Do something as long as the condition after the `while` keyword is true:
+```
+
+```
