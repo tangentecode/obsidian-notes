@@ -15,12 +15,12 @@
 ## Binary
 
 - Computer count in binary
-- If you imagine a light bulb: 1 means light bulb one, 2 means 
-
-Example:
-```
-4 2 1 
-1 1 1
-```
+- If you imagine a light bulb: 1 means light bulb one, 2 means light bulb off
+- Representing numbers in Binary:
+	Example:
+		```
+		4 2 1 
+		1 1 1
+		```
 
 ## ASCII
