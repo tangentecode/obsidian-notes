@@ -38,4 +38,5 @@ would equal **seven**
 
 > ASCII = **American Standard Code for Information Interchange**
 
-- ASCII is a standard to represent letters and some special charackter
+- ASCII is a standard to represent letters and some special characters in binary
+- 
