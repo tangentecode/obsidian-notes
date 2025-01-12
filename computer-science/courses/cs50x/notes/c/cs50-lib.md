@@ -7,4 +7,4 @@
 		- [get_int](https://manual.cs50.io/3/get_int) - prompt a user for an `int`
 		- [get_long](https://manual.cs50.io/3/get_long) - prompt a user for an `long`
 		- [get_string](https://manual.cs50.io/3/get_string) - prompt a user for a `string`
-		- Common built in libraries are:
+		

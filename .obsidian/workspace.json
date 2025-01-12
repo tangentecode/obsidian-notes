@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/c/Untitled.md",
+                "file": "computer-science/courses/cs50x/notes/c/libraries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "libraries"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/c/Untitled.md",
+                "file": "computer-science/courses/cs50x/notes/c/libraries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for libraries"
             }
           },
           {
@@ -168,8 +168,8 @@
   },
   "active": "228b6138adfd92b8",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/c/cs50-lib.md",
     "computer-science/courses/cs50x/notes/c/libraries.md",
-    "computer-science/courses/cs50x/notes/c/Untitled.md",
     "computer-science/courses/cs50x/notes/c/run-programm.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/c",

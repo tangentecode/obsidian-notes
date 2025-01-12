@@ -2,6 +2,8 @@
 
 - Use `#include` to import third party and built in library's
 
+- Common built in libraries are:
+
 	- **stdio.h**: Provides input and output functions like `printf`, `scanf`, file operations (`fopen`, `fclose`, etc.), and error handling (`perror`).
     
 	- **stdlib.h**: Contains general utilities such as memory management (`malloc`, `free`, `realloc`), process control (`exit`, `system`), and other miscellaneous functions (`atoi`, `rand`, `abs`).
