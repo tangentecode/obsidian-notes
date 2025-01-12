@@ -2,7 +2,7 @@
 
  1. [Visual Studio Code](#visual-studio-code) 
  2. [Basic CLI Commands](#basic-cli-commands)
- 3. [#The Programming Language "C"]
+ 3. [The Programming Language "C"](#the-programming-language-"C")
 ## Visual Studio Code
 
 > IDE = Integrated Development Environment
