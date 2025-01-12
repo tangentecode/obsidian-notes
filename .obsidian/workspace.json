@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
-                "mode": "preview",
+                "file": "computer-science/courses/cs50x/notes/general-instruction.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture-0-scratch"
+              "title": "general-instruction"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
+                "file": "computer-science/courses/cs50x/notes/general-instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lecture-0-scratch"
+              "title": "Backlinks for general-instruction"
             }
           },
           {
@@ -168,9 +168,10 @@
   },
   "active": "39f294e8d627a83a",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
+    "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/courses/cs50x/content.md",
     "computer-science/python-guides/os-library/content.md",
-    "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/courses/cs50x/notes/img",
     "lecture-3-algorithms.md",
     "computer-science/courses/cs50x/notes/img/algorithm-time.png",
