@@ -17,4 +17,9 @@ int age = 18;
 ```
 
 ## Special
-- Increment/de
+- Increment/decrement a variable by one with this syntax:
+```c
+age++;
+// or
+age --;
+```
