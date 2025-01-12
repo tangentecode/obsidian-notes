@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2242862726e8c8a2",
+        "id": "3f4cad73d68cdc91",
         "type": "tabs",
         "children": [
           {
-            "id": "73e1bb7685d792f4",
+            "id": "6b8cb4f361778c2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/courses/cs50x/notes/c/contents-c.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "contents-c"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/c/contents-c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +88,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contents-c"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,22 +161,22 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "73e1bb7685d792f4",
+  "active": "6b8cb4f361778c2b",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/c/style.md",
-    "computer-science/courses/cs50x/notes/c/contents-c.md",
-    "computer-science/courses/cs50x/notes/c/functions.md",
-    "computer-science/courses/cs50x/notes/c/loops.md",
-    "computer-science/courses/cs50x/notes/c/conditionals.md",
-    "computer-science/courses/cs50x/notes/c/variables.md",
-    "computer-science/courses/cs50x/notes/c/printf.md",
-    "computer-science/courses/cs50x/notes/c/operators.md",
-    "computer-science/courses/cs50x/notes/c/types.md",
-    "computer-science/courses/cs50x/notes/c/libraries.md",
-    "computer-science/courses/cs50x/notes/c/run-programm.md",
+    "computer-science/c-summary/contents-c.md",
+    "computer-science/c-summary/libraries.md",
+    "computer-science/c-summary/conditionals.md",
+    "computer-science/c-summary/style.md",
+    "computer-science/c-summary/functions.md",
+    "computer-science/c-summary/loops.md",
+    "computer-science/c-summary/variables.md",
+    "computer-science/c-summary/printf.md",
+    "computer-science/c-summary/operators.md",
+    "computer-science/c-summary/types.md",
+    "computer-science/c-summary/run-programm.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
-    "computer-science/courses/cs50x/notes/c/cs50-lib.md",
-    "computer-science/courses/cs50x/notes/c",
+    "computer-science/c-summary/cs50-lib.md",
+    "computer-science/c-summary",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/courses/cs50x/notes/img/general-instructions.png",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
