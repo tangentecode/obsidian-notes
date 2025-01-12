@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2f37d2bc6a64445c",
+        "id": "96eacdda2f622e03",
         "type": "tabs",
         "children": [
           {
-            "id": "68d180961382811a",
+            "id": "7db967321d571c30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/repositorys/basic-geometry-engine.md",
-                "mode": "preview",
+                "file": "computer-science/repositorys/repositorys.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basic-geometry-engine"
+              "title": "repositorys"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-08.md",
+                "file": "computer-science/repositorys/repositorys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-08"
+              "title": "Backlinks for repositorys"
             }
           },
           {
@@ -148,11 +148,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "7db967321d571c30",
   "lastOpenFiles": [
+    "computer-science/python/pyqt6 guide/PyQt 6 Guide.md",
+    "computer-science/python/pyqt6 guide/IMG_0093.png",
+    "computer-science/repositorys/basic-geometry-engine.md",
     "computer-science/repositorys/2048-python-pyqt6-project.md",
     "computer-science/repositorys/combat-master-reshade-presets.md",
-    "computer-science/repositorys/basic-geometry-engine.md",
     "computer-science/repositorys/repositorys.md",
     "computer-science/repositorys/file-operations-python.md",
     "docs/1..md",
@@ -176,7 +178,7 @@
     "Repositorys/Combat.md",
     "Combat.md",
     "Basic.md",
-    "computer-science/python/OS Library/Environment Variables.md",
+    "computer-science/python/os-library/Environment Variables.md",
     "courses/CS50P/certificates/CS50P.md",
     "courses/CS50P/certificate/CS50P.md",
     "CS50P/certificate/CS50P.md",
@@ -186,8 +188,6 @@
     "().md",
     "2025-01-08.md",
     "Schule/Chemie/Chemie Test.md",
-    "Schule/Physik/Schaltungen.md",
-    "Schule/Latein/Vokabel Test.md",
-    "computer-science/python/PyQt6/IMG_0093.png"
+    "Schule/Physik/Schaltungen.md"
   ]
 }
