@@ -91,3 +91,12 @@
 418 I'm a Teapot
 500 Internal Server Error
 503 Service Unavailable
+
+| 200 | OK                 |
+| --- | ------------------ |
+| 301 | Moved Permanently  |
+| 304 | Not Modified       |
+| 304 | Temporary Redirect |
+| 401 | Unaauthorized      |
+|     |                    |
+
