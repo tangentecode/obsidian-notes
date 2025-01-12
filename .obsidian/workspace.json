@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5c29aca0026cd2d7",
+        "id": "5aa5864ab3bf2665",
         "type": "tabs",
         "children": [
           {
-            "id": "ae3fc1fd23f83336",
+            "id": "7b1bc817d8bc6a27",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -161,7 +161,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "7b1bc817d8bc6a27",
   "lastOpenFiles": [
     "schule/Chemie/Chemie Test.md",
     "schule/Physik/Schaltungen.md",
