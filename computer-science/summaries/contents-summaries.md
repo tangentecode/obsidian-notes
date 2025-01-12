@@ -1,11 +1,14 @@
 - C
-1. [run-programm](run-programm.md)
-2. [libraries](libraries.md)
-3. [types](types.md)
-4. [operators](operators.md)
-6. [printf](printf.md)
-7. [variables](variables.md)
-8. [conditionals](conditionals.md)
-10. [loops](loops.md)
-11. [functions](functions.md)
-12. [style](style.md)
+	1. [run-program](run-programm.md)
+	2. [libraries](libraries.md)
+	3. [types](types.md)
+	4. [operators](operators.md)
+	5. [printf](printf.md)
+	6. [variables](variables.md)
+	7. [conditionals](conditionals.md)
+	8. [loops](loops.md)
+	9. [functions](functions.md)
+	10. [style](style.md)
+
+- Python
+	
