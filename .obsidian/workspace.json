@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b5eae595cdd5e0b1",
+        "id": "05d91eb4ff4cd963",
         "type": "tabs",
         "children": [
           {
-            "id": "0111a79680de4066",
+            "id": "236a28667a94c2a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/python/os-library/Project Management.md",
+                "file": "computer-science/python/os-library/code-of-conduct.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Management"
+              "title": "code-of-conduct"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/python/os-library/Project Management.md",
+                "file": "computer-science/python/os-library/code-of-conduct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Project Management"
+              "title": "Backlinks for code-of-conduct"
             }
           },
           {
@@ -149,8 +149,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0111a79680de4066",
+  "active": "236a28667a94c2a4",
   "lastOpenFiles": [
+    "computer-science/python/os-library/example-code.md",
+    "computer-science/python/os-library/file-and-directory-operation.md",
+    "computer-science/python/os-library/miscellaneous.md",
+    "computer-science/python/os-library/path-operations.md",
+    "computer-science/python/os-library/project-management.md",
     "computer-science/python/os-library/code-of-conduct.md",
     "computer-science/repositorys/file-operations-python.md",
     "Untitled.canvas",
@@ -185,11 +190,6 @@
     "courses/CS50P/certificates/CS50P.md",
     "courses/CS50P/certificate/CS50P.md",
     "CS50P/certificate/CS50P.md",
-    "courses/CS50P/Untitled.md",
-    "courses/CS50P.md",
-    "CS50P.md",
-    "().md",
-    "2025-01-08.md",
-    "Schule/Chemie/Chemie Test.md"
+    "courses/CS50P/Untitled.md"
   ]
 }
