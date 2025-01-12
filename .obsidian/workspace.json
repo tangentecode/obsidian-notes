@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-1-c.md",
+                "file": "computer-science/courses/cs50x/notes/c/how-to-run-c.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture-1-c"
+              "title": "how-to-run-c"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-1-c.md",
+                "file": "computer-science/courses/cs50x/notes/c/how-to-run-c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lecture-1-c"
+              "title": "Backlinks for how-to-run-c"
             }
           },
           {
@@ -166,10 +166,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "228b6138adfd92b8",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/c",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
+    "computer-science/courses/cs50x/notes/c/how-to-run-c.md",
+    "computer-science/courses/cs50x/notes/c",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/courses/cs50x/notes/img/general-instructions.png",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
@@ -210,7 +211,6 @@
     "computer-science/repositorys/combat-master-tool.md",
     "computer.md",
     "computer-science/courses/cs50p/final-project-cs50p/project/test_project.py",
-    "computer-science/courses/cs50p/final-project-cs50p/project/showcase.mp4",
     "computer-science/courses/cs50p/certificates/CS50P.png",
     "computer-science/courses/cs50p/certificates/CS50P A4.png"
   ]
