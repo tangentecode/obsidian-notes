@@ -23,10 +23,16 @@ age = 18;
 int age = 18;
 ```
 
-## Special
+## Incrementation
+
 - Increment/decrement a variable by one with this syntax:
 ```c
 age++;
 // or
 age --;
 ```
+
+
+## Arrays
+
+- Declare
