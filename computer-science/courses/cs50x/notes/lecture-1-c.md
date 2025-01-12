@@ -1,5 +1,7 @@
 ## Contents
 
+ 1. [Visual Studio Code](#visual-studio-code) 
+
 ## Visual Studio Code
 
 > IDE = Integrated Development Environment
