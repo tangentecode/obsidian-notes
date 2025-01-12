@@ -86,4 +86,5 @@ main:
 
 ## Strings
 
-- A `tring` is an `Array` of [char](types.md)
+- A `string` is an `Array` of [chars](types.md)
+- after the last character of `string` theres alw
