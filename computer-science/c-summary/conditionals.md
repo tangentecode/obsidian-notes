@@ -1,4 +1,5 @@
 ## Compare two values
+with multiple conditions
 
 ```c
 if (x > y) {
