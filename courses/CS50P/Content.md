@@ -12,4 +12,4 @@
 
 ## Submissions
 
-[All s]
+[All submissions](https://submit.cs50.io/courses/1202)
