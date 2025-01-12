@@ -21,4 +21,10 @@ while (i < 3) {
 }
 ```
 
-- If you w
+- If you want to create an infinite loop:
+
+```c
+while (true) {
+	// cancel with control+c
+}
+```
