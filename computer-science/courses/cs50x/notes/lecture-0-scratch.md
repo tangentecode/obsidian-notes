@@ -39,8 +39,8 @@ would equal **seven**
 > ASCII = **American Standard Code for Information Interchange**
 
 - ASCII is a standard to represent letters and some special characters in binary
-- Heres an very basic ASCII table: 
-		<table>
+- Heres an very basic ASCII table:
+<table>
   <thead>
     <tr>
       <th>Letter</th>
@@ -77,7 +77,6 @@ would equal **seven**
     <tr><td>Z</td><td>01011010</td><td>90</td></tr>
   </tbody>
 </table>
-
-
+- 
 
 - [More information](https://en.wikipedia.org/wiki/ASCII)
