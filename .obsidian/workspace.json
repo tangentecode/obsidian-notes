@@ -11,10 +11,14 @@
             "id": "6ef7313a1c93cde3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/python-guides/os-library/content-os.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "content-os"
             }
           }
         ]
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/python-guides/os-library/content-os.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for content-os"
             }
           },
           {
@@ -163,14 +168,14 @@
   },
   "active": "6ef7313a1c93cde3",
   "lastOpenFiles": [
+    "computer-science/c-summary/variables.md",
+    "computer-science/c-summary/contents-c.md",
     "computer-science/repositorys/2048-python-pyqt6-project.md",
     "computer-science/courses/cs50x/content-cs50.md",
     "computer-science/python-guides/pyqt6 guide/content-pyqt.md",
     "computer-science/python-guides/os-library/content-os.md",
-    "computer-science/c-summary/contents-c.md",
     "computer-science/c-summary/libraries.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
-    "computer-science/c-summary/variables.md",
     "computer-science/courses/cs50x/notes/img/ciphertext.png",
     "computer-science/courses/cs50x/notes/img/string-decimal.png",
     "computer-science/courses/cs50x/notes/img/string.png",
