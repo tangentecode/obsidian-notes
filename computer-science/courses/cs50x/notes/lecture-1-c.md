@@ -5,4 +5,6 @@
 > IDE = Integrated Development Environment
 
 - Access VSCode under [cs50.dev](cs50.dev)
-- OR insta
+- OR install the `Codespaces` extension in your local VSCode
+
+## Basic CLI
