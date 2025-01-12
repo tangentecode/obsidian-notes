@@ -1,1 +1,3 @@
-- Part of 
+- Part of [stdio.h library](libraries.md)
+- [Manual](https://manual.cs50.io/3/printf)
+- 
