@@ -4,7 +4,8 @@
 	2. On local computer with `gcc`
 
 - Run the file:
-	1. 
+	1. In cs50 environment (or generally Linux) with `./`
+	2. If you use ``
 ```bash
 code hello.c
 
