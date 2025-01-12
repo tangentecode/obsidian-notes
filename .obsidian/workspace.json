@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/Repositorys.md",
+                "file": "computer science/Repositorys/Repositorys.md",
                 "mode": "source",
                 "source": false
               },
@@ -148,16 +148,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a83fc7e85bb3887b",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
-    "computer science/Repositorys.md",
+    "computer science/Repositorys/Basic Geometry Engine",
+    "computer science/Repositorys",
+    "Untitled",
+    "computer science/Repositorys/Repositorys.md",
     "computer science/python",
     "computer science/python/OS Library/Environment Variables.md",
     "computer science/Courses/CS50P/Final Project CS50p/project/README.md",
     "computer science/Courses/CS50P/Content.md",
     "computer science/other",
     "computer science/Repositorys",
-    "computer science/Repositorys.md",
+    "computer science/Repositorys/Repositorys.md",
     "computer science",
     "computer science/Courses/Courses.md",
     "computer science/Courses/CS50P/certificates/CS50P.pdf",
@@ -167,8 +170,6 @@
     "courses/CS50P/certificate",
     "CS50P/certificate/CS50P.md",
     "CS50P/certificate",
-    "CS50P",
-    "computer science/Courses/CS50P/Final Project CS50p/project/showcase.mp4",
     "courses/CS50P/Untitled.md",
     "computer science/Courses/CS50P/certificates/CS50P A4.png",
     "computer science/Courses/CS50P/certificates/CS50P.png",
@@ -187,7 +188,6 @@
     "computer science/python/PyQt6/Projects/2048 Game.md",
     "computer science/python/PyQt6/Important Points/Text.md",
     "computer science/python/PyQt6/Important Points/Layout.md",
-    "computer science/python/PyQt6/Important Points/Initialization of a Window.md",
     "computer science/python/PyQt6/IMG_0093.png"
   ]
 }
