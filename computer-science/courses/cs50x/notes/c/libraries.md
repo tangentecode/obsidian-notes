@@ -22,3 +22,8 @@
 	- **errno.h**: Provides error numbers set by system calls and functions, with macros like `errno`, `perror`, `strerror`.
 ## Example
 
+```
+#include <stdio.h>
+```
+
+Imports Stdio for varios functions like ``
