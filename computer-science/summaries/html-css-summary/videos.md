@@ -1,1 +1,2 @@
-- Uses `<video>` [tag](common-tags.md) with the optional att
+- Uses `<video>` [tag](common-tags.md) with the optional attribute `controls muted`
+- Specify the source of the video with `<source>` 
