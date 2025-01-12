@@ -97,3 +97,5 @@ would equal **seven**
 
 - one RGB stored pixel needs 3 bytes of memory
 
+## Algorithm
+

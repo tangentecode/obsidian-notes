@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c21e40b18358fe5",
+        "id": "b9ecfe799c11a4bf",
         "type": "tabs",
         "children": [
           {
-            "id": "e22b206ebb372ec1",
+            "id": "ecdb109e369f199c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,13 +149,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e22b206ebb372ec1",
+  "active": "ecdb109e369f199c",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/algorithm-time.png",
+    "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/courses/cs50x/notes/yellow-rgb.png",
     "computer-science/courses/cs50x/notes/rgb.png",
     "computer-science/courses/cs50x/notes/input-output.png",
     "computer-science/courses/courses.md",
-    "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/courses/cs50x/notes",
     "computer-science/repositorys/combat-master-reshade-presets.md",
     "computer-science/courses/cs50x/content.md",
