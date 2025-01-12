@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/c/loops.md",
+                "file": "computer-science/courses/cs50x/notes/c/style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loops"
+              "title": "style"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/c/loops.md",
+                "file": "computer-science/courses/cs50x/notes/c/style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for loops"
+              "title": "Backlinks for style"
             }
           },
           {
@@ -168,16 +168,16 @@
   },
   "active": "73e1bb7685d792f4",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/c/operators.md",
+    "computer-science/courses/cs50x/notes/c/variables.md",
+    "computer-science/courses/cs50x/notes/c/types.md",
+    "computer-science/courses/cs50x/notes/c/style.md",
     "computer-science/courses/cs50x/notes/c/printf.md",
+    "computer-science/courses/cs50x/notes/c/operators.md",
+    "computer-science/courses/cs50x/notes/c/run-programm.md",
+    "computer-science/courses/cs50x/notes/c/loops.md",
     "computer-science/courses/cs50x/notes/c/functions.md",
     "computer-science/courses/cs50x/notes/c/cs50-lib.md",
     "computer-science/courses/cs50x/notes/c/libraries.md",
-    "computer-science/courses/cs50x/notes/c/run-programm.md",
-    "computer-science/courses/cs50x/notes/c/style.md",
-    "computer-science/courses/cs50x/notes/c/types.md",
-    "computer-science/courses/cs50x/notes/c/variables.md",
-    "computer-science/courses/cs50x/notes/c/loops.md",
     "computer-science/courses/cs50x/notes/c/conditionals.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/c",
