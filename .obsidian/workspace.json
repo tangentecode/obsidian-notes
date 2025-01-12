@@ -11,10 +11,14 @@
             "id": "3ab38578bef5ca52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/summaries/html-css-summary/general-layout.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "general-layout"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer-science/summaries/html-css-summary/general-layout.md",
     "img/general-html.png",
     "computer-science/content-computer-science.md",
     "computer-science/summaries/python-summary/pyqt6-guide/content-pyqt.md",
@@ -208,7 +213,6 @@
     "img/rgb.png",
     "img/input-output.png",
     "Untitled.canvas",
-    "computer-science/summaries/python-summary/pyqt6-guide/empty-window.png",
-    "computer-science/courses/cs50p/certificates/CS50P.png"
+    "computer-science/summaries/python-summary/pyqt6-guide/empty-window.png"
   ]
 }
