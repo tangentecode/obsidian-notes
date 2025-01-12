@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "073e926be55a4bef",
+        "id": "e1c648e387ad8f5c",
         "type": "tabs",
         "children": [
           {
-            "id": "80db54fdc4463585",
+            "id": "cee1457bf9bc069c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schule/contents-schule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contents-schule"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/contents-schule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +88,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for contents-schule"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,7 +161,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "80db54fdc4463585",
+  "active": "cee1457bf9bc069c",
   "lastOpenFiles": [
     "schule/contents-schule.md",
     "computer-science/repositorys/combat-master-tool.md",
