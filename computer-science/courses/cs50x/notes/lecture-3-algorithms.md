@@ -66,4 +66,10 @@
 
 ## TCP
 
-- stands for 
+- stands for **Transmission Control Protocol**
+- Ensures reliable data transmission
+
+## DHCP
+
+- stands for **Dynamic Host Configuration Protocol**
+- 
