@@ -1,8 +1,8 @@
 ## Structure
 
-| Data type | [types](types.md) (e.g. int, char) |
-| --------- | ---------------------------------- |
-|           |                                    |
+| Data type     | [types](types.md) (e.g. int, char)                         |
+| ------------- | ---------------------------------------------------------- |
+| Variable name | Anything apart from [[functions]] names (recommendet [[]]) |
 
 
 ## Declaration
