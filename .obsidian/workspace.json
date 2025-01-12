@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/courses.md",
+                "file": "courses/Courses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "courses"
+              "title": "Courses"
             }
           }
         ]
@@ -151,7 +151,7 @@
   "active": "8af0c600fd8c0247",
   "lastOpenFiles": [
     "courses/CS50P/certificates/CS50P.pdf",
-    "courses/courses.md",
+    "courses/Courses.md",
     "courses/CS50P/certificates/CS50P.md",
     "courses/CS50P/certificates",
     "courses/CS50P/certificate/CS50P.md",
