@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer science/Repositorys/Repositorys.md",
+                "file": "computer science/Repositorys/Combat Master Tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repositorys"
+              "title": "Combat Master Tool"
             }
           }
         ]
@@ -150,9 +150,10 @@
   },
   "active": "029f6826414ee3cf",
   "lastOpenFiles": [
+    "computer science/Repositorys/Repositorys.md",
+    "computer science/Repositorys/Combat Master Tool.md",
     "computer science/Repositorys/2048 Python PyQt6 Project.md",
     "computer science/Repositorys/Basic-Geometry-Engine.md",
-    "computer science/Repositorys/Repositorys.md",
     "computer science/Repositorys/2048 Python PyQt6 Project",
     "Basic.md",
     "computer science/Repositorys/Basic Geometry Engine",
@@ -187,7 +188,6 @@
     "Schule/Deutsch/Rezension Wociek.md",
     "computer science/python/PyQt6/Projects/Simple 2048 Game.md",
     "computer science/python/PyQt6/Projects/2048 Game.md",
-    "computer science/python/PyQt6/Important Points/Text.md",
     "computer science/python/PyQt6/IMG_0093.png"
   ]
 }
