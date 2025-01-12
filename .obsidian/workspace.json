@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e1c648e387ad8f5c",
+        "id": "dcabde5bcb3182b3",
         "type": "tabs",
         "children": [
           {
-            "id": "cee1457bf9bc069c",
+            "id": "2427cd86aaf59064",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "573dceb8a324aff9",
@@ -161,8 +162,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "cee1457bf9bc069c",
+  "active": "2427cd86aaf59064",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "schule/contents-schule.md",
     "computer-science/repositorys/combat-master-tool.md",
     "computer-science/python-guides/os-library/environment-variables.md",
@@ -188,7 +190,6 @@
     "computer-science/c-summary/contents-c.md",
     "computer-science/courses/cs50x/content-cs50.md",
     "computer-science/c-summary/libraries.md",
-    "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "computer-science/courses/cs50x/notes/img/ciphertext.png",
     "computer-science/courses/cs50x/notes/img/string-decimal.png",
     "computer-science/courses/cs50x/notes/img/string.png",
