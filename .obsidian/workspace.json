@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "854a4cd2ae8cf36c",
+        "id": "35455d8bdae23820",
         "type": "tabs",
         "children": [
           {
-            "id": "b43215d378ed549f",
+            "id": "5b12b52660196f80",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,17 +166,18 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "b43215d378ed549f",
+  "active": "5b12b52660196f80",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/c/variables.md",
-    "computer-science/courses/cs50x/notes/c/functions.md",
-    "computer-science/courses/cs50x/notes/c/run-programm.md",
-    "computer-science/courses/cs50x/notes/c/types.md",
-    "computer-science/courses/cs50x/notes/c/loops.md",
-    "computer-science/courses/cs50x/notes/c/libraries.md",
-    "computer-science/courses/cs50x/notes/c/conditionals.md",
     "computer-science/courses/cs50x/notes/c/cs50-lib.md",
+    "computer-science/courses/cs50x/notes/c/libraries.md",
     "computer-science/courses/cs50x/notes/c/operators.md",
+    "computer-science/courses/cs50x/notes/c/run-programm.md",
+    "computer-science/courses/cs50x/notes/c/style.md",
+    "computer-science/courses/cs50x/notes/c/functions.md",
+    "computer-science/courses/cs50x/notes/c/types.md",
+    "computer-science/courses/cs50x/notes/c/variables.md",
+    "computer-science/courses/cs50x/notes/c/loops.md",
+    "computer-science/courses/cs50x/notes/c/conditionals.md",
     "computer-science/courses/cs50x/notes/c/printf.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/c",
@@ -206,7 +207,6 @@
     "computer-science/python-guides/pyqt6 guide/projects/2048.md",
     "computer-science/python/pyqt6 guide/projects/2048 Game.md",
     "computer-science/python-guides/os-library/file-and-directory-operation.md",
-    "computer-science/python-guides/os-library/miscellaneous.md",
     "Untitled.canvas",
     "computer-science/python-guides/pyqt6 guide/empty-window.png",
     "docs",
