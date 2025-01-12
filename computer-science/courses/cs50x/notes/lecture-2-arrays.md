@@ -1,3 +1,4 @@
 ## Compiling
 
-- File gets compiled
+- File gets compiled to `Machine Code` in these steps
+	1. **Prep
