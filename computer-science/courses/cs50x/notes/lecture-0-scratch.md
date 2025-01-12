@@ -14,7 +14,8 @@
 
 ## Binary
 
-
+- Computer count in binary
+- If you imagine a light bulb: 1 means light bulb one, 2 means 
 
 Example:
 ```
