@@ -13,7 +13,7 @@ pip install PyQt6
 
 ### Preview
 
-![Preview of Empty Window | 400](IMG_0093.png)
+![Preview of Empty Window | 400](empty-window.png)
 ### Full Code
 
 ```python
