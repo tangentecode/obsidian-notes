@@ -30,7 +30,7 @@ would equal **seven**
 | 128 | 64  | 32  | 16  | 8   | 4   | 2   | 1   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 0   | 0   | 0   | 0   | 0   | 0   | 0   | 0   |
-
+- with one byte you can count up to 255 (in binary: 11111111)
 
 
 ## ASCII
