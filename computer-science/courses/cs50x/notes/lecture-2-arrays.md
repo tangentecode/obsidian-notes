@@ -110,4 +110,11 @@ char a = 'A' - 32;
 - The [main](lecture-1-c.md) function takes two special parameters:
 	1. **argc**: `int` number of arguments provided in the command line
 	2. **argv**: Command Line Arguments as an array of [strings](types.md) starting with the file name at index 0
--
+
+- Example:
+```c
+int main(int argc, string argv[]) {
+	return 0;
+}
+```
+
