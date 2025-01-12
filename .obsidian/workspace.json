@@ -11,10 +11,14 @@
             "id": "182ef395c54abe37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/content-computer-science.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "content-computer-science"
             }
           }
         ]
@@ -161,8 +165,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "182ef395c54abe37",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer-science/content-computer-science.md",
     "computer-science/summaries/python-summary/pyqt6-guide/content-pyqt.md",
     "computer-science/summaries/c-summary/contents-c.md",
     "computer-science/repositorys/content-repositorys.md",
@@ -174,7 +179,7 @@
     "computer-science/repositorys/LICENSE.txt.md",
     "computer-science/summaries/python-summary/os-library/content-os.md",
     "computer-science/summaries/contents-summaries.md",
-    "computer-science/courses/courses.md",
+    "computer-science/courses/content-courses.md",
     "computer-science/summaries/python-summary/pyqt6-guide/pyqt6-guide.md",
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/summaries",
@@ -194,7 +199,6 @@
     "schule/Physik/Schaltungen.md",
     "schule/Latein/Vokabel Test.md",
     "schule/Latein/Latein Arbeit.md",
-    "schule/Deutsch/Rezension.md",
     "schule/Physik",
     "schule/Latein",
     "schule/Erdkunde",
