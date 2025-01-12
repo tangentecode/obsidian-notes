@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/courses.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "courses"
+              "title": "lecture-0-scratch"
             }
           }
         ]
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/courses.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for courses"
+              "title": "Backlinks for lecture-0-scratch"
             }
           },
           {
@@ -151,8 +151,10 @@
   },
   "active": "e22b206ebb372ec1",
   "lastOpenFiles": [
-    "computer-science/repositorys/combat-master-reshade-presets.md",
     "computer-science/courses/courses.md",
+    "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
+    "computer-science/courses/cs50x/notes",
+    "computer-science/repositorys/combat-master-reshade-presets.md",
     "computer-science/courses/cs50x/content.md",
     "computer-science/courses/cs50p/content.md",
     "computer-science/courses/cs50x/code/week 3",
@@ -184,7 +186,6 @@
     "computer-science/courses/cs50p/final-project-cs50p/project/showcase.mp4",
     "computer-science/courses/cs50p/final-project-cs50p/project/requirements.txt",
     "computer-science/courses/cs50p/final-project-cs50p/project/README.md",
-    "computer-science/courses/cs50p/final-project-cs50p/project/project.py",
     "computer-science/courses/cs50p/certificates/CS50P.png",
     "computer-science/courses/cs50p/certificates/CS50P A4.png",
     "Repositorys/Combat.md",
