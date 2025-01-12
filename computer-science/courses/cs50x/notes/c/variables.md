@@ -7,7 +7,11 @@ int age;
 ## Definition
 - Gives a predeclared variable a value:
 ```c
-age = 10
+age = 18;
 ```
 
 ## Initialization
+- Combines `Declaration` and `Definition` in one step:
+```c
+int age = 18;
+```
