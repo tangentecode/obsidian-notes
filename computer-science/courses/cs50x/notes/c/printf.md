@@ -15,3 +15,8 @@
 |`%s`|`string`|
 ## Example
 
+```c
+#include <stdio.h>
+
+printf("Hello, world!)
+```
