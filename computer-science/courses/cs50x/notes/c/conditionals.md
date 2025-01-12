@@ -4,8 +4,11 @@
 if (x > y) {
 	// do something
 }
+else if (x < y) {
+	// do something else
+}
 else {
-	// previous condotion not met
+	// previous conditions not met
 }
 ```
 
@@ -23,6 +26,7 @@ if (x > y) && (x == y) {
 
 ```c
 if (x > y) || (x == y) {
-	// one or more of the conditions 
+	// one or more of the conditions are met
 }
 ```
+

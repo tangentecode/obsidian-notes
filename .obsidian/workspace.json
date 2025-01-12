@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "791bf2ef96d5b194",
+        "id": "66191e2e4f825a8e",
         "type": "tabs",
         "children": [
           {
-            "id": "f5b526232b3a5787",
+            "id": "c781c8ec105e538d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/courses/cs50x/notes/c/conditionals.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "conditionals"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/c/conditionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +88,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conditionals"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,7 +161,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f5b526232b3a5787",
+  "active": "c781c8ec105e538d",
   "lastOpenFiles": [
     "computer-science/courses/cs50x/notes/c/conditionals.md",
     "computer-science/courses/cs50x/notes/c/types.md",
