@@ -11,10 +11,14 @@
             "id": "e22b206ebb372ec1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/courses.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "courses"
             }
           }
         ]
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/courses/courses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for courses"
             }
           },
           {
@@ -144,7 +149,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "e22b206ebb372ec1",
   "lastOpenFiles": [
     "computer-science/repositorys/combat-master-reshade-presets.md",
     "computer-science/courses/courses.md",
@@ -155,20 +160,20 @@
     "computer-science/courses/cs50x/code/week 1",
     "computer-science/courses/cs50x/code/week 0",
     "computer-science/courses/cs50x/code",
-    "computer-science/python/os-library/example-code.md",
-    "computer-science/python/os-library/code-of-conduct.md",
-    "computer-science/python/pyqt6 guide/code-of-conduct.md",
-    "computer-science/python/pyqt6 guide/pyqt6-guide.md",
-    "computer-science/python/pyqt6 guide/projects/2048.md",
+    "computer-science/python-guides/os-library/example-code.md",
+    "computer-science/python-guides/os-library/code-of-conduct.md",
+    "computer-science/python-guides/pyqt6 guide/code-of-conduct.md",
+    "computer-science/python-guides/pyqt6 guide/pyqt6-guide.md",
+    "computer-science/python-guides/pyqt6 guide/projects/2048.md",
     "computer-science/python/pyqt6 guide/projects/2048 Game.md",
-    "computer-science/python/os-library/file-and-directory-operation.md",
-    "computer-science/python/os-library/miscellaneous.md",
-    "computer-science/python/os-library/path-operations.md",
-    "computer-science/python/os-library/project-management.md",
+    "computer-science/python-guides/os-library/file-and-directory-operation.md",
+    "computer-science/python-guides/os-library/miscellaneous.md",
+    "computer-science/python-guides/os-library/path-operations.md",
+    "computer-science/python-guides/os-library/project-management.md",
     "computer-science/repositorys/file-operations-python.md",
     "Untitled.canvas",
     "computer-science/repositorys/repositorys.md",
-    "computer-science/python/pyqt6 guide/empty-window.png",
+    "computer-science/python-guides/pyqt6 guide/empty-window.png",
     "computer-science/repositorys/basic-geometry-engine.md",
     "computer-science/repositorys/2048-python-pyqt6-project.md",
     "docs/1..md",
