@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8a4e5f7d71d0a10e",
+        "id": "b67cce621d0f1fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "50e270ff44b756f0",
+            "id": "0cc068ddb5db9b53",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "courses/courses.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "courses"
+              "title": "New tab"
             }
           }
         ]
@@ -148,13 +144,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50e270ff44b756f0",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "courses/CS50P/content.md",
+    "courses/courses.md",
     "courses/CS50P/Final Project CS50p/project/README.md",
-    "courses/CS50P/Final Project CS50p/showcase.mp4",
+    "courses/CS50P/Final Project CS50p/project/showcase.mp4",
     "courses/CS50P/Untitled.md",
     "courses/CS50P/certficates",
-    "courses/courses.md",
     "courses/CS50P/Final Project CS50p/project/__pycache__/project.cpython-312.pyc",
     "courses/CS50P/Final Project CS50p/project/__pycache__/test_project.cpython-312-pytest-8.3.4.pyc",
     "courses/CS50P/Final Project CS50p/project/__pycache__",
@@ -165,7 +162,6 @@
     "courses/CS50P/certficates/CS50P A4.pdf",
     "courses/CS50P/certficates/CS50P A4.png",
     "courses/CS50P/certficates/CS50P.png",
-    "courses/CS50P/content.md",
     "courses/CS50P.md",
     "CS50P.md",
     "().md",
