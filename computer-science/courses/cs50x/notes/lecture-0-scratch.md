@@ -23,5 +23,10 @@ Example:
 4 2 1 
 1 1 1
 ```
-would equal
+would equal **seven**
+
+- Generally you use 8 
+
+
+
 ## ASCII
