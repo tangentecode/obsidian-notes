@@ -122,3 +122,5 @@ int main(int argc, string argv[]) {
 
 - Cryptography is the art of ciphering and deciphering a message.
 - `plaintext` and a `key` are provided to a `cipher`, resulting in ciphered text.
+	![](ciphertext.png)
+
