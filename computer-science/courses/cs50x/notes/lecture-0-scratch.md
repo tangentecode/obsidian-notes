@@ -86,7 +86,10 @@ would equal **seven**
 - for example emojis
 - ![😀](https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f600.png)  
 - [More information](https://en.wikipedia.org/wiki/Unicode)
+## RGB
 
-## [RGB](https://cs50.harvard.edu/x/2025/notes/0/#rgb)
+> RGB = Red, Green, Blue
 
-- Zeros and ones can be used to represent color.
+- Zeros and ones can be used to represent color
+ ![](rgb.png)
+- 
