@@ -12,9 +12,15 @@ void example(int age) {
 }
 ```
 
-## Special
+## `main` function
 
 - Every C Program needs to have a `main` function.
 - It acts like an entry point for the program
 - The `main` functions always returns an `int`
 - If the `int` is not zero there was an error in the programm
+
+```c
+int main(void) {
+	// do something
+}
+```
