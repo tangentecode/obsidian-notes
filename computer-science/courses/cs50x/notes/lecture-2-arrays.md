@@ -87,4 +87,5 @@ main:
 ## Strings
 
 - A `string` is an `Array` of [chars](types.md)
-- after the last character of `string` theres alw
+- after the last character of `string` there's always an Escape Character stored at the last index of the array in Memory
+- 
