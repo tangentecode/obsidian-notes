@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e4250a353a7769d0",
+        "id": "bc066a96041bb9df",
         "type": "tabs",
         "children": [
           {
-            "id": "a7dabd6904834aa2",
+            "id": "1957778698058200",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer science/Repositorys/Repositorys.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Repositorys"
+              "title": "New tab"
             }
           }
         ]
@@ -148,14 +144,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7dabd6904834aa2",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
     "computer.md",
     "computer science/Repositorys/Repositorys.md",
+    "computer science/Repositorys/Basic-Geometry-Engine.md",
     "Repositorys/Combat.md",
     "Repositorys",
     "computer science/Repositorys/Combat Master Tool.md",
-    "computer science/Repositorys/Basic-Geometry-Engine.md",
     "computer science/Repositorys/2048 Python PyQt6 Project.md",
     "Combat.md",
     "computer science/Repositorys/2048 Python PyQt6 Project",
