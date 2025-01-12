@@ -22,5 +22,7 @@ if (x > y) && (x == y) {
 ### 2. or
 
 ```c
-if 
+if (x > y) || (x == y) {
+	// one or more of the conditions 
+}
 ```
