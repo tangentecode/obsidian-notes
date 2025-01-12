@@ -126,4 +126,5 @@ would equal **seven**
 
 ## Scratch
 
-### Scratch Basi
+### Scratch Basics: [Havard](https://cs50.harvard.edu/x/2025/notes/0/#scratch)
+### Use scratch: [Scratch](https://scratch.mit.edu/)
