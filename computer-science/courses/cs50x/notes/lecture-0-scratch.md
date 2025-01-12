@@ -12,4 +12,14 @@
 ![](input-output.png)
 
 
+## Binary
+
+
+
+Example:
+```
+4 2 1 
+1 1 1
+```
+
 ## ASCII
