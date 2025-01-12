@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa5864ab3bf2665",
+        "id": "073e926be55a4bef",
         "type": "tabs",
         "children": [
           {
-            "id": "7b1bc817d8bc6a27",
+            "id": "80db54fdc4463585",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,8 +161,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "7b1bc817d8bc6a27",
+  "active": "80db54fdc4463585",
   "lastOpenFiles": [
+    "Untitled.md",
     "schule/Chemie/Chemie Test.md",
     "schule/Physik/Schaltungen.md",
     "schule/Latein/Vokabel Test.md",
@@ -197,7 +198,6 @@
     "computer-science/c-summary/functions.md",
     "computer-science/c-summary/loops.md",
     "computer-science/c-summary/printf.md",
-    "computer-science/c-summary/operators.md",
     "computer-science/c-summary",
     "computer-science/courses/cs50x/notes/img/general-instructions.png",
     "computer-science/courses/cs50x/notes/img",
