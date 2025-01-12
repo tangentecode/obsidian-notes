@@ -106,7 +106,7 @@ would equal **seven**
 
 ## Pseudocode
 
-- Is an way of representing code that is more readable by humans but doesnt compile or run
+- Is an way of representing code that is more readable by humans but doesn't compile or run
 - Example:
 ```
 1  Pick up phone book
@@ -123,3 +123,7 @@ would equal **seven**
 12 Else
 13     Quit
 ```
+
+## Scratch
+
+### Scratch Basi
