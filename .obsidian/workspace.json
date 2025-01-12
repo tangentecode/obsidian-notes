@@ -166,8 +166,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "228b6138adfd92b8",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/c",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/courses/cs50x/notes/img/general-instructions.png",
@@ -210,7 +211,6 @@
     "computer.md",
     "computer-science/courses/cs50p/final-project-cs50p/project/test_project.py",
     "computer-science/courses/cs50p/final-project-cs50p/project/showcase.mp4",
-    "computer-science/courses/cs50p/final-project-cs50p/project/README.md",
     "computer-science/courses/cs50p/certificates/CS50P.png",
     "computer-science/courses/cs50p/certificates/CS50P A4.png"
   ]
