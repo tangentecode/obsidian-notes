@@ -96,3 +96,7 @@ main:
 
 - To simplify the process of counting the length of an string there is the `strlen` Function in the `string.h` library
 
+
+## Misc
+
+- In `ASCII` you can subtract 32 from a 
