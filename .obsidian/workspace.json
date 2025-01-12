@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/html-css-summary/link-css.md",
+                "file": "computer-science/summaries/html-css-summary/lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "link-css"
+              "title": "lists"
             }
           },
           {
@@ -196,12 +196,12 @@
   "active": "1a73cfaa8a277e9c",
   "lastOpenFiles": [
     "computer-science/summaries/html-css-summary/common-tags.md",
+    "computer-science/summaries/html-css-summary/lists.md",
     "computer-science/summaries/html-css-summary/link-css.md",
     "computer-science/summaries/html-css-summary/tags-syntax.md",
     "computer-science/summaries/html-css-summary/videos.md",
     "computer-science/summaries/html-css-summary/images.md",
     "computer-science/summaries/html-css-summary/tables.md",
-    "computer-science/summaries/html-css-summary/lists.md",
     "computer-science/summaries/html-css-summary/general-layout.md",
     "img/general-html.png",
     "computer-science/content-computer-science.md",
