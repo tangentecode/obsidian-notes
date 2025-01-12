@@ -1,3 +1,10 @@
+## Structure
+
+| Data type | [types](types.md) (e.g. int, char) |
+| --------- | ---------------------------------- |
+|           |                                    |
+
+
 ## Declaration
 - Only variable name and type:
 ```c
