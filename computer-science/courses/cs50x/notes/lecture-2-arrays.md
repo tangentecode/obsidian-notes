@@ -104,3 +104,7 @@ main:
 char a = 'A' - 32;
 ```
 - Use [ctype.h](libraries.md) to simplify this action
+
+## Command Line Arguments
+
+- The [lecture-0-scratch](lecture-0-scratch.md)
