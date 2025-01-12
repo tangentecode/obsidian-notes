@@ -4,4 +4,5 @@
 ```bash
 style50 filename
 ```
-
+- [docs](https://cs50.readthedocs.io/style50/)
+- Code now follows the 
