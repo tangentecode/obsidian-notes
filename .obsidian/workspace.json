@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b67cce621d0f1fdd",
+        "id": "a943d8713ddf609e",
         "type": "tabs",
         "children": [
           {
-            "id": "0cc068ddb5db9b53",
+            "id": "d99778194d56dafc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "courses/CS50P/certificate/CS50P.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CS50P"
             }
           }
         ]
@@ -144,10 +148,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "d99778194d56dafc",
   "lastOpenFiles": [
-    "courses/CS50P/content.md",
     "courses/courses.md",
+    "courses/CS50P/certificate/CS50P.md",
+    "courses/CS50P/certificate",
+    "CS50P/certificate/CS50P.md",
+    "CS50P/certificate",
+    "CS50P",
+    "courses/CS50P/content.md",
     "courses/CS50P/Final Project CS50p/project/README.md",
     "courses/CS50P/Final Project CS50p/project/showcase.mp4",
     "courses/CS50P/Untitled.md",
@@ -157,9 +166,6 @@
     "courses/CS50P/Final Project CS50p/project/__pycache__",
     "courses/CS50P/Final Project CS50p/project/test_project.py",
     "courses/CS50P/Final Project CS50p/project/project.py",
-    "courses/CS50P/Final Project CS50p/project/requirements.txt",
-    "courses/CS50P/Final Project CS50p/project",
-    "courses/CS50P/certficates/CS50P A4.pdf",
     "courses/CS50P/certficates/CS50P A4.png",
     "courses/CS50P/certficates/CS50P.png",
     "courses/CS50P.md",
@@ -182,7 +188,6 @@
     "Python/PyQt6/Important Points/Init.md",
     "Python/PyQt6/Important Points/Execution.md",
     "Python/PyQt6/Important Points/Button.md",
-    "Python/PyQt6/PyQt 6 Guide.md",
     "Python/PyQt6/IMG_0093.png"
   ]
 }
