@@ -14,3 +14,7 @@
 
 ## Notes
 
+1. [general-instruction](general-instruction.md)
+2. [lecture-0-scratch](lecture-0-scratch.md)
+3. [lecture-1-c](lecture-1-c.md)
+4. [lecture-2-arrays](lecture-2-arrays.md)
