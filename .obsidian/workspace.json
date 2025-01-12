@@ -35,8 +35,7 @@
               "title": "variables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/c-summary/variables.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for variables"
+              "title": "Backlinks for lecture-2-arrays"
             }
           },
           {
@@ -181,8 +180,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "7b0739e041185732",
+  "active": "58ba08f82c2fb91c",
   "lastOpenFiles": [
+    "computer-science/c-summary/variables.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "computer-science/c-summary/types.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
@@ -195,7 +195,6 @@
     "computer-science/c-summary/style.md",
     "computer-science/c-summary/functions.md",
     "computer-science/c-summary/loops.md",
-    "computer-science/c-summary/variables.md",
     "computer-science/c-summary/printf.md",
     "computer-science/c-summary/operators.md",
     "computer-science/c-summary/run-programm.md",
