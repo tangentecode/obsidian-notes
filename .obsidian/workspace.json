@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a15de3a70b03ecc1",
+        "id": "ecd6ccbd869dd376",
         "type": "tabs",
         "children": [
           {
-            "id": "01b0bd5082283381",
+            "id": "182ef395c54abe37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/summaries/python-summary/pyqt6-guide/content-pyqt.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "content-pyqt"
-            }
-          },
-          {
-            "id": "bb5839d00f1606d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/summaries/c-summary/contents-c.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contents-c"
-            }
-          },
-          {
-            "id": "fc6cf5b85da30236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/summaries/python-summary/contents-python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "contents-python"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,12 +161,19 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "fc6cf5b85da30236",
+  "active": "182ef395c54abe37",
   "lastOpenFiles": [
     "computer-science/summaries/python-summary/pyqt6-guide/content-pyqt.md",
-    "computer-science/summaries/python-summary/contents-python.md",
-    "computer-science/summaries/contents-summaries.md",
     "computer-science/summaries/c-summary/contents-c.md",
+    "computer-science/repositorys/content-repositorys.md",
+    "computer-science/repositorys/file-operations-python.md",
+    "computer-science/repositorys/combat-master-tool.md",
+    "computer-science/repositorys/basic-geometry-engine.md",
+    "computer-science/repositorys/2048-python-pyqt6-project.md",
+    "computer-science/summaries/python-summary/contents-python.md",
+    "computer-science/repositorys/LICENSE.txt.md",
+    "computer-science/summaries/python-summary/os-library/content-os.md",
+    "computer-science/summaries/contents-summaries.md",
     "computer-science/courses/courses.md",
     "computer-science/summaries/python-summary/pyqt6-guide/pyqt6-guide.md",
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
@@ -211,27 +185,20 @@
     "computer-science/summaries/python-summary",
     "computer-science/courses/cs50x/notes/Untitled.md",
     "computer-science/summaries/c-summary/dynamic-memory-managment.md",
-    "computer-science/repositorys/LICENSE.txt.md",
-    "computer-science/repositorys/basic-geometry-engine.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "schule/contents-schule.md",
-    "computer-science/repositorys/combat-master-tool.md",
     "computer-science/summaries/python-summary/os-library/environment-variables.md",
     "schule/Erdkunde/Erdkunde Zusammenfassung.md",
-    "computer-science/repositorys/2048-python-pyqt6-project.md",
     "Untitled.md",
     "schule/Chemie/Chemie Test.md",
     "schule/Physik/Schaltungen.md",
     "schule/Latein/Vokabel Test.md",
     "schule/Latein/Latein Arbeit.md",
     "schule/Deutsch/Rezension.md",
-    "schule/Deutsch/Rezension Wociek.md",
     "schule/Physik",
     "schule/Latein",
     "schule/Erdkunde",
     "schule/Deutsch",
-    "computer-science/summaries/python-summary/os-library/example-code.md",
-    "computer-science/summaries/python-summary/os-library/content-os.md",
     "computer-science/courses/cs50x/notes/img/ciphertext.png",
     "computer-science/courses/cs50x/notes/img/string-decimal.png",
     "computer-science/courses/cs50x/notes/img/string.png",
