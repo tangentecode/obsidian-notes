@@ -1,4 +1,5 @@
 ## Weeks:
+
 0. [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 1. [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
 2. [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)

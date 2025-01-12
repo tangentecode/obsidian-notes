@@ -1,6 +1,6 @@
 ## List
 
-1. [CS50P](computer-science/courses/cs50p/Content.md)
+1. [CS50P](computer-science/courses/cs50p/content.md)
 	- Progress: [Completed](https://cs50.me/cs50p)
 	- Certificate: [PDF](CS50P.pdf)
 

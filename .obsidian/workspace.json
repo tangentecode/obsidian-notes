@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/content.md",
+                "file": "computer-science/courses/cs50p/content.md",
                 "mode": "source",
                 "source": false
               },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/courses/cs50x/content.md",
+                "file": "computer-science/courses/cs50p/content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,12 +151,12 @@
   },
   "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/content.md",
     "computer-science/courses/cs50x/code/week 3",
     "computer-science/courses/cs50x/code/week 2",
     "computer-science/courses/cs50x/code/week 1",
     "computer-science/courses/cs50x/code/week 0",
     "computer-science/courses/courses.md",
-    "computer-science/courses/cs50x/content.md",
     "computer-science/courses/cs50x/code",
     "computer-science/python/os-library/example-code.md",
     "computer-science/python/os-library/code-of-conduct.md",
@@ -179,15 +179,14 @@
     "docs",
     "computer-science/repositorys/combat-master-tool.md",
     "computer.md",
-    "computer-science/courses/cs50p/Final Project CS50p/project/test_project.py",
-    "computer-science/courses/cs50p/Final Project CS50p/project/showcase.mp4",
-    "computer-science/courses/cs50p/Final Project CS50p/project/requirements.txt",
-    "computer-science/courses/cs50p/Final Project CS50p/project/README.md",
-    "computer-science/courses/cs50p/Final Project CS50p/project/project.py",
-    "computer-science/courses/cs50p/Final Project CS50p/vid.txt",
+    "computer-science/courses/cs50p/final-project-cs50p/project/test_project.py",
+    "computer-science/courses/cs50p/final-project-cs50p/project/showcase.mp4",
+    "computer-science/courses/cs50p/final-project-cs50p/project/requirements.txt",
+    "computer-science/courses/cs50p/final-project-cs50p/project/README.md",
+    "computer-science/courses/cs50p/final-project-cs50p/project/project.py",
     "computer-science/courses/cs50p/certificates/CS50P.png",
     "computer-science/courses/cs50p/certificates/CS50P A4.png",
-    "computer-science/courses/cs50p/Content.md",
+    "computer-science/courses/cs50p/content.md",
     "Repositorys/Combat.md",
     "Combat.md",
     "Basic.md"
