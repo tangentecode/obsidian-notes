@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/html-css-summary/hyperlinks.md",
+                "file": "computer-science/summaries/html-summary/content-html.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hyperlinks"
+              "title": "content-html"
             }
           }
         ]
@@ -167,15 +167,16 @@
   },
   "active": "1a73cfaa8a277e9c",
   "lastOpenFiles": [
-    "computer-science/summaries/html-css-summary/videos.md",
-    "computer-science/summaries/html-css-summary/hyperlinks.md",
-    "computer-science/summaries/html-css-summary/images.md",
-    "computer-science/summaries/html-css-summary/tags-syntax.md",
-    "computer-science/summaries/html-css-summary/common-tags.md",
-    "computer-science/summaries/html-css-summary/tables.md",
-    "computer-science/summaries/html-css-summary/lists.md",
-    "computer-science/summaries/html-css-summary/link-css.md",
-    "computer-science/summaries/html-css-summary/general-layout.md",
+    "computer-science/summaries/html-summary/common-tags.md",
+    "computer-science/summaries/html-summary/content-html.md",
+    "computer-science/summaries/html-summary/general-layout.md",
+    "computer-science/summaries/html-summary/hyperlinks.md",
+    "computer-science/summaries/html-summary/images.md",
+    "computer-science/summaries/html-summary/link-css.md",
+    "computer-science/summaries/html-summary/lists.md",
+    "computer-science/summaries/html-summary/tables.md",
+    "computer-science/summaries/html-summary/tags-syntax.md",
+    "computer-science/summaries/html-summary/videos.md",
     "img/general-html.png",
     "computer-science/content-computer-science.md",
     "computer-science/summaries/python-summary/pyqt6-guide/content-pyqt.md",
@@ -194,12 +195,11 @@
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/summaries",
     "Untitled",
-    "computer-science/summaries/html-css-summary",
+    "computer-science/summaries/html-summary",
     "computer-science/summaries/javascript-summary",
     "computer-science/summaries/sql-summary",
     "computer-science/summaries/python-summary",
     "computer-science/courses/cs50x/notes/Untitled.md",
-    "computer-science/summaries/c-summary/dynamic-memory-managment.md",
     "schule/Physik",
     "schule/Latein",
     "schule/Erdkunde",

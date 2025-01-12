@@ -4,6 +4,6 @@
 
 ## Example
 
-```
-<a href="example.com">Example</
+```html
+<a href="example.com">Example</a>
 ```
