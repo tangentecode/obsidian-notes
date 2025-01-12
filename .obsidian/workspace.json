@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f9f3430e3f194580",
+        "id": "4eb53d84aff56161",
         "type": "tabs",
         "children": [
           {
-            "id": "f87039e41f9e1974",
+            "id": "4d2aafe1142375cd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -161,8 +161,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "f87039e41f9e1974",
+  "active": "4d2aafe1142375cd",
   "lastOpenFiles": [
+    "computer-science/courses/cs50p/content-cs50p.md",
     "computer-science/summaries/html-summary/common-tags.md",
     "computer-science/summaries/html-summary/contents-html.md",
     "computer-science/summaries/html-summary/input.md",
@@ -189,7 +190,6 @@
     "computer-science/summaries/contents-summaries.md",
     "computer-science/courses/content-courses.md",
     "computer-science/summaries/python-summary/pyqt6-guide/pyqt6-guide.md",
-    "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/summaries",
     "Untitled",
     "computer-science/summaries/html-summary",
