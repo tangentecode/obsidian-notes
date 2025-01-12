@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5b680b3aac80f2d5",
+        "id": "71f08f0a0f970f0b",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd5c9f4e2c9c58b",
+            "id": "e9492bfb790f7332",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,12 +149,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "e9492bfb790f7332",
   "lastOpenFiles": [
+    "computer-science/python/pyqt6 guide/code-of-conduct.md",
     "computer-science/python/pyqt6 guide/pyqt6-guide.md",
     "computer-science/python/pyqt6 guide/projects/2048.md",
     "computer-science/python/pyqt6 guide/projects/2048 Game.md",
-    "computer-science/python/pyqt6 guide/code-of-conduct.md",
     "computer-science/python/os-library/code-of-conduct.md",
     "computer-science/python/os-library/example-code.md",
     "computer-science/python/os-library/file-and-directory-operation.md",
