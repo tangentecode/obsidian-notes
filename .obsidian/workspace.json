@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "71f08f0a0f970f0b",
+        "id": "46c9827d5c67a02f",
         "type": "tabs",
         "children": [
           {
-            "id": "e9492bfb790f7332",
+            "id": "b3253abcd60d89f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/python/pyqt6 guide/code-of-conduct.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "code-of-conduct"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/python/pyqt6 guide/code-of-conduct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +88,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for code-of-conduct"
+              "title": "Backlinks"
             }
           },
           {
@@ -149,14 +144,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e9492bfb790f7332",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer-science/python/os-library/example-code.md",
+    "computer-science/python/os-library/code-of-conduct.md",
     "computer-science/python/pyqt6 guide/code-of-conduct.md",
     "computer-science/python/pyqt6 guide/pyqt6-guide.md",
     "computer-science/python/pyqt6 guide/projects/2048.md",
     "computer-science/python/pyqt6 guide/projects/2048 Game.md",
-    "computer-science/python/os-library/code-of-conduct.md",
-    "computer-science/python/os-library/example-code.md",
     "computer-science/python/os-library/file-and-directory-operation.md",
     "computer-science/python/os-library/miscellaneous.md",
     "computer-science/python/os-library/path-operations.md",

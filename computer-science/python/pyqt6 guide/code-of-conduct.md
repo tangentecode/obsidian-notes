@@ -10,3 +10,5 @@
 6. [text](text.md)
 
 ## Projects
+
+- [2048](2048.md)
