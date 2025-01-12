@@ -63,4 +63,5 @@
 - Format 
 - Versions:
 	1. IpV4: ```#.#.#.#``` (Numbers ranging from 0-255, 32-bit)
-	2. Ipv6: 
+	2. Ipv6: `xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx:xxxx` (Hex numbers, 128-bit)
+	
