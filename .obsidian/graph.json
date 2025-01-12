@@ -5,8 +5,16 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:computer-science  ",
+      "color": {
+        "a": 1,
+        "rgb": 4277996
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.3,
@@ -17,6 +25,6 @@
   "repelStrength": 11.6666666666667,
   "linkStrength": 0.739583333333333,
   "linkDistance": 123,
-  "scale": 0.3823010968769994,
+  "scale": 0.5359795996225986,
   "close": true
 }
