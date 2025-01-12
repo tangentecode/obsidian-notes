@@ -21,6 +21,6 @@
 
 ## The Programming Language "C"
 
-- ### Summay of C
+- ### [Summary of C](contents-c.md)
 - Browse official C [docs](https://devdocs.io/c/)
 - Download C Compiler [MingGW](https://www.mingw-w64.org/)
