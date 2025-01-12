@@ -1,0 +1,5 @@
+## Structure
+
+| Return type |     |
+| ----------- | --- |
+|             |     |
