@@ -11,10 +11,14 @@
             "id": "b3253abcd60d89f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/content.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "content"
             }
           }
         ]
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/courses/cs50x/content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for content"
             }
           },
           {
@@ -144,8 +149,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "b3253abcd60d89f4",
   "lastOpenFiles": [
+    "computer-science/courses/courses.md",
+    "computer-science/courses/cs50x/content.md",
+    "computer-science/courses/cs50x/code",
     "computer-science/python/os-library/example-code.md",
     "computer-science/python/os-library/code-of-conduct.md",
     "computer-science/python/pyqt6 guide/code-of-conduct.md",
@@ -178,13 +186,10 @@
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/courses/cs50p/certificates/CS50P A4.png",
     "computer-science/courses/cs50p/certificates/CS50P A4.pdf",
-    "computer-science/courses/cs50p/Final Project CS50p",
     "computer-science/courses/cs50p/Content.md",
-    "computer-science/courses/courses.md",
     "Repositorys/Combat.md",
     "Combat.md",
     "Basic.md",
-    "computer-science/python/os-library/environment-variables.md",
-    "courses/CS50P/certificates/CS50P.md"
+    "computer-science/python/os-library/environment-variables.md"
   ]
 }
