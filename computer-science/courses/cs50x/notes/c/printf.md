@@ -21,5 +21,5 @@
 printf("Hello, world!\n")
 
 int age = 18
-printf("Age: )
+printf("Age: %i\n", age)
 ```
