@@ -91,5 +91,7 @@ would equal **seven**
 > RGB = Red, Green, Blue
 
 - Zeros and ones can be used to represent color
- ![](rgb.png)
-- 
+ ![](rgb.png)  
+- equals
+
+![](yellow-rgb.png)
