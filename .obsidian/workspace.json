@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8146b81bb0e5e0a8",
+        "id": "5c29aca0026cd2d7",
         "type": "tabs",
         "children": [
           {
-            "id": "922dd6b589aab77a",
+            "id": "ae3fc1fd23f83336",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "schule/Chemie/Chemie Test.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Chemie Test"
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "schule/Chemie/Chemie Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +88,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chemie Test"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,15 +161,15 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "922dd6b589aab77a",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "schule/Chemie/Chemie Test.md",
     "schule/Physik/Schaltungen.md",
     "schule/Latein/Vokabel Test.md",
     "schule/Latein/Latein Arbeit.md",
     "schule/Erdkunde/Erdkunde Zusammenfassung.md",
     "schule/Deutsch/Rezension.md",
     "schule/Deutsch/Rezension Wociek.md",
-    "schule/Chemie/Chemie Test.md",
     "schule/Physik",
     "schule/Latein",
     "schule/Erdkunde",
