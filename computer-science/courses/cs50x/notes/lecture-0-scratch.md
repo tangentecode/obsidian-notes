@@ -99,3 +99,7 @@ would equal **seven**
 
 ## Algorithm
 
+- An _algorithm_ is a step-by-step set of instructions to solve a problem
+
+![](algorithm-time.png)
+- More about in [[lecture-3-algorithms]]
