@@ -4,7 +4,7 @@
 	- Progress: [Completed](https://cs50.me/cs50p)
 	- Certificate: [PDF](CS50P.pdf)
 
-3. [CS50X](courses/CS50X/content)
+3. [CS50X](content-cs50.md)
 	- Progress: [Running](https://cs50.me/cs50x)
 	- Certificate: 
 
