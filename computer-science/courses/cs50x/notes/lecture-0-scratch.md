@@ -40,5 +40,9 @@ would equal **seven**
 
 - ASCII is a standard to represent letters and some special characters in binary
 - Heres an very basic ASCII table:
-- 
+
+|     |     |
+| --- | --- |
+|     |     |
+
 - [More information](https://en.wikipedia.org/wiki/ASCII)
