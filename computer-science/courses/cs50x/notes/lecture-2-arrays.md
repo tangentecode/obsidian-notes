@@ -1,6 +1,13 @@
 ## Contents
 
-1. 
+1. [Compiling](#compiling)
+2. [Assembly](#assembly)
+3. [Machine Code](#machine-code)
+4. [Arrays](#arrays)
+5. [Strings](#strings)
+6. [Misc](#misc)
+7. [Command Line Arguments](#command-line-arguments)
+8. [Cryptography](#cryptography)
 ## Compiling
 
 - File gets compiled to `Machine Code` in these steps
