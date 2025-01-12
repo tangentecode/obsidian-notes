@@ -103,5 +103,4 @@ main:
 ```c
 char a = 'A' - 32;
 ```
-
-- 
+- Use [ctype.h](libraries.md) to simplify this action
