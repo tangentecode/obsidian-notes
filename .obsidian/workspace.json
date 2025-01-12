@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6688c649b3f26aac",
+        "id": "2a5373213fc79301",
         "type": "tabs",
         "children": [
           {
-            "id": "1a73cfaa8a277e9c",
+            "id": "75792cba11d04260",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/html-summary/contents-html.md",
+                "file": "computer-science/summaries/html-summary/input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-html"
+              "title": "input"
             }
           }
         ]
@@ -165,10 +165,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "1a73cfaa8a277e9c",
+  "active": "75792cba11d04260",
   "lastOpenFiles": [
-    "computer-science/summaries/html-summary/common-tags.md",
+    "computer-science/summaries/html-summary/input.md",
     "computer-science/summaries/html-summary/contents-html.md",
+    "computer-science/summaries/html-summary/common-tags.md",
     "computer-science/summaries/html-summary/general-layout.md",
     "computer-science/summaries/html-summary/hyperlinks.md",
     "computer-science/summaries/html-summary/images.md",
@@ -199,7 +200,6 @@
     "computer-science/summaries/javascript-summary",
     "computer-science/summaries/sql-summary",
     "computer-science/summaries/python-summary",
-    "computer-science/courses/cs50x/notes/Untitled.md",
     "schule/Physik",
     "schule/Latein",
     "schule/Erdkunde",
