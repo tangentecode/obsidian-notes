@@ -37,8 +37,13 @@ age --;
 
 - Declare `int scores[3];` with the size that needs to be [allocated](dynamic-memory-managment) in square brackets
 - Define each index individually
-```
+```c
 scores[0] = 72;
 scores[1] = 73;
 scores[2] = 33;
 ```
+or use this syntax
+```c
+scores = {72, }
+```
+
