@@ -5,5 +5,7 @@
 	- Certificate: [PDF](courses/CS50P/certificates/CS50P.pdf)
 
 3. [CS50X](courses/CS50X/content)
-	- Progress: [Running]()
+	- Progress: [Running](https://cs50.me/cs50x)
 	- Certificate: 
+
+3. 
