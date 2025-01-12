@@ -74,3 +74,8 @@
 - stands for **Dynamic Host Configuration Protocol**
 - Assigns IP addresses to devices
 
+
+## HTTP
+
+- Stands **HyperText Transfer Protocol**
+- Transfers web page data over the internet
