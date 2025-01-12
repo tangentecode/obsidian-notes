@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses/Courses.md",
+                "file": "courses/CS50P/Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Courses"
+              "title": "Content"
             }
           }
         ]
@@ -150,8 +150,8 @@
   },
   "active": "8af0c600fd8c0247",
   "lastOpenFiles": [
-    "courses/CS50P/certificates/CS50P.pdf",
     "courses/Courses.md",
+    "courses/CS50P/certificates/CS50P.pdf",
     "courses/CS50P/certificates/CS50P.md",
     "courses/CS50P/certificates",
     "courses/CS50P/certificate/CS50P.md",
@@ -159,7 +159,7 @@
     "CS50P/certificate/CS50P.md",
     "CS50P/certificate",
     "CS50P",
-    "courses/CS50P/content.md",
+    "courses/CS50P/Content.md",
     "courses/CS50P/Final Project CS50p/project/README.md",
     "courses/CS50P/Final Project CS50p/project/showcase.mp4",
     "courses/CS50P/Untitled.md",
@@ -167,7 +167,6 @@
     "courses/CS50P/Final Project CS50p/project/__pycache__/project.cpython-312.pyc",
     "courses/CS50P/Final Project CS50p/project/__pycache__/test_project.cpython-312-pytest-8.3.4.pyc",
     "courses/CS50P/Final Project CS50p/project/__pycache__",
-    "courses/CS50P/Final Project CS50p/project/test_project.py",
     "courses/CS50P/certificates/CS50P A4.png",
     "courses/CS50P/certificates/CS50P.png",
     "courses/CS50P.md",
