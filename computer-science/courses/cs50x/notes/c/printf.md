@@ -18,5 +18,8 @@
 ```c
 #include <stdio.h>
 
-printf("Hello, world!)
+printf("Hello, world!\n")
+
+int age = 18
+printf("Age: )
 ```
