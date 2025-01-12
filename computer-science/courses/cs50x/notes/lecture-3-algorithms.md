@@ -80,23 +80,16 @@
 - Stands **HyperText Transfer Protocol**
 - Transfers web page data
 - Status Codes: 
-200 OK
-301 Moved Permanently
-302 Found
-304 Not Modified
-304 Temporary Redirect
-401 Unauthorized
-403 Forbidden
-404 Not Found
-418 I'm a Teapot
-500 Internal Server Error
-503 Service Unavailable
 
-| 200 | OK                 |
-| --- | ------------------ |
-| 301 | Moved Permanently  |
-| 304 | Not Modified       |
-| 304 | Temporary Redirect |
-| 401 | Unaauthorized      |
-|     |                    |
+| 200 | OK                    |
+| --- | --------------------- |
+| 301 | Moved Permanently     |
+| 304 | Not Modified          |
+| 304 | Temporary Redirect    |
+| 401 | Unauthorized          |
+| 403 | Forbiddem             |
+| 404 | Not Found             |
+| 418 | I'm a Teapot          |
+| 500 | Internal Server Error |
+| 503 | Service Unavailable   |
 
