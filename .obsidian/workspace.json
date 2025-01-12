@@ -148,8 +148,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3234d4bac6965f4",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer science/Repositorys/Untitled",
     "computer science/Repositorys/Basic Geometry Engine/Basic-Geometry-Engine.md",
     "computer science/Repositorys/Repositorys.md",
     "Basic.md",
@@ -187,7 +188,6 @@
     "computer science/python/PyQt6/Projects/Simple 2048 Game.md",
     "computer science/python/PyQt6/Projects/2048 Game.md",
     "computer science/python/PyQt6/Important Points/Text.md",
-    "computer science/python/PyQt6/Important Points/Layout.md",
     "computer science/python/PyQt6/IMG_0093.png"
   ]
 }
