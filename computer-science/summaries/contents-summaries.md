@@ -1,16 +1,3 @@
-- C
-	1. [run-program](run-programm.md)
-	2. [libraries](libraries.md)
-	3. [types](types.md)
-	4. [operators](operators.md)
-	5. [printf](printf.md)
-	6. [variables](variables.md)
-	7. [conditionals](conditionals.md)
-	8. [loops](loops.md)
-	9. [functions](functions.md)
-	10. [style](style.md)
-
-- Python
-	1. [pyqt6-guide](pyqt6-guide.md)`
-	
+- [C](contents-c.md)
+- 
 	
