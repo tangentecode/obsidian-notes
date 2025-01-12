@@ -93,5 +93,7 @@ would equal **seven**
 - Zeros and ones can be used to represent color
  ![](rgb.png)  
 - equals
+	![](yellow-rgb.png)
 
-![](yellow-rgb.png)
+- one RGB stored pixel needs 3 bytes of memory
+
