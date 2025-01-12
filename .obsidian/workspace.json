@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/html-css-summary/common-tags.md",
+                "file": "computer-science/summaries/html-css-summary/link-css.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "common-tags"
+              "title": "link-css"
             }
           },
           {
@@ -33,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "tags-syntax"
+            }
+          },
+          {
+            "id": "a0bcb8a991a83b84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/summaries/html-css-summary/common-tags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "common-tags"
             }
           }
         ]
@@ -181,8 +195,13 @@
   },
   "active": "1a73cfaa8a277e9c",
   "lastOpenFiles": [
-    "computer-science/summaries/html-css-summary/tags-syntax.md",
     "computer-science/summaries/html-css-summary/common-tags.md",
+    "computer-science/summaries/html-css-summary/tags-syntax.md",
+    "computer-science/summaries/html-css-summary/link-css.md",
+    "computer-science/summaries/html-css-summary/videos.md",
+    "computer-science/summaries/html-css-summary/images.md",
+    "computer-science/summaries/html-css-summary/tables.md",
+    "computer-science/summaries/html-css-summary/lists.md",
     "computer-science/summaries/html-css-summary/general-layout.md",
     "img/general-html.png",
     "computer-science/content-computer-science.md",
@@ -209,11 +228,6 @@
     "computer-science/courses/cs50x/notes/Untitled.md",
     "computer-science/summaries/c-summary/dynamic-memory-managment.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
-    "schule/contents-schule.md",
-    "computer-science/summaries/python-summary/os-library/environment-variables.md",
-    "schule/Erdkunde/Erdkunde Zusammenfassung.md",
-    "Untitled.md",
-    "schule/Chemie/Chemie Test.md",
     "schule/Physik",
     "schule/Latein",
     "schule/Erdkunde",
