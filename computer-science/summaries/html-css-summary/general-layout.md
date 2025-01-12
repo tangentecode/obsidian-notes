@@ -1,3 +1,4 @@
 ![](general-html.png)
 
-- `title` get displayed 
+- everything in `<head>` metadata for the 
+- `<title>` get displayed in the tab on the top
