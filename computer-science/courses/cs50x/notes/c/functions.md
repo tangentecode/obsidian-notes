@@ -8,6 +8,12 @@
 
 ```c
 void example(int age) {
-	
+	// do something
 }
 ```
+
+## Special
+
+- Every C Program needs to have a `main` function.
+- It acts like an entry point for the program
+- 
