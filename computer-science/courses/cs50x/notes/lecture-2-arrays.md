@@ -19,7 +19,7 @@
 ## Assembly
 - Low level language
 - Based on processor architecture
-- Directly moves data in memory and performs other operation
+- Directly moves data in memory and performs other operations
 - Example:
 ```asm
 ...

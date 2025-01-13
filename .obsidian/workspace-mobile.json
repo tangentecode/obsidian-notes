@@ -11,10 +11,14 @@
             "id": "9fc790cfc4038caa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lecture-3-algorithms"
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,6 +160,7 @@
   },
   "active": "9fc790cfc4038caa",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/courses/cs50x/content-cs50.md",
     "computer-science/courses/content-courses.md",
