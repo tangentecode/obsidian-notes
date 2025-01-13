@@ -22,7 +22,7 @@
 ## Binary
 
 - Computer count in binary
-- If you imagine a light bulb: 1 means light bulb one, 0 means light bulb off
+- If you imagine a light bulb: 1 means light bulb one, 2 means light bulb off
 - Representing numbers in Binary:
 
 Example:
@@ -109,7 +109,7 @@ would equal **seven**
 - An _algorithm_ is a step-by-step set of instructions to solve a problem
 
 ![](algorithm-time.png)
-- More about in [[lecture-8-html-css-javascript]]
+- More about in [[lecture-3-algorithms]]
 
 ## Pseudocode
 
