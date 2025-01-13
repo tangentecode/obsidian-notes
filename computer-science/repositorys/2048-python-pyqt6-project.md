@@ -9,7 +9,7 @@ Download the `.exe` from **Mediafire**: **[DOWNLOAD](https://www.mediafire.com/f
    git clone https://github.com/user/project.git  
    ```  
 2. Install dependencies:  
-   ```bash  
+   ```bash 
    pip install -r requirements.txt  
    ```  
 
