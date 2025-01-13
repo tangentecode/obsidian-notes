@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/c/run-programm.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-1-c.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "run-programm"
+              "title": "lecture-1-c"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/summaries/c/run-programm.md",
+            "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,15 +159,16 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "9319d03997ae19e0",
+  "active": "cab8cdf7b770d58d",
   "lastOpenFiles": [
-    "computer-science/summaries/c/contents-c.md",
+    "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+    "computer-science/summaries/c/run-programm.md",
+    "computer-science/summaries/c/contents-c.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "Untitled.md",
     "computer-science/summaries/c/conditionals.md",
-    "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/content-cs50.md",
     "computer-science/repositorys/2048-python-pyqt6-project.md",
     "Hallo.md"
