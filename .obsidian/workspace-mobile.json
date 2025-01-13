@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "17ffbfd7e34adfdd",
+        "id": "8becde0b694ff247",
         "type": "tabs",
         "children": [
           {
-            "id": "45fdb783f9887599",
+            "id": "9fc790cfc4038caa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "computer-science/courses/cs50p/certificates/CS50P.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CS50P"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -156,8 +153,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "45fdb783f9887599",
+  "active": "9fc790cfc4038caa",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
+    "computer-science/courses/cs50x/content-cs50.md",
+    "computer-science/courses/content-courses.md",
+    "computer-science/content-computer-science.md",
+    "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "Untitled.md"
   ]
 }

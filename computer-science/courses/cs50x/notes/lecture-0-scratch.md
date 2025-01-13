@@ -22,7 +22,7 @@
 ## Binary
 
 - Computer count in binary
-- If you imagine a light bulb: 1 means light bulb one, 2 means light bulb off
+- If you imagine a light bulb: 1 means light bulb one, 0 means light bulb off
 - Representing numbers in Binary:
 
 Example:
