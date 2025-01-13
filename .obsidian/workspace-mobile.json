@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2467b36cb1079333",
+        "id": "f1a9ebeffefbbbe1",
         "type": "tabs",
         "children": [
           {
-            "id": "d04e5b74701895d7",
+            "id": "cab8cdf7b770d58d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lecture-2-arrays"
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,7 +145,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "d04e5b74701895d7",
+  "active": "cab8cdf7b770d58d",
   "lastOpenFiles": [
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "Untitled.md",
