@@ -11,10 +11,12 @@
             "id": "45fdb783f9887599",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "computer-science/courses/cs50p/certificates/CS50P.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CS50P"
             }
           }
         ]
