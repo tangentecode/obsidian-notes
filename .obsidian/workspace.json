@@ -8,16 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85cf1c1421540864",
+            "id": "f8541b5a5ec80cc7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "d5fda94f97623f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,8 +176,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "85cf1c1421540864",
+  "active": "d5fda94f97623f13",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
+    "Untitled.md",
+    "Hallo.md",
     "computer-science/summaries/python/os-library/file-and-directory-operation.md",
     "computer-science/content-computer-science.md",
     "computer-science/summaries/contents-summaries.md",
@@ -186,10 +205,6 @@
     "computer-science/summaries/html/hyperlinks.md",
     "computer-science/summaries/html/images.md",
     "computer-science/summaries/html/link-css.md",
-    "computer-science/summaries/html/lists.md",
-    "computer-science/summaries/html/tables.md",
-    "computer-science/summaries/html/tags-syntax.md",
-    "computer-science/summaries/html/videos.md",
     "img/general-html.png",
     "computer-science/summaries",
     "Untitled",
