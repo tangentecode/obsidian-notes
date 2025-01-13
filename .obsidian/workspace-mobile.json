@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8becde0b694ff247",
+        "id": "c4a15fb1cc4557fc",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc790cfc4038caa",
+            "id": "b219231d54fad8e3",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "computer-science/courses/cs50p/certificates/CS50P.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "CS50P"
-            }
-          },
-          {
-            "id": "95ee8be8816d7115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lecture-3-algorithms.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "lecture-3-algorithms"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lecture-3-algorithms.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +153,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "95ee8be8816d7115",
+  "active": "b219231d54fad8e3",
   "lastOpenFiles": [
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "lecture-3-algorithms.md",
