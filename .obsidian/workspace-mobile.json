@@ -35,7 +35,8 @@
               "title": "lecture-1-c"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+            "file": "computer-science/courses/cs50x/notes/lecture-1-c.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -159,10 +160,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "cab8cdf7b770d58d",
+  "active": "9319d03997ae19e0",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+    "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/summaries/c/run-programm.md",
     "computer-science/summaries/c/contents-c.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
