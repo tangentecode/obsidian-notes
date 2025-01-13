@@ -8,31 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f8541b5a5ec80cc7",
+            "id": "33d457c0b9a26452",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "d5fda94f97623f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +161,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "d5fda94f97623f13",
+  "active": "33d457c0b9a26452",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
