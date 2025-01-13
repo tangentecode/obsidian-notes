@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e0d95c81030a1ddd",
+        "id": "1f00d210c7631641",
         "type": "tabs",
         "children": [
           {
-            "id": "6b198b4cd0754400",
+            "id": "85cf1c1421540864",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -161,11 +161,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "6b198b4cd0754400",
+  "active": "85cf1c1421540864",
   "lastOpenFiles": [
-    "computer-science/summaries/c/contents-c.md",
-    "computer-science/summaries/contents-summaries.md",
+    "computer-science/summaries/python/os-library/file-and-directory-operation.md",
     "computer-science/content-computer-science.md",
+    "computer-science/summaries/contents-summaries.md",
+    "computer-science/summaries/c/contents-c.md",
+    "computer-science/summaries/c/libraries.md",
     "computer-science/summaries/sql/contents-sql.md",
     "computer-science/summaries/javascript/contents-javascript.md",
     "computer-science/summaries/css/contents-css.md",
@@ -189,8 +191,6 @@
     "computer-science/summaries/html/tags-syntax.md",
     "computer-science/summaries/html/videos.md",
     "img/general-html.png",
-    "computer-science/summaries/python/pyqt6-guide/content-pyqt.md",
-    "computer-science/repositorys/content-repositorys.md",
     "computer-science/summaries",
     "Untitled",
     "computer-science/summaries/html",
