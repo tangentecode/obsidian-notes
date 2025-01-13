@@ -109,7 +109,7 @@ would equal **seven**
 - An _algorithm_ is a step-by-step set of instructions to solve a problem
 
 ![](algorithm-time.png)
-- More about in [[lecture-3-algorithms]]
+- More about in [[lecture-8-html-css-javascript]]
 
 ## Pseudocode
 
