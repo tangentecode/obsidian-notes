@@ -92,7 +92,8 @@
 | 418 | I'm a Teapot          |
 | 500 | Internal Server Error |
 | 503 | Service Unavailable   |
-> Use `curl -I http://www.example.com/` 
+> Use `curl -I http://www.example.com/`
+>  
 > to get status code of a website
 
 
