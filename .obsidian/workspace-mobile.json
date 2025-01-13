@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-1-c.md",
+                "file": "computer-science/summaries/c/conditionals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture-1-c"
+              "title": "conditionals"
             }
           }
         ]
@@ -146,6 +146,8 @@
   },
   "active": "a271b287a9eff3a0",
   "lastOpenFiles": [
+    "computer-science/summaries/c/contents-c.md",
+    "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/content-cs50.md",
     "computer-science/repositorys/2048-python-pyqt6-project.md",
     "Hallo.md"
