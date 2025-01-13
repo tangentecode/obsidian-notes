@@ -126,6 +126,16 @@
         "state": {
           "type": "map-of-content",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "457d1fad7b709c30",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {},
           "icon": "stacked-levels",
           "title": "Map of Content"
         }
@@ -144,7 +154,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "45fdb783f9887599",
+  "active": "457d1fad7b709c30",
   "lastOpenFiles": [
     "Untitled.md"
   ]
