@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture-2-arrays"
+              "title": "lecture-8-html-css-javascript"
             }
           }
         ]
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+            "file": "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
