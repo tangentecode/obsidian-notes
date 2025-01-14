@@ -5,6 +5,6 @@
     - No link required
     - Used like [Attributes](common-tags.md)
     - Example:
-```t
-    
+```html
+ 
 ```
