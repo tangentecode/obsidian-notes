@@ -4,4 +4,4 @@
 <html lang="en">
 ```
 
-- Tells bro
+- Used to tell some kind of automatic translate (Like Google Translate) in wich human language the HTML was written in.
