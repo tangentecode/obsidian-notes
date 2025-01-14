@@ -113,3 +113,4 @@
 
 - Bash command to create a simple server to view webpages 
 - Run on `localhost` wich means Local Computer
+- Terminal contains informations like browser the user use and ip of the Server
