@@ -13,5 +13,8 @@
 	- Also directly embedded and no `<link>` tag
 	- Example:
 ```html
-
+<style>
+	.paragraph-class {
+	    font-
+	}
 ```
