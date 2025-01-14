@@ -112,4 +112,4 @@
 ## HTTP-Server
 
 - Bash command to create a simple server to view webpages 
-- Run on `localhost`
+- Run on `localhost` wich means Local Computer
