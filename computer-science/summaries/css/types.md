@@ -6,5 +6,7 @@
     - Used like [Attributes](common-tags.md)
     - Example:
 ```html
- 
+ <p font-size=large>This is a paragraph</p>
 ```
+
+2. `<style>` 
