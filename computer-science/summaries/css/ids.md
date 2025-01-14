@@ -9,5 +9,8 @@ HTML:
 
 CSS:
 ```css
-
+#paragraph-script {
+    text-align: center;
+    font-size: large;
+}
 ```
