@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee1961a73cafce0",
+        "id": "6ec9d3515253494f",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3eba80f7c1e8cf",
+            "id": "c730e9b099667993",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -141,16 +141,18 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "cc3eba80f7c1e8cf",
+  "active": "c730e9b099667993",
   "lastOpenFiles": [
-    "computer-science/summaries/css/types.md",
+    "computer-science/content-computer-science.md",
+    "computer-science/summaries/contents-summaries.md",
     "computer-science/summaries/css/contents-css.md",
+    "computer-science/summaries/css/classes.md",
+    "computer-science/summaries/css/types.md",
     "computer-science/summaries/css/tags.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/summaries/css/basics.md",
     "computer-science/summaries/css/ids.md",
     "computer-science/summaries/css/content-css.md",
-    "computer-science/summaries/css/classes.md",
     "computer-science/summaries/python/flask/flask-contents.md",
     "computer-science/summaries/python/flask",
     "computer-science/summaries/python/flask.md",
