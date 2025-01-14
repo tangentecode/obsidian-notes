@@ -118,4 +118,3 @@
 ## Client and Server
 
 - Changing code in the developer tools is modifying on a local copy of the [HTML](contents-html.md) page while the code on the server is still the same
-- 
