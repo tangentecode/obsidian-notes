@@ -1,4 +1,6 @@
 **There are three types of CSS:**
 
 1. Inline CSS
-    - Directly embedded in [HTM](contents-html.md)
+    - Directly embedded in [HTML](contents-html.md)
+    - No link required
+    - Used like ](common-tags.md)
