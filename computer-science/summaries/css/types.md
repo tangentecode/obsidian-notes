@@ -8,7 +8,7 @@
     - Used like [Attributes](common-tags.md)
     - Example:
 ```html
- <p style="font-size: large;">This is a paragraph</p>
+ <p style="font-size: large">This is a paragraph</p>
 ```
 
 2. `<style>` [Tag](common-tags.md)
