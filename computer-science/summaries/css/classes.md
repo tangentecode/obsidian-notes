@@ -1,1 +1,4 @@
-- Define a  `class` 
+- Define a  `class` like this:
+```html
+<p 
+```
