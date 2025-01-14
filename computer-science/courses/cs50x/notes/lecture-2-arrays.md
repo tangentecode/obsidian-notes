@@ -87,13 +87,13 @@ main:
 
 ## Arrays
 
-- Used to chain multiple values of the same [type](types.md) together
+- Used to chain multiple values of the same [type](computer-science/summaries/c/types.md) together
 - The values live at an index on the `Array` that start with 0 directly after each other in memory
 - Declare `Arrays` like in [variables](variables.md)
 
 ## Strings
 
-- A `string` is an [data types](types.md) that consist of an `Array` of [chars](types.md)
+- A `string` is an [data types](computer-science/summaries/c/types.md) that consist of an `Array` of [chars](computer-science/summaries/c/types.md)
 - after the last character of `string` there's always an Escape Character (`\0`) stored at the last index of the array in Memory to indicate the end of the `string`
 	![](string.png)
 - Regarding the explanation in [lecture-0-scratch](lecture-0-scratch.md) about `ASCII` it would look like this in decimal notation
@@ -106,7 +106,7 @@ main:
 
 ## Misc
 
-- In `ASCII` you can subtract 32 from a uppercase [char](types.md) to get its lowercase variant:
+- In `ASCII` you can subtract 32 from a uppercase [char](computer-science/summaries/c/types.md) to get its lowercase variant:
 ```c
 char a = 'A' - 32;
 ```
@@ -116,7 +116,7 @@ char a = 'A' - 32;
 
 - The [main](lecture-1-c.md) function takes two special parameters:
 	1. **argc**: `int` number of arguments provided in the command line
-	2. **argv**: Command Line Arguments as an array of [strings](types.md) starting with the file name at index 0
+	2. **argv**: Command Line Arguments as an array of [strings](computer-science/summaries/c/types.md) starting with the file name at index 0
 
 - Example:
 ```c

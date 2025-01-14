@@ -1,9 +1,9 @@
 ## Structure
 
-| Data type     | [types](types.md) (e.g. int, char)                              |
+| Data type     | [types](computer-science/summaries/c/types.md) (e.g. int, char)                              |
 | ------------- | --------------------------------------------------------------- |
 | Variable name | Anything apart from [[functions]] names (recommended [[style]]) |
-| Value         | Needs to be from the data [types](types.md) declared before     |
+| Value         | Needs to be from the data [types](computer-science/summaries/c/types.md) declared before     |
 
 ## Declaration
 - Only variable name and type:

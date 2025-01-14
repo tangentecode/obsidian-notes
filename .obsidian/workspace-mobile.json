@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/css/contents-css.md",
+                "file": "computer-science/summaries/css/types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-css"
+              "title": "types"
             }
           }
         ]
@@ -147,11 +147,12 @@
   },
   "active": "2d435ddd7cb5c09c",
   "lastOpenFiles": [
+    "computer-science/summaries/css/contents-css.md",
+    "computer-science/summaries/css/types.md",
     "computer-science/summaries/css/tags.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/summaries/css/basics.md",
     "computer-science/summaries/css/ids.md",
-    "computer-science/summaries/css/contents-css.md",
     "computer-science/summaries/css/content-css.md",
     "computer-science/summaries/css/classes.md",
     "computer-science/summaries/python/flask/flask-contents.md",
