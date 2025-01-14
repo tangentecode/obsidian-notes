@@ -8,3 +8,5 @@
 8. [hyperlinks](hyperlinks.md)
 9. [link-css](link-css.md)
 10. [input](input.md)
+11. [doctype](doctype.md)
+12. [language](language.md)

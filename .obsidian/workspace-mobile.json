@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/html/language.md",
+                "file": "computer-science/summaries/html/contents-html.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "language"
+              "title": "contents-html"
             }
           }
         ]
@@ -147,8 +147,9 @@
   },
   "active": "c730e9b099667993",
   "lastOpenFiles": [
-    "computer-science/summaries/html/common-tags.md",
+    "computer-science/summaries/css/basics.md",
     "computer-science/summaries/html/language.md",
+    "computer-science/summaries/html/common-tags.md",
     "computer-science/summaries/html/doctype.md",
     "computer-science/summaries/html/contents-html.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
@@ -158,7 +159,6 @@
     "computer-science/summaries/css/classes.md",
     "computer-science/summaries/css/types.md",
     "computer-science/summaries/css/tags.md",
-    "computer-science/summaries/css/basics.md",
     "computer-science/summaries/css/ids.md",
     "computer-science/summaries/css/content-css.md",
     "computer-science/summaries/python/flask/flask-contents.md",
