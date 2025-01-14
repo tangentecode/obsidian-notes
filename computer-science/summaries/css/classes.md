@@ -1,4 +1,4 @@
-- Define a  `class` like this:
+- Define a  `class` in [](contents-html.md) like this:
 ```html
-<p class="top-
+<p class="top-paragraph">Class Example</p>
 ```
