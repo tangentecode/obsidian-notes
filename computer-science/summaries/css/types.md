@@ -10,4 +10,8 @@
 ```
 
 2. `<style>` [Tag](common-tags.md)
-	- Also directly embedded 
+	- Also directly embedded and no `<link>` tag
+	- Example:
+```html
+
+```
