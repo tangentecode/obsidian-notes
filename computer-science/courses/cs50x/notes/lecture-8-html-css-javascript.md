@@ -111,4 +111,5 @@
 
 ## HTTP-Server
 
-
+- Bash command to create a simple server to view webpages 
+- Run on `localhost`
