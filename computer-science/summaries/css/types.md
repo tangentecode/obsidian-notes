@@ -26,4 +26,7 @@
 ```
 
 3. External file:
-	Like in [this ](link-css.md)
+	Like in [this](link-css.md) file
+
+
+### The best way to embed CSS is the 3 way
