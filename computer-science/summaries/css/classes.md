@@ -6,6 +6,7 @@
 - Then access and modify this class via [CSS](content-css.md) with this syntax:
 ```css
 .top-paragraph {
-    
+    text-align: center;
+    font-size: large;
 }
 ```

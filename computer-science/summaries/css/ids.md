@@ -1,0 +1,1 @@
+- IDs are very similar to [classes](classes.md)
