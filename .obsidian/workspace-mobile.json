@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "829265c446acf9d1",
+        "id": "689d1db995dbe0fc",
         "type": "tabs",
         "children": [
           {
-            "id": "87723ab67d097993",
+            "id": "a73b09ea26f074c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,13 +145,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "87723ab67d097993",
+  "active": "a73b09ea26f074c7",
   "lastOpenFiles": [
-    "computer-science/summaries/css/ids.md",
+    "computer-science/summaries/css/content-css.md",
+    "computer-science/summaries/css/tags.md",
     "computer-science/summaries/css/classes.md",
     "computer-science/summaries/css/basics.md",
-    "computer-science/summaries/css/tags.md",
-    "computer-science/summaries/css/content-css.md",
+    "computer-science/summaries/css/ids.md",
     "computer-science/summaries/css/contents-css.md",
     "computer-science/summaries/python/flask/flask-contents.md",
     "computer-science/summaries/python/flask",
