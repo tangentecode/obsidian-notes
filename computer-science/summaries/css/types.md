@@ -3,4 +3,4 @@
 1. Inline CSS
     - Directly embedded in [HTML](contents-html.md)
     - No link required
-    - Used like ](common-tags.md)
+    - Used like []
