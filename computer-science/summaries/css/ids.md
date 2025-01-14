@@ -1,1 +1,1 @@
-- IDs are very similar to [classes](classes.md)
+- IDs are very similar to [classes](classes.md) but instead of the dot to access the [HTML](contents-html.md)
