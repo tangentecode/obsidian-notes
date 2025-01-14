@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/css/ids.md",
+                "file": "computer-science/summaries/css/tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ids"
+              "title": "tags"
             }
           }
         ]
@@ -147,8 +147,8 @@
   },
   "active": "a73b09ea26f074c7",
   "lastOpenFiles": [
-    "computer-science/summaries/css/contents-css.md",
     "computer-science/summaries/css/ids.md",
+    "computer-science/summaries/css/contents-css.md",
     "computer-science/summaries/css/tags.md",
     "computer-science/summaries/css/content-css.md",
     "computer-science/summaries/css/classes.md",
