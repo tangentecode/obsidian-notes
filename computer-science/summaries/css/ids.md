@@ -2,5 +2,5 @@
 - Commonly you use classes but if you want to use an object in [JavaScript](contents-javascript.md) IDs are needed for that implementation
 - **Example:**
 ```html
-
+<p id=paragraph-script>This paragraph has an ID
 ```
