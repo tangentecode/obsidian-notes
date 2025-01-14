@@ -1,1 +1,1 @@
-- Use 
+- Use `lang` attribute in [HTML[[]]](common-tags.md)
