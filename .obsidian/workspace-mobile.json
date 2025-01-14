@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/html/videos.md",
+                "file": "computer-science/summaries/html/common-tags.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "videos"
+              "title": "common-tags"
             }
           }
         ]
@@ -147,6 +147,7 @@
   },
   "active": "c730e9b099667993",
   "lastOpenFiles": [
+    "computer-science/summaries/html/videos.md",
     "computer-science/summaries/html/contents-html.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/summaries/css/types.md",
@@ -172,7 +173,6 @@
     "computer-science/summaries/c/contents-c.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "Untitled.md",
-    "computer-science/summaries/c/conditionals.md",
-    "computer-science/repositorys/2048-python-pyqt6-project.md"
+    "computer-science/summaries/c/conditionals.md"
   ]
 }
