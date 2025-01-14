@@ -1,4 +1,5 @@
 1. [basics](basics.md)
-2. [tags](tags.md)
-3. [classes](classes.md)
-4. [ids](ids.md)
+2. [types](computer-science/summaries/css/types.md)
+3. [tags](tags.md)
+4. [classes](classes.md)
+5. [ids](ids.md)
