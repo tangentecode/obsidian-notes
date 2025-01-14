@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/summaries/css/basics.md",
+                "file": "computer-science/summaries/css/classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basics"
+              "title": "classes"
             }
           }
         ]
@@ -148,6 +148,7 @@
   "active": "baf75137f58e9110",
   "lastOpenFiles": [
     "computer-science/summaries/css/basics.md",
+    "computer-science/summaries/css/classes.md",
     "computer-science/summaries/css/content-css.md",
     "computer-science/summaries/css/contents-css.md",
     "computer-science/summaries/python/flask/flask-contents.md",
