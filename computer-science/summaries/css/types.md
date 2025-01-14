@@ -9,4 +9,5 @@
  <p font-size=large>This is a paragraph</p>
 ```
 
-2. `<style>` 
+2. `<style>` [Tag](common-tags.md)
+	- Also directly embedded 
