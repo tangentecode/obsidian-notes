@@ -15,6 +15,8 @@
 ```html
 <style>
 	.paragraph-class {
-	    font-
+	    font-size: large;
 	}
+</style>
+<p class=paragraph-class>This is a large paragraph</p>
 ```
