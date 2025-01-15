@@ -50,3 +50,5 @@
 - Python [Re library](computer-science/docs/python/regex.md)
 - In [C](contents-c.md) include `regex.h`
 - JavaScript: 
+
+> **Tip:** Test regex patterns interactively using tools like [regex101](https://regex101.com/)
