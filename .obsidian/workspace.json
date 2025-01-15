@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23b4d5bf9f6d79a1",
+        "id": "fe436f803d20d39b",
         "type": "tabs",
         "children": [
           {
-            "id": "b92f1cb38e8bee3d",
+            "id": "ca4704fd9da66e5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,8 +165,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "b92f1cb38e8bee3d",
+  "active": "ca4704fd9da66e5e",
   "lastOpenFiles": [
+    "computer-science/docs/javascript/intro.md",
+    "computer-science/docs/basics/bash.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/docs/basics/ascii.md",
@@ -178,7 +180,6 @@
     "computer-science/docs/css/bootstrap.md",
     "computer-science/docs/javascript/contents-javascript.md",
     "computer-science/docs/javascript/frameworks.md",
-    "computer-science/docs/basics/bash.md",
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask",
     "computer-science/docs/html/language.md",
@@ -194,7 +195,6 @@
     "Hallo.md",
     "computer-science/docs/python/os-library/file-and-directory-operation.md",
     "computer-science/content-computer-science.md",
-    "computer-science/docs/contents-summaries.md",
     "computer-science/docs/css",
     "img/general-html.png",
     "computer-science/docs",
