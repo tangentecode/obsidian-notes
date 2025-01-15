@@ -1,6 +1,6 @@
 1. [run-program](run-programm.md)
 2. [libraries](libraries.md)
-3. [types](computer-science/summaries/c/types.md)
+3. [types](computer-science/docs/c/types.md)
 4. [operators](operators.md)
 5. [printf](printf.md)
 6. [variables](variables.md)
