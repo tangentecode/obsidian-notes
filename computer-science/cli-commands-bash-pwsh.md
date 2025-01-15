@@ -5,4 +5,4 @@
 ### `pipe` operator
 
 - Used **between** two commands
-- Result of left
+- Result of 
