@@ -1,5 +1,5 @@
-- **No libraries required** like in [regex](computer-science/docs/python/regex.md)
-- 
+- **No libraries required** unlike [Python](computer-science/docs/python/regex.md) or [C](contents-c.md)
+- Use `match()` 
 
 ```javascript
 const text = "There are 123 apples";
