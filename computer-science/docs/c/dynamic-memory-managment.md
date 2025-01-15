@@ -7,8 +7,11 @@
 - `sizeof()` is a common use case for that
 
 ```c
-#include s
+#include <stdlib.h>
 
 int *ptr;
-ptr = malloc
+ptr = malloc(sizeof(*ptr))
 ```
+
+
+>**Be careful:** `sizeof(*ptr1)` tells C to measure the size of the data at the address. If you forget the `*` and write `sizeof(ptr1)` instead, it will measure the size of the pointer itself, which is the (usually) 8 bytes that are needed to store a memory address.
