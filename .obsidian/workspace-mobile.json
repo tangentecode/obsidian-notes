@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ec9d3515253494f",
+        "id": "6afbe686bcfa3251",
         "type": "tabs",
         "children": [
           {
-            "id": "c730e9b099667993",
+            "id": "a826321aefaf91f7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/summaries/css/tags.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "tags"
+              "title": "New tab"
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/summaries/css/tags.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,8 +140,9 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "c730e9b099667993",
+  "active": "a826321aefaf91f7",
   "lastOpenFiles": [
+    "computer-science/summaries/css/tags.md",
     "computer-science/summaries/html/common-tags.md",
     "computer-science/summaries/html/videos.md",
     "computer-science/summaries/html/contents-html.md",
@@ -159,7 +155,6 @@
     "computer-science/summaries/contents-summaries.md",
     "computer-science/summaries/css/contents-css.md",
     "computer-science/summaries/css/classes.md",
-    "computer-science/summaries/css/tags.md",
     "computer-science/summaries/css/ids.md",
     "computer-science/summaries/css/content-css.md",
     "computer-science/summaries/python/flask/flask-contents.md",
