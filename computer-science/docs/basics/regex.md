@@ -47,7 +47,7 @@
 
 ## How to use when programming
 
-- Python [Re library](computer-science/docs/python/regex.md)
+- Python [`re` library](computer-science/docs/python/regex.md)
 - In [C](contents-c.md) include `regex.h`
 - JavaScript: [built-in](computer-science/docs/javascript/regex.md) 
 
