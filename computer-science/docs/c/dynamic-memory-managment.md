@@ -1,1 +1,1 @@
-> C has twi types of [lecture-4-memory](lecture-4-memory.md)
+> C has two types of [memory](lecture-4-memory.md): **Static memory** and **Dynamic Memory**
