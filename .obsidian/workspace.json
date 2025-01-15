@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/bash.md",
+                "file": "computer-science/docs/basics/rgb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bash"
+              "title": "rgb"
+            }
+          },
+          {
+            "id": "fc50c83a1c1297a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture-0-scratch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,17 +180,17 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ca4704fd9da66e5e",
+  "active": "fc50c83a1c1297a8",
   "lastOpenFiles": [
-    "computer-science/docs/javascript/intro.md",
+    "computer-science/docs/basics/rgb.md",
+    "computer-science/docs/basics/regex.md",
     "computer-science/docs/basics/bash.md",
+    "computer-science/docs/basics/ascii.md",
+    "computer-science/docs/javascript/intro.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
-    "computer-science/docs/basics/ascii.md",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/docs/basics",
-    "computer-science/docs/basics/regex.md",
-    "computer-science/docs/basics/rgb.md",
     "computer-science/docs/css/contents-css.md",
     "computer-science/docs/css/bootstrap.md",
     "computer-science/docs/javascript/contents-javascript.md",

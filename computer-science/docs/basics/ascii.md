@@ -4,7 +4,8 @@
 > ASCII = **American Standard Code for Information Interchange**
 
 - *ASCII* is a standard to represent letters and some special characters in binary
-- Heres an very basic ASCII table:
+- Here is an very basic ASCII table:
+
 <table>
   <thead>
     <tr>
