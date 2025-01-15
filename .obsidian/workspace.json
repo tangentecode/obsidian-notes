@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91c6d9e1aad78e17",
+            "id": "cbef6b85bf9f06aa",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -161,8 +161,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "91c6d9e1aad78e17",
+  "active": "cbef6b85bf9f06aa",
   "lastOpenFiles": [
+    "computer-science/docs/html/contents-html.md",
+    "computer-science/docs/basics/regex.md",
+    "computer-science/docs/html/videos.md",
+    "computer-science/docs/html/tags-syntax.md",
+    "computer-science/docs/html/common-tags.md",
     "computer-science/projects/2048-python-pyqt6-project.md",
     "computer-science/docs/contents-summaries.md",
     "computer-science/content-computer-science.md",
@@ -170,7 +175,6 @@
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/basics/binary.md",
     "computer-science/docs/python/contents-python.md",
-    "computer-science/docs/basics/regex.md",
     "computer-science/docs/python/regex.md",
     "computer-science/docs/javascript/regex.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
@@ -187,10 +191,6 @@
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask",
     "computer-science/docs/html/language.md",
-    "computer-science/docs/html/doctype.md",
-    "computer-science/docs/css/types.md",
-    "computer-science/docs/css/tags.md",
-    "computer-science/docs/css/ids.md",
     "computer-science/docs/css",
     "img/general-html.png",
     "computer-science/docs",
