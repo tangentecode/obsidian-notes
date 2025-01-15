@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/regex.md",
+                "file": "computer-science/docs/javascript/regex.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,8 +182,9 @@
   },
   "active": "9d453d8686564256",
   "lastOpenFiles": [
-    "computer-science/docs/basics/regex.md",
     "computer-science/docs/python/regex.md",
+    "computer-science/docs/javascript/regex.md",
+    "computer-science/docs/basics/regex.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/docs/basics/ascii.md",
     "computer-science/docs/basics/bash.md",
@@ -209,7 +210,6 @@
     "Untitled.md",
     "conflict-files-obsidian-git.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
-    "Hallo.md",
     "computer-science/docs/css",
     "img/general-html.png",
     "computer-science/docs",
