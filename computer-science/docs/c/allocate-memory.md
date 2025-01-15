@@ -20,4 +20,5 @@ ptr = malloc(sizeof(*ptr))
 
 ## Calloc
 
-- `calloc()` behaves pretty much the same 
+ `calloc()` behaves pretty much the same like `malloc()`:
+	- Takes another parameter 
