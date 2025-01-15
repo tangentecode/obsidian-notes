@@ -23,4 +23,10 @@ ptr = malloc(sizeof(*ptr))
  `calloc()` behaves pretty much the same like `malloc()`:
  
 - Takes another parameter ([int](computer-science/docs/c/types.md)) which defines how often the allocation process should be completed
-- Instead writing unpredictable data to the allocated memory the `calloc()` function sets every [bit](binary.md) to zero, which makes it s 
+- Instead writing unpredictable data to the allocated memory the `calloc()` function sets every [bit](binary.md) to zero, which makes it slightly less efficient
+
+**Example:**
+```c
+int *students;
+
+```
