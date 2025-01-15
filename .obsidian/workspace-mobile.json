@@ -11,10 +11,14 @@
             "id": "a826321aefaf91f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/notes/general-instruction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "general-instruction"
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "computer-science/courses/cs50x/notes/general-instruction.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,11 +147,11 @@
   },
   "active": "a826321aefaf91f7",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/summaries/css/tags.md",
     "computer-science/summaries/html/common-tags.md",
     "computer-science/summaries/html/videos.md",
     "computer-science/summaries/html/contents-html.md",
-    "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/summaries/css/types.md",
     "computer-science/summaries/css/basics.md",
     "computer-science/summaries/html/language.md",
