@@ -2,4 +2,7 @@
 
 
 ## Operators
-### `pipe` operat
+### `pipe` operator
+
+- Used **between** two commands
+- Result of left
