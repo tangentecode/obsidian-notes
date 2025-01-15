@@ -1,6 +1,7 @@
 - Import `re` to use **Regular Expressions** in Python
 - Use `re.search` to search for pattern in a string [pattern](computer-science/docs/basics/regex.md) 
 - Use `re.match` to see if the string exactly matches the [pattern](computer-science/docs/basics/regex.md)
+- The `group()` method returns the part wich matched   
 ```python
 import re
 
