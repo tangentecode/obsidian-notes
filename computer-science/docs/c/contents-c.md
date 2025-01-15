@@ -8,3 +8,6 @@
 8. [loops](loops.md)
 9. [functions](functions.md)
 10. [style](style.md)
+11. [allocate-memory](allocate-memory.md)
+12. [access-memory](access-memory.md)
+13. [reallocate-memory](reallocate-memory.md)
