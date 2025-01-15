@@ -2,4 +2,6 @@
 
 
 - To use **Dynamic Memory** include `stdlib.h`
-- For allocating memory use the `mallo`
+- For allocating memory use the `malloc()` function
+- The `malloc()` function has one parameter, _size_, which specifies how much memory to allocate, measured in bytes.
+- 
