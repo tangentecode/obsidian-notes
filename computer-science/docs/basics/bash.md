@@ -1,3 +1,4 @@
+> CLI = Command Line Interface
 ## Commands
 
 
@@ -9,7 +10,7 @@
 - `mv`, for moving (renaming) files and directories
 - `rm`, for removing (deleting) files
 - `rmdir`, for removing (deleting) directories
-
+- 
 
 ## Operators
 ### `pipe` operator
