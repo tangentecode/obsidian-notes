@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,10 +194,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "43d88c853ce4beb0",
+  "active": "9d453d8686564256",
   "lastOpenFiles": [
-    "computer-science/docs/javascript/regex.md",
     "computer-science/docs/python/regex.md",
+    "computer-science/docs/javascript/regex.md",
     "computer-science/docs/basics/regex.md",
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/docs/basics/ascii.md",

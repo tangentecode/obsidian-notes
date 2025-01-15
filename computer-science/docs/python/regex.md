@@ -12,4 +12,4 @@ if match:
 	print(match.group()) # Output: 123
 ```
 
-> **Tip:** use rawstrings (`r" "`) to avoid errors  
+> **Tip:** use rawstrings (`r" "`) to avoid errors regarding the **Escape Characters** (e.g.`\`) 
