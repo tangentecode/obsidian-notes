@@ -1,0 +1,5 @@
+1. [ascii](ascii.md)
+2. [bash](bash.md)
+3. [binary](binary.md)
+4. [regex](computer-science/docs/basics/regex.md)
+5. [rgb](rgb.md)
