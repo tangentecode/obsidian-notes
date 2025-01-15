@@ -17,5 +17,6 @@
     "editor:configure-toolbar",
     "editor:insert-codeblock"
   ],
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": true
 }
