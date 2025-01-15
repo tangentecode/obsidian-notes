@@ -49,11 +49,3 @@
 
 - Run a command in the background.
   - Example: `sleep 10 &`
-
----
-
-## Examples
-
-### Combine commands with `|`
-```bash
-cat file.txt | grep "error"
