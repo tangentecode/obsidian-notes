@@ -1,0 +1,1 @@
+> C has twi types of [lecture-4-memory](lecture-4-memory.md)
