@@ -4,4 +4,11 @@
 - To use **Dynamic Memory** include `stdlib.h`
 - For allocating memory use the `malloc()` function
 - The `malloc()` function has one parameter, _size_, which specifies how much memory to allocate, measured in bytes.
-- `sizeof()` is commonly used for th
+- `sizeof()` is a common use case for that
+
+```c
+#include s
+
+int *ptr;
+ptr = malloc
+```
