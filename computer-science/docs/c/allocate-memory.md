@@ -27,6 +27,10 @@ ptr = malloc(sizeof(*ptr))
 
 **Example:**
 ```c
-int *students;
+#include <stdlib.h>
 
+int *students;
+int numStudents = 12;
+
+students = calloc(numS)
 ```
