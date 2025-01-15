@@ -47,4 +47,5 @@
 
 ## How to use when programming
 
-- Refer to [[]]
+- Refer to [python re library](computer-science/docs/python/regex.md)
+- In [C](contents-c.md) include 
