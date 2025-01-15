@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/CLI Commands (bash, pwsh).md",
+                "file": "computer-science/cli-commands-bash-pwsh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLI Commands (bash, pwsh)"
+              "title": "cli-commands-bash-pwsh"
             }
           }
         ]
@@ -151,7 +151,7 @@
     "computer-science/summaries/c/Untitled.md",
     "computer-science/summaries/c/sdl-lib",
     "computer-science/summaries/python/pyqt6-guide/pyqt6-guide.md",
-    "computer-science/CLI Commands (bash, pwsh).md",
+    "computer-science/cli-commands-bash-pwsh.md",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/summaries/css/tags.md",
