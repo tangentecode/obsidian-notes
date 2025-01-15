@@ -17,8 +17,6 @@
 | `pwd`   | Print the current working directory.        | `pwd`                              |
 | `find`  | Search for files or directories.            | `find /path -name "*.txt"`         |
 | `grep`  | Search for patterns within files.           | `grep "search_term" file.txt`      |
-| `chmod` | Change file permissions.                    | `chmod 755 script.sh`              |
-| `chown` | Change file ownership.                      | `chown user:group file.txt`        |
 | `man`   | Display the manual for a command.           | `man ls`                           |
 
 ---
