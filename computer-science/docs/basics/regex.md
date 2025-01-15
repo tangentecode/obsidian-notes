@@ -1,7 +1,9 @@
+## General
+
 1. **Literals**
-    
     - Match exact text.  
         Example: `cat` matches "cat" in "The cat sat on the mat."
+
 2. **Metacharacters**
     
     - Special characters with unique meanings:
@@ -42,3 +44,7 @@
     
     - `\b`: Matches a word boundary.
     - `\B`: Matches a non-word boundary.
+
+## How to use when programming
+
+- Refer to [[]]
