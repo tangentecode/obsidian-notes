@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f00d210c7631641",
+        "id": "d9f8aa85635fbd5f",
         "type": "tabs",
         "children": [
           {
-            "id": "33d457c0b9a26452",
+            "id": "0e4aabcf5ebec812",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,11 +161,21 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "33d457c0b9a26452",
+  "active": "0e4aabcf5ebec812",
   "lastOpenFiles": [
+    "computer-science/cli-commands-bash-pwsh.md",
+    "computer-science/summaries/python/flask/flask-contents.md",
+    "computer-science/summaries/python/flask",
+    "computer-science/summaries/html/language.md",
+    "computer-science/summaries/html/doctype.md",
+    "computer-science/summaries/css/types.md",
+    "computer-science/summaries/css/tags.md",
+    "computer-science/summaries/css/ids.md",
+    "computer-science/summaries/css/classes.md",
+    "computer-science/summaries/css/basics.md",
+    "Untitled.md",
     "conflict-files-obsidian-git.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
-    "Untitled.md",
     "Hallo.md",
     "computer-science/summaries/python/os-library/file-and-directory-operation.md",
     "computer-science/content-computer-science.md",
@@ -181,15 +191,6 @@
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
-    "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
-    "computer-science/courses/cs50p/content-cs50p.md",
-    "computer-science/summaries/html/common-tags.md",
-    "computer-science/summaries/html/contents-html.md",
-    "computer-science/summaries/html/input.md",
-    "computer-science/summaries/html/general-layout.md",
-    "computer-science/summaries/html/hyperlinks.md",
-    "computer-science/summaries/html/images.md",
-    "computer-science/summaries/html/link-css.md",
     "img/general-html.png",
     "computer-science/summaries",
     "Untitled",
@@ -199,7 +200,6 @@
     "computer-science/summaries/python",
     "schule/Physik",
     "schule/Latein",
-    "schule/Erdkunde",
     "img/ciphertext.png",
     "img/string-decimal.png",
     "img/string.png",

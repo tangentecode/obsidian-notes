@@ -16,5 +16,6 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-codeblock"
-  ]
+  ],
+  "propertiesInDocument": "hidden"
 }
