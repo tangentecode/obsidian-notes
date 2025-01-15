@@ -21,4 +21,5 @@ ptr = malloc(sizeof(*ptr))
 ## Calloc
 
  `calloc()` behaves pretty much the same like `malloc()`:
-	- Takes another parameter 
+ 
+- Takes another parameter ([int](computer-science/docs/c/types.md)) which defines how 
