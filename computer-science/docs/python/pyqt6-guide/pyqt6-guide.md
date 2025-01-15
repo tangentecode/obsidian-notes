@@ -223,7 +223,7 @@ if __name__ = "__main__":
     window = BasicButtonExample()
 
     # Run the application's event loop
-    exit(app.exec())
+    sys.exit(app.exec())
 ```
 
 ### Explanation
