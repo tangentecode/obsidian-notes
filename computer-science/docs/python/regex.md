@@ -1,2 +1,2 @@
 - Import `re` to use **Regular Expressions** in Python
-- Use 
+- Use `re.search` to search a string for a [pattern](computer-science/docs/basics/regex.md) 
