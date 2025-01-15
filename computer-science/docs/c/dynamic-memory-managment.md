@@ -2,4 +2,4 @@
 
 
 - To use **Dynamic Memory** include `stdlib.h`
-- 
+- For allocating mem
