@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/access-memory.md",
+                "file": "computer-science/docs/c/reallocate-memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "access-memory"
+              "title": "reallocate-memory"
             }
           },
           {
@@ -181,8 +181,9 @@
   },
   "active": "6f582e2882b437ea",
   "lastOpenFiles": [
-    "computer-science/docs/c/allocate-memory.md",
     "computer-science/docs/c/access-memory.md",
+    "computer-science/docs/c/reallocate-memory.md",
+    "computer-science/docs/c/allocate-memory.md",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/python/pyqt6-guide/pyqt6-guide.md",
     "computer-science/courses/cs50x/notes/lecture-1-c.md",
@@ -206,7 +207,6 @@
     "computer-science/docs/basics/bash.md",
     "computer-science/docs/basics/rgb.md",
     "computer-science/docs/javascript/intro.md",
-    "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/docs/basics",
     "computer-science/docs/python/flask",
     "computer-science/docs/css",

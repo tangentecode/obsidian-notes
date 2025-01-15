@@ -1,0 +1,2 @@
+- If the amount of memory reserved is not enough it can be resized to make it larger
+- To archieve that
