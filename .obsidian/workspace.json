@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c4831d149549c2fe",
+        "id": "27d3a606d07e2334",
         "type": "tabs",
         "children": [
           {
-            "id": "cbef6b85bf9f06aa",
+            "id": "6f582e2882b437ea",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 552.5
+    "width": 283.5
   },
   "right": {
     "id": "573dceb8a324aff9",
@@ -161,8 +161,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "cbef6b85bf9f06aa",
+  "active": "6f582e2882b437ea",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-1-c.md",
+    "content-css.md",
     "computer-science/docs/html/contents-html.md",
     "computer-science/docs/basics/regex.md",
     "computer-science/docs/html/videos.md",
@@ -182,7 +184,6 @@
     "computer-science/docs/basics/bash.md",
     "computer-science/docs/basics/rgb.md",
     "computer-science/docs/javascript/intro.md",
-    "computer-science/courses/cs50x/notes/lecture-1-c.md",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/docs/basics",
     "computer-science/docs/css/contents-css.md",
@@ -190,7 +191,6 @@
     "computer-science/docs/javascript/frameworks.md",
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask",
-    "computer-science/docs/html/language.md",
     "computer-science/docs/css",
     "img/general-html.png",
     "computer-science/docs",
