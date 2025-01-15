@@ -32,5 +32,6 @@ ptr = malloc(sizeof(*ptr))
 int *students;
 int numStudents = 12;
 
-students = calloc(numS)
+students = calloc(numStudents, sizeof(*students)); // 48 Bytes
+
 ```
