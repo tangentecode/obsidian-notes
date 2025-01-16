@@ -8,4 +8,7 @@ input("Name: ")
 name = input("Name: ")
 ```
 
-- Use di
+- Use different [types](computer-science/docs/python/types.md) to specify what can be inputted by the user
+```python
+age = int(input)
+```
