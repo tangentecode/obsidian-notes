@@ -20,5 +20,8 @@ age = int(input("Age: "))
 
 - Often you end up creating a pattern like this:
 ```python
-print()
+print("1. Option")
+print("2. Option")
+print("3. Option")
+user_input = 
 ```
