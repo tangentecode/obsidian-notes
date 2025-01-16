@@ -2,5 +2,10 @@
 - Vollständiger code in [Python](contents-python.md):
 
 ```python
-zahl_a = int(input("Zahl))
+# Nutzer Eingabe
+zahl_a = int(input("Erste Zahl: "))
+zahl_b = int(input("Zweite Zahl: "))
+
+
+
 ```
