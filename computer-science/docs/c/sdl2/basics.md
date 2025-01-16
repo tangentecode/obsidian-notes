@@ -1,3 +1,8 @@
+## Windows
+
+
+## Linux
+
 - Install [SDL2](https://wiki.libsdl.org/SDL2/FrontPage) with these commands
 ```bash
 git clone https://github.com/libsdl-org/SDL
