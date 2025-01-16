@@ -8,4 +8,7 @@ print("Hello, world!")
 print("\n")
 ```
 
-- To stay on the same line use
+- To stay on the same line use the `end` parameter like this:
+```python
+print(Hello, ")
+```
