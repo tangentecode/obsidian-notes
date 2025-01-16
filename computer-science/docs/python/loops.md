@@ -6,7 +6,7 @@
 - Conditions need to have an [operator](computer-science/docs/python/operators.md) in most cases
 
 ```python
-for (int i = 0; i < 3; i++) {
+for i in range(3):
 	# do something three times
 ```
 
@@ -17,11 +17,10 @@ for (int i = 0; i < 3; i++) {
 - You cannot define the [variable](computer-science/docs/c/variables.md) in the `while` loop like in a `for` loop
 
 ```python
-int i = 0
-while (i < 3) {
+i = 0
+while i < 3:
 	# do something three times
-	i++;
-}
+
 ```
 
 - If you want to create an infinite loop:
