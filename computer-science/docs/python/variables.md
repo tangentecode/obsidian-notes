@@ -1,5 +1,6 @@
 
 - Defining variables in Python is very compact in design:
+
 ```python
 age = 18
 name = "Lukas"
@@ -9,5 +10,6 @@ name = "Lukas"
 - This resolves the major flaw of variables in python 
 
 ```python
-
+age: int = 18
+name: str = "Lukas"
 ```

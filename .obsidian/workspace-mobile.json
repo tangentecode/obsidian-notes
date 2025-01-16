@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,7 +174,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "8396346c099f7c13",
+  "active": "ec6d3351a9a95530",
   "lastOpenFiles": [
     "computer-science/docs/python/types.md",
     "computer-science/docs/python/variables.md",
