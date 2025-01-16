@@ -49,8 +49,7 @@
               "title": "style"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,11 +173,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "ec6d3351a9a95530",
+  "active": "a6d426d501264dbc",
   "lastOpenFiles": [
-    "computer-science/docs/python/types.md",
     "computer-science/docs/python/variables.md",
     "computer-science/docs/python/style.md",
+    "computer-science/docs/python/types.md",
     "computer-science/docs/python/setup.md",
     "computer-science/docs/basics/ascii.md",
     "computer-science/courses/cs50p/content-cs50p.md",

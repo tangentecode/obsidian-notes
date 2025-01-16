@@ -20,11 +20,5 @@
   2. Third-party
   3. Local modules
 
-```python
-import os
-import numpy as np
-from my_project import helper
-
-
 
 - For advanced information refer to [PEP 8 Style Guide](https://peps.python.org/pep-0008/)
