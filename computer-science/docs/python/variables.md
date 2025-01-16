@@ -1,3 +1,2 @@
 
-- Defining variables is very compact in design
-- 
+- Defining variables in Python is very compact in design:
