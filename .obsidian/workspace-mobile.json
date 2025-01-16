@@ -11,10 +11,14 @@
             "id": "a6d426d501264dbc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/python/install.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "install"
             }
           }
         ]
@@ -143,6 +147,7 @@
   },
   "active": "a6d426d501264dbc",
   "lastOpenFiles": [
+    "computer-science/docs/python/install.md",
     "computer-science/docs/basics/ascii.md",
     "computer-science/courses/cs50p/content-cs50p.md",
     "computer-science/courses/content-courses.md",
@@ -169,7 +174,6 @@
     "computer-science/docs/css/contents-css.md",
     "computer-science/docs/c/cs50-lib.md",
     "computer-science/docs/python/os-library/project-management.md",
-    "computer-science/docs/c/style.md",
     "/computer-science/docs/python/pyqt6-guide/empty-window.png",
     "computer-science/projects",
     "computer-science/docs/python/os-library",
