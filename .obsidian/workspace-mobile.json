@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/output.md",
+                "file": "computer-science/docs/python/input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "output"
+              "title": "input"
             }
           }
         ]
@@ -147,13 +147,13 @@
   },
   "active": "377454511187b814",
   "lastOpenFiles": [
+    "computer-science/docs/python/output.md",
     "computer-science/docs/python/loops.md",
     "computer-science/docs/python/conditionals.md",
     "computer-science/docs/c/conditionals.md",
     "computer-science/docs/c/loops.md",
     "computer-science/docs/python/style.md",
     "computer-science/docs/python/error-handling.md",
-    "computer-science/docs/python/output.md",
     "computer-science/docs/python/input.md",
     "computer-science/docs/python/Untitled",
     "computer-science/docs/python/libraries.md",
