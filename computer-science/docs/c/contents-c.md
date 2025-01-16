@@ -2,7 +2,7 @@
 2. [libraries](computer-science/docs/c/libraries.md)
 3. [types](computer-science/docs/c/types.md)
 4. [operators](computer-science/docs/c/operators.md)
-5. [printf](printf.md)
+5. [ouput](ouput.md)
 6. [variables](computer-science/docs/c/variables.md)
 7. [conditionals](computer-science/docs/c/conditionals.md)
 8. [loops](computer-science/docs/c/loops.md)
