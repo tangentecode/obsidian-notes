@@ -1,2 +1,3 @@
 
-- Defining variables is very compact 
+- Defining variables is very compact in design
+- 
