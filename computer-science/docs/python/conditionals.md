@@ -15,15 +15,13 @@ else:
 ### 1. and
 
 ```c
-if (x > y) && (x == y) {
+if x > y and x == y:
 	// both conditions are met
-}
 ```
 
 ### 2. or
 
 ```c
-if (x > y) || (x == y) {
+if x > y or x == y:
 	// one or more of the conditions are met
-}
 ```
