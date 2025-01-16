@@ -145,8 +145,13 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "377454511187b814",
+  "active": "ab3a2c172c89a8ae",
   "lastOpenFiles": [
+    "computer-science/docs/c/sdl2",
+    "computer-science/docs/c/sdl2/basics.md",
+    "/computer-science/docs/c/sdl2/basics.md",
+    "/computer-science/docs/css/contents-css.md",
+    "/computer-science/docs/c/sdl2",
     "computer-science/docs/python/conditionals.md",
     "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/courses/informatik-ggg",
@@ -172,10 +177,6 @@
     "computer-science/docs/python/setup.md",
     "computer-science/docs/basics/ascii.md",
     "computer-science/courses/cs50p/content-cs50p.md",
-    "computer-science/courses/content-courses.md",
-    "computer-science/content-computer-science.md",
-    "computer-science/docs/basics/contents-basic.md",
-    "computer-science/docs/html/hyperlinks.md",
     "computer-science/docs/python/pyqt6-guide/empty-window.png",
     "/computer-science/docs/python/pyqt6-guide/empty-window.png",
     "computer-science/projects",
@@ -183,7 +184,6 @@
     "computer-science/docs/python/flask",
     "computer-science/docs/javascript",
     "computer-science/docs/html",
-    "computer-science/docs/css",
-    "computer-science/docs/python"
+    "computer-science/docs/css"
   ]
 }
