@@ -13,3 +13,5 @@ sudo cmake --install . --config Release
 #CMake <= 3.14
 sudo make install
 ```
+
+- Compile 
