@@ -1,27 +1,27 @@
 ## Compare two values
 with multiple conditions
 
-```c
+```python
 if x > y:
-	// do something
+	# do something
 elif x < y:
-	// do something else
+	# do something else
 else:
-	// previous conditions not met
+	# previous conditions not met
 ```
 
 ## Chain conditions
 
 ### 1. and
 
-```c
+```python
 if x > y and x == y:
-	// both conditions are met
+	# both conditions are met
 ```
 
 ### 2. or
 
-```c
+```python
 if x > y or x == y:
-	// one or more of the conditions are met
+	# one or more of the conditions are met
 ```

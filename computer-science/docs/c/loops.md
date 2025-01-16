@@ -17,7 +17,7 @@ for (int i = 0; i < 3; i++) {
 - Do something as long as the condition after the `while` keyword is true
 - You cannot define the [variable](computer-science/docs/c/variables.md) in the `while` loop like in a `for` loop
 
-```c
+```python
 int i = 0
 while (i < 3) {
 	// do something three times

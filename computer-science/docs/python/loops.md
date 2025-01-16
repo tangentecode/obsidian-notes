@@ -5,7 +5,7 @@
 - Iterates the code in the code as long the condition (the second parameter) is no longer met:
 - Conditions need to have an [operator](computer-science/docs/python/operators.md) in most cases
 
-```c
+```python
 for (int i = 0; i < 3; i++) {
 	// do something three times
 ```
