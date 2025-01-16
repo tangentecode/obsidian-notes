@@ -10,5 +10,9 @@
 - `pip` comes preinstalled with Python 3.4 or higher
 - Check installation with
 ```bash
-pip 
+pip —version
+```
+- If, for some reason, it didn’t install correctly run:
+```bash
+python get-pip.py
 ```
