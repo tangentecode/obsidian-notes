@@ -2,4 +2,4 @@
 ```python
 print("Hello, world!")
 ```
-- A new line get
+- After the print statement there is no need for a new line character because it aumatically moves the new line
