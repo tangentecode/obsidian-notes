@@ -8,6 +8,10 @@ zahl_b = int(input("Zweite Zahl: "))
 
 while zahl_b > 0:    # Oder: zahl_b != 0
     rest = zahl_a % zahl_b
-    zahl_a 
+    zahl_a = zahl_b
+    zahl_b = rest
+
+# Ausgabe
+print()
 
 ```
