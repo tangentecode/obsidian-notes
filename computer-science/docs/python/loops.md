@@ -7,7 +7,7 @@
 
 ```python
 for (int i = 0; i < 3; i++) {
-	// do something three times
+	# do something three times
 ```
 
 
@@ -16,18 +16,17 @@ for (int i = 0; i < 3; i++) {
 - Do something as long as the condition after the `while` keyword is true
 - You cannot define the [variable](computer-science/docs/c/variables.md) in the `while` loop like in a `for` loop
 
-```c
+```python
 int i = 0
 while (i < 3) {
-	// do something three times
+	# do something three times
 	i++;
 }
 ```
 
 - If you want to create an infinite loop:
 
-```c
-while (true) {
-	// cancel with control+c
-}
+```python
+while True:
+	# cancel with control+c
 ```
