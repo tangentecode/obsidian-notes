@@ -1,3 +1,4 @@
+
 - Benutzt man um den **Größter Gemeinsamer Teiler** berechnen
 - Vollständiger code in [Python](contents-python.md):
 
@@ -12,6 +13,6 @@ while zahl_b > 0:    # Oder: zahl_b != 0
     zahl_b = rest
 
 # Ausgabe
-print()
+print(zahl_b) # Oder: rest
 
 ```
