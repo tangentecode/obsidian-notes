@@ -36,5 +36,11 @@ elif user_input == 3:
 
 - A much cleaner [style](computer-science/docs/python/style.md) of handling this is with an input match case scenario:
 ```python
-match input("Ente)
+case input("Enter 1, 2 or 3: "):
+    match 1:
+        # do something
+    match 2:
+        # do something
+    match 3:
+        # do something
 ```
