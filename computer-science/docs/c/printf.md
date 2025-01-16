@@ -1,6 +1,6 @@
 ## Explanation
 
-- Part of [stdio.h library](libraries.md)
+- Part of [stdio.h library](computer-science/docs/c/libraries.md)
 - [Manual](https://manual.cs50.io/3/printf)
 - Print to the screen
 

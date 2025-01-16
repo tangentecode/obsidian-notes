@@ -2,7 +2,7 @@
 
 | Data type     | [types](computer-science/docs/c/types.md) (e.g. int, char)                              |
 | ------------- | --------------------------------------------------------------- |
-| Variable name | Anything apart from [[functions]] names (recommended [[computer-science/docs/c/style]]) |
+| Variable name | Anything apart from [[computer-science/docs/c/functions]] names (recommended [[computer-science/docs/c/style]]) |
 | Value         | Needs to be from the data [types](computer-science/docs/c/types.md) declared before     |
 
 ## Declaration
