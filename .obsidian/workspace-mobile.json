@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/types.md",
+                "file": "computer-science/docs/javascript/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "types"
+              "title": "Untitled"
             }
           },
           {
@@ -175,9 +175,11 @@
   },
   "active": "a6d426d501264dbc",
   "lastOpenFiles": [
+    "computer-science/docs/python/operators.md",
+    "computer-science/docs/javascript/Untitled.md",
+    "computer-science/docs/python/types.md",
     "computer-science/docs/python/variables.md",
     "computer-science/docs/python/style.md",
-    "computer-science/docs/python/types.md",
     "computer-science/docs/python/setup.md",
     "computer-science/docs/basics/ascii.md",
     "computer-science/courses/cs50p/content-cs50p.md",
@@ -200,8 +202,6 @@
     "computer-science/docs/python/os-library/content-os.md",
     "computer-science/docs/basics/rgb.md",
     "computer-science/docs/c/functions.md",
-    "computer-science/docs/python/pyqt6-guide/pyqt6-guide.md",
-    "computer-science/projects/content-repositorys.md",
     "/computer-science/docs/python/pyqt6-guide/empty-window.png",
     "computer-science/projects",
     "computer-science/docs/python/os-library",

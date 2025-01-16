@@ -3,7 +3,7 @@
 ## `for` loop
 
 - Iterates the code in the code as long the condition (the second parameter) is no longer met:
-- Conditions need to have an [operators](operators.md) in most cases
+- Conditions need to have an [operators](computer-science/docs/c/operators.md) in most cases
 
 ```c
 for (int i = 0; i < 3; i++) {
