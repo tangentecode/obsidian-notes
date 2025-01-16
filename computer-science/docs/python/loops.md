@@ -14,7 +14,7 @@ for i in range(3):
 ## `while` loop
 
 - Do something as long as the condition after the `while` keyword is true
-- You cannot define the [variable](computer-science/docs/c/variables.md) in the `while` loop like in a `for` loop
+- You cannot define the [variables](computer-science/docs/python/variables.md) in the `while` loop like in a `for` loop
 
 ```python
 i = 0
