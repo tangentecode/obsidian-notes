@@ -1,0 +1,1 @@
+- Define a function with the `def` keyword

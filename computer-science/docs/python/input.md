@@ -17,6 +17,7 @@ age = int(input("Age: "))
 ```
 
 ## Tricks
+
 - You have three options:
 ```python
 print("1. Option")
