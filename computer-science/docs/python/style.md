@@ -1,2 +1,2 @@
 - For advanced information refer to [PEP 8 Style Guide](https://peps.python.org/pep-0008/)
-- fo
+- 
