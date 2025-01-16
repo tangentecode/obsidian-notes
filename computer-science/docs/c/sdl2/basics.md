@@ -14,4 +14,7 @@ sudo cmake --install . --config Release
 sudo make install
 ```
 
-- Compile 
+- Compile [C](contents-c.md) code with:
+```bash
+gcc -o myprogram myprogram.c `sdl2-config --cflags --libs`
+```
