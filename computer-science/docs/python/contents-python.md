@@ -1,8 +1,12 @@
 
 1. [PyQt](content-pyqt.md)
 2. [OS](content-os.md)
-3. [regex](computer-science/docs/python/regex.md)
-4. [types](computer-science/docs/python/types.md)
-5. [variables](computer-science/docs/python/variables.md)
-6. [conditionals](computer-science/docs/python/conditionals.md)
-7. [[lo]]
+3. [setup](setup.md)
+4. [regex](computer-science/docs/python/regex.md)
+5. [types](computer-science/docs/python/types.md)
+6. [variables](computer-science/docs/python/variables.md)
+7. [ouput](ouput.md)
+8. [input](computer-science/docs/python/input.md)
+9. [conditionals](computer-science/docs/python/conditionals.md)
+10. [loops](computer-science/docs/python/loops.md)
+11. [functions](computer-science/docs/c/functions.md)
