@@ -6,6 +6,6 @@
 zahl_a = int(input("Erste Zahl: "))
 zahl_b = int(input("Zweite Zahl: "))
 
-
+while zahl_b > 0:    # Oder: Zahl_ != 0
 
 ```
