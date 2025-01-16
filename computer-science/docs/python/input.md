@@ -17,3 +17,8 @@ age = int(input("Age: "))
 ```
 
 ## Tricks
+
+- Often you end up creating a pattern like this:
+```python
+print()
+```
