@@ -3,7 +3,7 @@
 3. [types](computer-science/docs/c/types.md)
 4. [operators](operators.md)
 5. [printf](printf.md)
-6. [variables](variables.md)
+6. [variables](computer-science/docs/c/variables.md)
 7. [conditionals](conditionals.md)
 8. [loops](loops.md)
 9. [functions](functions.md)

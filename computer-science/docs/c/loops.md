@@ -15,7 +15,7 @@ for (int i = 0; i < 3; i++) {
 ## `while` loop
 
 - Do something as long as the condition after the `while` keyword is true
-- You cannot define the [variable](variables.md) in the `while` loop like in a `for` loop
+- You cannot define the [variable](computer-science/docs/c/variables.md) in the `while` loop like in a `for` loop
 
 ```c
 int i = 0

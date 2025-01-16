@@ -89,7 +89,7 @@ main:
 
 - Used to chain multiple values of the same [type](computer-science/docs/c/types.md) together
 - The values live at an index on the `Array` that start with 0 directly after each other in memory
-- Declare `Arrays` like in [variables](variables.md)
+- Declare `Arrays` like in [variables](computer-science/docs/c/variables.md)
 
 ## Strings
 
