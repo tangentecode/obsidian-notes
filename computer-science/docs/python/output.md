@@ -1,3 +1,4 @@
+
 - The standard way of outputting text in the Command Line when not using a gui ([pyqt6](pyqt6-guide.md)) is the `print()` function:
 ```python
 print("Hello, world!")
@@ -10,5 +11,7 @@ print("\n")
 
 - To stay on the same line use the `end` parameter like this:
 ```python
-print(Hello, ")
+print("Hello, ", end="")
+# Cursor stays on the same line
+print("world!")
 ```
