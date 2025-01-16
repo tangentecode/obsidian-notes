@@ -1,3 +1,6 @@
+
+## Basics
+
 - To create a typable input field use the `input()` function:
 ```python
 input("Name: ")
@@ -10,5 +13,7 @@ name = input("Name: ")
 
 - Use different [types](computer-science/docs/python/types.md) to specify what can be inputted by the user
 ```python
-age = int(input)
+age = int(input("Age: "))
 ```
+
+## Tricks
