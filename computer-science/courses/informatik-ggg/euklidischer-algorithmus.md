@@ -1,0 +1,1 @@
+- Benutzt man **Größter Gemeinsamer Teiler** berechnen
