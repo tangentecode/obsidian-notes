@@ -2,15 +2,12 @@
 with multiple conditions
 
 ```c
-if (x > y) {
+if x > y:
 	// do something
-}
-else if (x < y) {
+elif x < y:
 	// do something else
-}
-else {
+else:
 	// previous conditions not met
-}
 ```
 
 ## Chain conditions
