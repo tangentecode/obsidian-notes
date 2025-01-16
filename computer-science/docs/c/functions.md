@@ -2,7 +2,7 @@
 
 | Return type    | `int`, `char`,... (No return value: `void`)                                     |
 | -------------- | ------------------------------------------------------------------------------- |
-| Functions name | Anything apart from variable names (Recomended [style](style.md))               |
+| Functions name | Anything apart from variable names (Recomended [style](computer-science/docs/c/style.md))               |
 | Parameters     | Data passed in to the local scope of the function (use `void` for no paramters) |
 ## Example
 

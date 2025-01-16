@@ -7,7 +7,7 @@
 7. [conditionals](conditionals.md)
 8. [loops](loops.md)
 9. [functions](functions.md)
-10. [style](style.md)
+10. [style](computer-science/docs/c/style.md)
 11. [allocate-memory](allocate-memory.md)
 12. [access-memory](access-memory.md)
 13. [reallocate-memory](reallocate-memory.md)
