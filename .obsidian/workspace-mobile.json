@@ -11,10 +11,14 @@
             "id": "8bca1cfcae310bc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50p/content-cs50p.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "content-cs50p"
             }
           }
         ]
@@ -143,6 +147,9 @@
   },
   "active": "8bca1cfcae310bc2",
   "lastOpenFiles": [
+    "computer-science/courses/content-courses.md",
+    "computer-science/content-computer-science.md",
+    "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/html/hyperlinks.md",
     "computer-science/projects/2048-python-pyqt6-project.md",
     "computer-science/docs/c/reallocate-memory.md",
@@ -167,9 +174,6 @@
     "computer-science/docs/c/style.md",
     "computer-science/projects/basic-geometry-engine.md",
     "computer-science/docs/python/pyqt6-guide/important-points/button.md",
-    "computer-science/docs/python/os-library/example-code.md",
-    "computer-science/docs/python/pyqt6-guide/important-points/init.md",
-    "computer-science/docs/c/contents-c.md",
     "/computer-science/docs/python/pyqt6-guide/empty-window.png",
     "computer-science/projects",
     "computer-science/docs/python/os-library",
