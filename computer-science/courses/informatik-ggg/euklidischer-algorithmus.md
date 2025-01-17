@@ -34,6 +34,6 @@ int main (void)
 
 
 
-	
+	while (zahl_b > 0) // 
 }
 ```
