@@ -36,7 +36,9 @@ int main (void)
 
 	while (zahl_b > 0) // Oder: zahl_b != 0
 	{
-		rest = zahl_a %	
+		rest = zahl_a % zahl_b;
+		a = b;
+		b = r;
 	}
 }
 ```
