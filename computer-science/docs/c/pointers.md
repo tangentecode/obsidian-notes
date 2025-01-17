@@ -11,6 +11,8 @@ int x = 4;
 ```c
 int * pX = &x;
 ```
+
+- English: integer pointer named pX is set to the adress of x
 - 
 
 ### Memory:
@@ -18,7 +20,7 @@ int * pX = &x;
 | Adress | Value |
 | ------ | ----- |
 | 0x1000 | Ox4   |
-| 0x1004 |       |
+| 0x1004 | 0x    |
 | 0x1008 |       |
 | 0x100C |       |
 | ...    |       |
