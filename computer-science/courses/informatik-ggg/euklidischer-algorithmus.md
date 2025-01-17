@@ -14,7 +14,7 @@ while zahl_b > 0:    # Oder: zahl_b != 0
 
 # Ausgabe
 
-print(zahl_b) # Oder: rest
+print("Größter Gemeinsamer Teiler: ", zahl_a)
 ```
 
  - Vollständiger code in [C](contents-c.md):
@@ -40,6 +40,6 @@ int main (void)
 		zahl_b = rest;		
 	}
 
-	printf("Größter Gemeinsamer Teiler: %i", zahl_b); // Oder: rest
+	printf("Größter Gemeinsamer Teiler: %i", zahl_b);
 }
 ```
