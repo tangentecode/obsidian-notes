@@ -39,6 +39,7 @@ int main (void)
 		rest = zahl_a % zahl_b;
 		a = b;
 		b = r;
+		
 	}
 }
 ```
