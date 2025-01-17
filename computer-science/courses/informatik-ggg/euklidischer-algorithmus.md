@@ -41,5 +41,7 @@ int main (void)
 		b = r;
 		
 	}
+
+	printf("Größter Gemeinsamer Teil%i)
 }
 ```
