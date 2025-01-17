@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/compiling.md",
+                "file": "schule/Deutsch/Rezension.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "compiling"
+              "title": "Rezension"
             }
           }
         ]
@@ -147,8 +147,9 @@
   },
   "active": "377454511187b814",
   "lastOpenFiles": [
-    "computer-science/docs/c/run-programm.md",
+    "schule/Deutsch/Rezension Wociek.md",
     "computer-science/docs/c/compiling.md",
+    "computer-science/docs/c/run-programm.md",
     "computer-science/docs/c/contents-c.md",
     "computer-science/docs/c/cs50-lib.md",
     "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
@@ -177,7 +178,6 @@
     "computer-science/docs/javascript/Untitled.md",
     "computer-science/docs/python/operators.md",
     "computer-science/docs/python/types.md",
-    "computer-science/docs/python/setup.md",
     "computer-science/docs/python/pyqt6-guide/empty-window.png",
     "/computer-science/docs/python/pyqt6-guide/empty-window.png",
     "computer-science/projects",
