@@ -2,10 +2,11 @@
 
 ### Memory:
 
+- Create variable:
 ```c
 int x = 4;
 ```
-
+- Pointer to variable
 
 | Adress | Value |
 | ------ | ----- |
@@ -15,7 +16,11 @@ int x = 4;
 | 0x100C |       |
 | ...    |       |
 
+### 
 
+```c
+int * pX = &x;
+```
 
 
 
