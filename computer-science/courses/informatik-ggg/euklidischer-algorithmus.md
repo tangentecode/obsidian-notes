@@ -40,6 +40,6 @@ int main (void)
 		zahl_b = rest;		
 	}
 
-	printf("Größter Gemeinsamer Teiler: %i", zahl_b);
+	printf("Größter Gemeinsamer Teiler: %i", zahl_a);
 }
 ```
