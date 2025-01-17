@@ -13,6 +13,11 @@ while zahl_b > 0:    # Oder: zahl_b != 0
     zahl_b = rest
 
 # Ausgabe
+
 print(zahl_b) # Oder: rest
+```
+
+ - Vollständiger code in [C](contents-c.md):
+```c 
 
 ```
