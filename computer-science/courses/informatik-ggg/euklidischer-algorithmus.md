@@ -37,8 +37,7 @@ int main (void)
 	{
 		rest = zahl_a % zahl_b;
 		zahl_a = zahl_b;
-		zahl_b = rest;
-		
+		zahl_b = rest;		
 	}
 
 	printf("Größter Gemeinsamer Teiler: %i", zahl_b); // Oder: rest
