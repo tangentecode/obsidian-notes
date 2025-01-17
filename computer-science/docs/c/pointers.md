@@ -16,7 +16,8 @@ int * pX = &x;
 - English: integer pointer named `pX` is set to the address of `x`
 - If `*` is used next to a [type](computer-science/docs/c/types.md): **pointer to that type** 
 - No type nearby: **pointer get dereferenced** which means it takes the value at that location
-- The `&` sign 
+- The `&` sign just means **the address of the following variable**
+- [Naming conventions](computer-science/docs/c/style.md) for pointers are to
 
 ### Memory:
 
