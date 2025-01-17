@@ -1,12 +1,19 @@
 ## What is a pointer?
 
-### Memory:
 
 - Create variable:
 ```c
 int x = 4;
 ```
-- Pointer to variable
+
+
+- **Pointer to variable**
+```c
+int * pX = &x;
+```
+- 
+
+### Memory:
 
 | Adress | Value |
 | ------ | ----- |
@@ -18,9 +25,6 @@ int x = 4;
 
 ### 
 
-```c
-int * pX = &x;
-```
 
 
 
