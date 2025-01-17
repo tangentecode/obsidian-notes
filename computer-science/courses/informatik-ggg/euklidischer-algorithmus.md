@@ -33,7 +33,6 @@ int main (void)
 	scanf("%i\n", &zahl_b);
 
 
-
 	while (zahl_b > 0) // Oder: zahl_b != 0
 	{
 		rest = zahl_a % zahl_b;
@@ -42,6 +41,6 @@ int main (void)
 		
 	}
 
-	printf("Größter Gemeinsamer Teiler: %i", zahl_b);
+	printf("Größter Gemeinsamer Teiler: %i", zahl_b); // Oder: rest
 }
 ```
