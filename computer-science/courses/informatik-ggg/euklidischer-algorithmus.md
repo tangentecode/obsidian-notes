@@ -19,5 +19,6 @@ print(zahl_b) # Oder: rest
 
  - Vollständiger code in [C](contents-c.md):
 ```c 
+int zahl_a;
 
 ```
