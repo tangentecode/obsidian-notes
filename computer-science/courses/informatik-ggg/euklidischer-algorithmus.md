@@ -24,5 +24,8 @@ print(zahl_b) # Oder: rest
 int zahl_a;
 int zahl_b;
 
-printf("Erste)
+printf("Erste Zahl ");
+scanf("%i\n", &zahl_a);
+
+
 ```
