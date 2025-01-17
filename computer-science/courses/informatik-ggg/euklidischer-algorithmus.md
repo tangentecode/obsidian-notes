@@ -19,6 +19,10 @@ print(zahl_b) # Oder: rest
 
  - Vollständiger code in [C](contents-c.md):
 ```c 
+#include <
+
 int zahl_a;
+int zahl_b;
+
 
 ```
