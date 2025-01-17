@@ -21,12 +21,19 @@ print(zahl_b) # Oder: rest
 ```c 
 #include <stdio.h>
 
-int zahl_a;
-int zahl_b;
+int main (void)
+{
+	int zahl_a;
+	int zahl_b;
 
-printf("Erste Zahl: ");
-scanf("%i\n", &zahl_a);
+	printf("Erste Zahl: ");
+	scanf("%i\n", &zahl_a);
 
-printf("Zweite Zahl: ");
-scanf("%i\n", &zahl_b);
+	printf("Zweite Zahl: ");
+	scanf("%i\n", &zahl_b);
+
+
+
+	
+}
 ```
