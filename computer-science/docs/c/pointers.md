@@ -13,8 +13,8 @@ int * pX = &x;
 ```
 
 - English: integer pointer named `pX` is set to the address of `x`
-- If `*` is used next of a [type](computer-science/docs/c/types.md) 
-
+- If `*` is used next to a [type](computer-science/docs/c/types.md) it gets handled like an  **pointer to that typ **
+ 
 ### Memory:
 
 | Adress | Value       |
