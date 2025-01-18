@@ -75,4 +75,5 @@
 ### Install
 
 1. Hit **install** or **save configuration**
-2. After 
+2. After complete say no to the `chroot` envirement
+3. If you see that the installation was successful type `su`
