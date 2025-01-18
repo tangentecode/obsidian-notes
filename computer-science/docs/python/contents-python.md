@@ -5,7 +5,7 @@
 4. [regex](computer-science/docs/python/regex.md)
 5. [types](computer-science/docs/python/types.md)
 6. [variables](computer-science/docs/python/variables.md)
-7. [ouput](ouput.md)
+7. [output](computer-science/docs/c/output.md)
 8. [input](computer-science/docs/python/input.md)
 9. [conditionals](computer-science/docs/python/conditionals.md)
 10. [loops](computer-science/docs/python/loops.md)
