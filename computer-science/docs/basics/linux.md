@@ -26,4 +26,8 @@
 	- just don't touch it the option
 
 6. **Bootloader:**
-	- select `Systemd` if you have one 
+	- select `Systemd` if you have one `os` installed on your system
+	- select `Grub` if you want to multiboot
+
+7. **Unified kernel images:**
+	- 
