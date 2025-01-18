@@ -1,6 +1,6 @@
 ## Pre-installation
 
-- download ISO (e.g. [Arch Linux](https://archlinux.org/) via **T**) 
+- download ISO (e.g. [Arch Linux](https://archlinux.org/) via [Torrent](https://www.qbittorrent.org/download)) 
 - burn to flash drive (on Windows use [Rufus](https://rufus.ie/de/)) 
 - boot into it using **Boot Manager** or **BIOS/UEFI**
 - run `ping google.com` [command](bash.md) to check internet connection
@@ -40,7 +40,7 @@
 
 9. **Root password:**
 	- this password is used to confirm any root operation (e.g. every `sudo` command)
-	- preferably a short password if you dont want type in a long password every time
+	- preferably a short password if you don't want type in a long password every time
 
 10. **User profiles:**
 	- make one profile which should also be a **superuser**
@@ -78,3 +78,4 @@
 2. After complete say no to the `chroot` environment
 3. If you see that the installation was successful type `sudo reboot`
 4. Before the computer starts booting again remove the flash drive
+5. Login to **KDE** with the user name 
