@@ -9,6 +9,8 @@
 
 ## Archinstall
 
+### Configuration:
+
 1. **Language:**
 	- select preferred language (en)
 
@@ -69,4 +71,7 @@
 
 18. **Automatic Time Sync:**
 	 - Leave **NTP** on
-	
+
+### Install
+
+1. Hit inst
