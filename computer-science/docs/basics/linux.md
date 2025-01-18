@@ -34,4 +34,7 @@
 
 8. **Hostname:**
 	- type a name for you computer
-	- 
+	- this is not the user name!
+
+9. **Root password:**
+	- this 
