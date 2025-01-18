@@ -18,4 +18,5 @@
 3. **Mirrors:**
 	- select nearest download mirror (de)
 
-4. 
+4. **Disk configuration:**
+	- 
