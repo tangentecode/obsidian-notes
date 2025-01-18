@@ -11,10 +11,14 @@
             "id": "f9e548dcb2cbffdb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/projects/first-linux-install.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "first-linux-install"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "active": "f9e548dcb2cbffdb",
   "lastOpenFiles": [
+    "computer-science/projects/first-linux-install.md",
     "computer-science/docs/c/pointers.md",
     "computer-science/docs/c/allocate-memory.md",
     "computer-science/docs/c/output.md",
@@ -190,7 +195,6 @@
     "computer-science/docs/python/pyqt6-guide/content-pyqt.md",
     "computer-science/docs/c/reallocate-memory.md",
     "computer-science/docs/c/access-memory.md",
-    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/basics",
     "computer-science/docs/python/flask",
     "computer-science/docs/css",
