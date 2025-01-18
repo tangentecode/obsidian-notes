@@ -1,4 +1,5 @@
-- Download ISO: [Arch](https://archlinux.org/)
-- Burn to flash drive (on Windows use [Rufus](https://rufus.ie/de/)) 
-- Boot into it using **Boot Manager** or **BIOS/UEFI**
-- run
+- download ISO: [Arch](https://archlinux.org/)
+- burn to flash drive (on Windows use [Rufus](https://rufus.ie/de/)) 
+- boot into it using **Boot Manager** or **BIOS/UEFI**
+- run `ping google.com` [command](bash.md) to check internet connection
+- 
