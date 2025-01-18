@@ -78,4 +78,4 @@
 2. After complete say no to the `chroot` environment
 3. If you see that the installation was successful type `sudo reboot`
 4. Before the computer starts booting again remove the flash drive
-5. Login to **KDE** with the user name 
+5. Login to **KDE** with the user name and password specified during the configuration process (**Tip:** type in ) 
