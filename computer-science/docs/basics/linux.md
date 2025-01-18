@@ -74,6 +74,5 @@
 
 ### Install
 
-> Hit **install** or **save configuration**
-
-
+1. Hit **install** or **save configuration**
+2. After 
