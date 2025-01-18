@@ -37,4 +37,5 @@
 	- this is not the user name!
 
 9. **Root password:**
-	- this 
+	- this password is used to confirm any root operation (e.g. every `sudo` command)
+	- preferably 
