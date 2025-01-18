@@ -74,4 +74,6 @@
 
 ### Install
 
-1. Hit inst
+> Hit **install** or **save configuration**
+
+
