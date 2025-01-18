@@ -62,4 +62,9 @@
 	- Example: `neovim git obsidian`
 
 16. **Optional Repositorys:**
-	- 
+	- Leave default
+
+17. **Timezone:**
+	 - Select current timezone
+
+18. 
