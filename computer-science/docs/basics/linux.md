@@ -1,6 +1,6 @@
 ## Pre-installation
 
-- download ISO (e.g. [Arch Linux](https://archlinux.org/))
+- download ISO (e.g. [Arch Linux](https://archlinux.org/) via **T**) 
 - burn to flash drive (on Windows use [Rufus](https://rufus.ie/de/)) 
 - boot into it using **Boot Manager** or **BIOS/UEFI**
 - run `ping google.com` [command](bash.md) to check internet connection
