@@ -9,9 +9,13 @@
 
 ## Archinstall
 
-1. **language:**
+1. **Language:**
 	- select preferred language (en)
 
-2. locales:
+2. **Locales:**
 	 - select preferred keyboard layout (en) 
-	 -
+
+3. **Mirrors:**
+	- select nearest download mirror (de)
+
+4. 
