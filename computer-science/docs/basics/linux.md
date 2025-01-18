@@ -58,4 +58,5 @@
 	- Select **NetworkManager** if you use **KDE Plasma** or **Gnome**
 
 15. **Additional Packages:**
-	- 
+	- Define multiple packages to install; separated by spaces
+	- Example:
