@@ -10,4 +10,8 @@
 ## Archinstall
 
 1. **language:**
-		select preferred language (engli)
+	- select preferred language (en)
+
+2. locales:
+	 - select preferred keyboard layout (en) 
+	 -
