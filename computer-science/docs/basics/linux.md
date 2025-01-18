@@ -45,4 +45,5 @@
 
 11. **Profile:**
 	- for convenience choose **Desktop** sand select **KDE**
-	- If you have an **Nvidia Graphics Card** select driver and select **Nvidia (propriatery)**
+	- If you have an **Nvidia Graphics Card** select driver and select **Nvidia (proprietary)**
+	- Leave **Greeter**
