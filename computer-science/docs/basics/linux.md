@@ -23,6 +23,7 @@
 	- use `ext4` file system because its the most stable
 
 5. **Disk encryption:**
-	- just dont touch it the option
+	- just don't touch it the option
 
-6. 
+6. **Bootloader:**
+	- select `Systemd` if you have one 
