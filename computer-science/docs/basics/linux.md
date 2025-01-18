@@ -19,4 +19,6 @@
 	- select nearest download mirror (de)
 
 4. **Disk configuration:**
-	- 
+	- select the **best effort partition layout option**
+
+5. 
