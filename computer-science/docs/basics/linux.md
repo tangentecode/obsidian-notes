@@ -59,4 +59,7 @@
 
 15. **Additional Packages:**
 	- Define multiple packages to install; separated by spaces
-	- Example:
+	- Example: `neovim git obsidian`
+
+16. **Optional Repositorys:**
+	- 
