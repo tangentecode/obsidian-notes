@@ -30,4 +30,8 @@
 	- select `Grub` if you want to multiboot
 
 7. **Unified kernel images:**
+	- skip this option
+
+8. **Hostname:**
+	- type a name for you computer
 	- 
