@@ -54,4 +54,5 @@
 13. **Kernel:**
 	- standard **linux** kernel
 
-14. ****
+14. **Network configuration:**
+	- Select **NetworkManager** if you use **KDE**
