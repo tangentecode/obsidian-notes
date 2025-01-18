@@ -65,6 +65,8 @@
 	- Leave default
 
 17. **Timezone:**
-	 - Select current timezone
+	 - Select current Timezone
 
-18. 
+18. **Automatic Time Sync:**
+	 - Leave **NTP** on
+	
