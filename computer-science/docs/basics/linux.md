@@ -49,4 +49,9 @@
 	- Leave the **greeter** as **default**
 
 12. **Audio:**
-	- Select **Pipewire** because its very mode
+	- Select **Pipewire** because its very modern and stable
+
+13. **Kernel:**
+	- standard **linux** kernel
+
+14. ****
