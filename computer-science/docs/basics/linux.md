@@ -1,3 +1,4 @@
 - Download ISO: [Arch](https://archlinux.org/)
 - Burn to flash drive (on Windows use [Rufus](https://rufus.ie/de/)) 
-- 
+- Boot into it using **Boot Manager** or **BIOS/UEFI**
+- run
