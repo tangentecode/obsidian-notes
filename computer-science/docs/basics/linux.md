@@ -8,3 +8,6 @@
 - to make the installation process easier run `archinstall`
 
 ## Archinstall
+
+1. **language:**
+		select preferred language (engli)
