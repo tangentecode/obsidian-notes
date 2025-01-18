@@ -43,4 +43,5 @@
 10. **User profiles:**
 	- make one profile which should also be a **superuser**
 
-11. 
+11. **Profile:**
+	- for convenience choose **Desktop** sand select **KDE**
