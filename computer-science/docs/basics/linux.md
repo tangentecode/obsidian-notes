@@ -55,4 +55,7 @@
 	- standard **linux** kernel
 
 14. **Network configuration:**
-	- Select **NetworkManager** if you use **KDE**
+	- Select **NetworkManager** if you use **KDE Plasma** or **Gnome**
+
+15. **Additional Packages:**
+	- 
