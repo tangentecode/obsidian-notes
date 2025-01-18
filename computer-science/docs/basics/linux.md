@@ -75,5 +75,6 @@
 ### Install
 
 1. Hit **install** or **save configuration**
-2. After complete say no to the `chroot` envirement
-3. If you see that the installation was successful type `su`
+2. After complete say no to the `chroot` environment
+3. If you see that the installation was successful type `sudo reboot`
+4. Before the computer starts booting again remove the flash drive
