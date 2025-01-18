@@ -9,6 +9,7 @@
 
 ## Archinstall
 
+nvme0n1p
 ### Configuration:
 
 1. **Language:**
