@@ -1,2 +1,3 @@
 - Download ISO: [Arch](https://archlinux.org/)
-- Burn to 
+- Burn to flash drive (on Windows use [Rufus](https://rufus.ie/de/)) 
+- 
