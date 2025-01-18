@@ -46,4 +46,7 @@
 11. **Profile:**
 	- for convenience choose **Desktop** sand select **KDE**
 	- If you have an **Nvidia Graphics Card** select driver and select **Nvidia (proprietary)**
-	- Leave **Greeter**
+	- Leave the **greeter** as **default**
+
+12. **Audio:**
+	- Select **Pipewire** because its very mode
