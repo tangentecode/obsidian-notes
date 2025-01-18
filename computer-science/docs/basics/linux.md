@@ -38,4 +38,7 @@
 
 9. **Root password:**
 	- this password is used to confirm any root operation (e.g. every `sudo` command)
-	- preferably 
+	- preferably a short password if you dont want type in a long password every time
+
+10. **User profiles:**
+	- make one profile wich 
