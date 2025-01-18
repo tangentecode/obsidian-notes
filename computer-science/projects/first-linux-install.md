@@ -1,2 +1,0 @@
-- Distro: [Arch](https://archlinux.org/)
-- 
