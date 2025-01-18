@@ -41,4 +41,6 @@
 	- preferably a short password if you dont want type in a long password every time
 
 10. **User profiles:**
-	- make one profile wich 
+	- make one profile which should also be a **superuser**
+
+11. 
