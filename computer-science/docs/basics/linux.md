@@ -21,4 +21,8 @@
 4. **Disk configuration:**
 	- select the **best effort partition layout option**
 	- use `ext4` file system because its the most stable
-	- **no**
+
+5. **Disk encryption:**
+	- just dont touch it the option
+
+6. 
