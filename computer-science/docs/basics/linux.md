@@ -81,4 +81,6 @@ nvme0n1p4
 4. Before the computer starts booting again remove the flash drive
 5. Login to **KDE** with the user name and password specified during the configuration process (**Tip:** type in `root` as user name and and your root password if you want to perform multiple root actions for example after the installation) 
 
-## 
+## Manual install
+
+- For a manual install 
