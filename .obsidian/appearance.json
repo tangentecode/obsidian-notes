@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "",
-  "accentColor": "#976ef7",
+  "cssTheme": "Minimal",
+  "accentColor": "#012f7b",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrains Mono NL",
