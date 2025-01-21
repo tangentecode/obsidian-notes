@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workouts/25-1-23.md",
+                "file": "computer-science/projects/2048-python-pyqt6-project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-1-23"
+              "title": "2048-python-pyqt6-project"
             }
           }
         ]
@@ -145,8 +145,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "1fab19fff17b06d3",
+  "active": "ab3a2c172c89a8ae",
   "lastOpenFiles": [
+    "workouts/25-12-24.md",
+    "workouts/24-12-28.md",
+    "workouts/25-1-23.md",
+    "workouts/24-12-26.md",
     "workouts/24-12-21.md",
     "workouts/25-1-22.md",
     "workouts/25-1-19.md",
@@ -169,10 +173,6 @@
     "workouts/25-1-3.md",
     "workouts/25-1-21.md",
     "workouts/25-1-20.md",
-    "workouts/25-1-2.md",
-    "workouts/24-12-14.md",
-    "workouts/25-1-23.md",
-    "workouts/20-1-25.md",
     "workouts/cheat-sheet .txt",
     "computer-science/docs/basics/linux",
     "workouts/text 20.txt",
