@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f22845cb1f9a7063",
+        "id": "1ff1d9128760b043",
         "type": "tabs",
         "children": [
           {
-            "id": "0b6428e3038ab53d",
+            "id": "3761f129aef6ce95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "workouts/contents-workout.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "contents-workout"
+              "title": "New tab"
             }
           }
         ]
@@ -148,7 +144,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b6428e3038ab53d",
+  "active": "3761f129aef6ce95",
   "lastOpenFiles": [
     "workouts/contents-workout.md",
     "computer-science/docs/basics/linux.md",
