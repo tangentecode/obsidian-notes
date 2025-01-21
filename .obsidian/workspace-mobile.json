@@ -165,6 +165,26 @@
         "state": {
           "type": "map-of-content",
           "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "e0e01821a7d21d7f",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      },
+      {
+        "id": "223507b280e2e0ca",
+        "type": "leaf",
+        "state": {
+          "type": "map-of-content",
+          "state": {},
           "icon": "stacked-levels",
           "title": "Map of Content"
         }
@@ -183,8 +203,19 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "bde28a9b8baac1a7",
+  "active": "223507b280e2e0ca",
   "lastOpenFiles": [
+    "workouts/text 23.txt",
+    "workouts/text 22.txt",
+    "workouts/text 20.txt",
+    "workouts/text 21.txt",
+    "workouts/text 25.txt",
+    "workouts/text 31.txt",
+    "workouts/text 19.txt",
+    "workouts/text 18.txt",
+    "workouts/text 30.txt",
+    "workouts/text 24.txt",
+    "workouts/text 26.txt",
     "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/docs/basics/linux.md",
     "computer-science/docs/c/raylib.md",
@@ -210,18 +241,7 @@
     "schule/Deutsch/Rezension Wociek.md",
     "computer-science/docs/c/compiling.md",
     "computer-science/docs/c/run-programm.md",
-    "computer-science/docs/c/contents-c.md",
-    "computer-science/docs/c/sdl2",
-    "/computer-science/docs/c/sdl2",
-    "computer-science/courses/informatik-ggg",
-    "computer-science/Untitled",
-    "computer-science/docs/python/Untitled",
     "computer-science/docs/python/pyqt6-guide/empty-window.png",
-    "/computer-science/docs/python/pyqt6-guide/empty-window.png",
-    "computer-science/projects",
-    "computer-science/docs/python/os-library",
-    "computer-science/docs/python/flask",
-    "computer-science/docs/javascript",
-    "computer-science/docs/html"
+    "/computer-science/docs/python/pyqt6-guide/empty-window.png"
   ]
 }
