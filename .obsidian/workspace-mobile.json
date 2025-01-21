@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/linux/system-services.md",
+                "file": "computer-science/docs/basics/linux/package-managers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "system-services"
+              "title": "package-managers"
             }
           }
         ]
@@ -148,6 +148,7 @@
   "active": "b5c5535f6cb33490",
   "lastOpenFiles": [
     "computer-science/docs/basics/linux/system-services.md",
+    "computer-science/docs/basics/linux/package-managers.md",
     "workouts/25-1-22.md",
     "workouts/25-1-21.md",
     "workouts/25-1-23.md",
@@ -172,7 +173,6 @@
     "workouts/24-12-11.md",
     "workouts/25-1-11.md",
     "workouts/24-12-10.md",
-    "workouts/25-1-9.md",
     "workouts/cheat-sheet .txt",
     "computer-science/docs/basics/linux",
     "workouts/text 20.txt",
