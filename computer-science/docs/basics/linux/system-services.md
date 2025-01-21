@@ -1,3 +1,3 @@
 ## Systemctl
 
-- on Arch use the 
+- on Arch use the `systemctl ` [command](bash.md)  
