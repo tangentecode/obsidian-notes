@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workouts/text 29.md",
+                "file": "workouts/text 30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "text 29"
+              "title": "text 30"
             }
           }
         ]
@@ -147,8 +147,8 @@
   },
   "active": "1fab19fff17b06d3",
   "lastOpenFiles": [
+    "workouts/22-1-25.md",
     "workouts/20-1-25.md",
-    "workouts/text 29.md",
     "workouts/19-1-25.md",
     "workouts/18-1-25.md",
     "workouts/16-1-25.md",
