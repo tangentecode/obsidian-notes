@@ -128,38 +128,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "16c0aaee1950327a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2932d9b8958eaa1",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ]
-      },
-      {
-        "id": "32eb6874b2cd68de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "651bef5a7103caad",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Map of Content"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +145,7 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "651bef5a7103caad",
+  "active": "18a0c9a5492c7b1e",
   "lastOpenFiles": [
     "computer-science/docs/basics/linux.md",
     "computer-science/projects/first-linux-install.md",
