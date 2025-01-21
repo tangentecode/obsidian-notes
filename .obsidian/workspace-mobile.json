@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workouts/text 15.md",
+                "file": "workouts/text 20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "text 15"
+              "title": "text 20"
             }
           }
         ]
@@ -147,6 +147,10 @@
   },
   "active": "1fab19fff17b06d3",
   "lastOpenFiles": [
+    "workouts/5-1-25.md",
+    "workouts/3-1-25.md",
+    "workouts/2-1-25.md",
+    "workouts/29-12-24.md",
     "workouts/28-12-24.md",
     "workouts/26-12-24.md",
     "workouts/25-12-24.md",
@@ -166,13 +170,9 @@
     "computer-science/docs/javascript/intro.md",
     "workouts/text 27.md",
     "workouts/text 23.md",
-    "workouts/text 17.md",
     "workouts/text 22.md",
     "workouts/text 26.md",
-    "workouts/text 19.md",
     "workouts/text 29.md",
-    "workouts/text 28.md",
-    "workouts/text 18.md",
     "workouts/cheat-sheet .txt",
     "computer-science/docs/basics/linux",
     "workouts/text 20.txt",
