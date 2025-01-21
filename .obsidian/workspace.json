@@ -11,10 +11,14 @@
             "id": "3761f129aef6ce95",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "workouts/24-12-6.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "24-12-6"
             }
           }
         ]
