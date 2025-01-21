@@ -1,6 +1,7 @@
 ## Arch
 
 ### Pacman
+
 -  **official** and **save** package manager
 -  install packages like this:
 ```shell 
@@ -14,4 +15,10 @@ pacman -Sy _package_name1_ _package_name2_ ...
 ```shell
 pacman -R _package_name1_ _package_name2_ ...
 ```
-- update all packages 
+- update all packages
+```shell
+pacman -Syu
+```
+
+### yay or paru
+
