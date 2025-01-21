@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
+                "file": "workouts/text.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "euklidischer-algorithmus"
+              "title": "text"
             }
           }
         ]
@@ -147,6 +147,7 @@
   },
   "active": "1fab19fff17b06d3",
   "lastOpenFiles": [
+    "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/docs/javascript/intro.md",
     "workouts/text.md",
     "workouts/text 13.md",
@@ -173,7 +174,6 @@
     "workouts/text 31.md",
     "workouts/text 11.md",
     "workouts/text 25.md",
-    "workouts/text 8.md",
     "computer-science/docs/basics/linux",
     "workouts/text 20.txt",
     "workouts/text 21.txt",
