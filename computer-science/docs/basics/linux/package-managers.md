@@ -6,4 +6,4 @@
 ```shell 
 pacman -S _package_name1_ _package_name2_ ...
 ```
-
+- 

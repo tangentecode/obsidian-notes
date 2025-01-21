@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/linux/package-managers.md",
+                "file": "computer-science/docs/basics/linux/system-services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "package-managers"
+              "title": "system-services"
             }
           }
         ]
@@ -147,8 +147,8 @@
   },
   "active": "b5c5535f6cb33490",
   "lastOpenFiles": [
-    "computer-science/docs/basics/linux/system-services.md",
     "computer-science/docs/basics/linux/package-managers.md",
+    "computer-science/docs/basics/linux/system-services.md",
     "workouts/25-1-22.md",
     "workouts/25-1-21.md",
     "workouts/25-1-23.md",
