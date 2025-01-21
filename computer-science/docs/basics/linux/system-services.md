@@ -2,15 +2,15 @@
 
 - on Arch use the `systemctl`  [command](bash.md) like this:
 ```shell 
-
-sudo systemctl enable name.service
+# for system processes
+sudo systemctl enable name.service 
 sudo systemctl disable name.service
 sudo systemctl start name.service
 sudo systemctl stop name.service
 sudo systemctl restart name.service
 sudo systemctl status name.service
 
-
+# for user processes
 systemctl —user enable name.service
 systemctl —user disable name.service
 systemctl —user start name.service
