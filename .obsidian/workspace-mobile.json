@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workouts/13-12-24.md",
+                "file": "workouts/text 11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13-12-24"
+              "title": "text 11"
             }
           }
         ]
@@ -147,8 +147,11 @@
   },
   "active": "1fab19fff17b06d3",
   "lastOpenFiles": [
-    "workouts/text 7.md",
     "workouts/31-12-24.md",
+    "workouts/21-12-24.md",
+    "workouts/17-12-24.md",
+    "workouts/16-12-24.md",
+    "workouts/14-12-24.md",
     "workouts/13-12-24.md",
     "workouts/11-12-24.md",
     "workouts/10-12-24.md",
@@ -171,9 +174,6 @@
     "workouts/cheat-sheet .txt",
     "workouts/text 21.md",
     "workouts/text 15.md",
-    "workouts/text 31.md",
-    "workouts/text 11.md",
-    "workouts/text 25.md",
     "computer-science/docs/basics/linux",
     "workouts/text 20.txt",
     "workouts/text 21.txt",
