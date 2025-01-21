@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workouts/text.md",
+                "file": "workouts/9-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "text"
+              "title": "9-1"
             }
           }
         ]
@@ -147,15 +147,16 @@
   },
   "active": "1fab19fff17b06d3",
   "lastOpenFiles": [
+    "workouts/6-12-24.md",
+    "workouts/31-12-24.md",
+    "workouts/20-1-25.md",
     "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/docs/javascript/intro.md",
-    "workouts/text.md",
     "workouts/text 13.md",
     "workouts/text 27.md",
     "workouts/text 23.md",
     "workouts/text 17.md",
     "workouts/text 22.md",
-    "workouts/text 16.md",
     "workouts/text 12.md",
     "workouts/text 26.md",
     "workouts/text 19.md",
@@ -166,8 +167,7 @@
     "workouts/text 18.md",
     "workouts/cheat-sheet .txt",
     "workouts/text 6.md",
-    "workouts/text 2.md",
-    "workouts/text 3.md",
+    "workouts/9-1.md",
     "workouts/text 7.md",
     "workouts/text 21.md",
     "workouts/text 15.md",
