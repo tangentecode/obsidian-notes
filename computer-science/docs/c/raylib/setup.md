@@ -8,4 +8,7 @@ git clone https://github.com/TangenteLakai/raylib-template.git new-project
 #include "raylib.h"
 ```
 
-3. Run `make` ot
+3. Run `make` or:
+```shell
+gcc main.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o 
+```
