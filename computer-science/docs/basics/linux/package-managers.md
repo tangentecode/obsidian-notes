@@ -28,3 +28,4 @@ Parameters:
 > to perform most operations with **pacman** you need to be root
 ### yay or paru
 
+-simplifies 
