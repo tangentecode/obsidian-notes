@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84cb928d7de5b9ac",
+        "id": "f22845cb1f9a7063",
         "type": "tabs",
         "children": [
           {
-            "id": "18a0c9a5492c7b1e",
+            "id": "0b6428e3038ab53d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "workouts/contents-workout.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "contents-workout"
             }
           }
         ]
@@ -141,12 +145,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false,
-      "map-of-content:Update Map of Content": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "18a0c9a5492c7b1e",
+  "active": "0b6428e3038ab53d",
   "lastOpenFiles": [
+    "workouts/contents-workout.md",
     "computer-science/docs/basics/linux.md",
     "computer-science/projects/first-linux-install.md",
     "computer-science/docs/c/raylib.md",
@@ -174,7 +178,6 @@
     "computer-science/docs/python/conditionals.md",
     "computer-science/docs/javascript/Untitled.md",
     "computer-science/projects/file-operations-python.md",
-    "computer-science/docs/python/pyqt6-guide/content-pyqt.md",
     "computer-science/docs/basics",
     "computer-science/docs/python/flask",
     "computer-science/docs/css",
