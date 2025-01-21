@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -36,30 +35,15 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.8563855842556584,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "bde28a9b8baac1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/docs/basics/linux/file-structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "file-structure"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,26 +149,6 @@
         "state": {
           "type": "map-of-content",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "e0e01821a7d21d7f",
-        "type": "leaf",
-        "state": {
-          "type": "map-of-content",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "223507b280e2e0ca",
-        "type": "leaf",
-        "state": {
-          "type": "map-of-content",
-          "state": {},
           "icon": "stacked-levels",
           "title": "Map of Content"
         }
@@ -194,29 +158,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "bde28a9b8baac1a7",
+  "active": "04dbf9ba105888e2",
   "lastOpenFiles": [
-    "computer-science/docs/basics/linux/install.md",
-    "computer-science/docs/basics/linux/file-structure.md",
+    "computer-science/docs/basics/linux.md",
     "computer-science/docs/basics/linux",
-    "workouts/text 23.txt",
-    "workouts/text 22.txt",
     "workouts/text 20.txt",
     "workouts/text 21.txt",
     "workouts/text 25.txt",
-    "workouts/text 31.txt",
-    "workouts/text 19.txt",
-    "workouts/text 18.txt",
-    "workouts/text 30.txt",
+    "workouts/text 26.txt",
+    "workouts/text 3.txt",
+    "workouts/text 17.txt",
+    "workouts/text 2.txt",
+    "workouts/text 12.txt",
+    "workouts",
+    "computer-science/docs/basics/linux/install.md",
+    "computer-science/docs/basics/linux/file-structure.md",
+    "/computer-science/docs/basics/linux/install.md",
+    "/computer-science/content-computer-science.md",
+    "/computer-science/docs/basics/linux/file-structure.md",
     "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/docs/c/raylib.md",
     "computer-science/docs/c/output.md",
@@ -236,11 +204,6 @@
     "computer-science/courses/cs50p/content-cs50p.md",
     "computer-science/content-computer-science.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
-    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
-    "schule/Deutsch/Rezension.md",
-    "schule/Deutsch/Rezension Wociek.md",
-    "computer-science/docs/c/compiling.md",
-    "computer-science/docs/c/run-programm.md",
     "computer-science/docs/python/pyqt6-guide/empty-window.png",
     "/computer-science/docs/python/pyqt6-guide/empty-window.png"
   ]
