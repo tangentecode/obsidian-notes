@@ -35,8 +35,7 @@
               "title": "cheatsheet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/c/raylib/cheatsheet.md",
+            "file": "computer-science/docs/c/raylib/contents-raylib.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -160,10 +159,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "92a209a9951b1a58",
+  "active": "52bad05ea1a866a6",
   "lastOpenFiles": [
-    "computer-science/docs/c/raylib/empty-window.md",
     "computer-science/docs/c/raylib/cheatsheet.md",
+    "computer-science/docs/c/raylib/empty-window.md",
     "computer-science/docs/c/raylib/contents-raylib.md",
     "computer-science/docs/c/contents-c.md",
     "computer-science/docs/c/raylib.md",

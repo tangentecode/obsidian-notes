@@ -1,6 +1,5 @@
 - Look [here](https://www.raylib.com/cheatsheet/cheatsheet.html) for an updated version and other modules
 
-
 `rcore` module:
 
 ```
