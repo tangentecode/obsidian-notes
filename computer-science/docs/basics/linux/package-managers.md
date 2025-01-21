@@ -6,4 +6,4 @@
 ```shell 
 pacman -S _package_name1_ _package_name2_ ...
 ```
-- 
+- sync and install packages to avoid dependency conflicts like this
