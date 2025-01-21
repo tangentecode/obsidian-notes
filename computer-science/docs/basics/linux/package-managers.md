@@ -24,6 +24,7 @@ Parameters:
 - y is for refresh (local cache)
 - u is for system update
 - r stands for remove 
-> to perform most operations with **pacman** 
+
+> to perform most operations with **pacman** you need to be root
 ### yay or paru
 
