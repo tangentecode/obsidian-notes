@@ -13,7 +13,9 @@
     "editor:indent-list",
     "editor:unindent-list",
     "editor:insert-codeblock",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "editor:undo",
+    "editor:redo"
   ],
   "propertiesInDocument": "hidden",
   "showInlineTitle": true
