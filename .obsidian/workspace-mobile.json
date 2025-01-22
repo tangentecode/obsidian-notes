@@ -11,10 +11,14 @@
             "id": "df339dabc501b7db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/c/raylib/cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "cheatsheet"
             }
           }
         ]
