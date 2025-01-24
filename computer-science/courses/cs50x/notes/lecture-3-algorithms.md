@@ -78,3 +78,13 @@ Examples:
 
 
 ## [Sorting](contents-sorting.md)
+
+## [Recursion in C](computer-science/docs/c/loops.md)
+
+## Summing Up
+
+- Algorithms.
+- Big _O_ notation.
+- Binary search and linear search.
+- Various sort algorithms, including bubble sort, selection sort, and merge sort.
+- Recursion.
