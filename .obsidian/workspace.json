@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
+                "file": "computer-science/docs/c/contents-c.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture-3-algorithms"
+              "title": "contents-c"
             }
           }
         ]
@@ -167,8 +167,10 @@
   },
   "active": "18a0c9a5492c7b1e",
   "lastOpenFiles": [
-    "computer-science/docs/c/structs.md",
+    "computer-science/docs/basics/contents-basic.md",
+    "computer-science/docs/basics/sorting.md",
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
+    "computer-science/docs/c/structs.md",
     "computer-science/docs/sorting",
     "img/linear_search.png",
     "img/array.png",
@@ -194,8 +196,6 @@
     "workouts/25-1-2.md",
     "workouts/25-1-19.md",
     "workouts/25-1-18.md",
-    "workouts/25-1-16.md",
-    "workouts/25-1-14.md",
     "workouts",
     "computer-science/docs/c/raylib",
     "computer-science/docs/linux",

@@ -12,4 +12,5 @@
 12. [allocate-memory](allocate-memory.md)
 13. [access-memory](access-memory.md)
 14. [reallocate-memory](reallocate-memory.md)
-15. [contents-raylib](contents-raylib.md)
+15. [[stru]]
+16. [contents-raylib](contents-raylib.md)
