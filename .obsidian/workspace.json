@@ -165,15 +165,16 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "18a0c9a5492c7b1e",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer-science/docs/sorting",
     "img/linear_search.png",
     "img/array.png",
     "computer-science/docs/basics/ascii.md",
-    "computer-science/docs/basics/linux/system-services.md",
-    "computer-science/docs/basics/linux/package-managers.md",
-    "computer-science/docs/basics/linux/install.md",
-    "computer-science/docs/basics/linux/file-structure.md",
+    "computer-science/docs/linux/system-services.md",
+    "computer-science/docs/linux/package-managers.md",
+    "computer-science/docs/linux/install.md",
+    "computer-science/docs/linux/file-structure.md",
     "computer-science/docs/basics/linux.md",
     "workouts/contents-workout.md",
     "workouts/31-12-24.md",
@@ -196,7 +197,7 @@
     "workouts/25-1-12.md",
     "workouts",
     "computer-science/docs/c/raylib",
-    "computer-science/docs/basics/linux",
+    "computer-science/docs/linux",
     "computer-science/courses/informatik-ggg",
     "computer-science/docs/c/sdl2",
     "computer-science/docs/basics",
@@ -212,7 +213,6 @@
     "img/algorithm-time.png",
     "img/yellow-rgb.png",
     "img/rgb.png",
-    "img/input-output.png",
     "Untitled.canvas"
   ]
 }
