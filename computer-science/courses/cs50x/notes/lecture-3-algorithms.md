@@ -52,3 +52,5 @@ Examples:
   <mn>1</mn>
   <mo stretchy="false">)</mo>
 </math> is always the fastest because it has an constant time
+	1.  Linear search was of order- because it could take _n_ step in the worst-case to run.
+	2. Binary search was of order because it would take fewer and fewer steps to run, even in the worst-case.
