@@ -58,3 +58,14 @@ Examples:
   <mi>n</mi>
   <mo stretchy="false">)</mo>
 </math> because it could take _n_ steps in the worst-case to run.
+	3. Binary search was of order <math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>O</mi>
+  <mo stretchy="false">(</mo>
+  <mi>log</mi>
+  <mo data-mjx-texclass="NONE">&#x2061;</mo>
+  <mi>n</mi>
+  <mo stretchy="false">)</mo>
+</math> because it would take fewer and fewer steps to run, even in the worst-case.
+
+
+> _Asymptotic notation_ is the measure of how well algorithms perform as the input gets larger.
