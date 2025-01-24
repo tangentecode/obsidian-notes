@@ -1,2 +1,2 @@
 - Sorting is the process of transforming data (often [arrays](lecture-2-arrays.md)) to a sorted one
-- it is very useful because it is easier, for the computer, to 
+- it is very useful because it is easier, for the computer, to search via [binary search](binary-search.md), 
