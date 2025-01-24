@@ -42,3 +42,5 @@ Else if 50 > middle door
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi mathvariant="normal">&#x398;</mi>
 </math> represents the **worst-case**
+
+... that an algorithm 
