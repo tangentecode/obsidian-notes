@@ -1,5 +1,6 @@
 ## Linear Search
 
 
+- 
 
-
+![](array.png)
