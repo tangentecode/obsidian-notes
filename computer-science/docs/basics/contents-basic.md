@@ -3,4 +3,4 @@
 3. [binary](binary.md)
 4. [regex](computer-science/docs/basics/regex.md)
 5. [rgb](rgb.md)
-6. [sorting](sorting.md)
+6. [contents-sorting](contents-sorting.md)

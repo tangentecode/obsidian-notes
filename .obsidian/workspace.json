@@ -165,9 +165,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "18a0c9a5492c7b1e",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
-    "computer-science/docs/basics/sorting.md",
+    "computer-science/docs/Untitled",
+    "computer-science/docs/sorting/contents-sorting.md",
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/c/contents-c.md",
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
@@ -195,7 +196,6 @@
     "workouts/25-1-21.md",
     "workouts/25-1-20.md",
     "workouts/25-1-2.md",
-    "workouts/25-1-19.md",
     "workouts",
     "computer-science/docs/c/raylib",
     "computer-science/docs/linux",
