@@ -77,6 +77,4 @@ Examples:
  - refer to [structs](structs.md) c guide
 
 
-## Sorting
-
-[[sort]]
+## [Sorting](sorting.md)
