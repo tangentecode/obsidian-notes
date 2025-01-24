@@ -36,6 +36,8 @@ Else if 50 > middle door
 
 ## Running time
 
+**big O Notation:**
+
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi mathvariant="normal">&#x3A9;</mi>
 </math> represents the **best-case**
@@ -69,3 +71,5 @@ Examples:
 
 
 > _Asymptotic notation_ is the measure of how well algorithms perform as the input gets larger.
+
+## Structs in c
