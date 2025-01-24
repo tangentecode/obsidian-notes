@@ -36,3 +36,9 @@ Else if 50 > middle door
 
 ## Running time
 
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi mathvariant="normal">&#x3A9;</mi>
+</math> represents the **best-case**
+<math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi mathvariant="normal">&#x398;</mi>
+</math> represents the **worst-case**
