@@ -7,9 +7,14 @@
 
 
 - Pseudocode:
-```c
+```
 For each door from left to right
     If 50 is behind door
         Return true
 Return false
 ```
+
+
+## Binary search
+
+- Assuming that the values in an [lecture-2-arrays](lecture-2-arrays.md)
