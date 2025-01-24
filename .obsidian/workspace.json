@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "basics"
             }
+          },
+          {
+            "id": "fad6b3469640fe2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/sorting/merge-sort.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "merge-sort"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,11 +180,12 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "18a0c9a5492c7b1e",
+  "active": "fad6b3469640fe2e",
   "lastOpenFiles": [
     "computer-science/docs/sorting/bubble-sort.md",
-    "computer-science/docs/sorting/contents-sorting.md",
+    "computer-science/docs/sorting/merge-sort.md",
     "computer-science/docs/sorting/basics.md",
+    "computer-science/docs/sorting/contents-sorting.md",
     "computer-science/docs/searching/contents-searching.md",
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/searching/binary-search.md",
@@ -197,7 +213,6 @@
     "workouts/25-1-7.md",
     "workouts/25-1-6.md",
     "workouts/25-1-5.md",
-    "workouts/25-1-3.md",
     "workouts",
     "computer-science/docs/c/raylib",
     "computer-science/docs/linux",
