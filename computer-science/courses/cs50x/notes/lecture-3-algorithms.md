@@ -17,4 +17,4 @@ Return false
 
 ## Binary search
 
-- Assuming that the values in an [lecture-2-arrays](lecture-2-arrays.md)
+- Assuming that the values in an [array](lecture-2-arrays.md) have been ordered from left to right the array can be always split up i 
