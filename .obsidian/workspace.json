@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "basics"
             }
+          },
+          {
+            "id": "d3d4137747a3dcfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture-3-algorithms"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,10 +180,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "18a0c9a5492c7b1e",
+  "active": "d3d4137747a3dcfc",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/docs/sorting/basics.md",
+    "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/docs/Untitled",
     "computer-science/docs/sorting/contents-sorting.md",
     "computer-science/docs/basics/contents-basic.md",
