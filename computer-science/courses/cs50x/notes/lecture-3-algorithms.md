@@ -43,4 +43,12 @@ Else if 50 > middle door
   <mi mathvariant="normal">&#x398;</mi>
 </math> represents the **worst-case**
 
-... that an algorithm 
+... that an algorithm takes to run
+
+Examples:
+	1. <math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>O</mi>
+  <mo stretchy="false">(</mo>
+  <mn>1</mn>
+  <mo stretchy="false">)</mo>
+</math> is always the fastest because it has an constant time
