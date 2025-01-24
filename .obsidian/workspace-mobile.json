@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workouts/contents-workout.md",
+                "file": "computer-science/docs/basics/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-workout"
+              "title": "Untitled"
             }
           }
         ]
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "workouts/contents-workout.md",
+            "file": "computer-science/docs/basics/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,6 +146,8 @@
   },
   "active": "aefe4b704133492b",
   "lastOpenFiles": [
+    "workouts/contents-workout.md",
+    "computer-science/docs/basics/Untitled.md",
     "computer-science/docs/c/raylib/cheatsheet.md",
     "computer-science/docs/c/raylib/contents-raylib.md",
     "computer-science/docs/c/raylib/empty-window.md",
@@ -154,7 +156,6 @@
     "computer-science/docs/c/raylib/setup.md",
     "computer-science/docs/basics/linux/package-managers.md",
     "computer-science/docs/c/raylib",
-    "workouts/contents-workout.md",
     "/workouts/contents-workout.md",
     "/workouts/24-12-6.md",
     "computer-science/docs/basics/linux/system-services.md",
@@ -172,7 +173,6 @@
     "workouts/24-12-26.md",
     "workouts/24-12-21.md",
     "workouts/25-1-19.md",
-    "workouts/25-1-18.md",
     "workouts/cheat-sheet .txt",
     "computer-science/docs/basics/linux",
     "workouts/text 20.txt",
