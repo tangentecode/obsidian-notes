@@ -1,6 +1,6 @@
 - _Bubble sort_ is another sorting algorithm that works by repeatedly swapping elements to “bubble” larger elements to the end.
 
-- The pseudocode for bubble sort is:
+- The pseudocode for Bubble sort is:
     
 ```
 Repeat n-1 times

@@ -1,4 +1,4 @@
-- _Bubble sort_ is another sorting algorithm that works by repeatedly swapping elements to “bubble” larger elements to the end.
+- leveraging recursion in our quest for a more efficient sort algorithm and implement what is called **_merge sort_**, a very efficient sort algorithm
 
 - The pseudocode for Merge sort is:
     
@@ -10,6 +10,8 @@ Else
     Sort right half of number
     Merge sorted halves
 ```
+
+
 - [running time](running-time.md) is:
 	1. worst-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi>O</mi>
