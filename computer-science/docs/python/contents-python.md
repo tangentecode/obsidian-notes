@@ -9,6 +9,7 @@
 8. [input](computer-science/docs/python/input.md)
 9. [conditionals](computer-science/docs/python/conditionals.md)
 10. [loops](computer-science/docs/python/loops.md)
-11. [functions](computer-science/docs/c/functions.md)
+11. [functions](computer-science/docs/python/functions.md)
 12. [libraries](computer-science/docs/c/libraries.md)
 13. [style](computer-science/docs/python/style.md)
+14. [flask](flask-contents.md)
