@@ -1,1 +1,1 @@
-- Sorting is the process of transforming data (often [arrays](lecture-2-arrays.md)) to a sorted one
+- Sorting is the process of transforming data (often [arrays](lecture-2-arrays.md)) to a sorted one 

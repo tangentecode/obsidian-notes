@@ -38,7 +38,7 @@ Else if 50 > middle door
 
 **big O Notation:**
 
-
+![](big-o-notation.png)
 
 <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi mathvariant="normal">&#x3A9;</mi>
