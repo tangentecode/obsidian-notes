@@ -177,6 +177,8 @@
   },
   "active": "ed436ca4c30cd19c",
   "lastOpenFiles": [
+    "computer-science/docs/linux/contents-linux.md",
+    "computer-science/docs/c/compiling.md",
     "computer-science/docs/linux/package-managers.md",
     "computer-science/docs/python/contents-python.md",
     "computer-science/docs/python/error-handling.md",
@@ -206,8 +208,6 @@
     "computer-science/docs/linux/system-services.md",
     "computer-science/docs/linux/install.md",
     "computer-science/docs/linux/file-structure.md",
-    "computer-science/docs/basics/linux.md",
-    "workouts/24-12-31.md",
     "workouts",
     "computer-science/docs/c/raylib",
     "computer-science/docs/linux",
