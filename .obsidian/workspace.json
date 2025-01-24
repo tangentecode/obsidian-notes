@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,11 +194,11 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "75d9aedcb834088d",
+  "active": "fad6b3469640fe2e",
   "lastOpenFiles": [
+    "computer-science/docs/sorting/bubble-sort.md",
     "computer-science/docs/sorting/basics.md",
     "computer-science/docs/sorting/merge-sort.md",
-    "computer-science/docs/sorting/bubble-sort.md",
     "computer-science/docs/sorting/contents-sorting.md",
     "computer-science/docs/searching/contents-searching.md",
     "computer-science/docs/basics/contents-basic.md",
