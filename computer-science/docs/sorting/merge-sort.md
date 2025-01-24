@@ -12,21 +12,26 @@ Repeat n-1 times
 ```
 
 - [running time](running-time.md) is:
-	1. Worst-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
+	1. worst-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi>O</mi>
   <mo stretchy="false">(</mo>
-  <msup>
-    <mi>n</mi>
-    <mn>2</mn>
-  </msup>
-  <mo stretchy="false">)</mo>
-</math>
-	2. Best-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mi mathvariant="normal">&#x3A9;</mi>
-  <mo stretchy="false">(</mo>
+  <mi>n</mi>
+  <mi>log</mi>
+  <mo data-mjx-texclass="NONE">&#x2061;</mo>
   <mi>n</mi>
   <mo stretchy="false">)</mo>
 </math>
+	2. best-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi mathvariant="normal">&#x3A9;</mi>
+  <mo stretchy="false">(</mo>
+  <mi>n</mi>
+  <mi>log</mi>
+  <mo data-mjx-texclass="NONE">&#x2061;</mo>
+  <mi>n</mi>
+  <mo stretchy="false">)</mo>
+</math> 
+
+- best- and worst-
 
 
 - [Visualize](https://www.cs.usfca.edu/~galles/visualization/ComparisonSort.html) this algorithm

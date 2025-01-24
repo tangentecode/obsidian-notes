@@ -12,7 +12,7 @@ Repeat n-1 times
 ```
 
 - [running time](running-time.md) is:
-	1. Worst-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
+	1. worst-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi>O</mi>
   <mo stretchy="false">(</mo>
   <msup>
@@ -21,7 +21,7 @@ Repeat n-1 times
   </msup>
   <mo stretchy="false">)</mo>
 </math>
-	2. Best-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
+	2. best-case: <math xmlns="http://www.w3.org/1998/Math/MathML">
   <mi mathvariant="normal">&#x3A9;</mi>
   <mo stretchy="false">(</mo>
   <mi>n</mi>
