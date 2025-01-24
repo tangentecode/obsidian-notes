@@ -73,3 +73,6 @@ Examples:
 > _Asymptotic notation_ is the measure of how well algorithms perform as the input gets larger.
 
 ## Structs in c
+
+ - refer to [structs](structs.md) c guide
+

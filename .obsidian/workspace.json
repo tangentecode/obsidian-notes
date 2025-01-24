@@ -165,8 +165,10 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "18a0c9a5492c7b1e",
   "lastOpenFiles": [
+    "computer-science/docs/c/structs.md",
+    "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/docs/sorting",
     "img/linear_search.png",
     "img/array.png",
@@ -194,7 +196,6 @@
     "workouts/25-1-18.md",
     "workouts/25-1-16.md",
     "workouts/25-1-14.md",
-    "workouts/25-1-12.md",
     "workouts",
     "computer-science/docs/c/raylib",
     "computer-science/docs/linux",
@@ -205,7 +206,6 @@
     "computer-science/docs/css",
     "img/general-html.png",
     "computer-science/docs",
-    "Untitled",
     "img/ciphertext.png",
     "img/string-decimal.png",
     "img/string.png",
