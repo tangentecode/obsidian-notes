@@ -14,4 +14,4 @@
 
 1. **Digital signatures**: Hashes help verify the authenticity of digital communications.
 
-> Most well known cryptographic-hash-algorithm
+> Most well known cryptographic hash algorithm is **SHA-256** which is used for **Bitcoin** 
