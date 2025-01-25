@@ -9,6 +9,17 @@ hash_value % 256
 ```
 
 
+- A basic hash functions in [c](contents-c.md) could look like this:
+
+```c
+#include <ctype.h>
+
+unsigned int hash(const char *word)
+{
+    return toupper(word[0]) - 'A';
+}
+
+```
 ### Explanation:
 
 1. **Input**: A string (e.g., "hello").
