@@ -1,0 +1,2 @@
+- Queues are **FIFO** which stands for "first in first out"
+- 
