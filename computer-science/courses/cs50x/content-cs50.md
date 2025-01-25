@@ -18,3 +18,8 @@
 2. [lecture-0-scratch](lecture-0-scratch.md)
 3. [lecture-1-c](lecture-1-c.md)
 4. [lecture-2-arrays](lecture-2-arrays.md)
+5. [lecture-3-algorithms](lecture-3-algorithms.md)
+6. [lecture-4-memory](lecture-4-memory.md)
+7. [lecture-5-data-structures](lecture-5-data-structures.md)
+8. [lecture-6-python](lecture-6-python.md)
+9. [[]]
