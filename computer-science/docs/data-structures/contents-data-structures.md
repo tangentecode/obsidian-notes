@@ -1,0 +1,6 @@
+1. [basics](computer-science/docs/data-structures/basics.md)
+2. [stacks](stacks.md)
+3. [queues](queues.md)
+4. [singly-linked-list](singly-linked-list.md)
+5. [doubly-linked-list](doubly-linked-list.md)
+6. [[]]
