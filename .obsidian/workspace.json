@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/hash-algorithms.md",
+                "file": "computer-science/docs/basics/hashing/hash-algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "hash-algorithms"
+            }
+          },
+          {
+            "id": "9d5cb88b3bb0f2fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/basics/hashing/contents-hashing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "contents-hashing"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,12 +207,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "287484d2595b61bc",
+  "active": "9d5cb88b3bb0f2fe",
   "lastOpenFiles": [
+    "computer-science/docs/basics/hashing/hash-algorithms.md",
+    "computer-science/docs/basics/hashing/contents-hashing.md",
+    "computer-science/docs/basics/contents-basic.md",
+    "computer-science/docs/basics/hashing",
     "computer-science/docs/data-structures/hash-tables.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "computer-science/docs/data-structures/dictionaries.md",
-    "computer-science/docs/basics/hash-algorithms.md",
     "img/dicts-running-time.png",
     "computer-science/docs/basics/running-time.md",
     "cyph.md",
@@ -226,8 +243,6 @@
     "computer-science/docs/data-structures",
     "computer-science/docs/python/contents-python.md",
     "computer-science/docs/linux/contents-linux.md",
-    "computer-science/docs/c/compiling.md",
-    "computer-science/docs/linux/package-managers.md",
     "computer-science/docs/searching",
     "img/big-o-notation.png",
     "computer-science/docs/sorting",
@@ -239,7 +254,6 @@
     "computer-science/courses/informatik-ggg",
     "computer-science/docs/c/sdl2",
     "computer-science/docs/basics",
-    "computer-science/docs/python/flask",
     "img/general-html.png",
     "img/ciphertext.png",
     "Untitled.canvas"

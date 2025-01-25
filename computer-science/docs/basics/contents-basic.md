@@ -5,3 +5,4 @@
 5. [rgb](rgb.md)
 6. [sorting](contents-sorting.md)
 7. [running-time](running-time.md)
+8. [hashing](contents-hashing.md)
