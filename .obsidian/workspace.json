@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sorting/contents-sorting.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-sorting"
+              "title": "lecture-5-data-structures"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "87c0bd4ac59f5cde",
   "lastOpenFiles": [
+    "computer-science/docs/sorting/contents-sorting.md",
     "img/Untitled.canvas",
     "workouts/25-1-3.md",
     "computer-science/courses/cs50x/content-cs50.md",
