@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/Untitled.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "lecture-5-data-structures"
             }
           }
         ]
@@ -166,8 +166,11 @@
   },
   "active": "b26a35034b79d457",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
+    "computer-science/courses/cs50x/notes/lecture-9-flask.md",
+    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
+    "computer-science/courses/cs50x/notes/lecture-6-python.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
-    "computer-science/courses/cs50x/notes/Untitled.md",
     "computer-science/docs/data-structures/basics.md",
     "computer-science/docs/data-structures/contents-data-structures.md",
     "computer-science/docs/data-structures",
@@ -191,10 +194,7 @@
     "computer-science/docs/sorting/merge-sort.md",
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/searching",
-    "computer-science/docs/basics/running-time.md",
     "img/big-o-notation.png",
-    "computer-science/docs/c/contents-c.md",
-    "computer-science/docs/c/structs.md",
     "computer-science/docs/sorting",
     "img/linear_search.png",
     "img/array.png",
