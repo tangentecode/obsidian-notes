@@ -178,8 +178,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "87c0bd4ac59f5cde",
   "lastOpenFiles": [
+    "img/linkes-list-advanced.png",
     "img/linkes-list-basic.png",
     "img/3-values-memory.png",
     "computer-science/docs/data-structures/queues.md",
@@ -226,7 +227,6 @@
     "img/string-decimal.png",
     "img/string.png",
     "img/general-instructions.png",
-    "img/algorithm-time.png",
     "Untitled.canvas"
   ]
 }
