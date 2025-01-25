@@ -11,10 +11,10 @@
             "id": "3e18d2053a63a590",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -160,7 +160,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "3e18d2053a63a590",
   "lastOpenFiles": [
     "computer-science/docs/python/output.md",
     "cyph.md",
