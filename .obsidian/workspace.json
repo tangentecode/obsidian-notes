@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "527e2e9971dd8ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/python/dictionaries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dictionaries"
+            }
+          },
+          {
             "id": "3798a3e29586e5c9",
             "type": "leaf",
             "state": {
@@ -36,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,14 +195,17 @@
   },
   "active": "3798a3e29586e5c9",
   "lastOpenFiles": [
+    "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/data-structures/contents-data-structures.md",
-    "computer-science/docs/data-structures/queues.md",
+    "computer-science/docs/data-structures/dictionaries.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
+    "computer-science/docs/data-structures/doubly-linked-list.md",
+    "computer-science/docs/data-structures/singly-linked-list.md",
+    "computer-science/docs/data-structures/queues.md",
     "computer-science/docs/data-structures/stacks.md",
     "computer-science/docs/data-structures/basics.md",
     "computer-science/docs/basics/hashing/hash-functions.md",
     "computer-science/docs/data-structures/hash-tables.md",
-    "computer-science/docs/data-structures/singly-linked-list.md",
     "img/hash-table-advanced.png",
     "img/hash-algorithms-collisions.png",
     "img/hash-table-basic.png",
@@ -197,12 +214,9 @@
     "computer-science/docs/basics/hashing/hashing.md",
     "computer-science/docs/basics/hashing/contents-hashing.md",
     "computer-science/docs/basics/hashing",
-    "computer-science/docs/data-structures/dictionaries.md",
     "img/dicts-running-time.png",
     "computer-science/docs/basics/running-time.md",
     "cyph.md",
-    "computer-science/docs/python/dictionaries.md",
-    "computer-science/docs/data-structures/doubly-linked-list.md",
     "img/linked-list-head.png",
     "img/linkes-list-advanced.png",
     "img/linkes-list-basic.png",
