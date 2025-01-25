@@ -17,3 +17,15 @@
 	- [Queues](https://cs50.harvard.edu/x/2025/shorts/queues/)
 	- [Hash Tables](https://cs50.harvard.edu/x/2025/shorts/hash_tables/)
 
+
+
+## Dictionaries
+
+- Dictionaries have **_key_** and a _values_.
+
+- The _holy grail_ of algorithmic time complexity is <math xmlns="http://www.w3.org/1998/Math/MathML">
+  <mi>O</mi>
+  <mo stretchy="false">(</mo>
+  <mn>1</mn>
+  <mo stretchy="false">)</mo>
+</math> or _constant time_. That is, the ultimate is for access to be instantaneous.
