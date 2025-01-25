@@ -1,5 +1,4 @@
 
-
 - A **_hash function_** is an algorithm that reduces a larger value to something small and predictable. Generally, this function takes in an item you wish to add to your hash table, and returns an integer representing the array index in which the item should be placed. 
 - As example for an **hash function** you can look at this [python](contents-python.md) code:
 
