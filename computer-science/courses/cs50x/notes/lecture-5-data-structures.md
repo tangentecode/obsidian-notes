@@ -316,7 +316,11 @@ int main() {
 
 - Explanation video: [Hash Tables](https://cs50.harvard.edu/x/2025/shorts/hash_tables/)
 
+
+
+
 ## Summing Up
+
 In this lesson, you learned about using pointers to build new data structures. Specifically, we delved into…
 
 - Data structures
