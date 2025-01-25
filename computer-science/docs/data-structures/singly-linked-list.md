@@ -72,4 +72,15 @@ int main(void)
 
 >First, a `node` is defined as a `struct`. For each element of the list, memory for a `node` is allocated via `malloc` to the size of a node. `n->number` (or `n`’s number field) is assigned an integer. `n->next` (or `n`’s next field) is assigned `null`. Then, the node is placed at the start of the list at memory location `list`.
 
+- Print the list on correct order:
+```c
+// Print numbers
+node *ptr = list;
+while (ptr != NULL)
+{
+    printf("%i\n", ptr->number);
+    ptr = ptr->next;
+}
+
+```
 - Explanation video: - [Singly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/singly_linked_lists/)
