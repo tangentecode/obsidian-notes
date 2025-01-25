@@ -8,7 +8,8 @@
 	3. [stacks](stacks.md)
 	4. [queues](queues.md)
 	5. [hash-tables](hash-tables.md)
-	6.
+
+
 - Videos:
 	- [Singly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/singly_linked_lists/)
 	- [Doubly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/doubly_linked_lists/)
