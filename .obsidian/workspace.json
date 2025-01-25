@@ -49,7 +49,8 @@
               "title": "lecture-5-data-structures"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,14 +193,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "87c0bd4ac59f5cde",
+  "active": "3798a3e29586e5c9",
   "lastOpenFiles": [
     "computer-science/docs/basics/hash-algorithms.md",
     "computer-science/docs/data-structures/hash-tables.md",
+    "computer-science/docs/basics/running-time.md",
+    "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "cyph.md",
     "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/data-structures/queues.md",
-    "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "computer-science/docs/data-structures/singly-linked-list.md",
     "computer-science/docs/data-structures/doubly-linked-list.md",
     "img/linked-list-head.png",
@@ -225,7 +227,6 @@
     "computer-science/docs/c/compiling.md",
     "computer-science/docs/linux/package-managers.md",
     "computer-science/docs/python/error-handling.md",
-    "computer-science/docs/javascript/Untitled.md",
     "computer-science/docs/searching",
     "img/big-o-notation.png",
     "computer-science/docs/sorting",

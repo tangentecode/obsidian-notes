@@ -1,5 +1,8 @@
 - Like [dictionaries](dictionaries.md) in [python](contents-python.md) but with a [hash-algorithm](hash-algorithms.md) 
 
+    
+or _constant time_. That is, the ultimate is for access to be instantaneous.
+
 
  >You can imagine yourself in a line for a ride at an amusement park. The first person in the line gets to go on the ride first. The last person gets to go on the ride last.
 
