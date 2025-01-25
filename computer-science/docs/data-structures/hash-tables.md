@@ -1,9 +1,9 @@
 - Like [dictionaries](computer-science/docs/python/dictionaries.md) in [python](contents-python.md) but with a [hash-algorithm](hash-functions.md) 
 
 - A hash table could be imagined as follows:  
-
 ![](hash-table-basic.png)
 
+- So if you want to **store** a value let it go trough an proper [hash-functions](hash-functions.md) and store it at the index the hash-
 
 - [C](contents-c.md) code:
 
