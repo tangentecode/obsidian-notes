@@ -35,8 +35,7 @@
               "title": "lecture-5-data-structures"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +178,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3798a3e29586e5c9",
+  "active": "87c0bd4ac59f5cde",
   "lastOpenFiles": [
+    "img/hash-table-basic.png",
+    "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "computer-science/docs/data-structures/hash-tables.md",
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/basics/hashing/hash-functions.md",
@@ -188,7 +189,6 @@
     "computer-science/docs/basics/hashing/hashing.md",
     "computer-science/docs/basics/hashing/contents-hashing.md",
     "computer-science/docs/basics/hashing",
-    "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "computer-science/docs/data-structures/dictionaries.md",
     "img/dicts-running-time.png",
     "computer-science/docs/basics/running-time.md",
@@ -213,7 +213,6 @@
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "computer-science/courses/cs50x/notes/lecture-7-sql.md",
-    "computer-science/courses/cs50x/notes/lecture-6-python.md",
     "computer-science/docs/data-structures",
     "computer-science/docs/searching",
     "img/big-o-notation.png",
