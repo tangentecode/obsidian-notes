@@ -1,4 +1,9 @@
-- Imagine three values stored in [[memory]]
+- Imagine three values stored in [memory](lecture-4-memory.md)
+
+![](3-values-memory.png)
+
+- We could imagine the data pictured above as follows:
+
 
 
  >You can imagine yourself in a line for a ride at an amusement park. The first person in the line gets to go on the ride first. The last person gets to go on the ride last.
