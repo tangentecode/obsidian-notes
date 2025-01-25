@@ -1,1 +1,1 @@
-- A has
+- Basics are the same like common [hash functions](hash-functions.md) but they fol
