@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/data-structures/basics.md",
+                "file": "computer-science/courses/cs50x/notes/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basics"
+              "title": "Untitled"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "b26a35034b79d457",
   "lastOpenFiles": [
-    "computer-science/docs/data-structures/contents-data-structures.md",
+    "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
+    "computer-science/courses/cs50x/notes/Untitled.md",
     "computer-science/docs/data-structures/basics.md",
+    "computer-science/docs/data-structures/contents-data-structures.md",
     "computer-science/docs/data-structures",
     "computer-science/docs/python/contents-python.md",
     "computer-science/docs/linux/contents-linux.md",
@@ -196,8 +198,6 @@
     "computer-science/docs/sorting",
     "img/linear_search.png",
     "img/array.png",
-    "computer-science/docs/basics/ascii.md",
-    "computer-science/docs/linux/system-services.md",
     "workouts",
     "computer-science/docs/c/raylib",
     "computer-science/docs/linux",
