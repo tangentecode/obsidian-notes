@@ -12,7 +12,9 @@
   <mo stretchy="false">)</mo>
 </math>
 
-- to avoid **collision** if the hash function returned the same hash for another value store multiple values in a linked at that index:
+- to avoid **collision** if the hash function returned the same hash for another value store multiple values in a [singly-linked-list](singly-linked-list.md) at that index:
+
+![](hash-algorithms-collisions.png)
 
 
 - [C](contents-c.md) code:
