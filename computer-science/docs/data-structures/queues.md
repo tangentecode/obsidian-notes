@@ -5,4 +5,9 @@
 
 
 - Specific actions:
-	1. _enqueued_ 
+	1. _enqueued_: item can join the queue
+	2. _dequeued_: item leaves the queue
+
+
+- [C](contents-c.md) code:
+
