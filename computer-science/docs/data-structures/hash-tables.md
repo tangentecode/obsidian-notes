@@ -1,8 +1,8 @@
 - Like [dictionaries](computer-science/docs/python/dictionaries.md) in [python](contents-python.md) but with a [hash-algorithm](hash-functions.md) 
 
-- A hash table could be imagend
+- A hash table could be imagined as follows:  
 
-
+![](hash-table-basic.png)
 
 - [C](contents-c.md) code:
 
