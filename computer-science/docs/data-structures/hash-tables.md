@@ -1,4 +1,4 @@
-- Like [dictionaries](dictionaries.md) in [python](contents-python.md) but with a [hash-algorithm](hash-algorithms.md) 
+- Like [dictionaries](computer-science/docs/python/dictionaries.md) in [python](contents-python.md) but with a [hash-algorithm](hash-algorithms.md) 
 
     
 or _constant time_. That is, the ultimate is for access to be instantaneous.

@@ -7,7 +7,8 @@
 	2. [doubly-linked-list](doubly-linked-list.md)
 	3. [stacks](stacks.md)
 	4. [queues](queues.md)
-	5. [hash-tables](hash-tables.md)
+	5. [dictionaries](computer-science/docs/data-structures/dictionaries.md)
+	6. [hash-tables](hash-tables.md)
 
 
 - Videos:
@@ -19,17 +20,3 @@
 
 
 
-## Dictionaries
-
-- Dictionaries have **_key_** and **_values_**
-
-- The _holy grail_ of algorithmic time complexity is <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mi>O</mi>
-  <mo stretchy="false">(</mo>
-  <mn>1</mn>
-  <mo stretchy="false">)</mo>
-</math> or _constant time_.
-
-![](dicts-running-time.png)
-
-- You can easily implement a [dictionary](dictionaries.md) in [python](contents-python.md) and in [c](contents-c.md) in form of a [hash-tables](hash-tables.md)
