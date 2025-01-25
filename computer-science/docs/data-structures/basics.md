@@ -1,0 +1,1 @@
+- **_Data structures_** essentially are forms of organization in memory.
