@@ -3,4 +3,5 @@
 3. [queues](queues.md)
 4. [singly-linked-list](singly-linked-list.md)
 5. [doubly-linked-list](doubly-linked-list.md)
-6. [hash-tables](hash-tables.md)
+6. [dictionaries](computer-science/docs/python/dictionaries.md)
+7. [hash-tables](hash-tables.md)

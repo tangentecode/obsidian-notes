@@ -123,5 +123,4 @@ int main() {
 
 ```
 
-
 - Explanation video: [Hash Tables](https://cs50.harvard.edu/x/2025/shorts/hash_tables/)
