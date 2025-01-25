@@ -1,1 +1,3 @@
-1. [hash-algorithms](hash-algorithms.md)
+1. 
+2. [hash-functions](hash-functions.md)
+3. 
