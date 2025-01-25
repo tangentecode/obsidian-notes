@@ -1,10 +1,22 @@
+## Has
 - **_Hashing_** is the idea of taking a value and being able to output a value that becomes a shortcut to it later.
 
 - For example, hashing _apple_ may hash as a value of `1`, and _berry_ may be hashed as `2`. Therefore, finding _apple_ is as easy as asking the _hash_ algorithm where _apple_ is stored. While not ideal in terms of design, ultimately, putting all _a_’s in one bucket and _b_’s in another, this concept of _bucketizing_ hashed values illustrates how you can use this concept: **a hashed value can be used to shortcut finding such a value.**
 
 - A **_hash function_** is an algorithm that reduces a larger value to something small and predictable. Generally, this function takes in an item you wish to add to your hash table, and returns an integer representing the array index in which the item should be placed. 
 - As example for an **hash function** you can look at this [python](contents-python.md) code:
+
+```python
+for char in input_string: 
+	hash_value += ord(char) 
+hash_value % 256
 ```
 
-```
-hash_value = 0 for char in input_string: hash_value += ord(char) return hash_value % 256 # Keep the hash value within a byte range (0-255)
+
+### Explanation:
+
+1. **Input**: A string (e.g., "hello").
+2. **Process**:
+    - Sum up the ASCII values of each character in the string using `ord()`.
+    - Use modulo (`% 256`) to ensure the hash value stays within a range (0–255).
+3. **Output**: A small hash value.
