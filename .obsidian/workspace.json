@@ -178,8 +178,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "87c0bd4ac59f5cde",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "img/linkes-list-basic.png",
     "img/3-values-memory.png",
     "computer-science/docs/data-structures/queues.md",
     "computer-science/docs/data-structures/singly-linked-list.md",
@@ -211,7 +212,7 @@
     "computer-science/docs/searching",
     "img/big-o-notation.png",
     "computer-science/docs/sorting",
-    "img/linear_search.png",
+    "img/linear-search.png",
     "img/array.png",
     "workouts",
     "computer-science/docs/c/raylib",
@@ -226,7 +227,6 @@
     "img/string.png",
     "img/general-instructions.png",
     "img/algorithm-time.png",
-    "img/yellow-rgb.png",
     "Untitled.canvas"
   ]
 }

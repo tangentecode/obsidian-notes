@@ -4,8 +4,13 @@
 
 - We could imagine the data pictured above as follows:
 
+![](linkes-list-basic.png)
 
 
+
+
+
+- Keep track of the next element ([node](structs.md)) 
  >You can imagine yourself in a line for a ride at an amusement park. The first person in the line gets to go on the ride first. The last person gets to go on the ride last.
 
 
