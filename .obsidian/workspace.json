@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/data-structures/contents-data-structures.md",
+                "file": "computer-science/docs/data-structures/basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-data-structures"
+              "title": "basics"
+            }
+          },
+          {
+            "id": "36f98c6b87affeb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/data-structures/queues.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "queues"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,16 +193,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7cd8e8f01be9e2e6",
+  "active": "36f98c6b87affeb2",
   "lastOpenFiles": [
     "computer-science/docs/data-structures/basics.md",
+    "computer-science/docs/data-structures/contents-data-structures.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "computer-science/docs/data-structures/queues.md",
     "computer-science/docs/data-structures/hash-tables.md",
     "computer-science/docs/data-structures/stacks.md",
     "computer-science/docs/data-structures/doubly-linked-list.md",
     "computer-science/docs/data-structures/singly-linked-list.md",
-    "computer-science/docs/data-structures/contents-data-structures.md",
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "computer-science/courses/cs50x/notes/lecture-7-sql.md",

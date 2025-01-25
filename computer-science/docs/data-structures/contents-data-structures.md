@@ -3,4 +3,4 @@
 3. [queues](queues.md)
 4. [singly-linked-list](singly-linked-list.md)
 5. [doubly-linked-list](doubly-linked-list.md)
-6. [[]]
+6. [hash-tables](hash-tables.md)
