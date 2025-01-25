@@ -11,3 +11,13 @@
 
 - [C](contents-c.md) code:
 
+```c
+const int CAPACITY = 50;
+
+typedef struct
+{
+    person people[CAPACITY];
+    int size;
+}
+queue;
+```
