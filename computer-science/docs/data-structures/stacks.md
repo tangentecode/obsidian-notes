@@ -1,12 +1,11 @@
 - **_LIFO_** or "last in first out"
 
 
- >You can imagine yourself in a line for a ride at an amusement park. The first person in the line gets to go on the ride first. The last person gets to go on the ride last.
-
+ >Just like stacking trays in a dining hall, a tray that is placed in a stack last is the first that may be picked up.
 
 - Specific actions:
-	1. _enqueued_: item can join the queue
-	2. _dequeued_: item leaves the queue
+	1. _push_: item can join the queue
+	2. _pop_: item leaves the queue
 
 
 - [C](contents-c.md) code:
