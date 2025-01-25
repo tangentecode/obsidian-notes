@@ -1,6 +1,8 @@
 - Imagine three values stored in [memory](lecture-4-memory.md)
 ![](3-values-memory.png)
 
+
+
 - We could imagine the data pictured above as follows:
 ![](linkes-list-basic.png)
 
