@@ -9,7 +9,6 @@
 
 
 - [C](contents-c.md) code:
-
 ```c
 const int CAPACITY = 50;
 
@@ -20,3 +19,6 @@ typedef struct
 }
 stack;
 ```
+
+
+- Explanation video: [Stacks](https://cs50.harvard.edu/x/2025/shorts/stacks/)

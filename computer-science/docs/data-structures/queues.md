@@ -21,3 +21,6 @@ typedef struct
 }
 queue;
 ```
+
+
+- Explanation video: [Queues](https://cs50.harvard.edu/x/2025/shorts/queues/)

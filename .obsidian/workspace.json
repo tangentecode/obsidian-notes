@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,14 +207,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cf38e32089564e30",
+  "active": "36f98c6b87affeb2",
   "lastOpenFiles": [
+    "computer-science/docs/data-structures/stacks.md",
     "computer-science/docs/data-structures/queues.md",
     "computer-science/docs/data-structures/basics.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "computer-science/docs/data-structures/contents-data-structures.md",
     "computer-science/docs/data-structures/hash-tables.md",
-    "computer-science/docs/data-structures/stacks.md",
     "computer-science/docs/data-structures/doubly-linked-list.md",
     "computer-science/docs/data-structures/singly-linked-list.md",
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
