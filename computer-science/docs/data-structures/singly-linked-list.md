@@ -35,7 +35,7 @@ node;
 ```c
 // Start to build a linked list by prepending nodes
 
-#include <cs50.h>
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -59,7 +59,7 @@ int main(void)
         {
             return 1;
         }
-        n->number = get_int("Number: ");
+        n->number = i * 2;
         n->next = NULL;
 
         // Prepend node to list
@@ -70,6 +70,6 @@ int main(void)
 }
 ```
 
-First, a `node` is defined as a `struct`. For each element of the list, memory for a `node` is allocated via `malloc` to the size of a node. `n->number` (or `n`’s number field) is assigned an integer. `n->next` (or `n`’s next field) is assigned `null`. Then, the node is placed at the start of the list at memory location `list`.
+>First, a `node` is defined as a `struct`. For each element of the list, memory for a `node` is allocated via `malloc` to the size of a node. `n->number` (or `n`’s number field) is assigned an integer. `n->next` (or `n`’s next field) is assigned `null`. Then, the node is placed at the start of the list at memory location `list`.
 
 - Explanation video: - [Singly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/singly_linked_lists/)
