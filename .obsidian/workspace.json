@@ -153,8 +153,8 @@
             "state": {
               "type": "map-of-content",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Map of Content"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -171,8 +171,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "graph:Open graph view": false,
-      "map-of-content:Update Map of Content": false
+      "graph:Open graph view": false
     }
   },
   "active": "ed436ca4c30cd19c",
