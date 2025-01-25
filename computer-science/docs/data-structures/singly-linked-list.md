@@ -16,11 +16,18 @@
 ![](linked-list-head.png)
 
 
+A _node_ contains both an _item_ and a pointer called _next_. In code, you can imagine a node as follows:
+
+```c
+typedef struct node
+{
+    int number;
+    struct node *next;
+}
+node;
+```
 
 
-- Specific actions:
-	1. _enqueued_: item can join the queue
-	2. _dequeued_: item leaves the queue
 
 
 - [C](contents-c.md) code:
@@ -37,4 +44,4 @@ queue;
 ```
 
 
-- Explanation video: [Queues](https://cs50.harvard.edu/x/2025/shorts/queues/)
+- Explanation video: - [Singly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/singly_linked_lists/)
