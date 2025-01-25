@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 4277996
       }
+    },
+    {
+      "query": "path:workouts  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +32,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.08317427835927567,
+  "scale": 0.0593261718750001,
   "close": true
 }

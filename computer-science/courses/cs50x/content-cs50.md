@@ -22,4 +22,7 @@
 6. [lecture-4-memory](lecture-4-memory.md)
 7. [lecture-5-data-structures](lecture-5-data-structures.md)
 8. [lecture-6-python](lecture-6-python.md)
-9. [[]]
+9. [lecture-7-sql](lecture-7-sql.md)
+10. [lecture-8-html-css-javascript](lecture-8-html-css-javascript.md)
+11. [lecture-9-flask](lecture-9-flask.md)
+12. [lecture-10-the-end](lecture-10-the-end.md)
