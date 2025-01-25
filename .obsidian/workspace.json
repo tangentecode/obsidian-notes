@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c316e40d8c8173ad",
+        "id": "32df48296509b47a",
         "type": "tabs",
         "children": [
           {
-            "id": "3798a3e29586e5c9",
+            "id": "3e18d2053a63a590",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -160,20 +160,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3798a3e29586e5c9",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
     "computer-science/docs/python/output.md",
     "cyph.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
-    "computer-science/docs/data-structures/hash-tables.md",
-    "computer-science/docs/data-structures/contents-data-structures.md",
+    "computer-science/docs/basics/data-structures/hash-tables.md",
+    "computer-science/docs/basics/data-structures/contents-data-structures.md",
     "computer-science/docs/python/dictionaries.md",
-    "computer-science/docs/data-structures/dictionaries.md",
-    "computer-science/docs/data-structures/doubly-linked-list.md",
-    "computer-science/docs/data-structures/singly-linked-list.md",
-    "computer-science/docs/data-structures/queues.md",
-    "computer-science/docs/data-structures/stacks.md",
-    "computer-science/docs/data-structures/basics.md",
+    "computer-science/docs/basics/data-structures/dictionaries.md",
+    "computer-science/docs/basics/data-structures/doubly-linked-list.md",
+    "computer-science/docs/basics/data-structures/singly-linked-list.md",
+    "computer-science/docs/basics/data-structures/queues.md",
+    "computer-science/docs/basics/data-structures/stacks.md",
+    "computer-science/docs/basics/data-structures/basics.md",
     "computer-science/docs/basics/hashing/hash-functions.md",
     "img/hash-table-advanced.png",
     "img/hash-algorithms-collisions.png",
@@ -189,7 +189,7 @@
     "img/linkes-list-advanced.png",
     "img/linkes-list-basic.png",
     "img/3-values-memory.png",
-    "computer-science/docs/sorting/contents-sorting.md",
+    "computer-science/docs/basics/sorting/contents-sorting.md",
     "img/Untitled.canvas",
     "workouts/25-1-3.md",
     "computer-science/courses/cs50x/content-cs50.md",
@@ -198,10 +198,10 @@
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "computer-science/courses/cs50x/notes/lecture-7-sql.md",
-    "computer-science/docs/data-structures",
-    "computer-science/docs/searching",
+    "computer-science/docs/basics/data-structures",
+    "computer-science/docs/basics/searching",
     "img/big-o-notation.png",
-    "computer-science/docs/sorting",
+    "computer-science/docs/basics/sorting",
     "img/linear-search.png",
     "workouts",
     "computer-science/docs/c/raylib",

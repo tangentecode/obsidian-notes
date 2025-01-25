@@ -10,4 +10,4 @@
 
 ![](dicts-running-time.png)
 
-- You can easily implement a [dictionary](dictionaries.md) in [python](contents-python.md) and in [c](contents-c.md) in form of a [hash-table](hash-tables.md) 
+- You can easily implement a [dictionary](computer-science/docs/basics/data-structures/dictionaries.md) in [python](contents-python.md) and in [c](contents-c.md) in form of a [hash-table](hash-tables.md) 

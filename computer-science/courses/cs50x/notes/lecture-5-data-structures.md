@@ -7,7 +7,7 @@
 	2. [doubly-linked-list](doubly-linked-list.md)
 	3. [stacks](stacks.md)
 	4. [queues](queues.md)
-	5. [dictionaries](computer-science/docs/data-structures/dictionaries.md)
+	5. [dictionaries](computer-science/docs/basics/data-structures/dictionaries.md)
 	6. [hash-tables](hash-tables.md)
 
 
@@ -186,7 +186,7 @@ while (ptr != NULL)
 
 ![](dicts-running-time.png)
 
-- You can easily implement a [dictionary](dictionaries.md) in [python](contents-python.md) and in [c](contents-c.md) in form of a [hash-table](hash-tables.md) 
+- You can easily implement a [dictionary](computer-science/docs/python/dictionaries.md) in [python](contents-python.md) and in [c](contents-c.md) in form of a [hash-table](hash-tables.md) 
 
 ## Hash Tables
 - Like [dictionaries](computer-science/docs/python/dictionaries.md) in [python](contents-python.md) but with a [hash-algorithm](hash-functions.md) 
