@@ -3,7 +3,8 @@
 - A hash table could be imagined as follows:  
 ![](hash-table-basic.png)
 
-- So if you want to **store** a value let it go trough an proper [hash-functions](hash-functions.md) and store it at the index the hash-
+- If you want to **store** a value let it go trough an proper [hash-functions](hash-functions.md) and store it at the index the hash function returned
+- To **search** and value you need to again run it trough the hashing process 
 
 - [C](contents-c.md) code:
 
