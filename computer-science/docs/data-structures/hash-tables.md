@@ -5,8 +5,9 @@
 
 - if you want to **store** a value let it go trough an proper [hash-functions](hash-functions.md) and store it at the index the hash function returned
 - to **search** and value you need to again run it trough the same hashing process and look at that specific index
+- 
 
-- to avoid **c** 
+- to avoid **collision** if the hash function returned the same hash for another value store multiple values in a linked at that index  
 
 - [C](contents-c.md) code:
 
