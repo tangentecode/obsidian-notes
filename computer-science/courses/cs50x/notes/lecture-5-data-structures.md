@@ -32,4 +32,4 @@
 
 ![](dicts-running-time.png)
 
-- You can easily 
+- You can easily implement a [dictionary](dictionaries.md) in [python](contents-python.md) and in [c](contents-c.md) in form of a [hash-tables](hash-tables.md)
