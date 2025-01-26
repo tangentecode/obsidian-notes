@@ -17,4 +17,3 @@
 15. [PyQt](content-pyqt.md)
 16. [OS](content-os.md)
 17. [regex](computer-science/docs/python/regex.md)
-18. 
