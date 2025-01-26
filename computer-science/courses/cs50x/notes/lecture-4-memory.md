@@ -41,9 +41,9 @@
 
 ## [Pointers](computer-science/docs/c/pointers.md)
 
-## What is a pointer?
+### What is a pointer?
 
-### Explanation
+#### Explanation
 
 - Create variable:
 ```c
@@ -82,7 +82,7 @@ int * pX = &x;
 
 > Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
 
-
+## 
 ## Strings
 
 - The `string` [type](computer-science/docs/c/types.md) is not natively supported by [c](contents-c.md) instead initialize a string with an [arrays](lecture-2-arrays.md) of [chars](computer-science/docs/c/types.md):
