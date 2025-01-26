@@ -181,6 +181,13 @@ int main(void)
 
 
 
+## Why use pointers?
+
+Example: you want to to 
+
+
+
+
 ## Summing up
 
 In this lesson, you learned about pointers that provide you with the ability to access and manipulate data at specific memory locations. Specifically, we delved into…
