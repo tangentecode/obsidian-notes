@@ -174,4 +174,8 @@ int main(void)
 
 ## Copying and `malloc`
 
-> Look at [[mall]]
+**Look at:**
+	1. [allocate-memory](allocate-memory.md)
+	2. [reallocate-memory](reallocate-memory.md)
+	3. [access-memory](access-memory.md)
+	
