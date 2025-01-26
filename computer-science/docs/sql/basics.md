@@ -3,4 +3,7 @@
 
 
 - SQL is supports `CRUD` operations:
-	1. 
+	1. **C**reate
+	2. **R**ead
+	3. **U**pdate
+	4. **D**elete
