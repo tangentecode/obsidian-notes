@@ -2,6 +2,7 @@
 
 ![](strings-in-memory-1.png)
 
-- the name of the variable (`s`) points 
+- the name of the variable (`s`) points to the first letter of the [string](computer-science/docs/python/types.md)
+- after that each character is ordered next to this `head` chareacter
 
 - Implement strings in [C](computer-science/docs/c/strings.md) or in [Python](computer-science/docs/python/variables.md) 
