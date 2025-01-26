@@ -41,7 +41,7 @@
 
 ## [Pointers](computer-science/docs/c/pointers.md)
 
-### What is a pointer?
+### How to use a pointer?
 
 #### Explanation
 
@@ -62,7 +62,7 @@ int * pX = &x;
 - The `&` sign just means **the address of the following variable**
 - [Naming conventions](computer-science/docs/c/style.md) for pointers: take the **variable name** the pointer points to and set a lowercase **p in front**
 
-### Memory:
+#### Memory:
 
 | Adress | Value       |
 | ------ | ----------- |
@@ -72,7 +72,7 @@ int * pX = &x;
 | 0x100C |             |
 | ...    |             |
 
-### & and *
+#### & and *
 
 - & Provides the address of something stored in memory.
 
@@ -82,7 +82,16 @@ int * pX = &x;
 
 > Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
 
-## 
+### How is a pointer represented in memory?
+
+- the **pointer** has the address of an [integer](computer-science/docs/c/types.md) 50 as value:
+
+![](pointer-in-memory-1.png)
+
+- You can more accurately visualize a pointer as one address that points to another:
+![](pointer-in-memory-2.png)
+
+- Implement pointers in [C](computer-science/docs/c/pointers.md)
 ## Strings
 
 - The `string` [type](computer-science/docs/c/types.md) is not natively supported by [c](contents-c.md) instead initialize a string with an [arrays](lecture-2-arrays.md) of [chars](computer-science/docs/c/types.md):
