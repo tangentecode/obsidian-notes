@@ -22,17 +22,31 @@
             }
           },
           {
+            "id": "43fd16a12e9c0103",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/basics/memory/addresses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "addresses"
+            }
+          },
+          {
             "id": "66dc7031ab632960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/Untitled.md",
+                "file": "computer-science/docs/basics/strings-in-memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "strings-in-memory"
             }
           },
           {
@@ -49,8 +63,7 @@
               "title": "strings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,10 +206,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "66dc7031ab632960",
+  "active": "75c05a7a918edf32",
   "lastOpenFiles": [
+    "computer-science/docs/basics/memory/addresses.md",
+    "computer-science/docs/basics/memory.md",
+    "computer-science/docs/basics/memory",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
-    "computer-science/docs/basics/Untitled.md",
+    "computer-science/docs/basics/strings-in-memory.md",
     "computer-science/docs/c/strings.md",
     "computer-science/docs/basics/hexadecimal.md",
     "computer-science/docs/basics/pixel-art.md",
@@ -230,9 +246,7 @@
     "img/linkes-list-advanced.png",
     "img/linkes-list-basic.png",
     "img/3-values-memory.png",
-    "computer-science/docs/basics/sorting/contents-sorting.md",
     "img/Untitled.canvas",
-    "workouts/25-1-3.md",
     "computer-science/docs/basics/data-structures",
     "computer-science/docs/basics/searching",
     "computer-science/docs/basics/sorting",
@@ -241,7 +255,6 @@
     "computer-science/docs/linux",
     "computer-science/courses/informatik-ggg",
     "computer-science/docs/c/sdl2",
-    "computer-science/docs/basics",
     "Untitled.canvas"
   ]
 }
