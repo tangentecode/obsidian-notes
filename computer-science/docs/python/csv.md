@@ -23,3 +23,6 @@ with open("file-name.csv", "a") as file:
 	# do something
 ```
 
+### Writing
+
+- Write a row to prevously 
