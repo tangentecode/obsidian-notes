@@ -3,14 +3,14 @@
 - Python has built-in support for `CSV` files just need to import the csv library
 
 ### Open
+
 - Common modes:
 
 | mode | description                        |
 | ---- | ---------------------------------- |
-| r    | onread                             |
-| w    | write                              |
-| a    | append to already existing content |
-
+| "r"  | read the file                      |
+| "w"  | write file from scratch            |
+| "a"  | append to already existing content |
 
 - Open with a standard local scope variable in your desired mode:
 ```python
