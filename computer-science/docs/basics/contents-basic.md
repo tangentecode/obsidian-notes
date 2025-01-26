@@ -8,3 +8,6 @@
 8. [sorting](contents-sorting.md)
 9. [running-time](running-time.md)
 10. [hashing](contents-hashing.md)
+11. [contents-data-structures](contents-data-structures.md)
+12. [hashing](hashing.md)
+13. [[mem]]
