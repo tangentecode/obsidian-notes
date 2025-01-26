@@ -4,49 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9d6cfe1782a610",
+        "id": "81f8122edb7bbd3e",
         "type": "tabs",
         "children": [
           {
-            "id": "0086d32ff149e7b3",
+            "id": "da75f4801861b615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-6-python.md",
+                "file": "computer-science/docs/sql/contents-sql.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture-6-python"
+              "title": "contents-sql"
             }
           },
           {
-            "id": "b918341fa8668d50",
+            "id": "0872c67e62742372",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/contents-python.md",
+                "file": "computer-science/docs/sql/basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-python"
-            }
-          },
-          {
-            "id": "620f07cad8628b9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/docs/python/csv.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "csv"
+              "title": "basics"
             }
           }
         ],
@@ -193,10 +179,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b918341fa8668d50",
+  "active": "0872c67e62742372",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/lecture-6-python.md",
+    "computer-science/docs/sql/contents-sql.md",
+    "computer-science/docs/sql/basics.md",
+    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "computer-science/docs/python/contents-python.md",
+    "computer-science/courses/cs50x/notes/lecture-6-python.md",
     "computer-science/docs/python/libraries.md",
     "computer-science/docs/python/csv.md",
     "computer-science/docs/python/exit.md",
@@ -208,7 +197,6 @@
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "computer-science/docs/basics/data-structures/hash-tables.md",
-    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/docs/python/os-library/content-os.md",
@@ -219,8 +207,6 @@
     "computer-science/docs/c/contents-c.md",
     "computer-science/docs/javascript/intro.md",
     "computer-science/docs/javascript/contents-javascript.md",
-    "computer-science/docs/javascript/frameworks.md",
-    "computer-science/docs/contents-docs.md",
     "img/globals-heap-stack-structure.png",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",
