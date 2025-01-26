@@ -37,6 +37,22 @@ writer.writerow([name,age])
 ```
 
 
-###
+### Dict Writer
+
+- Similarly, we can write a dictionary as follows within the CSV file:
+    
+```python
+import csv
+    
+    name = input("Name: ")
+    number = input("Number: ")
+    
+    with open("phonebook.csv", "a") as file:
+    
+        writer = csv.DictWriter(file, fieldnames=["name", "number"])
+        writer.writerow({"name": name, "number": number})
+    ```
+    
+    Notice this code is quite similar to our prior iteration but with `csv.DictWriter` instead.
 
 
