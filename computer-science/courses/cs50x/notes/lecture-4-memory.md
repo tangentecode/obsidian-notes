@@ -242,21 +242,4 @@ void swap(int *a, int *b)
 - You can visualize this as follows:
 
 ![](two-function-pointer-in-memory.png)
-## Summing up
-
-In this lesson, you learned about pointers that provide you with the ability to access and manipulate data at specific memory locations. Specifically, we delved into…
-
-- Pixel art
-- Hexadecimal
-- Memory
-- Pointers
-- Strings
-- Pointer Arithmetic
-- String Comparison
-- Copying
-- malloc and Valgrind
-- Garbage values
-- Swapping
-- Overflow
-- `scanf`
-- File I/O
+> look at [globals-heap-stack](globals-heap-stack.md)
