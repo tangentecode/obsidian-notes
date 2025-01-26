@@ -19,52 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "contents-c"
-            },
-            "group": "01138b8fa6c708d1"
-          }
-        ]
-      },
-      {
-        "id": "0a14c470f4d4ea15",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b8a310b07d33e1ce",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "computer-science/docs/c/contents-c.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of contents-c"
-            },
-            "group": "01138b8fa6c708d1"
+            }
           }
         ]
       }
@@ -209,7 +164,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b8a310b07d33e1ce",
+  "active": "76b21a8afe4f823a",
   "lastOpenFiles": [
     "computer-science/docs/basics/memory/globals-heap-stack.md",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
