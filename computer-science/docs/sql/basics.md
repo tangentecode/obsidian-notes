@@ -2,3 +2,5 @@
 - Google, X, and Meta all use relational databases to store their information at scale.
 
 
+- SQL is supports `CRUD` operations:
+	1. 
