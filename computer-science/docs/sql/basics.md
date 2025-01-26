@@ -7,4 +7,4 @@
 	3. **U**pdate
 	4. **D**elete
 
-- Or in SQL specifically **C**reate is called `INSERT`
+- Or in SQL specifically **C**reate is called `INSERT` and **R**ead equals `SELECT`
