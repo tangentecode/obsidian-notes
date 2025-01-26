@@ -12,4 +12,4 @@
 12. [contentes-hashing](hashing.md)
 13. [contents-memory](contents-memory.md)
 14. [contents-searching](contents-searching.md)
-15. 
+15. [contents-sorting](contents-sorting.md)
