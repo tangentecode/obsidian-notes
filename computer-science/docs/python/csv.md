@@ -4,9 +4,10 @@
 
 ### Open
 
+- Open with a standard local scope variable in your desired mode:
 ```python
-# Open with a standart local scoped variable
-
-file = open("file-.csv", "a")
+file = open("file-name.csv", "a")
 ```
+
+- The **Pythonic** woukd 
 
