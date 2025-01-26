@@ -1,1 +1,3 @@
-Python also has built-in support for CSV files.
+> CSV is a standard table format which stands for **Comma Separated Values** 
+
+- Python has built-in support for `CSV` files 
