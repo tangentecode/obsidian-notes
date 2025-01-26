@@ -70,5 +70,6 @@ my_dict.clear()
 ### Why dictionaries?
 
 - Good for representing `JSON` like objects
-- Or more general just  
+- Or more general just multiple values associated with multiple keys
+- Accessing or [[sea]] have a constant [running time](running-time.md)
  
