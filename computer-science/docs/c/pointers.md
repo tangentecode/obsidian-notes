@@ -36,5 +36,6 @@ int * pX = &x;
 - * Instructs the compiler to go to a location in memory.
 
 
+## Why use pointers?
 
 > Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
