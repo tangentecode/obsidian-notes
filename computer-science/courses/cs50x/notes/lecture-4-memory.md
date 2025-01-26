@@ -16,3 +16,5 @@
 ```
 
 - Notice that `F` would represent `15` in decimal
+- Hexadecimal is also known as `base-16`
+- 
