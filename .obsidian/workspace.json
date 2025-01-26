@@ -63,8 +63,7 @@
               "title": "addresses"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,10 +206,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "00f849d7c942b4f0",
+  "active": "75c05a7a918edf32",
   "lastOpenFiles": [
-    "computer-science/docs/basics/memory/strings.md",
+    "img/pointer-in-memory-1.png",
     "computer-science/docs/basics/memory/pointers.md",
+    "computer-science/docs/basics/memory/strings.md",
     "computer-science/docs/basics/memory/addresses.md",
     "computer-science/docs/c/strings.md",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
@@ -240,7 +240,6 @@
     "img/hash-table-basic.png",
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/basics/hashing/cryptographic-hash-functions.md",
-    "computer-science/docs/basics/hashing/hashing.md",
     "computer-science/docs/basics/hashing",
     "img/dicts-running-time.png",
     "img/linked-list-head.png",
