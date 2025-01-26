@@ -5,7 +5,5 @@
 - [contents-python](contents-python.md)
 - [contents-sql](contents-sql.md)
 - [contents-basic](contents-basic.md)
-- [contents-sorting](contents-sorting.md)
-- [contents-searching](contents-searching.md)
-- 
+
 
