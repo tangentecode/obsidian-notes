@@ -36,12 +36,15 @@ print(my_dict.get("country", "Unknown"))  # Output: Unknown
 ### Adding or updating entries
 
 - Use square brackets to access individual `keys`
-- 
+
+- Create new key value pair:
 ```python
-
 my_dict["country"] = "USA"
+```
 
-
+- Update existing value
+```python
+my_dict["age"] = 40
 ```
 
 ### Searching
