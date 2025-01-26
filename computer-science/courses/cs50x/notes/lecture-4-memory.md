@@ -126,3 +126,8 @@ char s[] = "HI!";
 
 - Implement strings in [C](computer-science/docs/c/strings.md) or in [Python](computer-science/docs/python/variables.md) 
 
+### Practical Tip:
+
+- Use `char s[]` if you need a **modifiable string**.
+- Use `char *s` if you want a **constant string** and don't need to modify it. Use `const char *s = "HI!";` to make your intention explicit.
+- 
