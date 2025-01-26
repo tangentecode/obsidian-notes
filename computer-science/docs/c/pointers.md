@@ -31,9 +31,10 @@ int * pX = &x;
 
 ### & and *
 
-```
-  & Provides the address of something stored in memory.
-  * Instructs the compiler to go to a location in memory.
-```
+- & Provides the address of something stored in memory.
+
+- * Instructs the compiler to go to a location in memory.
+
+
 
 > Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
