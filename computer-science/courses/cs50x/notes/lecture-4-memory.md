@@ -85,4 +85,4 @@ int * pX = &x;
 
 ## Strings
 
-- The ``
+- The `string` [type](computer-science/docs/c/types.md) is not natively supported by [c](contents-c.md) instead initialize a string with an [arrays](lecture-2-arrays.md) of [types](computer-science/docs/c/types.md)
