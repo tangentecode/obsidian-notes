@@ -8,3 +8,6 @@
 ![](pixel_art.png)
 
 
+## Hexadecimal
+
+- Has **16** counting 
