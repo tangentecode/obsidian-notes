@@ -29,4 +29,4 @@
 | 16      | 10          |
 | 255     | FF          |
 
-- 
+- The highest you can count with hexadec
