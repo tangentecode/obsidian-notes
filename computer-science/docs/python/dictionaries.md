@@ -47,4 +47,20 @@ my_dict["country"] = "USA"
 my_dict["age"] = 40
 ```
 
+### Removing
+- Removing a specific key
+```python
+
+```
+```python
+
+my_dict.pop("city")  # Removes "city"
+
+# Remove the last inserted key-value pair (Python 3.7+)
+my_dict.popitem()
+
+# Clear all entries
+my_dict.clear()
+
+```
 ### Searching
