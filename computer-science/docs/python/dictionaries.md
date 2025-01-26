@@ -33,5 +33,11 @@ print(my_dict.get("age"))  # Returns the associated value: 25
 print(my_dict.get("country", "Unknown"))  # Output: Unknown
 ```
 
+### Adding or updating entries
+
+- Use square brackets to access indiv
+```
+
+```
 
 ### Searching
