@@ -48,18 +48,18 @@ my_dict["age"] = 40
 ```
 
 ### Removing
-- Removing a specific key
+- Removing a specific key:
 ```python
-
-```
-```python
-
 my_dict.pop("city")  # Removes "city"
+```
 
-# Remove the last inserted key-value pair (Python 3.7+)
+- Removing the last inserted key-value pair: 
+```python
 my_dict.popitem()
+```
+-
+```python
 
-# Clear all entries
 my_dict.clear()
 
 ```
