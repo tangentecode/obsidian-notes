@@ -31,5 +31,5 @@ Heres what is stored at each region:
 ## Overflows
 
 - A **_heap overflow_** is when you overflow the heap, touching areas of memory you are not supposed to.
-- A _stack overflow_ is when too many functions are called, overflowing the amount of memory available.
-- Both of these are considered _buffer overflows_.
+- A **_stack overflow_** is when too many functions are called, overflowing the amount of memory available.
+- **Both** of these are considered **_buffer overflows_**.

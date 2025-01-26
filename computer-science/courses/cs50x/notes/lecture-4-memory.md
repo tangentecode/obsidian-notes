@@ -210,6 +210,12 @@ Heres what is stored at each region:
     - Stores function call frames (local variables, return addresses, function parameters).
     - Grows upward (towards lower memory addresses).
     - Automatically managed (memory is allocated when a function is called and freed when it returns).
+
+## Overflows
+
+- A **_heap overflow_** is when you overflow the heap, touching areas of memory you are not supposed to.
+- A **_stack overflow_** is when too many functions are called, overflowing the amount of memory available.
+- **Both** of these are considered **_buffer overflows_**.
 ## Why use pointers?
 
 Example: you want to to make a function to swap to values
