@@ -7,15 +7,7 @@
 	3. **U**pdate
 	4. **D**elete
 
-	- Or in SQL specifically **C**reate is called INSERT
-
-
-
-
-
-
-
-
+- Or in SQL specifically **C**reate is called `INSERT`
 
 ## [SELECT](https://cs50.harvard.edu/x/2025/notes/7/#select)
 
