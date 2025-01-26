@@ -8,7 +8,3 @@
 	4. **D**elete
 
 - Or in SQL specifically **C**reate is called `INSERT`
-
-- **DELETE**: Removes records from a table.
-		
-		- Example: `DELETE FROM employees WHERE name = 'John Doe';`
