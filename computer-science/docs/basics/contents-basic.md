@@ -9,5 +9,7 @@
 9. [running-time](running-time.md)
 10. [hashing](contents-hashing.md)
 11. [contents-data-structures](contents-data-structures.md)
-12. [hashing](hashing.md)
-13. [[mem]]
+12. [contentes-hashing](hashing.md)
+13. [contents-memory](contents-memory.md)
+14. [contents-searching](contents-searching.md)
+15. 
