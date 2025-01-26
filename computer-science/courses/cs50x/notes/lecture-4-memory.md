@@ -1,5 +1,5 @@
 ## Pixel Arts
 
-- [binary](binary.md) 
+> **bitmap images** map of [bits](binary.md) 
 
 ![](pixel_art.png)
