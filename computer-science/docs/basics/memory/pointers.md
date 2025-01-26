@@ -1,0 +1,1 @@
+- Implement strings in [C](computer-science/docs/c/strings.md) or in [Python](computer-science/docs/python/variables.md) 
