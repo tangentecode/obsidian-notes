@@ -25,4 +25,8 @@ with open("file-name.csv", "a") as file:
 
 ### Writing
 
-- Write a row to prevously 
+- Write a row to previously opened file:
+```python
+writer = csv.writer(file)    writer.writerow([first_columns,second_columns])
+```
+
