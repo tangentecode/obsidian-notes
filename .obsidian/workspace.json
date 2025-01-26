@@ -179,10 +179,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0872c67e62742372",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
-    "computer-science/docs/sql/delete.md",
+    "computer-science/docs/sql/Untitled",
+    "computer-science/docs/sql/operations",
     "computer-science/docs/sql/basics.md",
+    "computer-science/docs/sql/Untitled.md",
+    "computer-science/docs/sql/delete.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/update.md",
     "computer-science/docs/sql/insert.md",
@@ -205,8 +208,6 @@
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/docs/python/os-library/content-os.md",
-    "computer-science/docs/python/os-library/project-management.md",
-    "computer-science/projects/file-operations-python.md",
     "img/globals-heap-stack-structure.png",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",
@@ -227,7 +228,6 @@
     "computer-science/docs/c/raylib",
     "computer-science/docs/linux",
     "computer-science/courses/informatik-ggg",
-    "computer-science/docs/c/sdl2",
     "Untitled.canvas"
   ]
 }
