@@ -1,11 +1,11 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "AnuPpuccin",
   "accentColor": "#cb86e4",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrains Mono NL",
-  "baseFontSize": 23,
+  "baseFontSize": 28,
   "baseFontSizeAction": true,
   "showViewHeader": true
 }
