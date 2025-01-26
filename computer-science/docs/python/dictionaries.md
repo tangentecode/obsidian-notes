@@ -3,8 +3,10 @@
 - Initialize a [dictionary](computer-science/docs/basics/data-structures/dictionaries.md) like this:
 ```python
 
-people = {
-	
+my_dict = {
+    "name": "Bob",
+    "age": 30,
+    "city": "los Angeles",
 }
 
 ```
