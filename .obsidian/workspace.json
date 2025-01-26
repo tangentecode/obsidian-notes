@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "lecture-4-memory"
             }
+          },
+          {
+            "id": "3c621de39778c23d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/basics/hexadecimal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "hexadecimal"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,8 +179,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75c05a7a918edf32",
+  "active": "3c621de39778c23d",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
+    "computer-science/docs/basics/hexadecimal.md",
+    "img/memory-addresses.png",
     "img/pixel_art.png",
     "computer-science/docs/python/output.md",
     "cyph.md",
@@ -201,12 +219,9 @@
     "computer-science/courses/cs50x/notes/lecture-0-scratch.md",
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
-    "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "computer-science/docs/basics/data-structures",
     "computer-science/docs/basics/searching",
-    "img/big-o-notation.png",
     "computer-science/docs/basics/sorting",
-    "img/linear-search.png",
     "workouts",
     "computer-science/docs/c/raylib",
     "computer-science/docs/linux",

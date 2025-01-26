@@ -31,3 +31,9 @@
 
 - The highest you can count with two-digit Hexadecimal is `FF` (Decimal: `255`)
 - Hexadecimal is useful because you can represent higher numbers with fewer digits
+
+## Memory
+
+- 
+
+![](memory-addresses.png)
