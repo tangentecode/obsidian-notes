@@ -205,7 +205,7 @@ void swap(int a, int b)
 }
 ```
 
-this code would fail because 
+this code would fail because `x` and `y` is only in the `local scope` of the `main` functio 
 
 
 ## Summing up
