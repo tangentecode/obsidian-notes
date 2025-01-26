@@ -11,10 +11,14 @@
             "id": "75c05a7a918edf32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/notes/lecture-4-memory.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lecture-4-memory"
             }
           }
         ]
@@ -162,6 +166,7 @@
   },
   "active": "75c05a7a918edf32",
   "lastOpenFiles": [
+    "img/pixel_art.png",
     "computer-science/docs/python/output.md",
     "cyph.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
@@ -197,7 +202,6 @@
     "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
-    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "computer-science/docs/basics/data-structures",
     "computer-science/docs/basics/searching",
     "img/big-o-notation.png",
