@@ -150,3 +150,5 @@ int main(void)
 
 ```
 
+
+## Pointer Arith
