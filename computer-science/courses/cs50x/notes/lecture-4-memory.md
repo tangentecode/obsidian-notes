@@ -39,7 +39,7 @@
 
 ![](memory-addresses.png)
 
-## [Pointers](pointers.md)
+## [Pointers](computer-science/docs/c/pointers.md)
 
 ## What is a pointer?
 

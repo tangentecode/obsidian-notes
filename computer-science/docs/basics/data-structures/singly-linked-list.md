@@ -9,7 +9,7 @@
 
 - Keep track of the next element ([node](structs.md)) by storing a pointer aside from the value like this:
 ![](linkes-list-advanced.png)
->Last node stores an NULL [pointer](pointers.md ) because there is no next element
+>Last node stores an NULL [pointer](computer-science/docs/c/pointers.md ) because there is no next element
 
 
 - the **head** is the a points to the first node
