@@ -153,6 +153,6 @@ int main(void)
 
 ## Pointer Arithmetic
 
-- Because [memory addresses](addresses.md) are just ([hexadecimal](hexadecimal.md)) numbers you can do math with them
-- You can use 
+- because [memory addresses](addresses.md) are just ([hexadecimal](hexadecimal.md)) numbers you can do math with them
+- you can use Pointer Arithmetic instead of accessing indexes of an array with square brackets because the compiler converts these brackets to 
 - Example:
