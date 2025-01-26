@@ -180,6 +180,7 @@
   },
   "active": "75c05a7a918edf32",
   "lastOpenFiles": [
+    "img/two-function-in-memory.png",
     "computer-science/docs/c/pointers.md",
     "computer-science/docs/basics/memory/pointer-arithmetic.md",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
@@ -215,7 +216,6 @@
     "img/hash-algorithms-collisions.png",
     "img/hash-table-basic.png",
     "computer-science/docs/basics/contents-basic.md",
-    "computer-science/docs/basics/hashing/cryptographic-hash-functions.md",
     "computer-science/docs/basics/hashing",
     "img/dicts-running-time.png",
     "img/Untitled.canvas",

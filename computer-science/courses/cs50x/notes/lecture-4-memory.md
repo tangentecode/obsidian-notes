@@ -207,8 +207,9 @@ void swap(int a, int b)
 
 - this code would fail because `x` and `y` is only in the `local scope` of the `main` function.
 
- - this happens to be because 
-
+ - this happens to be because function are allocated at different parts in memory
+ 
+![](two-function-in-memory.png)
 
 ## Summing up
 
