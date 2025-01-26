@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c87da61e8907348a",
+        "id": "8b7c86a8845f77b7",
         "type": "tabs",
         "children": [
           {
-            "id": "6d407be1cc5d0b11",
+            "id": "967bfe0a61a7bfeb",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -160,7 +160,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6d407be1cc5d0b11",
+  "active": "967bfe0a61a7bfeb",
   "lastOpenFiles": [
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/python/os-library/content-os.md",
