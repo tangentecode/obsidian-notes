@@ -20,5 +20,5 @@
   "propertiesInDocument": "hidden",
   "showInlineTitle": true,
   "readableLineLength": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "source"
 }
