@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "32df48296509b47a",
+        "id": "cb9f915f6df459af",
         "type": "tabs",
         "children": [
           {
-            "id": "3e18d2053a63a590",
+            "id": "75c05a7a918edf32",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -160,7 +160,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3e18d2053a63a590",
+  "active": "75c05a7a918edf32",
   "lastOpenFiles": [
     "computer-science/docs/python/output.md",
     "cyph.md",
