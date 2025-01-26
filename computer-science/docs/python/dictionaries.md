@@ -63,6 +63,19 @@ my_dict.popitem()
 ```python
 my_dict.clear()
 ```
+
+### Iterating
+
+- Iterating over keys
+```python
+
+```
+
+- Iterating over keys
+```python
+
+```
+
 ### Searching
 
 
@@ -71,5 +84,5 @@ my_dict.clear()
 
 - Good for representing `JSON` like objects
 - Or more general just multiple values associated with multiple keys
-- Accessing or [[sea]] have a constant [running time](running-time.md)
+- Accessing or [searching](contents-searching.md) has a constant [running time](running-time.md)
  
