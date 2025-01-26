@@ -3,11 +3,16 @@
 - Python has built-in support for `CSV` files just need to import the csv library
 
 ### Open
+- 
 
 - Open with a standard local scope variable in your desired mode:
 ```python
 file = open("file-name.csv", "a")
 ```
 
-- The **Pythonic** woukd 
+- The **Pythonic** would be:
+```python
+with open("file-name.csv", "a") as file:
+	# do something
+```
 
