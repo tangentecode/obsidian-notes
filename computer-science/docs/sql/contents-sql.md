@@ -4,36 +4,6 @@
 4. [insert](insert.md)
 5. [delete](delete.md)
 
-- **Purpose**: Finds the maximum (largest) value in a column.
-- **Example**:
-		
-		```sql
-
-		SELECT MAX(salary) AS highest_salary
-
-		FROM employees;
-
-		```c
-		
-
-- **Output**: Returns the highest salary in the `salary` column.
-
-### 6. **MIN**
-
-- **Purpose**: Finds the minimum (smallest) value in a column.
-- **Example**:
-		
-		```sql
-
-		SELECT MIN(salary) AS lowest_salary
-
-		FROM employees;
-
-		```c
-		
-
-- **Output**: Returns the lowest salary in the `salary` column.
-
 ### 7. **UPPER**
 
 - **Purpose**: Converts a string to uppercase.
