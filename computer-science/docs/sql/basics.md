@@ -7,8 +7,8 @@
 	3. **U**pdate
 	4. **D**elete
 
-- Or in SQL specifially
-	1
+- Or in SQL specifically
+	1. 
 
 
 
