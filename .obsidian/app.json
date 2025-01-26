@@ -18,5 +18,6 @@
     "editor:redo"
   ],
   "propertiesInDocument": "hidden",
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": true
 }
