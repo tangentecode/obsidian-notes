@@ -12,4 +12,6 @@ print(sys.argv[1])
 ```
 
 - `sys.argv[0]` will always be the filename
-- 
+
+- Use `len(sys.argv)` to check how many arguments the user provided
+- Similar to `argc` 
