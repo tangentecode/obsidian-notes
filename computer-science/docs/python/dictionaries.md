@@ -64,3 +64,11 @@ my_dict.popitem()
 my_dict.clear()
 ```
 ### Searching
+
+
+
+### Why dictionaries?
+
+- Good for representing `JSON` like objects
+- Or more general just  
+ 
