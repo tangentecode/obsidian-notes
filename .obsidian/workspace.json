@@ -182,14 +182,16 @@
   "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
     "computer-science/docs/sql/Untitled",
+    "computer-science/docs/sql/additional-commands",
+    "computer-science/docs/sql/Untitled.md",
+    "computer-science/docs/sql/keywords",
     "computer-science/docs/sql/operations",
     "computer-science/docs/sql/basics.md",
-    "computer-science/docs/sql/Untitled.md",
-    "computer-science/docs/sql/delete.md",
+    "computer-science/docs/sql/operations/delete.md",
     "computer-science/docs/sql/contents-sql.md",
-    "computer-science/docs/sql/update.md",
-    "computer-science/docs/sql/insert.md",
-    "computer-science/docs/sql/select.md",
+    "computer-science/docs/sql/operations/update.md",
+    "computer-science/docs/sql/operations/insert.md",
+    "computer-science/docs/sql/operations/select.md",
     "computer-science/docs/sql/sqlite.md",
     "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "computer-science/docs/python/contents-python.md",
@@ -226,8 +228,6 @@
     "computer-science/docs/basics/sorting",
     "workouts",
     "computer-science/docs/c/raylib",
-    "computer-science/docs/linux",
-    "computer-science/courses/informatik-ggg",
     "Untitled.canvas"
   ]
 }
