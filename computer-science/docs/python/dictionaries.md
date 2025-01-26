@@ -6,7 +6,7 @@
 my_dict = {
     "name": "Bob",
     "age": 30,
-    "city": "los Angeles",
+    "city": "Los Angeles",
 }
 
 ```
@@ -35,8 +35,12 @@ print(my_dict.get("country", "Unknown"))  # Output: Unknown
 
 ### Adding or updating entries
 
-- Use square brackets to access indiv
-```
+- Use square brackets to access individual `keys`
+- 
+```python
+
+my_dict["country"] = "USA"
+
 
 ```
 
