@@ -9,15 +9,6 @@
 
 - Or in SQL specifically **C**reate is called `INSERT`
 
-- **SELECT**: Retrieves data from a database. It's the most commonly used operation for querying and displaying data.
-    
-    - Example: `SELECT * FROM employees;`
-- **INSERT**: Adds new records to a table.
-    
-    - Example: `INSERT INTO employees (name, position) VALUES ('John Doe', 'Manager');`
-- **UPDATE**: Modifies existing records in a table.
-    
-    - Example: `UPDATE employees SET position = 'Senior Manager' WHERE name = 'John Doe';`
 - **DELETE**: Removes records from a table.
-    
-    - Example: `DELETE FROM employees WHERE name = 'John Doe';`
+		
+		- Example: `DELETE FROM employees WHERE name = 'John Doe';`
