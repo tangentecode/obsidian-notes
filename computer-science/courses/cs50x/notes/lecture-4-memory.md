@@ -10,4 +10,9 @@
 
 ## Hexadecimal
 
-- Has **16** counting 
+- **16** counting values:
+```
+0 1 2 3 4 5 6 7 8 9 A B C D E F
+```
+
+- Notice that `F` would represent `15` in decimal
