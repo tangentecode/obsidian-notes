@@ -154,4 +154,5 @@ int main(void)
 ## Pointer Arithmetic
 
 - Because [memory addresses](addresses.md) are just ([hexadecimal](hexadecimal.md)) numbers you can do math with them
+- You can use 
 - Example:
