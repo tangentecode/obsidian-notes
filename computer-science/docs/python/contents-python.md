@@ -1,5 +1,4 @@
 
-
 1. [setup](computer-science/docs/python/setup.md)
 2. [types](computer-science/docs/python/types.md)
 3. [variables](computer-science/docs/python/variables.md)
