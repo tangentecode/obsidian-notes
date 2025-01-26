@@ -1,2 +1,5 @@
 1. [basics](computer-science/docs/sql/basics.md)
 2. [select](select.md)
+3. [update](update.md)
+4. [insert](insert.md)
+5. [delete](delete.md)
