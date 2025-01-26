@@ -49,7 +49,8 @@
               "title": "delete"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,14 +193,14 @@
       "graph:Open graph view": false
     }
   },
-  "active": "da75f4801861b615",
+  "active": "0872c67e62742372",
   "lastOpenFiles": [
-    "computer-science/docs/sql/delete.md",
+    "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/basics.md",
+    "computer-science/docs/sql/delete.md",
     "computer-science/docs/sql/update.md",
     "computer-science/docs/sql/insert.md",
     "computer-science/docs/sql/select.md",
-    "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/sqlite.md",
     "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "computer-science/docs/python/contents-python.md",
