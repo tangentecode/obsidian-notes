@@ -183,9 +183,29 @@ int main(void)
 
 ## Why use pointers?
 
-Example: you want to to 
+Example: you want to to make a function to swap to values
+```c
+#include <stdio.h>
 
+void swap(int a, int b);
 
+int main(void)
+{
+    int x = 1;
+    int y = 2;
+
+    swap(x, y);
+}
+
+void swap(int a, int b)
+{
+    int tmp = a;
+    a = b;
+    b = tmp;
+}
+```
+
+this code would fail because 
 
 
 ## Summing up
