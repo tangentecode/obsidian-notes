@@ -1,4 +1,4 @@
-## Pixel Arts
+## [Pixel Art](pixel-art.md)
 
 > **Bitmap images:** map of [bits](binary.md) 
 
@@ -8,7 +8,7 @@
 ![](pixel_art.png)
 
 
-## Hexadecimal
+## [Hexadecimal](hexadecimal.md)
 
 - **16** counting values:
 ```
@@ -32,8 +32,8 @@
 - The highest you can count with two-digit Hexadecimal is `FF` (Decimal: `255`)
 - Hexadecimal is useful because you can represent higher numbers with fewer digits
 
-## Memory
+## Memory Addresses
 
-- 
+- start with the `0x` 
 
 ![](memory-addresses.png)
