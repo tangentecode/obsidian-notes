@@ -181,6 +181,7 @@
   },
   "active": "0872c67e62742372",
   "lastOpenFiles": [
+    "computer-science/docs/sql/sqlite.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/basics.md",
     "computer-science/courses/cs50x/notes/lecture-7-sql.md",
@@ -206,7 +207,6 @@
     "workouts/24-12-25.md",
     "computer-science/docs/c/contents-c.md",
     "computer-science/docs/javascript/intro.md",
-    "computer-science/docs/javascript/contents-javascript.md",
     "img/globals-heap-stack-structure.png",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",
