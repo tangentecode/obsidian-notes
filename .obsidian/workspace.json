@@ -49,8 +49,7 @@
               "title": "addresses"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,11 +192,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "f0596308f05b6ace",
+  "active": "75c05a7a918edf32",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/basics/memory/addresses.md",
     "computer-science/docs/basics/memory/strings.md",
+    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/basics/memory/pointers.md",
     "img/string-decimal.png",
     "img/strings-in-memory-1.png",
