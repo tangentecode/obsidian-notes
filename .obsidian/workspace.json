@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sql/contents-sql.md",
+                "file": "computer-science/docs/sql/keywords/count.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-sql"
+              "title": "count"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "comments"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +178,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "315f76b7d96608d0",
+  "active": "0872c67e62742372",
   "lastOpenFiles": [
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/additional-commands/comments.md",
