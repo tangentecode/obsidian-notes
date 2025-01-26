@@ -195,6 +195,7 @@
   },
   "active": "49a7aba708fa460b",
   "lastOpenFiles": [
+    "img/globals-heap-stack-structure.png",
     "computer-science/docs/c/pointers.md",
     "computer-science/docs/basics/memory/globals-heap-stack.md",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
@@ -231,7 +232,6 @@
     "computer-science/docs/basics/hashing/hash-functions.md",
     "img/hash-table-advanced.png",
     "img/hash-algorithms-collisions.png",
-    "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/basics/hashing",
     "img/Untitled.canvas",
     "computer-science/docs/basics/data-structures",
