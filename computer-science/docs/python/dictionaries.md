@@ -74,12 +74,14 @@ for key in my_dict:
 
 - Iterating over values
 ```python
-for value in my_dict.valu
+for value in my_dict.values():
+	print(value)
 ```
 
 - Looping trough key-value pairs:
 ```python
-
+for key, value in my_dict.items():
+	print(f"{key}: {value})
 ```
 
 ### Searching
