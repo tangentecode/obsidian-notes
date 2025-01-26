@@ -1,0 +1,1 @@
+- SQL is Relational databases which means stores data in rows and columns in structures called _tables_.
