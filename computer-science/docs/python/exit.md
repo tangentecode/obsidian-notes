@@ -1,2 +1,2 @@
 - First import `sys` to use `exit()`
-- Optionally specify
+- Optionally specify a string parameter which acts as a message that get [printed](computer-science/docs/python/output.md) when the prgramm exits via this function
