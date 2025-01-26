@@ -1,1 +1,2 @@
-- to use 
+- to use command line argument import the `sys` module
+- 
