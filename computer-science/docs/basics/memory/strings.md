@@ -11,6 +11,25 @@
 
 ![](pointer-in-memory-2.png)
 
+### Addresses of a string
+
+```c
+// Prints a string's address as well the addresses of its chars
+
+#include <stdio.h>
+
+int main(void)
+{
+	char *s = "HI!";
+    printf("%p\n", s);
+    printf("%p\n", &s[0]);
+    printf("%p\n", &s[1]);
+    printf("%p\n", &s[2]);
+    printf("%p\n", &s[3]);
+}
+
+```
+
 
 
 - Implement strings in [C](computer-science/docs/c/strings.md) or in [Python](computer-science/docs/python/variables.md) 
