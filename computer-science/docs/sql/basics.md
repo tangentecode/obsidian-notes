@@ -7,8 +7,7 @@
 	3. **U**pdate
 	4. **D**elete
 
-- Or in SQL specifically
-	1. 
+	- Or in SQL specifically **C**reate is called INSERT
 
 
 
