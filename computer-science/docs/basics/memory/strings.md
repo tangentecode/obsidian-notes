@@ -1,1 +1,3 @@
-- Implement strings in [c](contents-c.md) or in [variables](computer-science/docs/python/variables.md)
+
+
+- Implement strings in [C](computer-science/docs/c/strings.md) or in [Python](computer-science/docs/python/variables.md) 
