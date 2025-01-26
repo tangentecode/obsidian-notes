@@ -17,4 +17,14 @@
 
 - Notice that `F` would represent `15` in decimal
 - Hexadecimal is also known as `base-16`
-- 
+- Examples:
+
+| Decimal | Hexadecimal |
+| ------- | ----------- |
+| 0       | 00          |
+| 1       | 01          |
+| 9       | 09          |
+| 10      | 0A          |
+| 15      | 0F          |
+| 16      |             |
+| 255     |             |
