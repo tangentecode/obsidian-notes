@@ -180,7 +180,7 @@ int main(void)
 	3. [access-memory](access-memory.md)
 
 
-
+## Globals, Heap, Stack...
 ## Why use pointers?
 
 Example: you want to to make a function to swap to values
@@ -211,6 +211,32 @@ void swap(int a, int b)
  
 ![](two-function-in-memory.png)
 
+- Corrected code:
+
+```c
+// Swaps two integers using pointers
+
+#include <stdio.h>
+
+void swap(int *a, int *b);
+
+int main(void)
+{
+    int x = 1;
+    int y = 2;
+
+    printf("x is %i, y is %i\n", x, y);
+    swap(&x, &y);
+    printf("x is %i, y is %i\n", x, y);
+}
+
+void swap(int *a, int *b)
+{
+    int tmp = *a;
+    *a = *b;
+    *b = tmp;
+}
+```
 ## Summing up
 
 In this lesson, you learned about pointers that provide you with the ability to access and manipulate data at specific memory locations. Specifically, we delved into…
