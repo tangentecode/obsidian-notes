@@ -114,26 +114,26 @@
     "auto-correct-common-misspellings": {
       "enabled": true,
       "ignore-words": "",
-      "skip-words-with-multiple-capitals": false,
+      "skip-words-with-multiple-capitals": true,
       "extra-auto-correct-files": []
     },
     "blockquote-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "space"
     },
     "convert-bullet-list-markers": {
-      "enabled": false
+      "enabled": true
     },
     "default-language-for-code-fences": {
-      "enabled": false,
-      "default-language": ""
+      "enabled": true,
+      "default-language": "c"
     },
     "emphasis-style": {
-      "enabled": false,
+      "enabled": true,
       "style": "consistent"
     },
     "no-bare-urls": {
-      "enabled": false,
+      "enabled": true,
       "no-bare-uris": false
     },
     "ordered-list-style": {
