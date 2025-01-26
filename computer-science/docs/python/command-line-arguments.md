@@ -1,2 +1,2 @@
-- to use command line argument import the `sys` module
-- 
+- To use command line argument import the `sys` module
+- From there you can access the Argument Vector (`argv`) 
