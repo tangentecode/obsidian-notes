@@ -11,10 +11,14 @@
             "id": "967bfe0a61a7bfeb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/basics/data-structures/hash-tables.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "hash-tables"
             }
           }
         ]
@@ -162,7 +166,11 @@
   },
   "active": "967bfe0a61a7bfeb",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
+    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
+    "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
+    "computer-science/courses/cs50x/notes/general-instruction.md",
     "computer-science/docs/python/os-library/content-os.md",
     "computer-science/docs/python/os-library/project-management.md",
     "computer-science/projects/file-operations-python.md",
@@ -187,14 +195,10 @@
     "img/two-function-in-memory.png",
     "computer-science/docs/basics/memory/pointer-arithmetic.md",
     "computer-science/docs/basics/memory/strings.md",
-    "computer-science/docs/c/strings.md",
-    "computer-science/docs/basics/memory/addresses.md",
-    "computer-science/docs/basics/memory/pointers.md",
     "img/string-decimal.png",
     "img/strings-in-memory-1.png",
     "img/pointer-in-memory-2.png",
     "img/pointer-in-memory-1.png",
-    "computer-science/docs/basics/memory.md",
     "computer-science/docs/basics/memory",
     "img/memory-addresses.png",
     "img/pixel_art.png",
