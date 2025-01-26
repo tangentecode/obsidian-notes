@@ -63,7 +63,8 @@
               "title": "addresses"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,14 +207,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75c05a7a918edf32",
+  "active": "00f849d7c942b4f0",
   "lastOpenFiles": [
-    "img/pointer-in-memory-1.png",
-    "computer-science/docs/basics/memory/pointers.md",
     "computer-science/docs/basics/memory/strings.md",
+    "computer-science/docs/basics/memory/pointers.md",
+    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
+    "img/pointer-in-memory-2.png",
+    "img/pointer-in-memory-1.png",
     "computer-science/docs/basics/memory/addresses.md",
     "computer-science/docs/c/strings.md",
-    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/basics/memory.md",
     "computer-science/docs/basics/memory",
     "computer-science/docs/basics/strings-in-memory.md",
@@ -244,8 +246,6 @@
     "img/dicts-running-time.png",
     "img/linked-list-head.png",
     "img/linkes-list-advanced.png",
-    "img/linkes-list-basic.png",
-    "img/3-values-memory.png",
     "img/Untitled.canvas",
     "computer-science/docs/basics/data-structures",
     "computer-science/docs/basics/searching",
