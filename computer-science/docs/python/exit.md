@@ -5,5 +5,5 @@
 ```python
 import sys
 
-sys.exit("Programm exited succesfully")
+sys.exit("Programm exited successfully!")
 ```
