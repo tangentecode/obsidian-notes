@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "81f8122edb7bbd3e",
+        "id": "163a7943ccd70675",
         "type": "tabs",
         "children": [
           {
-            "id": "0872c67e62742372",
+            "id": "1e6c2c0f5f602d2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/docs/sql/operations/select.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "select"
-            }
-          },
-          {
-            "id": "315f76b7d96608d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/docs/sql/additional-commands/comments.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "comments"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +160,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "315f76b7d96608d0",
+  "active": "1e6c2c0f5f602d2f",
   "lastOpenFiles": [
-    "computer-science/docs/sql/operations/select.md",
-    "computer-science/docs/sql/keywords/upper.md",
     "computer-science/docs/sql/keywords/count.md",
-    "computer-science/docs/sql/contents-sql.md",
+    "workouts/24-12-29.md",
+    "workouts/contents-workout.md",
+    "computer-science/docs/sql/keywords/upper.md",
+    "computer-science/docs/sql/operations/select.md",
     "computer-science/docs/sql/additional-commands/comments.md",
+    "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/keywords/min.md",
     "computer-science/docs/sql/keywords/max.md",
     "computer-science/docs/sql/keywords/lower.md",
@@ -209,8 +192,6 @@
     "computer-science/docs/python/exit.md",
     "computer-science/docs/python/dictionaries.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
-    "computer-science/docs/python/command-line-arguments.md",
-    "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "img/globals-heap-stack-structure.png",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",
