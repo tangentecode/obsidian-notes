@@ -48,6 +48,7 @@ my_dict["age"] = 40
 ```
 
 ### Removing
+
 - Removing a specific key:
 ```python
 my_dict.pop("city")  # Removes "city"
@@ -57,10 +58,9 @@ my_dict.pop("city")  # Removes "city"
 ```python
 my_dict.popitem()
 ```
--
+
+-  Clear all entries
 ```python
-
 my_dict.clear()
-
 ```
 ### Searching
