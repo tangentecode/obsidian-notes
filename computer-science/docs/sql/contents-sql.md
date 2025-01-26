@@ -4,39 +4,6 @@
 4. [insert](insert.md)
 5. [delete](delete.md)
 
-
-- **Purpose**: Filters out duplicate values and returns unique values in a column.
-- **Example**:
-		
-		```sql
-
-		SELECT DISTINCT department
-
-		FROM employees;
-
-		```c
-		
-
-- **Output**: Returns a list of unique departments.
-
-### 4. **LOWER**
-
-- **Purpose**: Converts a string to lowercase.
-- **Example**:
-		
-		```sql
-
-		SELECT LOWER(name) AS lowercase_name
-
-		FROM employees;
-
-		```c
-		
-
-- **Output**: Returns all names in lowercase.
-
-### 5. **MAX**
-
 - **Purpose**: Finds the maximum (largest) value in a column.
 - **Example**:
 		
