@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/globals-heap-stack.md",
+                "file": "computer-science/docs/basics/memory/globals-heap-stack.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,7 +49,8 @@
               "title": "pointers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +193,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "75c05a7a918edf32",
+  "active": "49a7aba708fa460b",
   "lastOpenFiles": [
-    "computer-science/docs/basics/globals-heap-stack.md",
-    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/c/pointers.md",
+    "computer-science/docs/basics/memory/globals-heap-stack.md",
+    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",
     "computer-science/docs/basics/memory/pointer-arithmetic.md",

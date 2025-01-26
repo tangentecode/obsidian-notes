@@ -35,7 +35,7 @@ int * pX = &x;
 
 - * Instructs the compiler to go to a location in memory.
 
-
+> Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
 ## Why use pointers?
 
 
@@ -100,4 +100,5 @@ void swap(int *a, int *b)
 ![](two-function-pointer-in-memory.png)
 
 
-> Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
+> look at [globals-heap-stack](globals-heap-stack.md) for further explanation
+

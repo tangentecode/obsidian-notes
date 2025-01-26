@@ -242,4 +242,4 @@ void swap(int *a, int *b)
 - You can visualize this as follows:
 
 ![](two-function-pointer-in-memory.png)
-> look at [globals-heap-stack](globals-heap-stack.md)
+> look at [globals-heap-stack](globals-heap-stack.md) for further explanation
