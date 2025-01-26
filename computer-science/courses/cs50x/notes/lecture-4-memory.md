@@ -178,4 +178,24 @@ int main(void)
 	1. [allocate-memory](allocate-memory.md)
 	2. [reallocate-memory](reallocate-memory.md)
 	3. [access-memory](access-memory.md)
-	
+
+
+
+## Summing up
+
+In this lesson, you learned about pointers that provide you with the ability to access and manipulate data at specific memory locations. Specifically, we delved into…
+
+- Pixel art
+- Hexadecimal
+- Memory
+- Pointers
+- Strings
+- Pointer Arithmetic
+- String Comparison
+- Copying
+- malloc and Valgrind
+- Garbage values
+- Swapping
+- Overflow
+- `scanf`
+- File I/O
