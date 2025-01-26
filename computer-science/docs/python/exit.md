@@ -1,1 +1,2 @@
-- To exit a programm 
+- First import `sys` to use `exit()`
+- Optionally specify
