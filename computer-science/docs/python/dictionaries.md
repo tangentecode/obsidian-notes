@@ -68,10 +68,16 @@ my_dict.clear()
 
 - Iterating over keys
 ```python
-
+for key in my_dict:
+	print(key)
 ```
 
-- Iterating over keys
+- Iterating over values
+```python
+for value in my_dict.valu
+```
+
+- Looping trough key-value pairs:
 ```python
 
 ```
