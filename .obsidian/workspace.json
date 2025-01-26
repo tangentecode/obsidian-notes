@@ -35,8 +35,7 @@
               "title": "dictionaries"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +178,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "718245db18133aeb",
+  "active": "0086d32ff149e7b3",
   "lastOpenFiles": [
+    "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/python/contents-python.md",
     "computer-science/courses/cs50x/notes/lecture-6-python.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
@@ -206,7 +206,6 @@
     "computer-science/docs/basics/memory/contents-memory.md",
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/basics/sorting/contents-sorting.md",
-    "computer-science/docs/basics/searching/contents-searching.md",
     "img/globals-heap-stack-structure.png",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",

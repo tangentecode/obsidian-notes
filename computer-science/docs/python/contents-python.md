@@ -1,8 +1,6 @@
 
-1. [PyQt](content-pyqt.md)
-2. [OS](content-os.md)
+
 3. [setup](computer-science/docs/python/setup.md)
-4. [regex](computer-science/docs/python/regex.md)
 5. [types](computer-science/docs/python/types.md)
 6. [variables](computer-science/docs/python/variables.md)
 7. [output](computer-science/docs/c/output.md)
@@ -15,3 +13,5 @@
 14. [libraries](computer-science/docs/python/libraries.md)
 15. [style](computer-science/docs/python/style.md)
 16. [flask](flask-contents.md)
+1. [PyQt](content-pyqt.md)
+2. [OS](content-os.md)
