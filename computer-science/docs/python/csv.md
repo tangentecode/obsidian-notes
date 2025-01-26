@@ -23,10 +23,20 @@ with open("file-name.csv", "a") as file:
 	# do something
 ```
 
-### Writing
+### Basic writer
 
 - Write a row to previously opened file:
 ```python
-writer = csv.writer(file)    writer.writerow([first_columns,second_columns])
+# Define data
+name = "Bob"
+age = "30"
+
+# Specify a writer
+writer = csv.writer(file)
+writer.writerow([name,age])
 ```
+
+
+###
+
 
