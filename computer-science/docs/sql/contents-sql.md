@@ -4,7 +4,6 @@
 4. [insert](insert.md)
 5. [delete](delete.md)
 
-### 3. **DISTINCT**
 
 - **Purpose**: Filters out duplicate values and returns unique values in a column.
 - **Example**:

@@ -1,11 +1,9 @@
-
 - **Purpose**: Counts the number of rows in a result set or non-NULL values in a column.
-		
-- **Example**:
-		
-		```sql
 
-		SELECT COUNT(*) AS total_rows
+- **Example**:
+
+```sql
+SELECT COUNT(*) AS total_rows
 FROM employees;
 ```
 
