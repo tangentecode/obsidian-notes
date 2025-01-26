@@ -17,13 +17,11 @@ another_dict = dict(name="Bob", age=30, city="Los Angeles")
 ```
 
 ### Accessing Values
-```python
-# Access value by key
-print(my_dict["name"])  # Output: Alice
+- Using `.get()` 
 
-# Using `.get()` (avoids KeyError if key doesn't exist)
-print(my_dict.get("age"))  # Output: 25
-print(my_dict.get("country", "Unknown"))  # Output: Unknown
+```python
+
+print(my_dict.get("age"))  # Returns the associated value: 25
 
 ```
 
