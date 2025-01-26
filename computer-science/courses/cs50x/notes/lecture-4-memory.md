@@ -240,6 +240,8 @@ void swap(int *a, int *b)
 
 - Notice that variables are not passed by **_value_** but by **_reference_** in memory.
 - You can visualize this as follows:
+
+![](two-function-pointer-in-memory.png)
 ## Summing up
 
 In this lesson, you learned about pointers that provide you with the ability to access and manipulate data at specific memory locations. Specifically, we delved into…
