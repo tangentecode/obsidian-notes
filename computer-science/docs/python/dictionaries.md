@@ -86,6 +86,12 @@ for key, value in my_dict.items():
 
 ### Searching
 
+```python
+if "name" in my_dict:
+    print("Key exists")
+else:
+    print("Key not found")
+```
 
 
 ### Why dictionaries?
