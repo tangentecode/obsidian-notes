@@ -15,4 +15,4 @@
 16. [flask](flask-contents.md)
 1. [PyQt](content-pyqt.md)
 2. [OS](content-os.md)
-3. 4. [regex](computer-science/docs/python/regex.md)
+3. [regex](computer-science/docs/python/regex.md)
