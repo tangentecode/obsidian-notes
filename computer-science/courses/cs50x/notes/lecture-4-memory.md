@@ -170,3 +170,8 @@ int main(void)
     printf("%s\n", s + 2);
 }
 ```
+
+
+## Copying and `malloc`
+
+> Look at [[mall]]

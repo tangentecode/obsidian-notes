@@ -35,8 +35,7 @@
               "title": "pointer-arithmetic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +178,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a63ad9a392851d7b",
+  "active": "75c05a7a918edf32",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/basics/memory/pointer-arithmetic.md",
+    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/basics/memory/strings.md",
     "computer-science/docs/c/strings.md",
     "computer-science/docs/basics/memory/addresses.md",
