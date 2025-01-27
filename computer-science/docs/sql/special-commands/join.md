@@ -23,49 +23,39 @@ Notice how this provides us a sense of the raw data. You might notice that one s
 - We can learn more about the `genres` table by typing `.schema genres`.
 - Execute the following command to learn more about the various comedies in the database:
 
-```
-
+```sql
 SELECT title FROM shows
 WHERE id IN (
 	SELECT show_id FROM genres
 	WHERE genre = 'Comedy'
 	LIMIT 10
-	);
-
+);
 ```
-		
-		Notice how this produces a list of comedies, including _Catweazle_.
-		
+
+Notice how this produces a list of comedies, including _Catweazle_.
+
 
 - To learn more about Catweazle, by joining various tables through a join:
-		
-		```c
+```sql
+SELECT * FROM shows
+JOIN genres
+ON shows.id = genres.show_id
+WHERE id = 63881;
+```
+Notice that this results in a temporary table. It is fine to have a duplicate table.
 
-    SELECT * FROM shows
-
-    JOIN genres
-
-    ON shows.id = genres.show_id
-
-    WHERE id = 63881;
-
-    ```
-		
-		Notice that this results in a temporary table. It is fine to have a duplicate table.
-		
 
 - In contrast to one-to-one and one-to-many relationships, there may be _many-to-many_ relationships.
 - We can learn more about the show _The Office_ and the actors in that show by executing the following command:
 		
-		```c
-
-    SELECT name FROM people WHERE id IN 
+```
+SELECT name FROM people WHERE id IN 
 
         (SELECT person_id FROM stars WHERE show_id = 
 
             (SELECT id FROM shows WHERE title = 'The Office' AND year = 2005));
 
-    ```
+```
 		
 		Notice that this results in a table that includes the names of various stars through nested queries.
 		
