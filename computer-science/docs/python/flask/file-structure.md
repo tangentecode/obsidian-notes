@@ -1,6 +1,5 @@
 The basic file structure looks like this:
-```pytp
-
+```shell
 my_flask_app/
 │
 ├── app.py            # Main Flask application
@@ -11,3 +10,5 @@ my_flask_app/
 │   └── style.css
 
 ```
+
+the only required to run a **Flask** web app is
