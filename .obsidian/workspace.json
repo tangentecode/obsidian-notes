@@ -11,10 +11,14 @@
             "id": "1e6c2c0f5f602d2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/sql/contents-sql.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "contents-sql"
             }
           }
         ]
