@@ -9,4 +9,5 @@ cursor.execute('SELECT * FROM users')
 cursor.execute('INSERT INTO users (name, email) VALUES (?, ?)', ('Alice', 'alice@example.com'))
 ```
 
-- The **?** represent placeholders for the data in the second parameter of the `.exe`
+- The **?** represent placeholders for the data in the second parameter of the `.execute()` function
+- They need to be in the same order as the data passed in like in [printf](computer-science/docs/c/output.md) in [[contents]]
