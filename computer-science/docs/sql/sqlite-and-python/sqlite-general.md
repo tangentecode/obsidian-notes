@@ -1,11 +1,11 @@
 ## What is SQLite?
 
-SQLite is a lightweight, self-contained database engine.
-It is serverless, meaning there’s no need for a separate database server process.
-Ideal for embedded systems, small-scale applications, and local data storage.
-Data is stored in a single .sqlite or .db file.
+- SQLite is a **lightweight**, self-contained **database engine**
+- It is serverless, meaning there’s no need for a separate database server process.
+-  Ideal for embedded systems, small-scale applications, and local data storage.
+- Data is stored in a single .sqlite or .db file.
 
-Key Features of SQLite:
+## Key Features of SQLite
 
 File-based: Entire database stored in a file.
     Zero-configuration: No setup or installation required.
