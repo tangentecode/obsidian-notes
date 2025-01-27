@@ -1,7 +1,7 @@
 ## What is SQLite?
 
 - SQLite is a **lightweight**, self-contained **database engine**.
-- It is `serverless`, meaning there’s no need for a separate database server process.
+- It is `serverless`, meaning there's no need for a separate database server process.
 -  Ideal for embedded systems, small-scale applications, and local data storage.
 - Data is stored in a single `.sqlite` or `.db` file.
 
@@ -19,4 +19,4 @@
 sqlite3 example.db
 ```
 
-This creates a new database file named `example.db` (if it doesn’t already exist)
+This creates a **new database** file named `example.db` (if it doesn't already exist)
