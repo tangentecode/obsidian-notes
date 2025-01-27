@@ -146,6 +146,7 @@
   },
   "active": "575498cc761c0b7c",
   "lastOpenFiles": [
+    "computer-science/docs/python/regex.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/special-commands/like.md",
     "computer-science/docs/sql/special-commands/join.md",
@@ -173,7 +174,6 @@
     "computer-science/docs/sql/keywords/upper.md",
     "computer-science/docs/sql/operations/select.md",
     "computer-science/docs/sql/additional/comments.md",
-    "computer-science/docs/sql/keywords/min.md",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",
