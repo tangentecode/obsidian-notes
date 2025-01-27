@@ -1,4 +1,5 @@
 - Create a [form](forms.md) in an [HTML](contents-html.md) file and [render](html-templates.md) it:
+
 ```html
 <form method="POST" action="/submit">
     <label for="name">Name:</label>
