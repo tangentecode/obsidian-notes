@@ -12,4 +12,4 @@ if __name__ == '__main__':
 
 ```
 
-- When `debug=True` the code automatically reloads the browser page
+- When `debug=True` if  the code changes the browser page gets automatically reloaded
