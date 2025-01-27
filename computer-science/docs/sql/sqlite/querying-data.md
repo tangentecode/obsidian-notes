@@ -1,1 +1,2 @@
-- To print out the result of your executed 
+- To print out the result of your [executed query](executing-queries.md) you need to use the `.fetchall()` method:
+- Optionally you can print it row by row:
