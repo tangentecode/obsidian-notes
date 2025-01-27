@@ -11,10 +11,14 @@
             "id": "575498cc761c0b7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/python/flask/handling-forms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "handling-forms"
             }
           },
           {
@@ -156,6 +160,8 @@
   },
   "active": "575498cc761c0b7c",
   "lastOpenFiles": [
+    "forms.md",
+    "computer-science/docs/python/flask/handling-forms.md",
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask/initialization.md",
     "computer-science/docs/sql/contents-sql.md",
@@ -182,8 +188,6 @@
     "computer-science/docs/sql/keywords/count.md",
     "workouts/24-12-29.md",
     "workouts/contents-workout.md",
-    "computer-science/docs/sql/keywords/upper.md",
-    "computer-science/docs/sql/operations/select.md",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",
