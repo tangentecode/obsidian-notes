@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "078b73805e790cf5",
+            "id": "df7e3bc1d3196f42",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/sql/additional/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -174,8 +178,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "078b73805e790cf5",
+  "active": "df7e3bc1d3196f42",
   "lastOpenFiles": [
+    "computer-science/docs/sql/additional/Untitled.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/sqlite/contents-sqlite.md",
     "computer-science/docs/sql/sqlite/connecting-to-database.md",
@@ -190,7 +195,7 @@
     "workouts/contents-workout.md",
     "computer-science/docs/sql/keywords/upper.md",
     "computer-science/docs/sql/operations/select.md",
-    "computer-science/docs/sql/additional-commands/comments.md",
+    "computer-science/docs/sql/additional/comments.md",
     "computer-science/docs/sql/keywords/min.md",
     "computer-science/docs/sql/keywords/max.md",
     "computer-science/docs/sql/keywords/lower.md",
@@ -198,14 +203,13 @@
     "computer-science/docs/sql/keywords/avg.md",
     "computer-science/docs/sql/basics.md",
     "computer-science/docs/sql/sqlite",
-    "computer-science/docs/sql/additional-commands",
+    "computer-science/docs/sql/additional",
     "computer-science/docs/sql/Untitled.md",
     "computer-science/docs/sql/keywords",
     "computer-science/docs/sql/operations",
     "computer-science/docs/sql/operations/delete.md",
     "computer-science/docs/sql/operations/update.md",
     "computer-science/docs/sql/operations/insert.md",
-    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "img/globals-heap-stack-structure.png",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",
