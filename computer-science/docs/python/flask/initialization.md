@@ -1,5 +1,3 @@
-
-
 ```python
 from flask import Flask
 
@@ -14,4 +12,4 @@ if __name__ == '__main__':
 
 ```
 
-- When `debug=True` if  the code changes the browser page gets automatically reloaded
+- When `debug=True` if the code changes the browser page gets automatically reloaded
