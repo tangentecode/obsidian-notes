@@ -12,36 +12,27 @@ LIMIT 10;
 Notice this results in a wider table than we have previously seen.
 
 - Where the previous queries have illustrated the _one-to-one_ relationship between these keys, let's examine some _one-to-many_ relationships. Focusing on the `genres` table, execute the following:
-		
-		```c
+```sql
+SELECT * FROM genres
+LIMIT 10;
+```
 
-    SELECT * FROM genres
+Notice how this provides us a sense of the raw data. You might notice that one show has three values. This is a one-to-many relationship.
 
-    LIMIT 10;
-
-    ```
-		
-		Notice how this provides us a sense of the raw data. You might notice that one show has three values. This is a one-to-many relationship.
-		
 
 - We can learn more about the `genres` table by typing `.schema genres`.
 - Execute the following command to learn more about the various comedies in the database:
-		
-		```c
 
-    SELECT title FROM shows
+```
 
-    WHERE id IN (
+SELECT title FROM shows
+WHERE id IN (
+	SELECT show_id FROM genres
+	WHERE genre = 'Comedy'
+	LIMIT 10
+	);
 
-      SELECT show_id FROM genres
-
-      WHERE genre = 'Comedy'
-
-      LIMIT 10
-
-    );
-
-    ```
+```
 		
 		Notice how this produces a list of comedies, including _Catweazle_.
 		
