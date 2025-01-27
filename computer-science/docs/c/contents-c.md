@@ -8,11 +8,8 @@
 8. [loops](computer-science/docs/c/loops.md)
 9. [functions](computer-science/docs/c/functions.md)
 10. [style](computer-science/docs/c/style.md)
-11. [pointers](computer-science/docs/c/pointers.md)
+11. [pointers](pointers.md)
 12. [allocate-memory](allocate-memory.md)
 13. [access-memory](access-memory.md)
 14. [reallocate-memory](reallocate-memory.md)
-15. [structs](structs.md)
-16. [contents-raylib](contents-raylib.md)
-17. [cs50-lib](cs50-lib.md)
-18. 
+15. [contents-raylib](contents-raylib.md)

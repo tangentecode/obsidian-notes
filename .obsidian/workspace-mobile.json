@@ -4,62 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f2262b04b145065d",
+        "id": "9e79a4fa6aa131e3",
         "type": "tabs",
         "children": [
           {
-            "id": "04dbf9ba105888e2",
+            "id": "8afdb9a52565cc2d",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "bde28a9b8baac1a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/docs/basics/bash.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bash"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +69,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "264daab92dbe1fd4",
@@ -123,14 +82,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
+            "file": "computer-science/docs/basics/artificial-inteligence.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -168,83 +127,58 @@
           "icon": "lucide-file",
           "title": "Plugin no longer active"
         }
-      },
-      {
-        "id": "e0e01821a7d21d7f",
-        "type": "leaf",
-        "state": {
-          "type": "map-of-content",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "223507b280e2e0ca",
-        "type": "leaf",
-        "state": {
-          "type": "map-of-content",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bde28a9b8baac1a7",
+  "active": "8afdb9a52565cc2d",
   "lastOpenFiles": [
-    "img/big-o-notation.png",
-    "img/array.png",
-    "img/linear_search.png",
-    "computer-science/docs/c/structs.md",
-    "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
-    "workouts/24-12-25.md",
-    "computer-science/docs/data-structures/singly-linked-list.md",
-    "computer-science/docs/data-structures/doubly-linked-list.md",
-    "computer-science/docs/data-structures/contents-data-structures.md",
-    "computer-science/docs/data-structures",
-    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
-    "computer-science/docs/data-structures/stacks.md",
-    "computer-science/docs/data-structures/basics.md",
-    "computer-science/docs/searching/binary-search.md",
-    "computer-science/docs/searching/contents-searching.md",
-    "computer-science/docs/searching",
-    "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
-    "computer-science/docs/data-structures/hash-tables.md",
-    "computer-science/courses/cs50x/notes/lecture-9-flask.md",
-    "workouts/24-12-29.md",
-    "computer-science/docs/searching/linear-search.md",
-    "computer-science/docs/sorting/contents-sorting.md",
-    "computer-science/docs/sorting/merge-sort.md",
-    "computer-science/docs/sorting/basics.md",
-    "computer-science/docs/sorting",
-    "computer-science/courses/cs50x/notes/lecture-6-python.md",
-    "computer-science/docs/linux/package-managers.md",
-    "computer-science/docs/linux/file-structure.md",
-    "computer-science/docs/linux/contents-linux.md",
-    "computer-science/docs/linux/install.md",
-    "computer-science/docs/linux/system-services.md",
-    "computer-science/docs/linux",
-    "/img/linear_search.png",
-    "/img/big-o-notation.png",
-    "/img/array.png",
-    "/computer-science/docs/sorting",
-    "/computer-science/docs/searching",
-    "/computer-science/docs/linux",
-    "/computer-science/docs/data-structures",
+    "computer-science/docs/basics/artificial-inteligence.md",
+    "workouts/contents-workout.md",
+    "computer-science/docs/c/raylib/cheatsheet.md",
+    "computer-science/docs/c/raylib/contents-raylib.md",
+    "computer-science/docs/c/raylib/empty-window.md",
+    "computer-science/docs/c/contents-c.md",
+    "computer-science/docs/c/raylib.md",
+    "computer-science/docs/c/raylib/setup.md",
+    "computer-science/docs/basics/linux/package-managers.md",
     "computer-science/docs/c/raylib",
-    "/computer-science/docs/c/raylib",
+    "/workouts/contents-workout.md",
+    "/workouts/24-12-6.md",
+    "computer-science/docs/basics/linux/system-services.md",
+    "workouts/25-1-22.md",
+    "workouts/25-1-21.md",
+    "workouts/25-1-23.md",
+    "workouts/25-12-24.md",
+    "workouts/29-12-24.md",
+    "workouts/31-12-24.md",
+    "workouts/24-12-6.md",
+    "workouts/24-12-9.md",
+    "workouts/24-12-23.md",
+    "computer-science/projects/2048-python-pyqt6-project.md",
+    "workouts/24-12-28.md",
+    "workouts/24-12-26.md",
+    "workouts/24-12-21.md",
+    "workouts/25-1-19.md",
+    "workouts/cheat-sheet .txt",
+    "computer-science/docs/basics/linux",
+    "workouts/text 20.txt",
+    "workouts/text 21.txt",
+    "workouts/text 25.txt",
+    "workouts/text 26.txt",
+    "workouts/text 3.txt",
+    "workouts/text 17.txt",
+    "workouts/text 2.txt",
     "computer-science/docs/python/pyqt6-guide/empty-window.png",
     "/computer-science/docs/python/pyqt6-guide/empty-window.png"
   ]
