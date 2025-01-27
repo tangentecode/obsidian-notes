@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/docs/sql/additional/secial-constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for secial-constraints"
             }
           },
           {
@@ -130,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer-science/docs/sql/additional/secial-constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from secial-constraints"
             }
           },
           {
@@ -161,22 +163,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "16c0aaee1950327a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2932d9b8958eaa1",
-            "type": "leaf",
-            "state": {
-              "type": "map-of-content",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -195,8 +181,8 @@
   },
   "active": "575498cc761c0b7c",
   "lastOpenFiles": [
-    "computer-science/docs/sql/additional/types.md",
     "computer-science/docs/sql/additional/secial-constraints.md",
+    "computer-science/docs/sql/additional/types.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/sqlite/contents-sqlite.md",
     "computer-science/docs/sql/sqlite/connecting-to-database.md",
