@@ -7,4 +7,4 @@ pip install flask
 
 
 Make sure **Python** is installed 
-(Version )
+(Version 3.7 or higher is recommended)
