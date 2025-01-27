@@ -1,1 +1,9 @@
-Install **Flask** with [pip](computer-science/docs/python/libraries.md)
+Install **Flask** with [pip](computer-science/docs/python/libraries.md):
+
+```shell
+pip install flask
+
+```
+
+
+Make su
