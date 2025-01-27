@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/file-structure.md",
+                "file": "computer-science/docs/python/flask/initialization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "file-structure"
+              "title": "initialization"
             }
           }
         ]
@@ -146,8 +146,9 @@
   },
   "active": "b8260709b1d1c454",
   "lastOpenFiles": [
-    "computer-science/docs/python/flask/running.md",
     "computer-science/docs/python/flask/file-structure.md",
+    "computer-science/docs/python/flask/initialization.md",
+    "computer-science/docs/python/flask/running.md",
     "computer-science/docs/python/flask/installation.md",
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/c/access-memory.md",
@@ -172,7 +173,6 @@
     "workouts/31-12-24.md",
     "workouts/24-12-6.md",
     "workouts/24-12-9.md",
-    "workouts/24-12-23.md",
     "workouts/cheat-sheet .txt",
     "computer-science/docs/basics/linux",
     "workouts/text 20.txt",
