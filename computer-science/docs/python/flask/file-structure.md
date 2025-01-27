@@ -11,4 +11,4 @@ my_flask_app/
 
 ```
 
-the only required to run a **Flask** web app is
+the only required to run a **Flask** web app is the main **Python** file
