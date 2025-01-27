@@ -12,13 +12,13 @@ LIMIT 10;
 Notice this results in a wider table than we have previously seen.
 
 - Where the previous queries have illustrated the _one-to-one_ relationship between these keys, let's examine some _one-to-many_ relationships. Focusing on the `genres` table, execute the following:
+
 ```sql
 SELECT * FROM genres
 LIMIT 10;
 ```
 
 Notice how this provides us a sense of the raw data. You might notice that one show has three values. This is a one-to-many relationship.
-
 
 - We can learn more about the `genres` table by typing `.schema genres`.
 - Execute the following command to learn more about the various comedies in the database:
@@ -34,16 +34,16 @@ WHERE id IN (
 
 Notice how this produces a list of comedies, including _Catweazle_.
 
-
 - To learn more about Catweazle, by joining various tables through a join:
+
 ```sql
 SELECT * FROM shows
 JOIN genres
 ON shows.id = genres.show_id
 WHERE id = 63881;
 ```
-Notice that this results in a temporary table. It is fine to have a duplicate table.
 
+Notice that this results in a temporary table. It is fine to have a duplicate table.
 
 - In contrast to one-to-one and one-to-many relationships, there may be _many-to-many_ relationships.
 - We can learn more about the show _The Office_ and the actors in that show by executing the following command:
@@ -56,17 +56,15 @@ SELECT name FROM people WHERE id IN
 
 Notice that this results in a table that includes the names of various stars through nested queries.
 
-
 - We find all the shows in which Steve Carell starred:
 
-```
+```sql
 SELECT title FROM shows WHERE id IN 
 	(SELECT show_id FROM stars WHERE person_id = 
 		(SELECT id FROM people WHERE name = 'Steve Carell'));
 ```
 
 This results in a list of titles of shows wherein Steve Carell starred.
-
 
 - This could also be expressed in this way:
 
@@ -76,7 +74,6 @@ WHERE shows.id = stars.show_id
 AND people.id = stars.person_id
 AND name = 'Steve Carell';
 ```
-		
 
 - The wildcard `%` operator can be used to find all people whose names start with `Steve C` one could employ the syntax `SELECT * FROM people WHERE name LIKE 'Steve C%';`.
 
