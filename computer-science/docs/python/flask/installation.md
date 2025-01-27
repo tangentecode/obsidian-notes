@@ -6,4 +6,5 @@ pip install flask
 ```
 
 
-Make su
+Make sure **Python** is installed 
+(Version )
