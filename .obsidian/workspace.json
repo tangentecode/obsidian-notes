@@ -164,15 +164,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "1e6c2c0f5f602d2f",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "computer-science/docs/sql/sqlite-and-python/sqlite.md",
+    "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/keywords/count.md",
     "workouts/24-12-29.md",
     "workouts/contents-workout.md",
     "computer-science/docs/sql/keywords/upper.md",
     "computer-science/docs/sql/operations/select.md",
     "computer-science/docs/sql/additional-commands/comments.md",
-    "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/keywords/min.md",
     "computer-science/docs/sql/keywords/max.md",
     "computer-science/docs/sql/keywords/lower.md",
@@ -187,7 +188,6 @@
     "computer-science/docs/sql/operations/delete.md",
     "computer-science/docs/sql/operations/update.md",
     "computer-science/docs/sql/operations/insert.md",
-    "computer-science/docs/sql/sqlite-and-python/sqlite.md",
     "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "computer-science/docs/python/contents-python.md",
     "computer-science/courses/cs50x/notes/lecture-6-python.md",
