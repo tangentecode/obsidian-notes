@@ -13,10 +13,10 @@
 4. ACID-compliant: Guarantees reliable transactions.
 5. SQL Support: Full SQL standard syntax support.
 
-Basic SQLite Commands:
+## Create a Database:
 
-    Create a Database:
-
+```shell
 sqlite3 example.db
+```
 
-This creates a new database file named example.db (if it doesn’t already exist)
+This creates a new database file named `example.db` (if it doesn’t already exist)

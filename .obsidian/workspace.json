@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sql/sqlite-and-python/sqlite-general.md",
+                "file": "computer-science/docs/sql/sqlite/sqlite-general.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,10 +179,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "654010f933161aac",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
     "computer-science/docs/sql/contents-sql.md",
-    "computer-science/docs/sql/sqlite-and-python/sqlite-general.md",
+    "computer-science/docs/sql/sqlite/sqlite-general.md",
     "computer-science/docs/sql/sqlite-and-python/sqlite.md",
     "computer-science/docs/sql/keywords/count.md",
     "workouts/24-12-29.md",
@@ -196,7 +196,7 @@
     "computer-science/docs/sql/keywords/distinct.md",
     "computer-science/docs/sql/keywords/avg.md",
     "computer-science/docs/sql/basics.md",
-    "computer-science/docs/sql/sqlite-and-python",
+    "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional-commands",
     "computer-science/docs/sql/Untitled.md",
     "computer-science/docs/sql/keywords",
