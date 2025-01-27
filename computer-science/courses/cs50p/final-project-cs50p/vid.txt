@@ -1,0 +1,6 @@
+Project Title: 2048 Python PyQt6 Project
+Name: Johann Verlohner
+Github username: TangenteLakai
+edX username: verlohnerjohann
+City, country: Hördt, Germany
+Date: 1.12.2024

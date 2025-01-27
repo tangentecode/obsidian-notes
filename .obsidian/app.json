@@ -1,0 +1,24 @@
+{
+  "promptDelete": false,
+  "showRibbon": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-code",
+    "editor:insert-link",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-codeblock",
+    "editor:configure-toolbar",
+    "editor:undo",
+    "editor:redo"
+  ],
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "defaultViewMode": "source"
+}
