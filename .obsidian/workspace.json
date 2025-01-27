@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sql/sqlite/setup.md",
+                "file": "computer-science/docs/sql/sqlite/executing-queries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "setup"
+              "title": "executing-queries"
+            }
+          },
+          {
+            "id": "0536ed8188978d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/sql/sqlite/example-code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "example-code"
             }
           }
         ],
@@ -181,9 +195,10 @@
   },
   "active": "0c9b135ac4dbc5a9",
   "lastOpenFiles": [
-    "computer-science/docs/sql/sqlite/sqlite-general.md",
-    "computer-science/docs/sql/sqlite/setup.md",
     "computer-science/docs/sql/sqlite/example-code.md",
+    "computer-science/docs/sql/sqlite/executing-queries.md",
+    "computer-science/docs/sql/sqlite/setup.md",
+    "computer-science/docs/sql/sqlite/sqlite-general.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/sqlite-and-python/sqlite.md",
     "computer-science/docs/sql/keywords/count.md",
@@ -210,7 +225,6 @@
     "computer-science/docs/python/contents-python.md",
     "computer-science/courses/cs50x/notes/lecture-6-python.md",
     "computer-science/docs/python/libraries.md",
-    "computer-science/docs/python/csv.md",
     "img/globals-heap-stack-structure.png",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",
