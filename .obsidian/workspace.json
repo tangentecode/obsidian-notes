@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sql/special-commands/Untitled.md",
+                "file": "computer-science/docs/sql/special-commands/join.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "join"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer-science/docs/sql/special-commands/Untitled.md",
+                "file": "computer-science/docs/sql/special-commands/join.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for join"
             }
           },
           {
@@ -117,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer-science/docs/sql/special-commands/Untitled.md",
+                "file": "computer-science/docs/sql/special-commands/join.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from join"
             }
           },
           {
@@ -168,7 +168,7 @@
   "active": "a665bfe5414dac23",
   "lastOpenFiles": [
     "computer-science/docs/sql/contents-sql.md",
-    "computer-science/docs/sql/special-commands/Untitled.md",
+    "computer-science/docs/sql/special-commands/join.md",
     "computer-science/docs/contents-docs.md",
     "computer-science/docs/sql/additional/types.md",
     "computer-science/docs/sql/sqlite/contents-sqlite.md",
