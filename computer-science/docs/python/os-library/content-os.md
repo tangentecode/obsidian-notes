@@ -4,4 +4,4 @@
 4. [path-operations](path-operations.md)
 5. [project-management](project-management.md)
 6. [miscellaneous](miscellaneous.md)
-8. [example-code](example-code.md)
+8. [example-code](computer-science/docs/python/os-library/example-code.md)
