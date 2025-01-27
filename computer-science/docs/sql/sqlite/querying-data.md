@@ -2,9 +2,9 @@
 - Optionally you can print it row by row
 
 ```python
-
-conn = sqlite3.connect("example.db") # Connecting to a database
-cursor = conn.cursor() # Establishing a cursor
-conn.commit()  # Save changes
-conn.close()  # Closing connection
+# Querying data
+cursor.execute('SELECT * FROM users')
+results = cursor.fetchall()  # Fetch all rows
+for row in results:
+    print(row)
 ```
