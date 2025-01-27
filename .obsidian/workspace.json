@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,10 +193,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0c9b135ac4dbc5a9",
+  "active": "0536ed8188978d94",
   "lastOpenFiles": [
-    "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/docs/sql/sqlite/executing-queries.md",
+    "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/docs/sql/sqlite/setup.md",
     "computer-science/docs/sql/sqlite/sqlite-general.md",
     "computer-science/docs/sql/contents-sql.md",
