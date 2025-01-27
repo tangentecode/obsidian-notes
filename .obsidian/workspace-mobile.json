@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/html-templates.md",
+                "file": "computer-science/docs/python/flask/handling-forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "html-templates"
+              "title": "handling-forms"
             }
           }
         ]
@@ -146,8 +146,10 @@
   },
   "active": "b8260709b1d1c454",
   "lastOpenFiles": [
-    "computer-science/docs/python/flask/routes.md",
+    "computer-science/docs/html/forms.md",
+    "computer-science/docs/python/flask/handling-forms.md",
     "computer-science/docs/python/flask/html-templates.md",
+    "computer-science/docs/python/flask/routes.md",
     "computer-science/docs/python/flask/advanced.md",
     "computer-science/docs/python/flask/initialization.md",
     "computer-science/docs/python/flask/file-structure.md",
@@ -171,8 +173,6 @@
     "workouts/25-1-22.md",
     "workouts/25-1-21.md",
     "workouts/25-1-23.md",
-    "workouts/25-12-24.md",
-    "workouts/29-12-24.md",
     "workouts/cheat-sheet .txt",
     "computer-science/docs/basics/linux",
     "workouts/text 20.txt",
