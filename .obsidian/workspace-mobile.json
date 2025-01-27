@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+                "file": "computer-science/docs/basics/bash.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture-2-arrays"
+              "title": "bash"
             }
           }
         ]
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+            "file": "computer-science/docs/basics/bash.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,8 +166,10 @@
   },
   "active": "bde28a9b8baac1a7",
   "lastOpenFiles": [
-    "computer-science/docs/c/libraries.md",
+    "computer-science/docs/basics/ascii.md",
+    "computer-science/docs/basics/contents-basic.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+    "computer-science/docs/c/libraries.md",
     "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/sql/contents-sql.md",
@@ -191,8 +193,6 @@
     "computer-science/docs/basics/linux",
     "computer-science/docs/basics/linux/file-structure.md",
     "computer-science/docs/python/flask/initialization.md",
-    "computer-science/docs/python/flask/handling-forms.md",
-    "computer-science/docs/python/flask/routes.md",
     "/computer-science/docs/basics/linux",
     "img/big-o-notation.png",
     "img/array.png",
