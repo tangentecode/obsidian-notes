@@ -51,16 +51,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/linux/Untitled.md",
+                "file": "computer-science/docs/basics/linux/contents-linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "contents-linux"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,9 +187,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "5fbce142c3e6a4cf",
+  "active": "0522522e4bab1ef0",
   "lastOpenFiles": [
-    "computer-science/docs/basics/linux/Untitled.md",
+    "computer-science/docs/basics/linux/contents-linux.md",
     "computer-science/docs/basics/linux/package-managers.md",
     "computer-science/docs/basics/linux/install.md",
     "computer-science/docs/basics/linux/file-structure.md",
