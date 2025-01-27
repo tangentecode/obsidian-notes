@@ -1,1 +1,0 @@
-gpt generative programative transformer
