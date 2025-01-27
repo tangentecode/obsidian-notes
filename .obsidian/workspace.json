@@ -11,28 +11,17 @@
             "id": "575498cc761c0b7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2f2e16bfce9e8146",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "workouts/contents-workout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "contents-workout"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +148,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2f2e16bfce9e8146",
+  "active": "575498cc761c0b7c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "workouts/31-12-24.md",
