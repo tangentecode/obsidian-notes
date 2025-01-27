@@ -2,7 +2,9 @@
 - **Use:** Comes after `WHERE` and before `ORDER BY`.
 
 - **Example:**
+
 ```sql
 SELECT department, COUNT(*) AS employee_count FROM employees GROUP BY department;
 ```
+
 *Counts the number of employees in each department.*
