@@ -1,3 +1,0 @@
-- **Purpose:** Filters rows in a table based on specified conditions.
-- **Use:** Applied before grouping or sorting. Only rows that meet the condition are included in the query results.
-- **Example:**
