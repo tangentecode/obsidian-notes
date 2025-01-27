@@ -1,4 +1,5 @@
-- There a two **common** special 
+- There a two **common** special *data types*:
 
-NOT NULL
-UNIQUE
+| UNIQUE   | A [distinct](distinct.md) piece of data in a column or a set of solumns |
+| -------- | ----------------------------------------------------------------------- |
+| NOT NULL | So                                                                      |
