@@ -1,0 +1,1 @@
+Install **Flask** with [pip](computer-science/docs/python/libraries.md)
