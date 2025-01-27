@@ -16,8 +16,23 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "2f2e16bfce9e8146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,36 +159,37 @@
       "graph:Open graph view": false
     }
   },
-  "active": "575498cc761c0b7c",
+  "active": "2f2e16bfce9e8146",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "workouts/31-12-24.md",
+    "workouts/29-12-24.md",
+    "workouts/25-12-24.md",
+    "computer-science/docs/python/flask/running.md",
+    "computer-science/docs/python/flask/routes.md",
+    "computer-science/docs/python/flask/installation.md",
+    "computer-science/docs/python/flask/initialization.md",
+    "computer-science/docs/python/flask/html-templates.md",
+    "computer-science/docs/python/flask/handling-forms.md",
+    "computer-science/docs/python/flask/file-structure.md",
+    "computer-science/docs/python/flask/advanced.md",
+    "computer-science/docs/javascript/Untitled.md",
+    "computer-science/docs/html/forms.md",
+    "computer-science/docs/contents-summaries.md",
+    "computer-science/docs/c/compiling.md",
+    "computer-science/docs/basics/linux/system-services.md",
+    "computer-science/docs/basics/linux/package-managers.md",
+    "computer-science/docs/basics/linux/install.md",
+    "computer-science/docs/basics/linux/file-structure.md",
+    "computer-science/docs/basics/linux",
+    "computer-science/docs/basics/artificial-inteligence.md",
     "computer-science/docs/python/regex.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/special-commands/like.md",
     "computer-science/docs/sql/special-commands/join.md",
     "computer-science/docs/sql/special-commands/group-by.md",
-    "computer-science/docs/sql/special-commands/order-by.md",
-    "computer-science/docs/sql/special-commands/limit.md",
-    "computer-science/docs/sql/special-commands/where.md",
     "computer-science/docs/sql/special-commands/Untitled",
-    "computer-science/docs/contents-docs.md",
-    "computer-science/docs/sql/additional/types.md",
-    "computer-science/docs/sql/sqlite/contents-sqlite.md",
-    "computer-science/docs/sql/special-commands.md",
     "computer-science/docs/sql/special-commands",
-    "computer-science/docs/sql/additional/special-constraints.md",
-    "computer-science/docs/sql/sqlite/connecting-to-database.md",
-    "computer-science/docs/sql/sqlite/executing-queries.md",
-    "computer-science/docs/sql/sqlite/example-code.md",
-    "computer-science/docs/sql/sqlite/querying-data.md",
-    "computer-science/docs/sql/sqlite/setup.md",
-    "computer-science/docs/sql/sqlite/general.md",
-    "computer-science/docs/sql/sqlite-and-python/sqlite.md",
-    "computer-science/docs/sql/keywords/count.md",
-    "workouts/24-12-29.md",
-    "workouts/contents-workout.md",
-    "computer-science/docs/sql/keywords/upper.md",
-    "computer-science/docs/sql/operations/select.md",
-    "computer-science/docs/sql/additional/comments.md",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",
@@ -192,7 +208,6 @@
     "computer-science/docs/basics/hashing",
     "img/Untitled.canvas",
     "computer-science/docs/basics/data-structures",
-    "computer-science/docs/basics/searching",
     "Untitled.canvas"
   ]
 }
