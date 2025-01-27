@@ -1,0 +1,7 @@
+1. [installation](installation.md)
+2. [running](running.md)
+3. [file-structure](computer-science/docs/python/flask/file-structure.md)
+4. [html-templates](html-templates.md)
+5. [handling-forms](handling-forms.md)
+6. [routes](routes.md)
+7. [advanced](advanced.md)
