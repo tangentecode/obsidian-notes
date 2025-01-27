@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -18,15 +18,19 @@
   "collapse-display": false,
   "showArrow": false,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "textFadeMultiplier": -3,
+=======
+  "textFadeMultiplier": -1.7,
+>>>>>>> parent of 467cfb1 (vault backup: 2025-01-27 14:00:34)
   "nodeSizeMultiplier": 1.27690935046395,
   "lineSizeMultiplier": 0.801249107780157,
   "collapse-forces": false,
-  "centerStrength": 0.280157030692363,
+  "centerStrength": 0.719842969307637,
   "repelStrength": 20,
-  "linkStrength": 1,
-  "linkDistance": 199,
-  "scale": 0.10423897963771118,
+  "linkStrength": 0.697002141327623,
+  "linkDistance": 30,
+  "scale": 0.05932617187500022,
   "close": false
 =======
   "textFadeMultiplier": -1.9,
