@@ -11,13 +11,32 @@
             "id": "575498cc761c0b7c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "workouts/contents-workout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "contents-workout"
+            }
+          },
+          {
+            "id": "4686303d5bd25518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "workouts/29-12-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "29-12-24"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,8 +163,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "4686303d5bd25518",
   "lastOpenFiles": [
+    "workouts/31-12-24.md",
+    "workouts/29-12-24.md",
+    "workouts/24-12-28.md",
+    "workouts/24-12-29.md",
+    "workouts/24-12-25.md",
+    "workouts/25-1-5.md",
+    "workouts/contents-workout.md",
     "computer-science/docs/javascript/Untitled.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/special-commands/like.md",
@@ -167,13 +193,6 @@
     "computer-science/docs/sql/sqlite/querying-data.md",
     "computer-science/docs/sql/sqlite/setup.md",
     "computer-science/docs/sql/sqlite/general.md",
-    "computer-science/docs/sql/sqlite-and-python/sqlite.md",
-    "computer-science/docs/sql/keywords/count.md",
-    "workouts/24-12-29.md",
-    "workouts/contents-workout.md",
-    "computer-science/docs/sql/keywords/upper.md",
-    "computer-science/docs/sql/operations/select.md",
-    "computer-science/docs/sql/additional/comments.md",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",
