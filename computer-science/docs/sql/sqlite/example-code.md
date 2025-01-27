@@ -16,7 +16,7 @@ cursor.execute('''
 
 # Insert data
 cursor.execute('INSERT INTO users (name, email) VALUES (?, ?)',
-               ('Alice', 'alice@example.com'))
+			   ('Alice', 'alice@example.com'))
 
 # Querying data
 cursor.execute('SELECT * FROM users')
