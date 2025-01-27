@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sql/additional/Untitled.md",
+                "file": "computer-science/docs/sql/additional/types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "types"
             }
           },
           {
@@ -180,7 +180,7 @@
   },
   "active": "df7e3bc1d3196f42",
   "lastOpenFiles": [
-    "computer-science/docs/sql/additional/Untitled.md",
+    "computer-science/docs/sql/additional/types.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/sqlite/contents-sqlite.md",
     "computer-science/docs/sql/sqlite/connecting-to-database.md",
