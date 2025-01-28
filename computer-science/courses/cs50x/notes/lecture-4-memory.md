@@ -3,15 +3,16 @@
 > **Bitmap images:** map of [bits](binary.md) 
 
  0 represent **black**
+
  1 represent **white**
 
 ![](pixel_art.png)
 
-
 ## [Hexadecimal](hexadecimal.md)
 
 - **16** counting values:
-```
+
+```c
 0 1 2 3 4 5 6 7 8 9 A B C D E F
 ```
 
@@ -41,17 +42,18 @@
 
 ## [Pointers](computer-science/docs/c/pointers.md)
 
-### How to use a pointer?
+### How to Use a Pointer?
 
 #### Explanation
 
 - Create variable:
+
 ```c
 int x = 4;
 ```
 
-
 - **Pointer to variable**
+
 ```c
 int * pX = &x;
 ```
@@ -64,25 +66,23 @@ int * pX = &x;
 
 #### Memory:
 
-| Adress | Value       |
+| Address | Value       |
 | ------ | ----------- |
 | 0x1000 | Ox4 (x)     |
 | 0x1004 | 0x1000 (pX) |
 | 0x1008 |             |
 | 0x100C |             |
-| ...    |             |
+| …    |             |
 
-#### & and *
+#### & And *
 
 - & Provides the address of something stored in memory.
 
-- * Instructs the compiler to go to a location in memory.
-
-
+- - Instructs the compiler to go to a location in memory.
 
 > Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
 
-### How is a pointer represented in memory?
+### How is a Pointer Represented in Memory?
 
 - the **pointer** has the address of an [integer](computer-science/docs/c/types.md) 50 as value:
 
@@ -92,6 +92,7 @@ int * pX = &x;
 ![](pointer-in-memory-2.png)
 
 - Implement pointers in [C](computer-science/docs/c/pointers.md)
+
 ## [strings](computer-science/docs/c/strings.md)
 
 - The `string` [type](computer-science/docs/c/types.md) is not natively supported by [c](contents-c.md) instead initialize a string with an [arrays](lecture-2-arrays.md) of [chars](computer-science/docs/c/types.md):
@@ -106,8 +107,7 @@ char s[] = "HI!";
 - `char s[]` creates an array of characters to hold the string, including the null terminator `\0` that marks the end of the string.
 - The `"HI!"` initializes the array with the string.
 
-
-## [Strings in Memory](computer-science/docs/basics/memory/strings.md) 
+## [Strings in Memory](computer-science/docs/basics/memory/strings.md)
 
 - `string s = "HI!"` can be represented as follows:
 
@@ -117,12 +117,9 @@ char s[] = "HI!";
 - after that each character is ordered next to this `head` character
 - the last character is always the **Null Terminator** (`\0`) which tells the computer: **this string ends here** 
 
-
 - the [pointer](computer-science/docs/basics/memory/pointers.md) can more accurately be visualized with this image:
 
 ![](pointer-in-memory-2.png)
-
-
 
 - Implement strings in [C](computer-science/docs/c/strings.md) or in [Python](computer-science/docs/python/variables.md) 
 
@@ -131,7 +128,7 @@ char s[] = "HI!";
 - Use `char s[]` if you need a **modifiable string**.
 - Use `char *s` if you want a **constant string** and don't need to modify it. Use `const char *s = "HI!";` to make your intention explicit.
 
-### Addresses of a string
+### Addresses of a String
 
 ```c
 // Prints a string's address as well the addresses of its chars
@@ -149,7 +146,6 @@ int main(void)
 }
 
 ```
-
 
 ## Pointer Arithmetic
 
@@ -171,7 +167,6 @@ int main(void)
 }
 ```
 
-
 ## Copying and `malloc`
 
 **Look at:**
@@ -179,48 +174,48 @@ int main(void)
 	2. [reallocate-memory](reallocate-memory.md)
 	3. [access-memory](access-memory.md)
 
-
-## Globals, Heap, Stack...
+## Globals, Heap, Stack…
 
 This is the basic structure of memory:
 
 ![](globals-heap-stack-structure.png)
 
-
 Heres what is stored at each region:
 
 - **Machine Code (Text Segment)**:
-    
-    - Contains the compiled code of the program, which is executed by the CPU.
-    - This area is typically read-only to prevent accidental modification of instructions.
+		
+		- Contains the compiled code of the program, which is executed by the CPU.
+		- This area is typically read-only to prevent accidental modification of instructions.
 
 - **Globals (Data Segment)**:
-    
-    - Stores global and static variables initialized at the start of the program.
-    - Variables in this section persist for the lifetime of the program.
-    - May be further divided into:
-        - **.data**: For initialized global/static variables.
-        - **.bss**: For uninitialized global/static variables (default-initialized to zero).
+		
+		- Stores global and static variables initialized at the start of the program.
+		- Variables in this section persist for the lifetime of the program.
+		- May be further divided into:
+				- **.data**: For initialized global/static variables.
+				- **.bss**: For uninitialized global/static variables (default-initialized to zero).
 - **Heap**:
-    
-    - Used for [Dynamic Memory allocation](allocate-memory.md) (e.g., with `malloc` in C or `new` in C++).
-    - Grows downward (towards higher memory addresses).
-    - Memory here must be explicitly managed (allocated and freed by the programmer).
+		
+		- Used for [Dynamic Memory allocation](allocate-memory.md) (e.g., with `malloc` in C or `new` in C++).
+		- Grows downward (towards higher memory addresses).
+		- Memory here must be explicitly managed (allocated and freed by the programmer).
 
 - **Stack**:
-    
-    - Stores function call frames (local variables, return addresses, function parameters).
-    - Grows upward (towards lower memory addresses).
-    - Automatically managed (memory is allocated when a function is called and freed when it returns).
+		
+		- Stores function call frames (local variables, return addresses, function parameters).
+		- Grows upward (towards lower memory addresses).
+		- Automatically managed (memory is allocated when a function is called and freed when it returns).
 
 ## Overflows
 
 - A **_heap overflow_** is when you overflow the heap, touching areas of memory you are not supposed to.
 - A **_stack overflow_** is when too many functions are called, overflowing the amount of memory available.
 - **Both** of these are considered **_buffer overflows_**.
-## Why use pointers?
+
+## Why Use Pointers?
 
 Example: you want to to make a function to swap to values
+
 ```c
 #include <stdio.h>
 
@@ -245,7 +240,7 @@ void swap(int a, int b)
 - this code would fail because `x` and `y` is only in the `local scope` of the `main` function.
 
  - this happens to be because function are allocated at different parts in memory
- 
+
 ![](two-function-in-memory.png)
 
 - Corrected code:
@@ -279,6 +274,5 @@ void swap(int *a, int *b)
 - You can visualize this as follows:
 
 ![](two-function-pointer-in-memory.png)
+
 > look at [globals-heap-stack](globals-heap-stack.md) for further explanation
-
-
