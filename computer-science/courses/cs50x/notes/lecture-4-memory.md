@@ -203,9 +203,10 @@ Heres what is stored at each region:
         - **.bss**: For uninitialized global/static variables (default-initialized to zero).
 - **Heap**:
     
-    - Used for [Dynamic Memory ](allocate-memory.md) (e.g., with `malloc` in C or `new` in C++).
+    - Used for [Dynamic Memory allocation](allocate-memory.md) (e.g., with `malloc` in C or `new` in C++).
     - Grows downward (towards higher memory addresses).
     - Memory here must be explicitly managed (allocated and freed by the programmer).
+
 - **Stack**:
     
     - Stores function call frames (local variables, return addresses, function parameters).
