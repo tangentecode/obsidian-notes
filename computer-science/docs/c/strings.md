@@ -10,13 +10,9 @@ char s[] = "HI!";
 - `char s[]` creates an array of characters to hold the string, including the null terminator `\0` that marks the end of the string.
 - The `"HI!"` initializes the array with the string.
 
-
 ### Practical Tip:
 
 - Use `char s[]` if you need a **modifiable string**.
 - Use `char *s` if you want a **constant string** and don't need to modify it. Use `const char *s = "HI!";` to make your intention explicit.
-
-
-
 
 > Look at [this](computer-science/docs/basics/memory/strings.md) to see how strings are represented in [memory](lecture-4-memory.md)
