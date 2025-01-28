@@ -61,7 +61,7 @@ Examples:
 
 </math> is always the fastest because it has an constant time
 
-2. Linear search was of order <math xmlns="http://www.w3.org/1998/Math/MathML">
+1. Linear search was of order <math xmlns="http://www.w3.org/1998/Math/MathML">
 
 	<mi>O</mi>
 
@@ -73,7 +73,7 @@ Examples:
 
 </math> because it could take _n_ steps in the worst-case to run.
 
-3. Binary search was of order <math xmlns="http://www.w3.org/1998/Math/MathML">
+1. Binary search was of order <math xmlns="http://www.w3.org/1998/Math/MathML">
 
 	<mi>O</mi>
 
