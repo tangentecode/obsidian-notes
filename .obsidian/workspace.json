@@ -11,10 +11,14 @@
             "id": "59aa4a795a4afb0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "euklidischer-algorithmus"
             }
           }
         ]
@@ -79,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for euklidischer-algorithmus"
             }
           },
           {
