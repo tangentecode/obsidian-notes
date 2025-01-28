@@ -32,7 +32,7 @@
 - The highest you can count with two-digit Hexadecimal is `FF` (Decimal: `255`)
 - Hexadecimal is useful because you can represent higher numbers with fewer digits
 
-## Memory Addresses
+## [Memory Addresses](addresses.md)
 
 - start with the `0x` prefix
 - count up in [hexadecimal](hexadecimal.md)
@@ -92,7 +92,7 @@ int * pX = &x;
 ![](pointer-in-memory-2.png)
 
 - Implement pointers in [C](computer-science/docs/c/pointers.md)
-## Strings
+## [strings](computer-science/docs/c/strings.md)
 
 - The `string` [type](computer-science/docs/c/types.md) is not natively supported by [c](contents-c.md) instead initialize a string with an [arrays](lecture-2-arrays.md) of [chars](computer-science/docs/c/types.md):
 
@@ -107,7 +107,7 @@ char s[] = "HI!";
 - The `"HI!"` initializes the array with the string.
 
 
-### Strings in Memory
+## Strings
 
 - `string s = "HI!"` can be represented as follows:
 
