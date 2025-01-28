@@ -11,10 +11,14 @@
             "id": "12fe7f87ec27634f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/notes/lecture-9-flask.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lecture-9-flask"
             }
           }
         ]
