@@ -1,4 +1,5 @@
-## Compare two values
+## Compare Two Values
+
 with multiple conditions
 
 ```python
@@ -10,16 +11,16 @@ else:
 	# previous conditions not met
 ```
 
-## Chain conditions
+## Chain Conditions
 
-### 1. and
+### 1. And
 
 ```python
 if x > y and x == y:
 	# both conditions are met
 ```
 
-### 2. or
+### 2. Or
 
 ```python
 if x > y or x == y:

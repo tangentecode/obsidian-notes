@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
+                "file": "computer-science/docs/c/conditionals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "euklidischer-algorithmus"
+              "title": "conditionals"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scan",
+                "query": "file:condi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,6 +151,8 @@
   },
   "active": "938eaa956b4a8c84",
   "lastOpenFiles": [
+    "computer-science/docs/python/conditionals.md",
+    "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/docs/python/flask/handling-forms.md",
     "forms.md",
     "computer-science/docs/python/flask/flask-contents.md",
@@ -177,8 +179,6 @@
     "computer-science/docs/sql/sqlite/general.md",
     "computer-science/docs/sql/sqlite-and-python/sqlite.md",
     "computer-science/docs/sql/keywords/count.md",
-    "workouts/24-12-29.md",
-    "workouts/contents-workout.md",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",
