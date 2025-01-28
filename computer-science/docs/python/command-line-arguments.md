@@ -16,4 +16,3 @@ print(sys.argv[1])
 
 - Use `len(sys.argv)` to check how many arguments the user provided
 - Similar to `argc` in [c](contents-c.md) 
-

@@ -22,28 +22,29 @@
 ---
 
 ## Operators
-### `pipe` operator (`|`)
+
+### `pipe` Operator (`|`)
 
 - Pass the output of one command as input to another command.
-  - Example: `ls | grep "pattern"`
+	- Example: `ls | grep "pattern"`
 
-### `redirect` operator (`>` and `>>`)
+### `redirect` Operator (`>` and `>>`)
 
 - `>`: Redirect output to a file (overwrites existing content).
-  - Example: `echo "Hello" > file.txt`
-  
+	- Example: `echo "Hello" > file.txt`
+	
 - `>>`: Append output to a file.
-  - Example: `echo "World" >> file.txt`
+	- Example: `echo "World" >> file.txt`
 
-### `logical` operators (`&&` and `||`)
+### `logical` Operators (`&&` and `||`)
 
 - `&&`: Run the next command only if the previous one succeeds.
-  - Example: `mkdir new_folder && cd new_folder`
-  
+	- Example: `mkdir new_folder && cd new_folder`
+	
 - `||`: Run the next command only if the previous one fails.
-  - Example: `mkdir existing_folder || echo "Folder already exists"`
+	- Example: `mkdir existing_folder || echo "Folder already exists"`
 
-### `background` operator (`&`)
+### `background` Operator (`&`)
 
 - Run a command in the background.
-  - Example: `sleep 10 &`
+	- Example: `sleep 10 &`
