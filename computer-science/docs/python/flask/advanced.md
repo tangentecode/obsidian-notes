@@ -1,9 +1,9 @@
 - **Learn Flask Extensions**:
 
-    - Flask-SQLAlchemy (database integration)
-    - Flask-WTF (form handling)
-    - Flask-Login (user authentication)
+		- Flask-SQLAlchemy (database integration)
+		- Flask-WTF (form handling)
+		- Flask-Login (user authentication)
 
 - **Read Flask Documentation**:
-    
-    - Flask Official Documentation
+		
+		- Flask Official Documentation

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/handling-forms.md",
+                "file": "computer-science/docs/python/flask/advanced.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "handling-forms"
+              "title": "advanced"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "lecture-9-flask"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/python/flask/handling-forms.md",
+            "file": "computer-science/courses/cs50x/notes/lecture-9-flask.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,11 +179,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "12fe7f87ec27634f",
+  "active": "f09db908ebe2b8cb",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/advanced.md",
     "computer-science/docs/python/flask/flask-contents.md",
-    "computer-science/docs/python/flask/html-templates.md",
+    "computer-science/docs/python/flask/routes.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
+    "computer-science/docs/python/flask/handling-forms.md",
+    "computer-science/docs/python/flask/html-templates.md",
     "computer-science/docs/python/flask/file-structure.md",
     "computer-science/docs/python/flask/initialization.md",
     "computer-science/docs/python/flask/running.md",
@@ -206,10 +210,7 @@
     "workouts/24-12-25.md",
     "computer-science/docs/data-structures/singly-linked-list.md",
     "computer-science/docs/data-structures/doubly-linked-list.md",
-    "computer-science/docs/data-structures/contents-data-structures.md",
     "computer-science/docs/data-structures",
-    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
-    "computer-science/docs/data-structures/stacks.md",
     "computer-science/docs/searching",
     "computer-science/docs/sorting",
     "computer-science/docs/linux",
