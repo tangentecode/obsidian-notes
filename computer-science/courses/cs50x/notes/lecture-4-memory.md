@@ -107,7 +107,7 @@ char s[] = "HI!";
 - The `"HI!"` initializes the array with the string.
 
 
-## Strings
+## [Strings in Memory](computer-science/docs/basics/memory/strings.md) 
 
 - `string s = "HI!"` can be represented as follows:
 
