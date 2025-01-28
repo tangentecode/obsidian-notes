@@ -1,5 +1,10 @@
 
-- Use following code to calculate the [lecture-2-arrays](lecture-2-arrays.md)
+- Use following line to calculate the [array](lecture-2-arrays.md) size:
+```c
+int size = sizeof(arr) / sizeof(arr[0]);
+```
+
+- The use `size` int the [loops](computer-science/docs/c/loops.md)
 ```c
 #include <stdio.h>
 
