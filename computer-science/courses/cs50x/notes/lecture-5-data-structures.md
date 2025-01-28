@@ -10,7 +10,6 @@
 	5. [dictionaries](computer-science/docs/basics/data-structures/dictionaries.md)
 	6. [hash-tables](hash-tables.md)
 
-
 - Videos:
 	- [Singly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/singly_linked_lists/)
 	- [Doubly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/doubly_linked_lists/)
@@ -18,21 +17,18 @@
 	- [Queues](https://cs50.harvard.edu/x/2025/shorts/queues/)
 	- [Hash Tables](https://cs50.harvard.edu/x/2025/shorts/hash_tables/)
 
-
-
 ## Stacks
 
 - **_LIFO_** or "last in first out"
 
-
- >Just like stacking trays in a dining hall, a tray that is placed in a stack last is the first that may be picked up.
+ > Just like stacking trays in a dining hall, a tray that is placed in a stack last is the first that may be picked up.
 
 - Specific actions:
 	1. _push_: places something on top of the stack
 	2. _pop_: removes something from the top of the stack
 
-
 - [C](contents-c.md) code:
+
 ```c
 const int CAPACITY = 50;
 
@@ -44,21 +40,17 @@ typedef struct
 stack;
 ```
 
-
 - Explanation video: [Stacks](https://cs50.harvard.edu/x/2025/shorts/stacks/)****
 
 ## Queues
 
 - Queues are **FIFO** which stands for "first in first out"
 
-
- >You can imagine yourself in a line for a ride at an amusement park. The first person in the line gets to go on the ride first. The last person gets to go on the ride last.
-
+ > You can imagine yourself in a line for a ride at an amusement park. The first person in the line gets to go on the ride first. The last person gets to go on the ride last.
 
 - Specific actions:
 	1. _enqueued_: item can join the queue
 	2. _dequeued_: item leaves the queue
-
 
 - [C](contents-c.md) code:
 
@@ -73,29 +65,23 @@ typedef struct
 queue;
 ```
 
-
 - Explanation video: [Queues](https://cs50.harvard.edu/x/2025/shorts/queues/)
-
 
 ## Singly Linked Lists
 
 - Imagine three values stored in [memory](lecture-4-memory.md)
 ![](3-values-memory.png)
 
-
-
 - We could imagine the data pictured above as follows:
 ![](linkes-list-basic.png)
 
-
 - Keep track of the next element ([node](structs.md)) by storing a pointer aside from the value like this:
 ![](linkes-list-advanced.png)
->Last node stores an NULL [pointer](computer-science/docs/c/pointers.md ) because there is no next element
 
+> Last node stores an NULL [pointer](computer-science/docs/c/pointers.md ) because there is no next element
 
 - the **head** is the a points to the first node
 ![](linked-list-head.png)
-
 
 A _node_ contains both an _item_ and a pointer called _next_. In code, you can imagine a node as follows:
 
@@ -107,9 +93,6 @@ typedef struct node
 }
 node;
 ```
-
-
-
 
 - [C](contents-c.md) code:
 
@@ -151,9 +134,10 @@ int main(void)
 }
 ```
 
->First, a `node` is defined as a `struct`. For each element of the list, memory for a `node` is allocated via `malloc` to the size of a node. `n->number` (or `n`’s number field) is assigned an integer. `n->next` (or `n`’s next field) is assigned `null`. Then, the node is placed at the start of the list at memory location `list`.
+> First, a `node` is defined as a `struct`. For each element of the list, memory for a `node` is allocated via `malloc` to the size of a node. `n->number` (or `n`'s number field) is assigned an integer. `n->next` (or `n`'s next field) is assigned `null`. Then, the node is placed at the start of the list at memory location `list`.
 
 - Print the list on correct order:
+
 ```c
 // Print numbers
 node *ptr = list;
@@ -164,24 +148,22 @@ while (ptr != NULL)
 }
 
 ```
-- Explanation video: - [Singly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/singly_linked_lists/)
 
+- Explanation video: - [Singly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/singly_linked_lists/)
 
 ## Doubly Linked Lists
 
 - Basically like [singly-linked-lists](singly-linked-list.md) but they have another pointer with the address of the previous [node](structs.md)
 
-
 ## Dictionaries
-
 
 - Dictionaries have **_key_** and **_values_**
 
 - The _holy grail_ of algorithmic time complexity is <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mi>O</mi>
-  <mo stretchy="false">(</mo>
-  <mn>1</mn>
-  <mo stretchy="false">)</mo>
+	<mi>O</mi>
+	<mo stretchy="false">(</mo>
+	<mn>1</mn>
+	<mo stretchy="false">)</mo>
 </math> or _constant time_.
 
 ![](dicts-running-time.png)
@@ -189,6 +171,7 @@ while (ptr != NULL)
 - You can easily implement a [dictionary](computer-science/docs/python/dictionaries.md) in [python](contents-python.md) and in [c](contents-c.md) in form of a [hash-table](hash-tables.md) 
 
 ## Hash Tables
+
 - Like [dictionaries](computer-science/docs/python/dictionaries.md) in [python](contents-python.md) but with a [hash-algorithm](hash-functions.md) 
 
 - A hash table could be imagined as follows:  
@@ -197,16 +180,15 @@ while (ptr != NULL)
 - if you want to **store** a value let it go trough an proper [hash-functions](hash-functions.md) and store it at the index the hash function returned
 - to **search** and value you need to again run it trough the same hashing process and look at that specific index
 - **searching** has a [running-time](running-time.md) of <math xmlns="http://www.w3.org/1998/Math/MathML">
-  <mi>O</mi>
-  <mo stretchy="false">(</mo>
-  <mi>n</mi>
-  <mo stretchy="false">)</mo>
+	<mi>O</mi>
+	<mo stretchy="false">(</mo>
+	<mi>n</mi>
+	<mo stretchy="false">)</mo>
 </math>
 
 - to avoid **collision** if the hash function returned the same hash for another value store multiple values in a [singly-linked-list](singly-linked-list.md) at that index:
 
 ![](hash-algorithms-collisions.png)
-
 
 - [C](contents-c.md) code:
 
@@ -315,7 +297,6 @@ int main() {
 ```
 
 - Explanation video: [Hash Tables](https://cs50.harvard.edu/x/2025/shorts/hash_tables/)
-
 
 ## [Resizing Arrays](reallocate-memory.md)
 
