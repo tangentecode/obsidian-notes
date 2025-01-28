@@ -1,4 +1,5 @@
 The basic file structure looks like this:
+
 ```shell
 my_flask_app/
 │
