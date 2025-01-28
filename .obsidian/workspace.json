@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:array",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,8 +59,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,8 +144,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "59aa4a795a4afb0b",
+  "active": "af0bd366a9357aeb",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
     "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "computer-science/docs/c/variables.md",
     "computer-science/docs/c/conditionals.md",
@@ -173,8 +174,6 @@
     "computer-science/docs/sql/sqlite/connecting-to-database.md",
     "computer-science/docs/sql/sqlite/executing-queries.md",
     "computer-science/docs/sql/sqlite/example-code.md",
-    "computer-science/docs/sql/sqlite/querying-data.md",
-    "computer-science/docs/sql/sqlite/setup.md",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",
