@@ -1,4 +1,6 @@
-- Converts a st
+- Converts a string array into multiple [ints](computer-science/docs/c/types.md)
+- Requires: `stdio.h`, `stdlib.h`, `string.h`
+
 ```c
 char str_nums[100]; // Buffer to store input 
 int numbers[10]; // Array to store parsed integers
