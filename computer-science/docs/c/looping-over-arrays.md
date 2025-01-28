@@ -4,7 +4,7 @@
 int size = sizeof(arr) / sizeof(arr[0]);
 ```
 
-- The use `size` int the [loops](computer-science/docs/c/loops.md)
+- Then use `size` in the [`for` loop](computer-science/docs/c/loops.md):
 ```c
 #include <stdio.h>
 
