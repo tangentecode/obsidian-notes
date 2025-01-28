@@ -102,11 +102,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from euklidischer-algorithmus"
             }
           },
           {
