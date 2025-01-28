@@ -1,4 +1,3 @@
-
 ## Contents
 
 1. [Compiling](#compiling)
@@ -9,6 +8,7 @@
 6. [Misc](#misc)
 7. [Command Line Arguments](#command-line-arguments)
 8. [Cryptography](#cryptography)
+
 ## Compiling
 
 - File gets compiled to `Machine Code` in these steps
@@ -18,10 +18,12 @@
 	4. **linking**
 
 ## Assembly
+
 - Low level language
 - Based on processor architecture
 - Directly moves data in memory and performs other operation
 - Example:
+
 ```asm
 ...
 main:
@@ -55,7 +57,8 @@ main:
 - Binary
 - Nearly impossible to read by an human
 - Example:
-```
+
+```c
 01111111010001010100110001000110
 00000010000000010000000100000000
 00000000000000000000000000000000
@@ -85,7 +88,6 @@ main:
 ...
 ```
 
-
 ## Arrays
 
 - Used to chain multiple values of the same [type](computer-science/docs/c/types.md) together
@@ -100,17 +102,18 @@ main:
 - Regarding the explanation in [lecture-0-scratch](lecture-0-scratch.md) about `ASCII` it would look like this in decimal notation
 	![](string-decimal.png)
 
-## strlen
+## Strlen
 
 - To simplify the process of counting the length of an string there is the `strlen` Function in the `string.h` library
-
 
 ## Misc
 
 - In `ASCII` you can subtract 32 from a uppercase [char](computer-science/docs/c/types.md) to get its lowercase variant:
+
 ```c
 char a = 'A' - 32;
 ```
+
 - Use [ctype.h](computer-science/docs/c/libraries.md) to simplify this action
 
 ## Command Line Arguments
@@ -120,6 +123,7 @@ char a = 'A' - 32;
 	2. **argv**: Command Line Arguments as an array of [strings](computer-science/docs/c/types.md) starting with the file name at index 0
 
 - Example:
+
 ```c
 int main(int argc, string argv[]) {
 	return 0;
@@ -131,4 +135,3 @@ int main(int argc, string argv[]) {
 - Cryptography is the art of ciphering and deciphering a message.
 - `plaintext` and a `key` are provided to a `cipher`, resulting in ciphered text.
 	![](ciphertext.png)
-

@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5aadc7d572363371",
+        "id": "87a8b637295618d5",
         "type": "tabs",
         "children": [
           {
-            "id": "575498cc761c0b7c",
+            "id": "59aa4a795a4afb0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer-science/docs/python/flask/handling-forms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "handling-forms"
-            }
-          },
-          {
-            "id": "783cff7ae196d6e8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -62,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +59,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,10 +145,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "575498cc761c0b7c",
+  "active": "59aa4a795a4afb0b",
   "lastOpenFiles": [
-    "forms.md",
+    "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+    "computer-science/docs/c/variables.md",
+    "computer-science/docs/c/conditionals.md",
+    "computer-science/docs/python/conditionals.md",
+    "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/docs/python/flask/handling-forms.md",
+    "forms.md",
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask/initialization.md",
     "computer-science/docs/sql/contents-sql.md",
@@ -183,11 +175,6 @@
     "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/docs/sql/sqlite/querying-data.md",
     "computer-science/docs/sql/sqlite/setup.md",
-    "computer-science/docs/sql/sqlite/general.md",
-    "computer-science/docs/sql/sqlite-and-python/sqlite.md",
-    "computer-science/docs/sql/keywords/count.md",
-    "workouts/24-12-29.md",
-    "workouts/contents-workout.md",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",

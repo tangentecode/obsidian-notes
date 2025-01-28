@@ -18,6 +18,7 @@ print("Größter Gemeinsamer Teiler: ", zahl_a)
 ```
 
  - Vollständiger code in [C](contents-c.md):
+
 ```c 
 #include <stdio.h>
 
