@@ -193,6 +193,7 @@ Heres what is stored at each region:
     
     - Contains the compiled code of the program, which is executed by the CPU.
     - This area is typically read-only to prevent accidental modification of instructions.
+
 - **Globals (Data Segment)**:
     
     - Stores global and static variables initialized at the start of the program.
@@ -202,7 +203,7 @@ Heres what is stored at each region:
         - **.bss**: For uninitialized global/static variables (default-initialized to zero).
 - **Heap**:
     
-    - Used for dynamic memory allocation (e.g., with `malloc` in C or `new` in C++).
+    - Used for [Dynamic Memory ](allocate-memory.md) (e.g., with `malloc` in C or `new` in C++).
     - Grows downward (towards higher memory addresses).
     - Memory here must be explicitly managed (allocated and freed by the programmer).
 - **Stack**:
