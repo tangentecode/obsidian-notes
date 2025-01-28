@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/conditionals.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conditionals"
+              "title": "lecture-2-arrays"
+            }
+          },
+          {
+            "id": "f57999ac61519a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/c/variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "variables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:condi",
+                "query": "file:array",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +164,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "938eaa956b4a8c84",
+  "active": "f57999ac61519a04",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-2-arrays.md",
+    "computer-science/docs/c/variables.md",
+    "computer-science/docs/c/conditionals.md",
     "computer-science/docs/python/conditionals.md",
     "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/docs/python/flask/handling-forms.md",
@@ -176,9 +194,6 @@
     "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/docs/sql/sqlite/querying-data.md",
     "computer-science/docs/sql/sqlite/setup.md",
-    "computer-science/docs/sql/sqlite/general.md",
-    "computer-science/docs/sql/sqlite-and-python/sqlite.md",
-    "computer-science/docs/sql/keywords/count.md",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",

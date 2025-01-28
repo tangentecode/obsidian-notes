@@ -1,4 +1,5 @@
-## Compare two values
+## Compare Two Values
+
 with multiple conditions
 
 ```c
@@ -13,9 +14,9 @@ else {
 }
 ```
 
-## Chain conditions
+## Chain Conditions
 
-### 1. and
+### 1. And
 
 ```c
 if (x > y) && (x == y) {
@@ -23,11 +24,10 @@ if (x > y) && (x == y) {
 }
 ```
 
-### 2. or
+### 2. Or
 
 ```c
 if (x > y) || (x == y) {
 	// one or more of the conditions are met
 }
 ```
-
