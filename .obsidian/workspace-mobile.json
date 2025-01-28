@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/data-structures/singly-linked-list.md",
+                "file": "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "singly-linked-list"
+              "title": "lecture-3-algorithms"
             }
           }
         ]
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/basics/data-structures/singly-linked-list.md",
+            "file": "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,6 +166,10 @@
   },
   "active": "342581859bd8fce4",
   "lastOpenFiles": [
+    "computer-science/docs/basics/binary.md",
+    "computer-science/courses/cs50x/notes/lecture-3-algorithms.md",
+    "computer-science/docs/c/types.md",
+    "computer-science/docs/basics/data-structures/singly-linked-list.md",
     "computer-science/courses/cs50x/notes/lecture-5-data-structures.md",
     "computer-science/docs/basics/data-structures/stacks.md",
     "computer-science/docs/basics/data-structures/dictionaries.md",
@@ -188,10 +192,6 @@
     "computer-science/c-summary/conditionals.md",
     "computer-science/docs/python/command-line-arguments.md",
     "/computer-science/docs/python/conditionals.md",
-    "/computer-science/docs/c/variables.md",
-    "/computer-science/docs/c/conditionals.md",
-    "/computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
-    "/computer-science/courses/cs50x/notes/lecture-2-arrays.md",
     "img/big-o-notation.png",
     "img/array.png",
     "img/linear_search.png",

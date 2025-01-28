@@ -11,7 +11,7 @@
 | `long`  | Represents a larger integer type, capable of holding very large numbers.   |
 | `string`| Represents a sequence of characters, typically enclosed in double quotes (e.g., `"Hello"`). |
 
-## Size of different Types
+## Size of Different Types
 
 - `bool` 1 byte
 - `int` 4 bytes

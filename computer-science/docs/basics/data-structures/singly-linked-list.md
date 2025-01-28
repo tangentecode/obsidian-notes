@@ -1,20 +1,16 @@
 - Imagine three values stored in [memory](lecture-4-memory.md)
 ![](3-values-memory.png)
 
-
-
 - We could imagine the data pictured above as follows:
 ![](linkes-list-basic.png)
 
-
 - Keep track of the next element ([node](structs.md)) by storing a pointer aside from the value like this:
 ![](linkes-list-advanced.png)
->Last node stores an NULL [pointer](computer-science/docs/c/pointers.md ) because there is no next element
 
+> Last node stores an NULL [pointer](computer-science/docs/c/pointers.md ) because there is no next element
 
 - the **head** is the a points to the first node
 ![](linked-list-head.png)
-
 
 A _node_ contains both an _item_ and a pointer called _next_. In code, you can imagine a node as follows:
 
@@ -26,9 +22,6 @@ typedef struct node
 }
 node;
 ```
-
-
-
 
 - [C](contents-c.md) code:
 
@@ -70,9 +63,10 @@ int main(void)
 }
 ```
 
->First, a `node` is defined as a `struct`. For each element of the list, memory for a `node` is allocated via `malloc` to the size of a node. `n->number` (or `n`’s number field) is assigned an integer. `n->next` (or `n`’s next field) is assigned `null`. Then, the node is placed at the start of the list at memory location `list`.
+> First, a `node` is defined as a `struct`. For each element of the list, memory for a `node` is allocated via `malloc` to the size of a node. `n->number` (or `n`'s number field) is assigned an integer. `n->next` (or `n`'s next field) is assigned `null`. Then, the node is placed at the start of the list at memory location `list`.
 
 - Print the list on correct order:
+
 ```c
 // Print numbers
 node *ptr = list;
@@ -83,4 +77,5 @@ while (ptr != NULL)
 }
 
 ```
+
 - Explanation video: - [Singly-Linked Lists](https://cs50.harvard.edu/x/2025/shorts/singly_linked_lists/)
