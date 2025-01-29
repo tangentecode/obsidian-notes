@@ -2,7 +2,8 @@
 - Use following line to calculate the [array](lecture-2-arrays.md) size:
 
 ```c
-#include <stdlib.h
+#include <stdlib.h>
+
 int size = sizeof(arr) / sizeof(arr[0]);
 ```
 
