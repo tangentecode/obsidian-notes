@@ -6,6 +6,8 @@
 ```c
 struct Person
 {
-		char name
+		char name[50];
+		int age;
+		
 }
 ```
