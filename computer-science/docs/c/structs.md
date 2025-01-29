@@ -6,6 +6,6 @@
 ```c
 struct Person
 {
-        
+		char name
 }
 ```
