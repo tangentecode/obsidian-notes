@@ -1,3 +1,4 @@
 ### Basic structs
 
-- `structs` are user defined data typ
+- `structs` are user defined data [types](computer-science/docs/c/types.md)
+- unlike [arrays](lecture-2-arrays.md) they can store values of multiple types
