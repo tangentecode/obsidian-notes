@@ -5,5 +5,7 @@
 - Define a simple struct like this:
 ```c
 struct Person
-
+{
+        
+}
 ```
