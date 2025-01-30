@@ -11,9 +11,11 @@ scanf("%d", &age) // Need to pass in ADDRESS to predeclared variable
 char name[100];
 
 printf("Name: ");
-scanf("%c", &name);
+scanf("%99s", &name); 
 ```
 
+- `99` to avoid [buffer overflow](globals-heap-stack.md)
+ 
 | Conversion Specification | Type     |
 | ------------------------ | -------- |
 | `%c`                     | `char`   |
