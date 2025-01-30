@@ -11,14 +11,12 @@
             "id": "342581859bd8fce4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "computer-science/docs/c/input.md",
-                "mode": "source",
-                "source": false
+                "file": "img/yellow-rgb.png"
               },
-              "icon": "lucide-file",
-              "title": "input"
+              "icon": "lucide-image",
+              "title": "yellow-rgb"
             }
           }
         ]
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/c/input.md",
+            "file": "img/yellow-rgb.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,8 +164,13 @@
   },
   "active": "342581859bd8fce4",
   "lastOpenFiles": [
-    "computer-science/docs/basics/bash.md",
+    "img/string.png",
+    "img/pointer-in-memory-1.png",
+    "img/linked-list-head.png",
+    "img/linear-search.png",
+    "Untitled.md",
     "computer-science/docs/c/input.md",
+    "computer-science/docs/basics/bash.md",
     "computer-science/docs/c/output.md",
     "computer-science/docs/c/converting-input.md",
     "computer-science/docs/c/libraries.md",
@@ -190,8 +193,6 @@
     "computer-science/docs/basics/data-structures/queues.md",
     "computer-science/courses/content-courses.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "img/big-o-notation.png",
     "img/array.png",
     "img/linear_search.png",
@@ -208,7 +209,6 @@
     "/computer-science/docs/data-structures",
     "computer-science/docs/c/raylib",
     "/computer-science/docs/c/raylib",
-    "computer-science/docs/python/pyqt6-guide/empty-window.png",
-    "/computer-science/docs/python/pyqt6-guide/empty-window.png"
+    "computer-science/docs/python/pyqt6-guide/empty-window.png"
   ]
 }
