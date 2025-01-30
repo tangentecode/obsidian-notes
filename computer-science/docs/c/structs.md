@@ -62,6 +62,11 @@ typedef struct
 } point;
 
 point variable_name = {10, 25};
-// Without typedef: struct point 
+// Without typedef: struct point variable_name = {10, 25}
+```
+
+- You can also use both ways;
+```
+struct point 
 ```
 
