@@ -21,6 +21,11 @@ struct Person
 // Declare a struct variable 
 struct Person person1;
 
-person1.age = 18
-strcpy(person1.name, ")
+person1.age = 18;
+strcpy(person1.name, "Bob");
+```
+
+- `->` operator if your working with a pointer:
+```c
+
 ```
