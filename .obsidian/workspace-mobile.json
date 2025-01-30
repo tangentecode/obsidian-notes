@@ -166,8 +166,9 @@
   },
   "active": "342581859bd8fce4",
   "lastOpenFiles": [
-    "computer-science/docs/c/structs.md",
+    "computer-science/docs/c/libraries.md",
     "computer-science/docs/c/input.md",
+    "computer-science/docs/c/structs.md",
     "computer-science/docs/c/looping-over-arrays.md",
     "computer-science/docs/c/contents-c.md",
     "computer-science/docs/basics/memory/globals-heap-stack.md",
@@ -191,7 +192,6 @@
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "computer-science/docs/python/flask/advanced.md",
     "computer-science/docs/python/flask/flask-contents.md",
-    "computer-science/docs/python/flask/routes.md",
     "img/big-o-notation.png",
     "img/array.png",
     "img/linear_search.png",

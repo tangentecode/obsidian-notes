@@ -1,1 +1,4 @@
-- Most common to get **CLI Input** is `s`:
+- Most common to get **CLI Input** is `scanf` from [stdio.h](computer-science/docs/c/libraries.md):
+```c
+#include 
+```
