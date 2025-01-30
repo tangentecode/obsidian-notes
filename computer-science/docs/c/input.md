@@ -1,12 +1,11 @@
 - Most common to get **CLI Input** is `scanf` from [stdio.h](computer-science/docs/c/libraries.md):
-
 ```c
 #include <stdio.h>
 
 int age;
 
 printf("Age");
-scanf("%d", &age) // Need to pass in ADDRESS to predeclared variable
+scanf("%d", &age);
 
 char name[100];
 
@@ -15,7 +14,8 @@ scanf("%99s", &name);
 ```
 
 - `99` to avoid [buffer overflow](globals-heap-stack.md)
- 
+ - Need to pass in [pointers](computer-science/docs/c/pointers.md) to predeclared variable
+
 | Conversion Specification | Type     |
 | ------------------------ | -------- |
 | `%c`                     | `char`   |
