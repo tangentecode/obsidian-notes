@@ -39,3 +39,9 @@ struct Point *ptr = &p;
 ptr->x = 20;
 ptr->y = 10;
 ```
+
+- Why use `->`:
+```c
+ptr->age = 25;   // Shorthand
+(*ptr).age = 25; // Equivalent, but more verbose
+```
