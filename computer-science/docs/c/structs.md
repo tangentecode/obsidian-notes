@@ -18,5 +18,9 @@ struct Person
 
 - Use this notation if you want to access regular `struct`:
 ```c
+// Declare a struct variable 
+struct Person person1;
 
+person1.age = 18
+strcpy(person1.name, ")
 ```
