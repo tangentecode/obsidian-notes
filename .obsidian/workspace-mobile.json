@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/bash.md",
+                "file": "computer-science/docs/c/input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bash"
+              "title": "input"
             }
           }
         ]
@@ -166,6 +166,7 @@
   },
   "active": "342581859bd8fce4",
   "lastOpenFiles": [
+    "computer-science/docs/basics/bash.md",
     "computer-science/docs/c/input.md",
     "computer-science/docs/c/output.md",
     "computer-science/docs/c/converting-input.md",
@@ -191,7 +192,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
-    "computer-science/docs/python/flask/advanced.md",
     "img/big-o-notation.png",
     "img/array.png",
     "img/linear_search.png",
