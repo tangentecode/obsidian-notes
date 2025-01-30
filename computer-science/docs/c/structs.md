@@ -25,7 +25,9 @@ person1.age = 18;
 strcpy(person1.name, "Bob");
 ```
 
-- `->` operator if your working with a pointer:
+#### 
+
+- `->` operator if your working with a [pointer](computer-science/docs/c/pointers.md):
 ```c
 struct Point
 {
