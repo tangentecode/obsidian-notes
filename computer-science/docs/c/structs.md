@@ -33,7 +33,8 @@ struct Point
         int y;
 }
 
-struct Point point1 = {10, 5};
+struct Point p = {10, 5};
+struct Point *ptr = &p;
 
-struct Point *p
+ptr
 ```
