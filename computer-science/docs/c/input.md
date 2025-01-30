@@ -14,7 +14,7 @@ scanf("%99s", &name);
 ```
 
 - `99` to avoid [buffer overflow](globals-heap-stack.md)
- - Need to pass in [pointers](computer-science/docs/c/pointers.md) to predeclared variable
+ - Need to pass in [address](computer-science/docs/c/pointers.md) to predeclared variable
 
 | Conversion Specification | Type     |
 | ------------------------ | -------- |
