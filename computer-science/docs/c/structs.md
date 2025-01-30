@@ -50,6 +50,8 @@ ptr->age = 25;   // Shorthand
 
 ### `typedef`
 
+> `typedef` = Type Definition
+
 - If you want to handle the struct like an data type (`int`,  `char`,...) use the `typedef` keyword:
 
 ```c
@@ -60,6 +62,6 @@ typedef struct
 } point;
 
 point variable_name = {10, 25};
-// Without typedef
+// Without typedef: struct point 
 ```
 
