@@ -47,3 +47,7 @@ ptr->y = 10;
 ptr->age = 25;   // Shorthand
 (*ptr).age = 25; // Equivalent, but more verbose
 ```
+
+### `typedef`
+
+- If you want to handle the struct like an data type (`inr`)
