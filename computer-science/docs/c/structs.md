@@ -51,6 +51,14 @@ ptr->age = 25;   // Shorthand
 ### `typedef`
 
 - If you want to handle the struct like an data type (`int`,  `char`,...) use the `typedef` keyword:
-```c
 
+```c
+typedef struct
+{
+        int x;
+        int y;
+} point;
+
+point 
 ```
+
