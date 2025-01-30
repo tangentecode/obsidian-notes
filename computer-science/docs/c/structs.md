@@ -66,7 +66,11 @@ point variable_name = {10, 25};
 ```
 
 - You can also use both ways;
-```
-struct point 
+```c
+typedef struct point
+{
+        int x;
+        int y;
+} point;
 ```
 
