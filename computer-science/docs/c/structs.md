@@ -15,6 +15,7 @@ struct Person
 ### Accessing values
 
 #### Dot notation
+
 - Use this notation if you want to access regular `struct`:
 ```c
 
