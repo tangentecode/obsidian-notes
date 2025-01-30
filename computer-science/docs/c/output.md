@@ -4,15 +4,17 @@
 - [Manual](https://manual.cs50.io/3/printf)
 - Print to the screen
 
-## Print types
-|Conversion Specification|Type|
-|---|---|
-|`%c`|`char`|
-|`%f`|`double`|
-|`%f`|`float`|
-|`%i`|`int`|
-|`%li`|`long`|
-|`%s`|`string`|
+## Print Types
+
+| Conversion Specification | Type     |
+| ------------------------ | -------- |
+| `%c`                     | `char`   |
+| `%f`                     | `double` |
+| `%f`                     | `float`  |
+| `%i`                     | `int`    |
+| `%li`                    | `long`   |
+| `%s`                     | `string` |
+
 ## Example
 
 ```c

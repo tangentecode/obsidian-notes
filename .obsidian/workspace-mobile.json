@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/c/structs.md",
+            "file": "computer-science/docs/c/input.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,13 +166,14 @@
   },
   "active": "342581859bd8fce4",
   "lastOpenFiles": [
-    "computer-science/docs/c/libraries.md",
+    "computer-science/docs/c/output.md",
     "computer-science/docs/c/input.md",
+    "computer-science/docs/c/converting-input.md",
+    "computer-science/docs/c/libraries.md",
     "computer-science/docs/c/structs.md",
     "computer-science/docs/c/looping-over-arrays.md",
     "computer-science/docs/c/contents-c.md",
     "computer-science/docs/basics/memory/globals-heap-stack.md",
-    "computer-science/docs/c/converting-input.md",
     "/computer-science/docs/c/strings.md",
     "/computer-science/docs/c/looping-over-arrays.md",
     "/computer-science/docs/c/libraries.md",
@@ -191,7 +192,6 @@
     "Untitled.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "computer-science/docs/python/flask/advanced.md",
-    "computer-science/docs/python/flask/flask-contents.md",
     "img/big-o-notation.png",
     "img/array.png",
     "img/linear_search.png",
