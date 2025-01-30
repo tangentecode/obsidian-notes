@@ -27,5 +27,11 @@ strcpy(person1.name, "Bob");
 
 - `->` operator if your working with a pointer:
 ```c
+struct Point
+{
+        int x;
+        int y;
+}
 
+struct Point 
 ```
