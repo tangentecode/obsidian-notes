@@ -36,6 +36,6 @@ struct Point
 struct Point p = {10, 5};
 struct Point *ptr = &p;
 
-ptr->x = 20
-ptr
+ptr->x = 20;
+ptr->y = 10;
 ```
