@@ -5,5 +5,7 @@
 int age;
 
 printf("Age");
-
+scanf("&d", &age) // Need to pass in ADDRESS to predeclared variable
 ```
+
+
