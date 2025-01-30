@@ -1,0 +1,1 @@
+- Most common to get **CLI Input** is `s`:

@@ -3,6 +3,7 @@
 - `structs` are user defined data [types](computer-science/docs/c/types.md)
 - unlike [arrays](lecture-2-arrays.md) they can store values of multiple types
 - Define a simple struct like this:
+
 ```c
 struct Person
 {
@@ -12,11 +13,12 @@ struct Person
 }
 ```
 
-### Accessing values
+### Accessing Values
 
-#### Dot notation
+#### Dot Notation
 
 - Use this notation if you want to access regular `struct`:
+
 ```c
 // Declare a struct variable 
 struct Person person1;
@@ -25,9 +27,10 @@ person1.age = 18;
 strcpy(person1.name, "Bob");
 ```
 
-#### `->` Operator
+#### -> Operator
 
 - `->` operator if your working with a [pointer](computer-science/docs/c/pointers.md):
+
 ```c
 struct Point
 {
@@ -43,6 +46,7 @@ ptr->y = 10;
 ```
 
 - Why use `->`:
+
 ```c
 ptr->age = 25;   // Shorthand
 (*ptr).age = 25; // Equivalent, but more verbose
@@ -52,7 +56,7 @@ ptr->age = 25;   // Shorthand
 
 > `typedef` = Type Definition
 
-- If you want to handle the struct like an data type (`int`,  `char`,...) use the `typedef` keyword:
+- If you want to handle the struct like an data type (`int`, `char`,…) use the `typedef` keyword:
 
 ```c
 typedef struct
@@ -66,6 +70,7 @@ point variable_name = {10, 25};
 ```
 
 - You can also use both ways;
+
 ```c
 typedef struct point
 {
@@ -73,4 +78,3 @@ typedef struct point
         int y;
 } point;
 ```
-
