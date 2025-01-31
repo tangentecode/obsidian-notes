@@ -14,18 +14,17 @@ int *ptr;
 ptr = malloc(sizeof(*ptr))
 ```
 
-
->**Be careful:** `sizeof(*ptr1)` tells C to measure the size of the data at the address. If you forget the `*` and write `sizeof(ptr1)` instead, it will measure the size of the pointer itself, which is the (usually) 8 bytes that are needed to store a memory address.
-
+> **Be careful:** `sizeof(*ptr1)` tells C to measure the size of the data at the address. If you forget the `*` and write `sizeof(ptr1)` instead, it will measure the size of the pointer itself, which is the (usually) 8 bytes that are needed to store a memory address.
 
 ## Calloc
 
  `calloc()` behaves pretty much the same like `malloc()`:
- 
+
 - Takes another parameter ([int](computer-science/docs/c/types.md)) which defines how often the allocation process should be completed
 - Instead writing unpredictable data to the allocated memory the `calloc()` function sets every [bit](binary.md) to zero, which makes it slightly less efficient
 
 **Example:**
+
 ```c
 #include <stdlib.h>
 
