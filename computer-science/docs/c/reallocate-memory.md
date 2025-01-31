@@ -4,6 +4,7 @@
 	2. Size of the new memory (in bytes)
 
 - Example:
+
 ```c
 int *ptr1, *ptr2, size;  
   
