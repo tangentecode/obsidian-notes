@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/pointers.md",
+                "file": "computer-science/docs/basics/memory/pointers.md",
                 "mode": "source",
                 "source": false
               },
@@ -165,6 +165,7 @@
   },
   "active": "f341a3c9a96fa35e",
   "lastOpenFiles": [
+    "computer-science/docs/c/pointers.md",
     "computer-science/docs/c/output.md",
     "computer-science/docs/c/reallocate-memory.md",
     "computer-science/docs/c/strings.md",
@@ -199,7 +200,6 @@
     "computer-science/docs/basics/data-structures/stacks.md",
     "computer-science/docs/basics/data-structures/dictionaries.md",
     "computer-science/docs/basics/data-structures/queues.md",
-    "computer-science/courses/content-courses.md",
     "img/big-o-notation.png",
     "computer-science/docs/data-structures",
     "computer-science/docs/searching",

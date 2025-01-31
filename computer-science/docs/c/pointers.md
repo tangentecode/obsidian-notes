@@ -1,14 +1,15 @@
-## What is a pointer?
+## What is a Pointer?
 
 ### Explanation
 
 - Create variable:
+
 ```c
 int x = 4;
 ```
 
-
 - **Pointer to variable**
+
 ```c
 int * pX = &x;
 ```
@@ -21,25 +22,26 @@ int * pX = &x;
 
 ### Memory:
 
-| Adress | Value       |
+| Address | Value       |
 | ------ | ----------- |
 | 0x1000 | Ox4 (x)     |
 | 0x1004 | 0x1000 (pX) |
 | 0x1008 |             |
 | 0x100C |             |
-| ...    |             |
+| …    |             |
 
-### & and *
+### & And *
 
 - & Provides the address of something stored in memory.
 
-- * Instructs the compiler to go to a location in memory.
+- Instructs the compiler to go to a location in memory.
 
 > Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
-## Why use pointers?
 
+## Why Use Pointers?
 
 Example: you want to to make a function to swap to values
+
 ```c
 #include <stdio.h>
 
@@ -64,7 +66,7 @@ void swap(int a, int b)
 - this code would fail because `x` and `y` is only in the `local scope` of the `main` function.
 
  - this happens to be because function are allocated at different parts in memory
- 
+
 ![](two-function-in-memory.png)
 
 - Corrected code:
@@ -99,6 +101,4 @@ void swap(int *a, int *b)
 
 ![](two-function-pointer-in-memory.png)
 
-
 > look at [globals-heap-stack](globals-heap-stack.md) for further explanation
-
