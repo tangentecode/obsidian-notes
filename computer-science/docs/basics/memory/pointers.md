@@ -5,5 +5,4 @@
 - You can more accurately visualize a pointer as one address that points to another:
 ![](pointer-in-memory-2.png)
 
-
 - Implement pointers in [C](computer-science/docs/c/pointers.md)
