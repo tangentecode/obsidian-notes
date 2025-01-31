@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b817fc80a97f9fbd",
+        "id": "a5f845a3d7ce0f27",
         "type": "tabs",
         "children": [
           {
-            "id": "342581859bd8fce4",
+            "id": "f341a3c9a96fa35e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "img/yellow-rgb.png"
-              },
-              "icon": "lucide-image",
-              "title": "yellow-rgb"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "img/yellow-rgb.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,8 +159,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "342581859bd8fce4",
+  "active": "f341a3c9a96fa35e",
   "lastOpenFiles": [
+    "img/linkes-list-advanced.png",
+    "img/globals-heap-stack-structure.png",
+    "img/hash-algorithms-collisions.png",
+    "img/algorithm-time.png",
+    "img/yellow-rgb.png",
     "img/string.png",
     "img/pointer-in-memory-1.png",
     "img/linked-list-head.png",
@@ -195,20 +197,15 @@
     "Untitled 1.md",
     "img/big-o-notation.png",
     "img/array.png",
-    "img/linear_search.png",
     "computer-science/docs/data-structures",
     "computer-science/docs/searching",
     "computer-science/docs/sorting",
     "computer-science/docs/linux",
-    "/img/linear_search.png",
-    "/img/big-o-notation.png",
-    "/img/array.png",
     "/computer-science/docs/sorting",
     "/computer-science/docs/searching",
     "/computer-science/docs/linux",
     "/computer-science/docs/data-structures",
     "computer-science/docs/c/raylib",
-    "/computer-science/docs/c/raylib",
-    "computer-science/docs/python/pyqt6-guide/empty-window.png"
+    "/computer-science/docs/c/raylib"
   ]
 }
