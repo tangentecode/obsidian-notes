@@ -1,1 +1,2 @@
-- To generate a random [types](computer-science/docs/c/types.md)
+- To generate a random [integer](computer-science/docs/c/types.md) use `rand()` from [`stdlib.h`](computer-science/docs/c/libraries.md)
+- Its common practice to use is with the [operator](computer-science/docs/c/operators.md)
