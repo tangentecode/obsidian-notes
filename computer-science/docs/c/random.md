@@ -1,0 +1,1 @@
+- To generate a random [types](computer-science/docs/c/types.md)

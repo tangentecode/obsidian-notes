@@ -1,15 +1,18 @@
 
 - Basic comment:
+
 ```c
 // This is a comment
 ```
 
 - Inline comment:
-```c
 
+```c
+printf("Hello, world!\n") // Print to stdout
 ```
 
 - Comments to split you code into individual segments for example:
+
 ```c
 /*************************************************************
  * Prototypes
@@ -17,6 +20,7 @@
 ```
 
 - Defining function parameters/return value and their use-case:
+
 ```c
 /** 
  * Brief description.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/comments.md",
+                "file": "computer-science/docs/c/random.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "comments"
+              "title": "random"
             }
           }
         ]
@@ -151,10 +151,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "b8f44bf35234b561",
   "lastOpenFiles": [
-    "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/c/comments.md",
+    "computer-science/docs/c/random.md",
+    "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/c/input.md",
     "computer-science/docs/c/looping-over-arrays.md",
     "computer-science/docs/c/converting-input.md",
@@ -179,7 +180,6 @@
     "computer-science/docs/sql/special-commands/limit.md",
     "computer-science/docs/sql/special-commands/where.md",
     "computer-science/docs/sql/special-commands/Untitled",
-    "computer-science/docs/contents-docs.md",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
