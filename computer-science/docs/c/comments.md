@@ -1,5 +1,15 @@
 
-- Comments to split you code into individual segments:
+- Basic comment:
+```c
+// This is a comment
+```
+
+- Inline comment:
+```c
+
+```
+
+- Comments to split you code into individual segments for example:
 ```c
 /*************************************************************
  * Prototypes
