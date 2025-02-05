@@ -26,8 +26,8 @@ if (x > y && x == y) {
 
 ### 2. Or
 
-```c
-if (x > y || x == y) {
+```javascript
+if ((x > y || x == y) {
 	// one or more of the conditions are met
 }
 ```
