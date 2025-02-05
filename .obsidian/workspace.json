@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/javascript/accesing-elements.md",
+                "file": "computer-science/docs/javascript/event-handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "accesing-elements"
+              "title": "event-handling"
             }
           }
         ]
@@ -153,12 +153,12 @@
   },
   "active": "a0241b8fef7df5e3",
   "lastOpenFiles": [
+    "computer-science/docs/javascript/accesing-elements.md",
     "computer-science/docs/javascript/changing-styles.md",
     "computer-science/docs/javascript/creating-elements.md",
     "computer-science/docs/javascript/event-handling.md",
     "computer-science/docs/javascript/changing-attributes.md",
     "computer-science/docs/javascript/changing-elements.md",
-    "computer-science/docs/javascript/accesing-elements.md",
     "computer-science/docs/javascript/functions.md",
     "computer-science/docs/javascript/output.md",
     "computer-science/docs/javascript/implementation-web.md",
