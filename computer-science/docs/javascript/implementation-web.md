@@ -1,1 +1,1 @@
-- Write your **JavaScript**
+1.  Writing your **JavaScript** code in the `<script>` [tag](common-tags.md)
