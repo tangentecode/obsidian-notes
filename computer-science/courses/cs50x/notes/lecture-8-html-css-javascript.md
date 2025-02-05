@@ -3,58 +3,54 @@
 - curl
 - status code
 
-
 ## Terms
 
-
 <table border="1">
-  <thead>
-    <tr>
-      <th>Acronym</th>
-      <th>Full Form</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>IP</td>
-      <td>Internet Protocol</td>
-      <td>Identifies and routes devices on a network</td>
-    </tr>
-    <tr>
-      <td>TCP</td>
-      <td>Transmission Control Protocol</td>
-      <td>Ensures reliable data transmission</td>
-    </tr>
-    <tr>
-      <td>DHCP</td>
-      <td>Dynamic Host Configuration Protocol</td>
-      <td>Assigns IP addresses to devices automatically</td>
-    </tr>
-    <tr>
-      <td>HTTP</td>
-      <td>HyperText Transfer Protocol</td>
-      <td>Transfers web page data over the internet</td>
-    </tr>
-    <tr>
-      <td>HTTPS</td>
-      <td>HyperText Transfer Protocol Secure</td>
-      <td>Secure version of HTTP using encryption</td>
-    </tr>
-    <tr>
-      <td>HTML</td>
-      <td>HyperText Markup Language</td>
-      <td>Structures web page content</td>
-    </tr>
-    <tr>
-      <td>CSS</td>
-      <td>Cascading Style Sheets</td>
-      <td>Styles and formats web pages</td>
-    </tr>
-  </tbody>
+	<thead>
+		<tr>
+			<th>Acronym</th>
+			<th>Full Form</th>
+			<th>Description</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>IP</td>
+			<td>Internet Protocol</td>
+			<td>Identifies and routes devices on a network</td>
+		</tr>
+		<tr>
+			<td>TCP</td>
+			<td>Transmission Control Protocol</td>
+			<td>Ensures reliable data transmission</td>
+		</tr>
+		<tr>
+			<td>DHCP</td>
+			<td>Dynamic Host Configuration Protocol</td>
+			<td>Assigns IP addresses to devices automatically</td>
+		</tr>
+		<tr>
+			<td>HTTP</td>
+			<td>HyperText Transfer Protocol</td>
+			<td>Transfers web page data over the internet</td>
+		</tr>
+		<tr>
+			<td>HTTPS</td>
+			<td>HyperText Transfer Protocol Secure</td>
+			<td>Secure version of HTTP using encryption</td>
+		</tr>
+		<tr>
+			<td>HTML</td>
+			<td>HyperText Markup Language</td>
+			<td>Structures web page content</td>
+		</tr>
+		<tr>
+			<td>CSS</td>
+			<td>Cascading Style Sheets</td>
+			<td>Styles and formats web pages</td>
+		</tr>
+	</tbody>
 </table>
-
-
 
 ## IP Addresses
 
@@ -74,7 +70,6 @@
 - stands for **Dynamic Host Configuration Protocol**
 - Assigns IP addresses to devices
 
-
 ## HTTP
 
 - Stands **HyperText Transfer Protocol**
@@ -92,14 +87,12 @@
 | 418 | I'm a Teapot          |
 | 500 | Internal Server Error |
 | 503 | Service Unavailable   |
+
 > Use `curl -I http://www.example.com/`
->  
+> 
 > to get status code of a website
 
-
 - **HTTPS**: Secure Version of HTTP
-
-
 
 ## HTML
 
@@ -112,8 +105,8 @@
 ## HTTP-Server
 
 - Bash command to create a simple server to view webpages 
-- Run on `localhost` wich means Local Computer
-- Terminal contains informations like browser the user use and ip of the Server
+- Run on `localhost` which means Local Computer
+- Terminal contains information like browser the user use and ip of the Server
 
 ## Client and Server
 
