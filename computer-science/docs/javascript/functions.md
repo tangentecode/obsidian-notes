@@ -1,1 +1,2 @@
-- To initialize a function use the `function` keyword:
+- To initialize a function use the `function` keyword
+- Then specify a function name ()
