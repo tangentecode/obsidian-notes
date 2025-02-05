@@ -1,1 +1,9 @@
-- Common **anchor tag** which runs if the user is **hovering** 
+- Common **anchor tag** which runs if the user is **hovering** with the mouse over the element
+- Example:
+
+```css
+a {
+	color: red;
+	text-decoration: none
+}
+```
