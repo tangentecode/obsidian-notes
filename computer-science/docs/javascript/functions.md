@@ -12,5 +12,3 @@ funtion addNumber(firstNumber, secondNumber)
 	return a + b;
 }
 ```
-
-
