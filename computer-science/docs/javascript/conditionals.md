@@ -1,1 +1,2 @@
-- Syntactically  
+- Conditionals in JavaScript are syntactically the same to conditionals in [C](contents-c.md)
+- 
