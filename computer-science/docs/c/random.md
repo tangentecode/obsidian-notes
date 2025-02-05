@@ -6,8 +6,8 @@
 int r = rand() % 20;
 ```
 
-
 - Advanced example:
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
