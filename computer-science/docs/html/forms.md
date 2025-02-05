@@ -1,4 +1,3 @@
-
 ### **1. Basic Structure of a `<form>`**
 
 ```html
@@ -76,7 +75,7 @@
 
 ---
 
-### **6. JavaScript Form Submission Handling**
+### **6. [JavaScript](contents-javascript.md) Form Submission Handling**
 
 ```html
 <form id="myForm">
