@@ -6,6 +6,5 @@
 <script src="script.js"></script>
 ```
 
-
-
-- If `<s`
+- If `<script>` was put into the head you need to ensure that the whole document was loaded before the **JavaScript** code gets executed
+- Do this with this **special** 
