@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "common-tags"
             }
+          },
+          {
+            "id": "73e613aa04d29946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/html/forms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "forms"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,8 +194,12 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2a4f3e87fa28727e",
+  "active": "73e613aa04d29946",
   "lastOpenFiles": [
+    "computer-science/docs/html/input.md",
+    "computer-science/docs/html/forms.md",
+    "computer-science/docs/html/common-tags.md",
+    "forms.md",
     "computer-science/docs/html/tags-syntax.md",
     "computer-science/docs/c/random.md",
     "computer-science/docs/c/comments.md",
@@ -199,15 +217,11 @@
     "computer-science/docs/c/conditionals.md",
     "computer-science/docs/python/conditionals.md",
     "computer-science/docs/python/flask/handling-forms.md",
-    "forms.md",
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask/initialization.md",
     "computer-science/docs/sql/contents-sql.md",
     "computer-science/docs/sql/special-commands/like.md",
     "computer-science/docs/sql/special-commands/join.md",
-    "computer-science/docs/sql/special-commands/group-by.md",
-    "computer-science/docs/sql/special-commands/order-by.md",
-    "computer-science/docs/sql/special-commands/limit.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
