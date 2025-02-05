@@ -35,8 +35,7 @@
               "title": "output"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,8 +165,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6fc50fb8f820bf93",
+  "active": "a0241b8fef7df5e3",
   "lastOpenFiles": [
+    "computer-science/docs/javascript/output.md",
     "computer-science/docs/javascript/functions.md",
     "computer-science/docs/javascript/implementation-web.md",
     "computer-science/docs/javascript/loops.md",
@@ -178,7 +178,6 @@
     "computer-science/docs/c/conditionals.md",
     "computer-science/docs/javascript/libraries.md",
     "computer-science/docs/javascript/input.md",
-    "computer-science/docs/javascript/output.md",
     "computer-science/docs/javascript/intro.md",
     "computer-science/docs/javascript/regex.md",
     "computer-science/docs/javascript/frameworks.md",
