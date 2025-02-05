@@ -1,1 +1,3 @@
-- `console.log()`: Prints something  
+- `console.log()`: Prints something to console (under DevTools) 
+- `alert()`: Little pop-up window from your browser
+- 
