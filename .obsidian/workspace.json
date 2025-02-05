@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/css/classes.md",
+                "file": "computer-science/docs/css/ids.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "classes"
+              "title": "ids"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "99d8e78d59d48722",
   "lastOpenFiles": [
+    "computer-science/docs/css/classes.md",
     "computer-science/docs/css/bootstrap.md",
     "computer-science/docs/css/basics.md",
     "computer-science/docs/c/random.md",
@@ -178,7 +179,6 @@
     "computer-science/docs/c/variables.md",
     "computer-science/docs/c/conditionals.md",
     "computer-science/docs/python/conditionals.md",
-    "computer-science/docs/python/flask/handling-forms.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
