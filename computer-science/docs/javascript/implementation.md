@@ -11,6 +11,6 @@
 
 ```javascript
 document.eventListener('DOMContentLoaded', function(){
-
-})
+	// Execute code here
+});
 ```
