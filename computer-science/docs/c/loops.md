@@ -1,6 +1,6 @@
 > Run the same code multiple times
 
-## `for` loop
+## `for` Loop
 
 - Iterates the code in the code as long the condition (the second parameter) is no longer met:
 - Conditions need to have an [operators](computer-science/docs/c/operators.md) in most cases
@@ -11,8 +11,7 @@ for (int i = 0; i < 3; i++) {
 }
 ```
 
-
-## `while` loop
+## `while` Loop
 
 - Do something as long as the condition after the `while` keyword is true
 - You cannot define the [variable](computer-science/docs/c/variables.md) in the `while` loop like in a `for` loop
