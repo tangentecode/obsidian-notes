@@ -11,10 +11,14 @@
             "id": "99d8e78d59d48722",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/css/classes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "classes"
             }
           }
         ]
@@ -149,6 +153,8 @@
   },
   "active": "99d8e78d59d48722",
   "lastOpenFiles": [
+    "computer-science/docs/css/bootstrap.md",
+    "computer-science/docs/css/basics.md",
     "computer-science/docs/c/random.md",
     "computer-science/docs/html/tags-syntax.md",
     "computer-science/docs/html/common-tags.md",
@@ -173,8 +179,6 @@
     "computer-science/docs/c/conditionals.md",
     "computer-science/docs/python/conditionals.md",
     "computer-science/docs/python/flask/handling-forms.md",
-    "computer-science/docs/python/flask/flask-contents.md",
-    "computer-science/docs/python/flask/initialization.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
