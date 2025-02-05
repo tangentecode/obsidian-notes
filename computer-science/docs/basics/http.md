@@ -1,6 +1,6 @@
-## HTTP
 
-- Stands **HyperText Transfer Protocol**
+
+- Stands for **HyperText Transfer Protocol**
 - Transfers web page data
 - HTTP Status Codes: 
 
