@@ -2,7 +2,7 @@
 
 with multiple conditions
 
-```javascript
+```c
 if (x > y) {
 	// do something
 }
@@ -18,17 +18,16 @@ else {
 
 ### 1. And
 
-```javascript
-if ((x > y) && (x == y)) {
+```c
+if (x > y && x == y) {
 	// both conditions are met
 }
 ```
 
 ### 2. Or
 
-```javascript
-if ((x > y) || (x == y)) {
+```c
+if (x > y || x == y) {
 	// one or more of the conditions are met
 }
 ```
-wwwww

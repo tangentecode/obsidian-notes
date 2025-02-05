@@ -21,7 +21,7 @@ else {
 ### 1. And
 
 ```c
-if (x > y) && (x == y) {
+if ((x > y) && (x == y)) {
 	// both conditions are met
 }
 ```
@@ -29,7 +29,7 @@ if (x > y) && (x == y) {
 ### 2. Or
 
 ```c
-if (x > y) || (x == y) {
+if ((x > y) || (x == y)) {
 	// one or more of the conditions are met
 }
 ```

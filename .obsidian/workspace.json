@@ -35,8 +35,7 @@
               "title": "conditionals"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +165,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c846ca0134befdce",
+  "active": "d78d641379034b32",
   "lastOpenFiles": [
-    "computer-science/docs/javascript/conditionals.md",
     "computer-science/docs/c/conditionals.md",
+    "computer-science/docs/javascript/conditionals.md",
     "computer-science/docs/javascript/variables.md",
     "computer-science/docs/javascript/libraries.md",
     "computer-science/docs/javascript/Untitled.md",
