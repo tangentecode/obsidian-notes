@@ -3,11 +3,13 @@
 - **Example:**
 
 HTML:
+
 ```html
 <p id=paragraph-script>This paragraph has an ID</p>
 ```
 
 CSS:
+
 ```css
 #paragraph-script {
     text-align: center;
