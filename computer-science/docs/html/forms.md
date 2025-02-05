@@ -79,17 +79,7 @@
 ### **6. JavaScript Form Submission Handling**
 
 ```html
-<form id="myForm">
-    <input type="text" id="name" name="name">
-    <button type="submit">Submit</button>
-</form>
-
-<script>
-document.getElementById("myForm").addEventListener("submit", function(event) {
-    event.preventDefault(); // Prevent actual form submission
-    alert("Form submitted!");
-});
-</script>
+ 
 ```
 
 ---
