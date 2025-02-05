@@ -35,8 +35,7 @@
               "title": "devtools"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +165,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "8bc618e196b265ff",
+  "active": "99d8e78d59d48722",
   "lastOpenFiles": [
-    "computer-science/docs/css/ids.md",
     "computer-science/docs/css/devtools.md",
+    "computer-science/docs/css/ids.md",
     "computer-science/docs/css/classes.md",
     "computer-science/docs/css/bootstrap.md",
     "computer-science/docs/css/basics.md",
