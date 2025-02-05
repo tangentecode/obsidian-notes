@@ -7,4 +7,10 @@
 ```
 
 - If `<script>` was put into the head you need to ensure that the whole document was loaded before the **JavaScript** code gets executed
-- Do this with this **special** 
+- Do this with this **special** [event listener](event-handling.md):
+
+```javascript
+document.eventListener('DOMContentLoaded', function(){
+
+})
+```
