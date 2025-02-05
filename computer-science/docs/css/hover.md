@@ -18,4 +18,4 @@ a:hover {
 }
 ```
 
-- **Hyperlink** 
+- **Hyperlink** changes color to blue and underlines as the user hovers over it
