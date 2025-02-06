@@ -18,5 +18,5 @@
 18. [where](where.md)
 19. [special-constraints](special-constraints.md)
 20. [types](computer-science/docs/sql/additional/types.md)
-21. [comments](comments.md)
+21. [comments](computer-science/docs/sql/additional/comments.md)
 22. [contents-sqlite](contents-sqlite.md)

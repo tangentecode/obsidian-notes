@@ -5,8 +5,8 @@
 - Iterates the code in the code as long the condition (the second parameter) is no longer met:
 - Conditions need to have an [operators](computer-science/docs/c/operators.md) in most cases
 
-```c
-for (int i = 0; i < 3; i++) {
+```javascript
+for (let i = 0; i < 3; i++) {
 	// do something three times
 }
 ```
@@ -14,10 +14,10 @@ for (int i = 0; i < 3; i++) {
 ## `while` Loop
 
 - Do something as long as the condition after the `while` keyword is true
-- You cannot define the [variable](computer-science/docs/c/variables.md) in the `while` loop like in a `for` loop
+- You cannot define the [variable](computer-science/docs/javascript/variables.md) in the `while` loop like in a `for` loop
 
-```python
-int i = 0
+```javascript
+let i = 0
 while (i < 3) {
 	// do something three times
 	i++;
@@ -26,7 +26,7 @@ while (i < 3) {
 
 - If you want to create an infinite loop:
 
-```c
+```javascript
 while (true) {
 	// cancel with control+c
 }

@@ -1,3 +1,5 @@
+- Conditionals in JavaScript are syntactically the same to conditionals in [C](contents-c.md)
+
 ## Compare Two Values
 
 with multiple conditions
@@ -19,7 +21,7 @@ else {
 ### 1. And
 
 ```c
-if (x > y && x == y) {
+if ((x > y) && (x == y)) {
 	// both conditions are met
 }
 ```
@@ -27,7 +29,7 @@ if (x > y && x == y) {
 ### 2. Or
 
 ```c
-if (x > y || x == y) {
+if ((x > y) || (x == y)) {
 	// one or more of the conditions are met
 }
 ```
