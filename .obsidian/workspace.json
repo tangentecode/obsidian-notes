@@ -49,8 +49,7 @@
               "title": "accesing-elements"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,15 +179,15 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e738c4d788423416",
+  "active": "a0241b8fef7df5e3",
   "lastOpenFiles": [
-    "computer-science/docs/javascript/dom/event-handling.md",
     "computer-science/docs/javascript/dom/accesing-elements.md",
+    "computer-science/docs/javascript/dom/changing-styles.md",
+    "computer-science/docs/javascript/dom/event-handling.md",
     "computer-science/docs/javascript/dom/creating-elements.md",
     "computer-science/docs/javascript/dom/changing-attributes.md",
     "computer-science/docs/javascript/dom",
     "computer-science/docs/javascript/dom/changing-elements.md",
-    "computer-science/docs/javascript/dom/changing-styles.md",
     "computer-science/docs/javascript/implementation.md",
     "computer-science/docs/javascript/functions.md",
     "computer-science/docs/javascript/output.md",
