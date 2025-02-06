@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/javascript/changing-styles.md",
+                "file": "computer-science/docs/javascript/dom/event-handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "changing-styles"
+              "title": "event-handling"
             }
           }
         ]
@@ -153,13 +153,14 @@
   },
   "active": "a0241b8fef7df5e3",
   "lastOpenFiles": [
+    "computer-science/docs/javascript/dom/creating-elements.md",
+    "computer-science/docs/javascript/dom/accesing-elements.md",
+    "computer-science/docs/javascript/dom/changing-attributes.md",
+    "computer-science/docs/javascript/dom",
+    "computer-science/docs/javascript/dom/changing-elements.md",
+    "computer-science/docs/javascript/dom/changing-styles.md",
     "computer-science/docs/javascript/implementation.md",
-    "computer-science/docs/javascript/changing-attributes.md",
-    "computer-science/docs/javascript/accesing-elements.md",
-    "computer-science/docs/javascript/event-handling.md",
-    "computer-science/docs/javascript/changing-styles.md",
-    "computer-science/docs/javascript/creating-elements.md",
-    "computer-science/docs/javascript/changing-elements.md",
+    "computer-science/docs/javascript/dom/event-handling.md",
     "computer-science/docs/javascript/functions.md",
     "computer-science/docs/javascript/output.md",
     "computer-science/docs/javascript/loops.md",
@@ -178,7 +179,6 @@
     "computer-science/docs/basics/bash.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/docs/basics/http.md",
-    "computer-science/docs/css/devtools.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
@@ -199,7 +199,6 @@
     "computer-science/docs/basics/hashing",
     "img/Untitled.canvas",
     "computer-science/docs/basics/data-structures",
-    "computer-science/docs/basics/searching",
     "Untitled.canvas"
   ]
 }
