@@ -11,10 +11,14 @@
             "id": "b0c9928529ede0df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/basics/url.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "url"
             }
           }
         ]
@@ -147,8 +151,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "b0c9928529ede0df",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
+    "computer-science/docs/basics/url.md",
     "computer-science/courses/content-courses.md",
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/content-computer-science.md",
@@ -175,7 +181,6 @@
     "computer-science/docs/javascript/input.md",
     "computer-science/docs/javascript/intro.md",
     "computer-science/docs/javascript/regex.md",
-    "computer-science/docs/javascript/frameworks.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",

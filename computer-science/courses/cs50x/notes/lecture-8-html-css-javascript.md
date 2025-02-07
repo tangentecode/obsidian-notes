@@ -1,9 +1,5 @@
 # lecture-8-html-css-javascript
 
-- url format
-- curl
-- status code
-
 ## Terms
 
 <table border="1">
