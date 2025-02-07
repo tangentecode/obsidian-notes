@@ -11,10 +11,14 @@
             "id": "408bb56d26fb448e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/python/flask/handling-forms.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "handling-forms"
             }
           }
         ]
@@ -149,6 +153,10 @@
   },
   "active": "408bb56d26fb448e",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/flask-contents.md",
+    "computer-science/docs/python/flask/handling-forms.md",
+    "computer-science/docs/python/flask/file-structure.md",
+    "computer-science/docs/python/flask/advanced.md",
     "computer-science/docs/basics/url.md",
     "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
     "computer-science/courses/content-courses.md",
@@ -173,10 +181,6 @@
     "computer-science/docs/c/variables.md",
     "computer-science/docs/javascript/conditionals.md",
     "computer-science/docs/c/conditionals.md",
-    "computer-science/docs/javascript/libraries.md",
-    "computer-science/docs/javascript/input.md",
-    "computer-science/docs/javascript/intro.md",
-    "computer-science/docs/javascript/regex.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
