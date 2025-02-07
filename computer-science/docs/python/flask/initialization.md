@@ -1,3 +1,5 @@
+# Initialization
+
 ```python
 from flask import Flask
 

@@ -1,3 +1,5 @@
+# Count
+
 - **Purpose**: Counts the number of rows in a result set or non-NULL values in a column.
 
 - **Example**:

@@ -1,3 +1,5 @@
+# Structs
+
 ### Initializing
 
 - `structs` are user defined data [types](computer-science/docs/c/types.md)

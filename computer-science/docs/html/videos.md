@@ -1,3 +1,5 @@
+# Videos
+
 ## Structure
 
 - Uses `<video>` [tag](common-tags.md) with the optional attribute `controls muted`

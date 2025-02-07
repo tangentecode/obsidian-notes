@@ -1,6 +1,9 @@
+# System-services
+
 ## Systemctl
 
-- on Arch use the `systemctl`  [command](bash.md) like this:
+- on Arch use the `systemctl` [command](bash.md) like this:
+
 ```shell 
 # for system processes
 sudo systemctl enable name.service 

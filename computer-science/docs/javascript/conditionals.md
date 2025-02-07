@@ -1,3 +1,5 @@
+# Conditionals
+
 - Conditionals in JavaScript are syntactically the same to conditionals in [C](contents-c.md)
 
 ## Compare Two Values

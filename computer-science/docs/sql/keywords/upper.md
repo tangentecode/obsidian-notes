@@ -1,3 +1,5 @@
+# Upper
+
 - **Purpose**: Converts a string to uppercase.
 
 - **Example**:		

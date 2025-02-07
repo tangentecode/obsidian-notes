@@ -1,3 +1,5 @@
+# Connecting-to-database
+
 - There are a few basic functions for managing the database:
 
 ```python

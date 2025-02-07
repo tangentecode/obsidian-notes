@@ -1,9 +1,12 @@
+# Functions
+
 ## Structure
 
-| Return type    | `int`, `char`,... (No return value: `void`)                                     |
+| Return type    | `int`, `char`,… (No return value: `void`)                                     |
 | -------------- | ------------------------------------------------------------------------------- |
-| Functions name | Anything apart from variable names (Recomended [style](computer-science/docs/c/style.md))               |
-| Parameters     | Data passed in to the local scope of the function (use `void` for no paramters) |
+| Functions name | Anything apart from variable names (Recommended [style](computer-science/docs/c/style.md))               |
+| Parameters     | Data passed in to the local scope of the function (use `void` for no parameters) |
+
 ## Example
 
 ```c
@@ -12,7 +15,7 @@ void example(int age) {
 }
 ```
 
-## `main` function
+## `main` Function
 
 - Every C Program needs to have a `main` function.
 - It acts like an entry point for the program

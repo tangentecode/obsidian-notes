@@ -1,3 +1,5 @@
+# Types
+
 ## Common Types
 
 - Most common types are:

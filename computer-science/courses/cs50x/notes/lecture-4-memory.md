@@ -1,3 +1,5 @@
+# lecture-4-memory
+
 ## [Pixel Art](pixel-art.md)
 
 > **Bitmap images:** map of [bits](binary.md) 
@@ -78,7 +80,7 @@ int * pX = &x;
 
 - & Provides the address of something stored in memory.
 
-- - Instructs the compiler to go to a location in memory.
+- Instructs the compiler to go to a location in memory.
 
 > Good vid by [Low Level Learning](https://www.youtube.com/watch?v=2ybLD6_2gKM&t=438s)
 

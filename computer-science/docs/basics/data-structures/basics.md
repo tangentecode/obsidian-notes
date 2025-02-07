@@ -1,3 +1,5 @@
+# Basics
+
 - **_Data structures_** essentially are forms of organization in memory.
 
 - Examples:
@@ -6,4 +8,3 @@
 	- [Stacks](https://cs50.harvard.edu/x/2025/shorts/stacks/)
 	- [Queues](https://cs50.harvard.edu/x/2025/shorts/queues/)
 	- [Hash Tables](https://cs50.harvard.edu/x/2025/shorts/hash_tables/)
-

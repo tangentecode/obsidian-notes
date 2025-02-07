@@ -1,3 +1,5 @@
+# Binary
+
 - Computers count in binary
 - If you imagine a light bulb: 1 means light bulb one, 2 means light bulb off
 - Representing numbers in Binary:

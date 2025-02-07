@@ -1,3 +1,5 @@
+# cs50-lib
+
 - `cs50.h`: 
 	- [manual](https://manual.cs50.io/)
 	- Simple functions to get input from the user:

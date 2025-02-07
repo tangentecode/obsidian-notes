@@ -1,3 +1,5 @@
+# Max
+
 - **Purpose**: Finds the maximum (largest) value in a column.
 
 - **Example**:

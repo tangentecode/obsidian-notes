@@ -1,4 +1,7 @@
+# Init
+
 Example for an `__init__`:
+
 ```python
 def __init__(self):
     super().__init__()

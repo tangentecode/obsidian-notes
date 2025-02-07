@@ -1,6 +1,7 @@
-
 # Deklinieren
-### 1. a-Deklination 
+
+### 1. a-Deklination
+
 Endung im Genitiv Singular: -ae
 
  **Feminin**
@@ -16,9 +17,10 @@ Endung im Genitiv Singular: -ae
 ---
 
 ### 2. **o-Deklination**
+
 Endung im Genitiv Singular: -i
 
-#### Maskuline 
+#### Maskuline
 
 | Fall       | Singular  | Plural   |
 |------------|-----------|----------|
@@ -41,9 +43,10 @@ Endung im Genitiv Singular: -i
 ---
 
 ### 3. **konsonantische Deklination**
+
 Genitiv Singular auf -is
 
-#### Maskuline und Feminine
+#### Maskuline Und Feminine
 
 | Fall       | Singular  | Plural   |
 |------------|-----------|----------|
@@ -66,6 +69,7 @@ Genitiv Singular auf -is
 ---
 
 ### 4. **u-Deklination**
+
 Endung im Genitiv Singular: -us
 
 #### Maskuline
@@ -91,6 +95,7 @@ Endung im Genitiv Singular: -us
 ---
 
 ### 5. **e-Deklination**
+
 Endung im Genitiv Singular: -ei
 
 | Fall       | Singular  | Plural   |
@@ -104,6 +109,7 @@ Endung im Genitiv Singular: -ei
 ---
 
 ### 6. **i-Deklination**
+
 Genitiv Singular auf -is
 
 | Fall       | Singular  | Plural   |
@@ -114,13 +120,11 @@ Genitiv Singular auf -is
 | Akkusativ  | -im       | -es      |
 | Ablativ    | -i        | -ibus    |
 
-
-
 # Konjugieren
 
 ## Präsens
 
-###  **-are**
+### **-are**
 
 | Person      | Singular      | Plural      |
 |-------------|---------------|-------------|
@@ -150,7 +154,7 @@ Genitiv Singular auf -is
 
 ---
 
-###  **-ire**
+### **-ire**
 
 | Person      | Singular      | Plural      |
 |-------------|---------------|-------------|
@@ -172,6 +176,7 @@ Genitiv Singular auf -is
 ---
 
 ## Perfekt
+
 ### **-are**
 
 | Person      | Singular      | Plural        |
@@ -182,7 +187,7 @@ Genitiv Singular auf -is
 
 ---
 
-###  **-ēre**
+### **-ēre**
 
 | Person      | Singular      | Plural        |
 |-------------|---------------|---------------|
@@ -192,7 +197,7 @@ Genitiv Singular auf -is
 
 ---
 
-###  **-ere**
+### **-ere**
 
 | Person      | Singular      | Plural        |
 |-------------|---------------|---------------|
@@ -212,7 +217,7 @@ Genitiv Singular auf -is
 
 ---
 
-###  **Irreguläre Verben**
+### **Irreguläre Verben**
 
 | Verb        | Perfektform   | Übersetzung             |
 |-------------|---------------|-------------------------|
@@ -221,10 +226,10 @@ Genitiv Singular auf -is
 | **velle**   | volui         | ich wollte             |
 | **nolle**   | nolui         | ich wollte nicht       |
 
+# Relativund Demonstrativpronomen
 
+## Qui, Quae, Quod
 
-# Relativ- und Demonstrativpronomen
-## Qui, quae, quod
 | Singular     | Maskulin | Feminin | Neutrum |
 |--------------|----------|---------|---------|
 | Nominativ    | qui      | quae    | quod    |
@@ -241,7 +246,8 @@ Genitiv Singular auf -is
 | Akkusativ    | quos     | quas    | quae    |
 | Ablativ      | quibus   | quibus  | quibus  |
 
-## Is, ea, id
+## Is, Ea, Id
+
 | Singular     | Maskulin | Feminin | Neutrum |
 |--------------|----------|---------|---------|
 | Nominativ    | is       | ea      | id      |
@@ -258,7 +264,8 @@ Genitiv Singular auf -is
 | Akkusativ    | eos      | eas     | ea      |
 | Ablativ      | eis      | eis     | eis     |
 
-## Hic, haec, hoc
+## Hic, Haec, Hoc
+
 | Singular     | Maskulin | Feminin | Neutrum |
 |--------------|----------|---------|---------|
 | Nominativ    | hic      | haec    | hoc     |
@@ -275,7 +282,8 @@ Genitiv Singular auf -is
 | Akkusativ    | hos      | has     | haec    |
 | Ablativ      | his      | his     | his     |
 
-## Ille, illa, illud
+## Ille, Illa, Illud
+
 | Singular     | Maskulin | Feminin | Neutrum |
 |--------------|----------|---------|---------|
 | Nominativ    | ille     | illa    | illud   |

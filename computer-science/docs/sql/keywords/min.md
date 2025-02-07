@@ -1,3 +1,5 @@
+# Min
+
 - **Purpose**: Finds the minimum (smallest) value in a column.
 
 - **Example**:		

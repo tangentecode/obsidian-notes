@@ -16,4 +16,5 @@
 | `bytes`     | Immutable sequence of bytes.                       | `b'hello'`                |
 | `bytearray` | Mutable sequence of bytes.                         | `bytearray(b'hello')`     |
 | `NoneType`  | Represents the absence of a value or a null value. | `None`                    |
-> You don’t need to add a type when defining [variables](computer-science/docs/python/variables.md) but you can add [type annotations ](computer-science/docs/python/style.md)
+
+> You don't need to add a type when defining [variables](computer-science/docs/python/variables.md) but you can add [type annotations ](computer-science/docs/python/style.md)

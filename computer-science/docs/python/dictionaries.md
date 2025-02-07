@@ -1,3 +1,5 @@
+# Dictionaries
+
 ### Initialization
 
 - Initialize a [dictionary](computer-science/docs/basics/data-structures/dictionaries.md) like this:

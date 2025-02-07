@@ -1,3 +1,5 @@
+# Join
+
 - We are pulling data from `shows` and `ratings`. Notice how both `shows` and `ratings` have an `id` in common.
 - How could we combine tables temporarily? Tables could be joined together using the `JOIN` command.
 - Execute the following command:

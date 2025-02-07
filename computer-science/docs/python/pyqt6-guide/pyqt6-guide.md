@@ -1,3 +1,4 @@
+# pyqt6-guide
 
 ## Installation
 
@@ -14,6 +15,7 @@ pip install PyQt6
 ### Preview
 
 ![Preview of Empty Window | 400](empty-window.png)
+
 ### Full Code
 
 ```python
@@ -39,31 +41,37 @@ if __name__ == '__main__':
 ### Breakdown of the Code
 
 1. **Import Necessary Modules**
-   ```python
+
+	 ```python
    import sys
    from PyQt6.QtWidgets import QApplication, QWidget
    ```
 
 2. **Main Window Class**
 
-   ```python
+	 ```python
    class EmptyWindow(QWidget):
    ```
 
-   *Methods within `EmptyWindow`:*
+	 *Methods within `EmptyWindow`:*
 
-   - **`__init__` Method**  
-     Initializes the main window.
-     ```python
+	 - **`__init__` Method**  
+		 Initializes the main window.
+
+		 ```python
+
      def __init__(self):
-         super().__init__()
-         self.initializeUI()
-     ```
-     - Calls `initializeUI` to set up the window properties.
 
-   - **`initializeUI` Method**  
-     Sets the window size and title, and displays it.
-     ```python
+         super().__init__()
+
+         self.initializeUI()
+
+     ```
+		 - Calls `initializeUI` to set up the window properties.
+
+	 - **`initializeUI` Method**  
+		 Sets the window size and title, and displays it.
+		 ```python
      def initializeUI(self):
          self.setGeometry(150, 50, 700, 700)
          self.setWindowTitle('Empty Window in PyQt')
@@ -119,34 +127,41 @@ if __name__ == '__main__':
 
 1. **Import Necessary Modules**
 
-   ```python
+	 ```python
    import sys
    from PyQt6.QtWidgets import QApplication, QWidget, QLabel
    from PyQt6.QtGui import QPixmap
    ```
-   - Imports `QApplication`, `QWidget`, and `QLabel` from PyQt6 to create the window and display text and images.
-   - Imports `QPixmap` to handle images.
+
+	 - Imports `QApplication`, `QWidget`, and `QLabel` from PyQt6 to create the window and display text and images.
+	 - Imports `QPixmap` to handle images.
 
 2. **Main Window Class**
 
-   ```python
+	 ```python
    class HelloWorldWindow(QWidget):
    ```
-   - This class inherits from `QWidget`, providing a base for the main application window.
 
-   *Methods within `HelloWorldWindow`:*
+	 - This class inherits from `QWidget`, providing a base for the main application window.
 
-   - **`__init__` Method**
-     Initializes the main window and calls `initializeUI`.
-     ```python
+	 *Methods within `HelloWorldWindow`:*
+
+	 - **`__init__` Method**
+		 Initializes the main window and calls `initializeUI`.
+
+		 ```python
+
      def __init__(self):
+
          super().__init__()
+
          self.initializeUI()
+
      ```
 
-   - **`initializeUI` Method**
-     Sets the geometry, title, and displays the window. Calls `displayLabels` to add content.
-     ```python
+	 - **`initializeUI` Method**
+		 Sets the geometry, title, and displays the window. Calls `displayLabels` to add content.
+		 ```python
      def initializeUI(self):
          self.setGeometry(150, 50, 700, 700)
          self.setWindowTitle('QLabel')
@@ -154,20 +169,25 @@ if __name__ == '__main__':
          self.show()
      ```
 
-   - **`displayLabels` Method**
-     Adds a text label and an image to the window.
+	 - **`displayLabels` Method**
+		 Adds a text label and an image to the window.
 
-     - **Display Text**  
-       Creates a label for text and positions it on the window.
-       ```python
+		 - **Display Text**  
+			 Creates a label for text and positions it on the window.
+
+			 ```python
+
        text = QLabel(self)
+
        text.setText("Hello")
+
        text.move(260, 15)
+
        ```
 
-     - **Display Image**  
-       Loads and displays an image file. If the image is not found, it prints an error.
-       ```python
+		 - **Display Image**  
+			 Loads and displays an image file. If the image is not found, it prints an error.
+			 ```python
        image = "world2.png"
        try:
            with open(image):
@@ -180,16 +200,17 @@ if __name__ == '__main__':
        ```
 
 3. **Application Execution**
-   Starts the application by creating an instance of `QApplication` and running the window.
-   ```python
+	 Starts the application by creating an instance of `QApplication` and running the window.
+
+	 ```python
    if __name__ == '__main__':
        app = QApplication(sys.argv)
        window = HelloWorldWindow()
        sys.exit(app.exec())
    ```
 
-
 ## Basic Button
+
 Here's a basic example of how to create a simple window with a button using PyQt6. When the button is clicked, it will display a message in the console.
 
 ```python
@@ -229,11 +250,9 @@ if __name__ = "__main__":
 ### Explanation
 
 1. **`QApplication`**: Initializes the application and handles the event loop.
-2. **`QWidget`**: The base class for all UI objects. Here, it’s the main window.
+2. **`QWidget`**: The base class for all UI objects. Here, it's the main window.
 3. **`QPushButton`**: Creates a button labeled "Click Me".
 4. **`.clicked.connect(self.on_button_click)`**: Connects the button's click event to the `on_button_click` method, which prints "Button was clicked!" to the console.
 5. **`QVBoxLayout`**: A layout to organize the button inside the 
-
-
 
 ## QLineEdit

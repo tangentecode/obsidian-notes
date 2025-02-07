@@ -1,4 +1,6 @@
-## 1. Unordered list (ul)
+# Lists
+
+## 1. Unordered List (ul)
 
 ```html
 <ul>
@@ -7,14 +9,14 @@
 ```
 
 Example:
-```
+
+```c
 	- List item
 	- List item
 	- List item
 ```
 
-
-## 1. Ordered list (ol)
+## 1. Ordered List (ol)
 
 ```html
 <ol>
@@ -23,7 +25,8 @@ Example:
 ```
 
 Example:
-```
+
+```c
 	1. List item
 	2. List item
 	3. List item

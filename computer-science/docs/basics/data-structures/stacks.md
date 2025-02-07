@@ -1,3 +1,5 @@
+# Stacks
+
 - **_LIFO_** or "last in first out"
 
  > Just like stacking trays in a dining hall, a tray that is placed in a stack last is the first that may be picked up.

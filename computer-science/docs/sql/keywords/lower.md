@@ -1,3 +1,5 @@
+# Lower
+
 - **Purpose**: Converts a string to lowercase.
 
 - **Example**:

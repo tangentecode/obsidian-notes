@@ -1,3 +1,5 @@
+# lecture-1-c
+
 ## Visual Studio Code
 
 > IDE = Integrated Development Environment

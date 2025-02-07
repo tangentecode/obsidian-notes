@@ -1,3 +1,5 @@
+# lecture-2-arrays
+
 ## Contents
 
 1. [Compiling](#compiling)

@@ -1,3 +1,5 @@
+# General
+
 ## What is SQLite?
 
 - SQLite is a **lightweight**, self-contained **database engine**.

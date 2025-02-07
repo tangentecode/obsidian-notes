@@ -1,3 +1,5 @@
+# Like
+
 - **Purpose:** Searches for patterns in string data using wildcard characters.
 		- `%` matches zero or more characters.
 		- `_` matches exactly one character.

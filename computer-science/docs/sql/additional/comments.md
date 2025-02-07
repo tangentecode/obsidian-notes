@@ -1,3 +1,5 @@
+# Comments
+
 - Define comment in your SQL Queries with `--`:
 
 ```sql

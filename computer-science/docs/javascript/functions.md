@@ -1,3 +1,5 @@
+# Functions
+
 ## Structure
 
 - To initialize a function use the `function` keyword

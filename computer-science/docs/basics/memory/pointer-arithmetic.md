@@ -1,9 +1,8 @@
+# Pointer-arithmetic
 
 - because [memory addresses](addresses.md) are just ([hexadecimal](hexadecimal.md)) numbers you can do math with them
 
-
-- you can use Pointer Arithmetic instead of accessing indexes of an array with square brackets because the **compiler converts  square brackets to Pointer Arithmetic**
-
+- you can use Pointer Arithmetic instead of accessing indexes of an array with square brackets because the **compiler converts square brackets to Pointer Arithmetic**
 
 - Example:
 

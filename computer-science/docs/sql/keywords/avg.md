@@ -1,3 +1,5 @@
+# Avg
+
 - **Purpose**: Calculates the average value of a numeric column.
 - **Example**:
 		

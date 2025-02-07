@@ -1,3 +1,5 @@
+# Layout
+
 ```python 
 layout = QVBoxlayout()
 layout.addWidget(widgetName)

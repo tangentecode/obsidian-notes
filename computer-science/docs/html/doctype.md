@@ -1,3 +1,5 @@
+# Doctype
+
 ```html
 <!DOCTYPE html>
 ```

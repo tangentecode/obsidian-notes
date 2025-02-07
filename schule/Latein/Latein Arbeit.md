@@ -1,10 +1,13 @@
 ---
 ---
+
 ---
+
 # 1. Übersetzen
 
 Zwei umfangreiche Sätze
-**Thema:**  Gedächtnistraining (*Mnemotechnik*)
+
+**Thema:** Gedächtnistraining (*Mnemotechnik*)
 
 # 2. Übersetzungsansätze
 
@@ -17,7 +20,7 @@ Zwei umfangreiche Sätze
 	- Akronym: Anfangsbuchstaben zu einem Wort
 	- Loci-Methode: Dinge mit räumlicher Vorstellung verknüpfen
 	
-1. Schritte für eine Rede
+2. Schritte für eine Rede
 	1. **Inventio:** Themenfindung
 	2. **Dispositio:** Gliederung
 	3. **Elocutio:** Sprachliche Gestaltung

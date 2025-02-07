@@ -1,3 +1,5 @@
+# Variables
+
 ## Structure
 
 | Data type     | [types](computer-science/docs/c/types.md) (e.g. int, char)                              |

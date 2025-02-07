@@ -1,3 +1,5 @@
+# Converting-input
+
 - Converts a string array into multiple [ints](computer-science/docs/c/types.md)
 - Requires: `stdio.h`, `stdlib.h`, `string.h`
 

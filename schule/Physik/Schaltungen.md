@@ -1,3 +1,5 @@
+# Schaltungen
+
 ## Einheiten
 
 | Kürzel | Name        | Einheit |
@@ -8,6 +10,7 @@
 | P      | Leistung    | W       |
 | E      | Energie     | j/kj    |
 | t      | Zeit        | h,s     |
+
 **U = R * i**
 
 ## Formeln
@@ -28,7 +31,6 @@ $$
 R_{\text{ges}} = R_1 + R_2 + R_3 + \dots
 $$
 
-
 Für die **Paralelschaltung**: U= I+ 1R+
 
 $$
@@ -42,6 +44,5 @@ $$
 $$
 \frac{1}{R_{\text{ges}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots
 $$
-
 
 ## Beispiele

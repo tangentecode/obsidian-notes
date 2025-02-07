@@ -1,3 +1,5 @@
+# Classes
+
 - Define a `class` in [HTML](contents-html.md) like this:
 
 ```html

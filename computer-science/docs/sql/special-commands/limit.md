@@ -1,3 +1,5 @@
+# Limit
+
 - **Purpose:** Restricts the number of rows returned by the query.
 - **Use:** Typically paired with `ORDER BY` to fetch a specific subset of rows (e.g., top results).
 

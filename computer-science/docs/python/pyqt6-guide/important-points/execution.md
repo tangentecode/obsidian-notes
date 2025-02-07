@@ -1,7 +1,11 @@
+# Execution
 
-   ```python
+	 ```python
+
    if __name__ == '__main__':
+
        # Create Instance
+
        app = QApplication(sys.argv)
 
        # Create Application Window
@@ -9,4 +13,5 @@
        
        # Run the application's event loop
        sys.exit(app.exec())
+
    ```

@@ -1,3 +1,5 @@
+# Distinct
+
 - **Purpose**: Filters out duplicate values and returns unique values in a column.
 
 - **Example**:

@@ -1,3 +1,5 @@
+# Event-handling
+
 - You can listen for user events like clicks, keyboard presses, etc., and execute functions in response:
 
 ```javascript

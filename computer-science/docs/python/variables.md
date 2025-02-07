@@ -1,5 +1,7 @@
+# Variables
 
 - Defining variables in Python is very compact in design:
+
 ```python
 age = 18
 name = "Lukas"

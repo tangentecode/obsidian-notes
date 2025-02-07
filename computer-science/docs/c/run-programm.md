@@ -1,3 +1,5 @@
+# Run-programm
+
 ## Instructions
 
 - Create file with the ending `.c`
@@ -8,7 +10,6 @@
 - Run the file:
 	1. In cs50 environment (or generally Linux) with `./`
 	2. If you use `gcc` (MingGW) compiled file is usually called `a.exe` 
-
 
 ## Example
 

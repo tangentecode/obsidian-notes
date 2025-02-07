@@ -1,3 +1,5 @@
+# Output
+
 ## Explanation
 
 - Part of [stdio.h library](computer-science/docs/c/libraries.md)
