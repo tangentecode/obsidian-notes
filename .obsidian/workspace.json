@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/handling-forms.md",
+                "file": "computer-science/docs/python/flask/file-structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "handling-forms"
+              "title": "file-structure"
             }
           }
         ]
@@ -153,8 +153,8 @@
   },
   "active": "408bb56d26fb448e",
   "lastOpenFiles": [
-    "computer-science/docs/html/forms.md",
     "computer-science/docs/python/flask/handling-forms.md",
+    "computer-science/docs/html/forms.md",
     "computer-science/docs/python/flask/html-templates.md",
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask/file-structure.md",
