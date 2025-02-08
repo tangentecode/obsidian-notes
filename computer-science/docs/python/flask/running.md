@@ -8,8 +8,9 @@ flask run
 ```
 
 
-Or run with `python` and set these li:
+Or run with `python` and set these lines in your code:
 
 ```shell
-
+if __name__ == '__main__':
+	app.run(debug=True)
 ```
