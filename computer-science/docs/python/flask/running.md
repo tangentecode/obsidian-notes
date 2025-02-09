@@ -7,7 +7,6 @@ export FLASK_APP=app.py  # On Windows, use set FLASK_APP=app.py
 flask run
 ```
 
-
 Or run with `python` and set these lines in your code:
 
 ```shell

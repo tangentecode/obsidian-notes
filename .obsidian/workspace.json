@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/running.md",
+                "file": "computer-science/docs/c/preprocessor-statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "running"
+              "title": "preprocessor-statements"
             }
           }
         ]
@@ -153,6 +153,8 @@
   },
   "active": "408bb56d26fb448e",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/running.md",
+    "computer-science/docs/c/preprocessor-statements.md",
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask/handling-forms.md",
     "computer-science/docs/python/flask/file-structure.md",
@@ -179,8 +181,6 @@
     "computer-science/docs/javascript/output.md",
     "computer-science/docs/javascript/loops.md",
     "computer-science/docs/c/loops.md",
-    "computer-science/docs/javascript/variables.md",
-    "computer-science/docs/c/variables.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
