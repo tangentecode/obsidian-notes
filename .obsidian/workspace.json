@@ -19,52 +19,7 @@
               },
               "icon": "lucide-file",
               "title": "contents-javascript"
-            },
-            "group": "35096f357e974750"
-          }
-        ]
-      },
-      {
-        "id": "b04b69f679dff761",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e792ec06165636a6",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "computer-science/docs/javascript/contents-javascript.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6906394964510802,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of contents-javascript"
-            },
-            "group": "35096f357e974750"
+            }
           }
         ]
       }
@@ -196,7 +151,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e792ec06165636a6",
+  "active": "c4c13227fb752163",
   "lastOpenFiles": [
     "computer-science/docs/javascript/dom/accesing-elements.md",
     "computer-science/docs/css/contents-css.md",
