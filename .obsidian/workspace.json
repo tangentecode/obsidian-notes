@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06878b70380241fa",
+        "id": "020084738b0ccd0f",
         "type": "tabs",
         "children": [
           {
-            "id": "a1f396bb9b5e2ebd",
+            "id": "6829f092f6fe53ed",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -147,7 +147,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a1f396bb9b5e2ebd",
+  "active": "6829f092f6fe53ed",
   "lastOpenFiles": [
     "computer-science/docs/c/contents-c.md",
     "computer-science/docs/c/preprocessor-statements.md",
