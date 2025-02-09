@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f6287777ac560f92",
+        "id": "9cf2f67e509f8551",
         "type": "tabs",
         "children": [
           {
-            "id": "66ffabc9c493a25c",
+            "id": "b85508ff50173017",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "computer-science/courses/web-dev-for-beginners/readme.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "readme"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -149,10 +147,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "66ffabc9c493a25c",
+  "active": "b85508ff50173017",
   "lastOpenFiles": [
-    "computer-science/courses/content-courses.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
+    "computer-science/courses/content-courses.md",
     "computer-science/courses/web-dev-for-beginners",
     "computer-science/courses/New folder",
     "().md",
