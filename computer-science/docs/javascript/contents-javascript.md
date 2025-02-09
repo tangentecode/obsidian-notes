@@ -10,4 +10,5 @@
 8. [input](computer-science/docs/javascript/input.md)
 9. [functions](computer-science/docs/javascript/functions.md)
 10. [libraries](computer-science/docs/javascript/libraries.md)
-11. 
+11. [implementation](implementation.md)
+12. [[contents-dpm]]
