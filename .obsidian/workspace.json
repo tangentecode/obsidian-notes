@@ -11,14 +11,12 @@
             "id": "66ffabc9c493a25c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "computer-science/courses/content-courses.md",
-                "mode": "source",
-                "source": false
+                "file": "computer-science/courses/web-dev-for-beginners/readme.pdf"
               },
-              "icon": "lucide-file",
-              "title": "content-courses"
+              "icon": "lucide-file-text",
+              "title": "readme"
             }
           }
         ]
@@ -153,8 +151,11 @@
   },
   "active": "66ffabc9c493a25c",
   "lastOpenFiles": [
-    "().md",
     "computer-science/courses/content-courses.md",
+    "computer-science/courses/web-dev-for-beginners/readme.pdf",
+    "computer-science/courses/web-dev-for-beginners",
+    "computer-science/courses/New folder",
+    "().md",
     "computer-science/docs/c/preprocessor-statements.md",
     "computer-science/docs/python/flask/running.md",
     "computer-science/docs/python/flask/flask-contents.md",
@@ -180,13 +181,11 @@
     "computer-science/docs/javascript/implementation.md",
     "computer-science/docs/javascript/functions.md",
     "computer-science/docs/javascript/output.md",
-    "computer-science/docs/javascript/loops.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
     "computer-science/docs/sql/additional",
     "computer-science/docs/sql/keywords",
-    "computer-science/docs/sql/operations",
     "img/globals-heap-stack-structure.png",
     "img/two-function-pointer-in-memory.png",
     "img/two-function-in-memory.png",
@@ -194,11 +193,9 @@
     "img/strings-in-memory-1.png",
     "img/pointer-in-memory-2.png",
     "img/pointer-in-memory-1.png",
-    "computer-science/docs/basics/memory",
     "img/memory-addresses.png",
     "img/pixel_art.png",
     "img/hash-table-advanced.png",
-    "computer-science/docs/basics/hashing",
     "img/Untitled.canvas",
     "Untitled.canvas"
   ]
