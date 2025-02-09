@@ -1,4 +1,6 @@
-In C, preprocessor directives are commands that are processed **before** compilation. Here’s a complete list of all possible preprocessor directives in C:
+# Preprocessor-statements
+
+In C, preprocessor directives are commands that are processed **before** compilation. Here's a complete list of all possible preprocessor directives in C:
 
 ### **1. Conditional Compilation Directives**
 
@@ -109,7 +111,7 @@ Used to trigger compile-time errors or warnings.
 
 ### **7. Null Directive**
 
-- `#` – A single `#` at the start of a line does nothing; it’s sometimes used for readability.
+- `#` – A single `#` at the start of a line does nothing; it's sometimes used for readability.
 
 ✅ **Example:**
 
