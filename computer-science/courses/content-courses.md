@@ -1,7 +1,5 @@
 # Content-courses
 
-## List
-
 1. [CS50P](content-cs50p.md)
 	- Progress: [Completed](https://cs50.me/cs50p)
 	- Certificate: [PDF](CS50P.pdf)
@@ -15,5 +13,3 @@
 
 4. [Web Dev for Beginners Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 	- Progress: [Not Started]()
-
-## Notes
