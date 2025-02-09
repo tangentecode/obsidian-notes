@@ -1,16 +1,20 @@
+# Wsl
 
 Integrate a **Linux** [shell](bash.md) in **Windows** (Windows Terminal)
 
 ## Installing WSL2
 
 - Install via **Chocolatey**:
+
 ```shell
 choco install wsl2
 ```
 
-## Installing desired **distro**
+> !!Enable required features!!
 
-### Ubuntu, SUSE, Debian, kali ...
+## Installing Desired **distro**
+
+### Ubuntu, SUSE, Debian, Kali …
 
 - Run `wsl --list --online`
 - Install using `wsl.exe --install <Distro>`

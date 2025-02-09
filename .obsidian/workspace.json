@@ -153,6 +153,7 @@
   },
   "active": "b85508ff50173017",
   "lastOpenFiles": [
+    "computer-science/docs/basics/bash.md",
     "computer-science/docs/linux/wsl.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/content-courses.md",
@@ -183,7 +184,6 @@
     "computer-science/docs/javascript/dom",
     "computer-science/docs/javascript/implementation.md",
     "computer-science/docs/javascript/functions.md",
-    "computer-science/docs/javascript/output.md",
     "computer-science/docs/sql/special-commands/Untitled",
     "computer-science/docs/sql/special-commands",
     "computer-science/docs/sql/sqlite",
