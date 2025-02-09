@@ -18,4 +18,4 @@ choco install wsl2
 ### Arch
 
 - Refer to [Arch WSL docs](https://wsldl-pg.github.io/ArchW-docs/How-to-Setup/)
-- OR 
+- OR [Step-by-Step guide](https://www.youtube.com/watch?v=2Gv4l-BXC3E)
