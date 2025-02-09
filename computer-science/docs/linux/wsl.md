@@ -8,4 +8,5 @@ Integrate a **Linux** [shell](bash.md) in **Windows** (Windows Terminal)
 choco install wsl2
 ```
 
-## Installind desired **dist**
+## Installing desired **distro**
+
