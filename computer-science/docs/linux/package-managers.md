@@ -40,4 +40,5 @@ Parameters:
 
 ### Yay or Paru
 
-- **AUR Helper** to install 
+- **AUR Helper** to install unofficial **Packages** 
+- 
