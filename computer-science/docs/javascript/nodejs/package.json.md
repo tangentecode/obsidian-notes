@@ -1,4 +1,4 @@
-
+# package.json
 
 The `package.json` file is a core component of any Node.js project using NPM (Node Package Manager). It stores important project metadata, dependencies, scripts, and configurations.
 
@@ -64,24 +64,35 @@ A typical `package.json` looks like this:
 #### **Dependencies**
 
 - **`dependencies`** – Lists packages needed for production (installed with `npm install`).
-    
-    ```json
+		
+		```json
+
     "dependencies": {
+
       "express": "^4.18.2"
+
     }
+
     ```
-    
-    - `"^4.18.2"` means the package will update within `4.x.x`, but not to `5.x.x`.
+		
+		- `"^4.18.2"` means the package will update within `4.x.x`, but not to `5.x.x`.
+
 - **`devDependencies`** – Lists packages only needed for development.
-    
-    ```json
+		
+		```json
+
     "devDependencies": {
+
       "nodemon": "^2.0.22"
+
     }
+
     ```
-    
-    These are installed with `npm install --save-dev`.
-    
+		
+		These are installed with `npm install --save-dev`.
+		
+
+
 
 #### **Scripts**
 
@@ -112,27 +123,6 @@ Specifies required Node.js versions.
 
 ---
 
-### **4. Managing Dependencies**
-
-- Install a package:
-    
-    ```sh
-    npm install <package-name>
-    ```
-    
-- Install as a development dependency:
-    
-    ```sh
-    npm install <package-name> --save-dev
-    ```
-    
-- Remove a package:
-    
-    ```sh
-    npm uninstall <package-name>
-    ```
-    
-
 ---
 
 ### **5. Lock Files (`package-lock.json`)**
@@ -146,21 +136,27 @@ When you install dependencies, `package-lock.json` is created.
 
 ### **6. Other Useful Fields**
 
-- **`repository`** – Specifies the project’s GitHub repository.
-    
-    ```json
+- **`repository`** – Specifies the project's GitHub repository.
+		
+	```json
+
     "repository": {
+
       "type": "git",
+
       "url": "https://github.com/user/my-project.git"
+
     }
+
     ```
-    
-- **`keywords`** – Helps with package discoverability.
-    
-    ```json
+		
+**`keywords`** – Helps with package discoverability.
+		
+```json
+
     "keywords": ["node", "npm", "package"]
-    ```
-    
+
+ ```
 
 ---
 
