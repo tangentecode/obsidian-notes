@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "creating-elements"
             }
+          },
+          {
+            "id": "e9664258ff4a79ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/javascript/nodejs/sqlite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sqlite"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,12 +166,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "560077c6572a1b10",
+  "active": "e9664258ff4a79ae",
   "lastOpenFiles": [
+    "computer-science/docs/javascript/dom/creating-elements.md",
+    "computer-science/docs/javascript/nodejs/sqlite.md",
     "computer-science/docs/javascript/nodejs/managing-dependencies.md",
     "computer-science/docs/javascript/nodejs/package.json.md",
     "computer-science/docs/javascript/nodejs/common-commands.md",
-    "computer-science/docs/javascript/dom/creating-elements.md",
     "computer-science/docs/javascript/nodejs",
     "computer-science/docs/javascript/dom/accessing-elements.md",
     "computer-science/docs/javascript/dom/event-handling.md",
@@ -182,7 +198,6 @@
     "computer-science/docs/python/flask/handling-forms.md",
     "computer-science/docs/python/flask/file-structure.md",
     "computer-science/docs/html/forms.md",
-    "computer-science/docs/python/flask/html-templates.md",
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/docs/javascript/dom",
     "computer-science/docs/sql/special-commands/Untitled",
