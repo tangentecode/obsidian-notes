@@ -22,16 +22,20 @@ https://www.example.com:8080/docs/page.html?search=hello#section2
 
 - **Protocol (Scheme):** Defines how the browser communicates with the server.
 		
-		- Examples: `http://`, `https://`, `ftp://`
-		- `https://` is the secure version of HTTP (encrypted with SSL/TLS).
+	- Examples: `http://`, `https://`, `ftp://`
+	- `https://` is the secure version of HTTP (encrypted with SSL/TLS).
+
 - **Domain (Host):** The name of the website or server.
 		
-		- Example: `www.example.com`
-		- Can also be an IP address like `192.168.1.1`.
+	- Example: `www.example.com`
+	- Can also be an IP address like `192.168.1.1`.
+
+
 - **Port (Optional):** Specifies which port the server listens to.
 		
-		- Default ports: `80` for HTTP, `443` for HTTPS
-		- Example: `:8080`
+	- Default ports: `80` for HTTP, `443` for HTTPS
+	- Example: `:8080`
+
 - **Path:** Specifies the location of a resource on the server.
 		
 		- Example: `/docs/page.html`
