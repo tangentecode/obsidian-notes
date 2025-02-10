@@ -4,7 +4,7 @@ The `package.json` file is a core component of any Node.js project using NPM (No
 
 ---
 
-### **1. Creating a `package.json`**
+### **Creating A `package.json`**
 
 To generate a `package.json` file, run:
 
@@ -22,7 +22,7 @@ This creates a default `package.json` file without prompts.
 
 ---
 
-### **2. Key Sections in `package.json`**
+### Key Sections in `package.json`**
 
 A typical `package.json` looks like this:
 
