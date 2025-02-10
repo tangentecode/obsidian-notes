@@ -32,8 +32,7 @@ db.all(`SELECT * FROM users`, [], (_, rows) => { console.log(rows); });
 db.close()
 ```
 
-
-## With error checking
+## With Error Checking
 
 ```javascript
 const sqlite3 = require('sqlite3').verbose();
