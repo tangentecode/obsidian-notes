@@ -46,24 +46,26 @@ Parameters:
 > **ATTENTION:** These user-made dont have any checks for viruses or just bad code
 
 ```shell 
-pacman -S _package_name1_ _package_name2_ ...
+yay -S _package_name1_ _package_name2_ ...
 ```
 
 - sync and install packages to avoid **dependency conflicts** like this:
 
 ```shell
-pacman -Sy _package_name1_ _package_name2_ ...
+yay -Sy _package_name1_ _package_name2_ ...
 ```
 
 - remove packages 
 
 ```shell
-pacman -R _package_name1_ _package_name2_ ...
+yay -R _package_name1_ _package_name2_ ...
 ```
 
 - update all packages
 
 ```shell
-pacman -Syu
+yay -Syu
 ```
+
+> Dont requires `sudo` previeliges
 
