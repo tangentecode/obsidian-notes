@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/http/http-vs-https.md",
+                "file": "computer-science/docs/basics/sorting/bubble-sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "http-vs-https"
+              "title": "bubble-sort"
             }
           }
         ]
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/basics/http/http-vs-https.md",
+            "file": "computer-science/docs/basics/sorting/bubble-sort.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,9 +166,9 @@
   },
   "active": "f341a3c9a96fa35e",
   "lastOpenFiles": [
-    "computer-science/docs/basics/http/GET-POST.md",
-    "computer-science/docs/basics/http/http-vs-https.md",
     "computer-science/docs/basics/http.md",
+    "computer-science/docs/basics/http/http-vs-https.md",
+    "computer-science/docs/basics/http/GET-POST.md",
     "computer-science/docs/basics/http/client-server.md",
     "computer-science/docs/javascript/nodejs/common-commands.md",
     "computer-science/docs/basics/http/http-server-command.md",
