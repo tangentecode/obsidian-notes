@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/http.md",
+                "file": "computer-science/docs/basics/http/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "http"
+              "title": "Untitled"
             }
           }
         ]
@@ -166,6 +166,9 @@
   },
   "active": "f341a3c9a96fa35e",
   "lastOpenFiles": [
+    "computer-science/docs/basics/http.md",
+    "computer-science/docs/basics/http/Untitled.md",
+    "computer-science/docs/basics/http/status-code.md",
     "computer-science/docs/javascript/nodejs/common-commands.md",
     "computer-science/docs/basics/http",
     "computer-science/docs/javascript/nodejs/managing-dependencies.md",
@@ -176,7 +179,6 @@
     "computer-science/docs/css/devtools.md",
     "computer-science/docs/c/comments.md",
     "computer-science/docs/javascript/output.md",
-    "computer-science/docs/basics/http.md",
     "computer-science/docs/javascript/functions.md",
     "computer-science/docs/javascript/libraries.md",
     "computer-science/docs/c/random.md",
@@ -192,8 +194,6 @@
     "computer-science/docs/javascript/conditionals.md",
     "computer-science/docs/javascript/dom/changing-styles.md",
     "computer-science/docs/javascript/dom/creating-elements.md",
-    "computer-science/docs/javascript/loops.md",
-    "/computer-science/docs/javascript/conditionals.md",
     "/computer-science/docs/javascript/dom",
     "img/linkes-list-advanced.png",
     "img/globals-heap-stack-structure.png",
