@@ -182,8 +182,9 @@
   },
   "active": "867fa8d440858a16",
   "lastOpenFiles": [
-    "computer-science/docs/javascript/nodejs/managing-dependencies.md",
+    "computer-science/docs/javascript/nodejs/common-commands.md",
     "computer-science/docs/javascript/nodejs/package.json.md",
+    "computer-science/docs/javascript/nodejs/managing-dependencies.md",
     "computer-science/docs/javascript/dom/creating-elements.md",
     "computer-science/docs/javascript/nodejs",
     "computer-science/docs/javascript/dom/accessing-elements.md",
@@ -211,7 +212,6 @@
     "computer-science/docs/python/flask/file-structure.md",
     "computer-science/docs/html/forms.md",
     "computer-science/docs/python/flask/html-templates.md",
-    "computer-science/docs/python/flask/advanced.md",
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/docs/javascript/dom",
     "computer-science/docs/sql/special-commands/Untitled",

@@ -67,13 +67,13 @@ A typical `package.json` looks like this:
 		
 		```json
 
-    "dependencies": {
+		"dependencies": {
 
-      "express": "^4.18.2"
+	    "express": "^4.18.2"
 
-    }
+		}
 
-    ```
+		```c
 		
 		- `"^4.18.2"` means the package will update within `4.x.x`, but not to `5.x.x`.
 
@@ -81,18 +81,16 @@ A typical `package.json` looks like this:
 		
 		```json
 
-    "devDependencies": {
+		"devDependencies": {
 
-      "nodemon": "^2.0.22"
+	    "nodemon": "^2.0.22"
 
-    }
+		}
 
-    ```
+		```c
 		
 		These are installed with `npm install --save-dev`.
 		
-
-
 
 #### **Scripts**
 
@@ -133,46 +131,3 @@ When you install dependencies, `package-lock.json` is created.
 - Should be committed to version control (e.g., Git).
 
 ---
-
-### **6. Other Useful Fields**
-
-- **`repository`** – Specifies the project's GitHub repository.
-		
-	```json
-
-    "repository": {
-
-      "type": "git",
-
-      "url": "https://github.com/user/my-project.git"
-
-    }
-
-    ```
-		
-**`keywords`** – Helps with package discoverability.
-		
-```json
-
-    "keywords": ["node", "npm", "package"]
-
- ```
-
----
-
-### **7. Common Commands**
-
-|Command|Description|
-|---|---|
-|`npm init`|Creates a `package.json` file interactively|
-|`npm init -y`|Generates a `package.json` with default values|
-|`npm install`|Installs all dependencies from `package.json`|
-|`npm install <package>`|Installs a package and adds it to `dependencies`|
-|`npm install <package> --save-dev`|Installs as a development dependency|
-|`npm uninstall <package>`|Removes a package|
-|`npm update`|Updates all installed dependencies|
-|`npm run <script>`|Runs a script from `scripts`|
-
----
-
-This guide covers the essentials of `package.json`. Let me know if you need more details! 🚀
