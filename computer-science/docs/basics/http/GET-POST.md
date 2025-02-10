@@ -1,3 +1,4 @@
+# GET-POST
 
 ### **Key Characteristics of GET**
 
@@ -12,11 +13,9 @@
 ✅ **Sends Data in the Request Body** (not in the URL)  
 ✅ **Creates or Updates Resources** on the server  
 ✅ **Non-Idempotent** (multiple identical requests create multiple entries)  
-✅ **More Secure than GET** (data isn’t logged in URLs or browser history)
+✅ **More Secure than GET** (data isn't logged in URLs or browser history)
 
-
-
-### **POST vs. GET**
+### **POST Vs. GET**
 
 |Feature|POST|GET|
 |---|---|---|
