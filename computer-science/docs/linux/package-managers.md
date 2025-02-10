@@ -40,5 +40,5 @@ Parameters:
 
 ### Yay or Paru
 
-- **AUR Helper** to install unofficial **Packages** 
-- 
+- **AUR Helper** to install unofficial user-made **Packages** 
+- **BUT** they can also install official **Arch**
