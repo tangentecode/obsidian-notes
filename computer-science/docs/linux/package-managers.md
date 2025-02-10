@@ -68,4 +68,3 @@ yay -Syu
 ```
 
 > Dont requires `sudo` previeliges
-
