@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/url.md",
+                "file": "computer-science/docs/linux/package-managers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "url"
+              "title": "package-managers"
             }
           }
         ]
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/basics/url.md",
+            "file": "computer-science/docs/linux/package-managers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,6 +166,8 @@
   },
   "active": "f341a3c9a96fa35e",
   "lastOpenFiles": [
+    "computer-science/docs/javascript/nodejs/express.md",
+    "computer-science/docs/basics/url.md",
     "computer-science/docs/basics/running-time.md",
     "computer-science/docs/basics/rgb.md",
     "computer-science/docs/basics/http/http-vs-https.md",
@@ -191,8 +193,6 @@
     "computer-science/docs/c/random.md",
     "computer-science/docs/css/hover.md",
     "computer-science/docs/html/forms.md",
-    "computer-science/docs/javascript/dom/changing-elements.md",
-    "computer-science/docs/javascript/dom/event-handling.md",
     "computer-science/docs/javascript/dom",
     "/computer-science/docs/javascript/dom",
     "img/linkes-list-advanced.png",

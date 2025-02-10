@@ -40,4 +40,4 @@ Parameters:
 
 ### Yay or Paru
 
--simplifies 
+- **AUR Helper** to install 

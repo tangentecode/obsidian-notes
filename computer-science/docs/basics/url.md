@@ -8,13 +8,13 @@ A **URL (Uniform Resource Locator)** is the address used to access resources on 
 
 A standard URL follows this format:
 
-```
+```c
 protocol://domain:port/path?query#fragment
 ```
 
 Example:
 
-```
+```c
 https://www.example.com:8080/docs/page.html?search=hello#section2
 ```
 
@@ -29,7 +29,6 @@ https://www.example.com:8080/docs/page.html?search=hello#section2
 		
 	- Example: `www.example.com`
 	- Can also be an IP address like `192.168.1.1`.
-
 
 - **Port (Optional):** Specifies which port the server listens to.
 		
