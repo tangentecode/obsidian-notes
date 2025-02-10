@@ -1,6 +1,12 @@
 
 
+### **Key Characteristics of GET**
 
+✅ **Retrieves Data** from the server  
+✅ **Uses URL Parameters** (query strings)  
+✅ **Safe and Idempotent** (multiple identical requests have the same effect)  
+✅ **Can Be Cached** by browsers and proxies  
+✅ **Less Secure** because parameters appear in the URL
 
 ### **POST vs. GET**
 
