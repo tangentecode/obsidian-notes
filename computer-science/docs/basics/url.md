@@ -8,13 +8,13 @@ A **URL (Uniform Resource Locator)** is the address used to access resources on 
 
 A standard URL follows this format:
 
-```c
+```
 protocol://domain:port/path?query#fragment
 ```
 
 Example:
 
-```c
+```
 https://www.example.com:8080/docs/page.html?search=hello#section2
 ```
 
@@ -38,14 +38,15 @@ https://www.example.com:8080/docs/page.html?search=hello#section2
 
 - **Path:** Specifies the location of a resource on the server.
 		
-		- Example: `/docs/page.html`
+	- Example: `/docs/page.html`
+
 - **Query String (Optional):** Contains parameters for dynamic content, separated by `?`.
 		
-		- Example: `?search=hello&page=2`
-		- Multiple parameters are separated with `&`.
-- **Fragment (Optional):** Points to a specific section within a page, using `#`.
-		
-		- Example: `#section2`
+	- Example: `?search=hello&page=2`
+	- Multiple parameters are separated with `&`.
+
+- **Fragment (Optional):** Points to a specific section within a page, using `#`.		
+	- Example: `#section2`
 
 #### **3. Special Types of URLs**
 
