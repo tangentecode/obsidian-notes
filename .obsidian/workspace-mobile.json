@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/javascript/nodejs/common-commands.md",
+                "file": "computer-science/docs/basics/http.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "common-commands"
+              "title": "http"
             }
           }
         ]
@@ -166,6 +166,8 @@
   },
   "active": "f341a3c9a96fa35e",
   "lastOpenFiles": [
+    "computer-science/docs/javascript/nodejs/common-commands.md",
+    "computer-science/docs/basics/http",
     "computer-science/docs/javascript/nodejs/managing-dependencies.md",
     "computer-science/docs/javascript/nodejs/package.json.md",
     "computer-science/docs/javascript/nodejs/sqlite.md",
@@ -192,7 +194,6 @@
     "computer-science/docs/javascript/dom/creating-elements.md",
     "computer-science/docs/javascript/loops.md",
     "/computer-science/docs/javascript/conditionals.md",
-    "/computer-science/docs/c/conditionals.md",
     "/computer-science/docs/javascript/dom",
     "img/linkes-list-advanced.png",
     "img/globals-heap-stack-structure.png",
@@ -210,7 +211,6 @@
     "computer-science/docs/linux",
     "/computer-science/docs/sorting",
     "/computer-science/docs/searching",
-    "/computer-science/docs/linux",
-    "/computer-science/docs/data-structures"
+    "/computer-science/docs/linux"
   ]
 }
