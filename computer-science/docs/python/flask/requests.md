@@ -1,6 +1,7 @@
 
 - Request data from the client
 - Import `request`
+
 ```python
 from flask import Flask, render_template, request
 
