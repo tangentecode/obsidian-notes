@@ -5,4 +5,8 @@
 - **HTTP/1.1**: To mitigate the flaws of HTTP/1.0, pipelining was implemented which allowed **multiple HTTP request-response exchanges over a single TCP connection**
 
 - **HTTP/2** goes a step further by multiplexing messages within frames over a single open TCP connection
-    - HTTP/2 messages a not human-readable and are embedded into frames which allows optimizations like compressions of HTTP headers and multiplexing.
+    - **HTTP/2 messages a not human-readable** and are embedded into frames which allows optimizations like compressions of HTTP headers and multiplexing.
+
+
+> Part of [this Arcticle](https://hackernoon.com/the-essential-guide-to-http)
+
