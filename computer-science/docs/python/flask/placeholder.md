@@ -29,3 +29,10 @@ def index():
 	name1 = "Bob"
 	return render_template("index.html", name=name1) # Placeholder 'name' equals the variable 'name1'
 ```
+
+- Retrieve value
+```python
+from flask import Flask, render_template, request
+
+app = 
+```
