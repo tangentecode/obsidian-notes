@@ -6,7 +6,7 @@
 4. [http-process](http-process.PNG)
 5. [http-server-command](http-server-command.md)
 6. [http-vs-https](http-vs-https.md)
-7. [methods](methods.md)
+7. [methods](computer-science/docs/basics/http/methods.md)
 8. [dns](dns.md)
 9. [history](history.md)
 10. [status-code](status-code.md)

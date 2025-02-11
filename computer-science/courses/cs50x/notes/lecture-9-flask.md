@@ -102,7 +102,7 @@ def user(name):
 
 - **Learn Flask Extensions**:
 
-	-  Flask-SQLAlchemy (database integration)
+	- Flask-SQLAlchemy (database integration)
 	- Flask-WTF (form handling)
 	- Flask-Login (user authentication)
 

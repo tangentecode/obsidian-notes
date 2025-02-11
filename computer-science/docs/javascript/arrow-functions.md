@@ -1,3 +1,5 @@
+# Arrow-functions
+
 ## Syntax
 
 ```javascript
@@ -13,4 +15,3 @@ console.log(add(2, 3));
 - Often these are **constants**
 - **Parameters** are specified after the `=` sign and before the `=>`
 - If there are multiple parameters use parenthesis
-
