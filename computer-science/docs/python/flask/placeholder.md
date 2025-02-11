@@ -41,3 +41,5 @@ def index():
 	name = request.args.get("name")
 	return render_template()
 ```
+
+> How to use [`.get()`](computer-science/docs/python/dictionaries.md)
