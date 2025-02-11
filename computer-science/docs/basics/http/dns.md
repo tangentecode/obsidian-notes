@@ -1,0 +1,1 @@
+> This process of DNS Lookup only occurs when the HTTP request is made.
