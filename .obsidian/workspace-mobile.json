@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/http/http-messages.md",
+                "file": "computer-science/docs/basics/running-time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "http-messages"
+              "title": "running-time"
             }
           }
         ]
@@ -164,10 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e26d13348b0ffe64",
+  "active": "ab3a2c172c89a8ae",
   "lastOpenFiles": [
-    "computer-science/docs/basics/http/http-vs-https.md",
+    "computer-science/docs/python/conditionals.md",
+    "computer-science/docs/basics/data-structures/hash-tables.md",
     "computer-science/docs/basics/http/http-messages.md",
+    "computer-science/docs/basics/http/http-vs-https.md",
     "img/http-response.jpg.png",
     "img/pixel_art.png",
     "img/pointer-in-memory-2.png",
@@ -201,7 +203,6 @@
     "computer-science/docs/basics/http",
     "computer-science/docs/javascript/nodejs/managing-dependencies.md",
     "computer-science/docs/javascript/nodejs/package.json.md",
-    "computer-science/docs/javascript/nodejs/sqlite.md",
     "computer-science/docs/javascript/dom",
     "/computer-science/docs/javascript/dom",
     "computer-science/docs/data-structures",
