@@ -1,6 +1,6 @@
 
 - Define a **placeholder** in your [HTML](contents-html.md) code:
-```htm
+```html
 <!DOCTYPE html>
 
 <html lang="en">
@@ -17,3 +17,4 @@
 </html>
   
 ```
+
