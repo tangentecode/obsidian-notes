@@ -1,3 +1,4 @@
+# Requests
 
 - Request data from the client
 - Import `request`
@@ -14,4 +15,3 @@ def index():
         return render_template("greet.html", name=request.form.get("name", "world"))
     return render_template("index.html")
 ```
-
