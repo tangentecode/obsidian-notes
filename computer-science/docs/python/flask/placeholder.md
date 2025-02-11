@@ -18,3 +18,4 @@
   
 ```
 
+- Set the value for the placeholder
