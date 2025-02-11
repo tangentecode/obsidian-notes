@@ -153,8 +153,9 @@
   },
   "active": "007a97109725b1ea",
   "lastOpenFiles": [
-    "computer-science/docs/python/flask/templates.md",
+    "computer-science/docs/basics/http/contents-http.md",
     "computer-science/docs/python/flask/methods.md",
+    "computer-science/docs/python/flask/templates.md",
     "computer-science/docs/python/flask/placeholder.md",
     "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
@@ -181,7 +182,6 @@
     "computer-science/docs/basics/http/http-messages.md",
     "computer-science/docs/basics/http/history.md",
     "computer-science/docs/basics/http/dns.md",
-    "computer-science/docs/basics/http/contents-http.md",
     "computer-science/docs/basics/http/status-code.md",
     "computer-science/docs/basics/http/http-vs-https.md",
     "computer-science/docs/basics/http/GET-POST.md",
