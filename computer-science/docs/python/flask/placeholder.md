@@ -26,5 +26,6 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-	name = "Bob"
+	name1 = "Bob"
+	return render_template("index.html", name=name1) # Placeholder 'name' equals the variable 'name1'
 ```
