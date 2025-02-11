@@ -11,7 +11,7 @@ There are two types of HTTP messages:
 
 The request message consists of the following:
 
-- The HTTP  these methods are usually a verb like 'GET' or 'POST' that defines the operation applied by the client to the resource, in this case, the HTTP method is GET note HTTP methods are case sensitive.
+- The [HTTP request methods](methods.md) are usually a verb like 'GET' or 'POST' that defines the operation applied by the client to the resource, in this case, the HTTP method is GET note HTTP methods are case sensitive.
 - The Request-URI: identifies the resource upon which the HTTP method is applied. The exact resource is determined using the Request-URI and the Host header field
 - The HTTP protocol version: In this case the version is HTTP/1.1
 - Request headers: Conveys additional information about the request and about the client itself to the servers, in this case, we have the following request headers;
