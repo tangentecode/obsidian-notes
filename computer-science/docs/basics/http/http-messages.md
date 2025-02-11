@@ -7,11 +7,7 @@ There are two types of HTTP messages:
 
 ### HTTP Request Message
 
-[](https://hackernoon.imgix.net/images/ckt-9-ophwz-00150-as-695-l-3-fk-7-y.jpg "Download image")
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27800%27%20height=%27243.95397489539747%27/%3e)![Fig5](https://hackernoon.imgix.net/images/ckt-9-ophwz-00150-as-695-l-3-fk-7-y.jpg?w=800&q=75&auto=format)
-
-Fig5
+[](
 
 The request message consists of the following:
 
