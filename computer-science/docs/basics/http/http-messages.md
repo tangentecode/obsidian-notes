@@ -12,5 +12,3 @@ There are two types of HTTP messages:
 ### HTTP Response Message
 
 ![](Pasted%20image%2020250211083008.png)
-
-
