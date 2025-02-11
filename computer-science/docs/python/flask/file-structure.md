@@ -11,7 +11,7 @@ my_flask_app/
 │   └── form.html
 ├── static/           # Static files (CSS, JS, images)
 │   └── style.css
-├── requirements.txt  # Externa   
+├── requirements.txt  # Third-party libraries used   
 │ 
 ```
 
