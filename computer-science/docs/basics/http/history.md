@@ -2,7 +2,7 @@
 
 ## 📜 History of HTTP
 
-- **HTTP/1.0**: It was the original HTTP. It **opened a new TCP connection for each HTTP** **request-response** exchange, this approach is less efficient when multiple requests are sent in succession, hence the need to address this flaw in later versions
+- **HTTP/1.0**: It was the original HTTP. It **opened a new TCP connection for each HTTP** **[request-response](process.md)** exchange, this approach is less efficient when multiple requests are sent in succession, hence the need to address this flaw in later versions
 
 - **HTTP/1.1**: To mitigate the flaws of HTTP/1.0, pipelining was implemented which allowed **multiple HTTP request-response exchanges over a single TCP connection**
 
