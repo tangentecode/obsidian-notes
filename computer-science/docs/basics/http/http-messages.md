@@ -20,12 +20,6 @@ The request message consists of the following:
 
 ### HTTP Response Message
 
-[](https://hackernoon.imgix.net/images/ckt-9-ophx-000160-as-688-ub-7-ii-0.jpg "Download image")
-
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27800%27%20height=%27269.65517241379314%27/%3e)![Fig6](https://hackernoon.imgix.net/images/ckt-9-ophx-000160-as-688-ub-7-ii-0.jpg?w=800&q=75&auto=format)
-
-Fig6
-
 The response message consists of the following:
 
   
