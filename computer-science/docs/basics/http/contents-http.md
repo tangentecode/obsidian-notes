@@ -7,4 +7,4 @@
 7. [methods](methods.md)
 8. [dns](dns.md)
 9. [history](history.md)
-10. [[]]
+10. [status-code](status-code.md)
