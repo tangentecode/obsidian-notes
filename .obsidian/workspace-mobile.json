@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/http/dns.md",
+                "file": "computer-science/docs/basics/http/http-messages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dns"
+              "title": "http-messages"
             }
           }
         ]
@@ -166,12 +166,13 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "computer-science/docs/basics/http/dns.md",
+    "computer-science/docs/basics/http/http-messages.md",
     "Pasted image 20250211081743.png",
     "Pasted image 20250211081740.png",
     "img/url-after-dns.jpg.png",
     "img/url.jpg.png",
     "computer-science/docs/basics/http/url.md",
-    "computer-science/docs/basics/http/dns.md",
     "computer-science/docs/basics/http/process.md",
     "img/http-process.PNG",
     "computer-science/docs/basics/http/history.md",
@@ -204,7 +205,6 @@
     "img/globals-heap-stack-structure.png",
     "img/hash-algorithms-collisions.png",
     "img/algorithm-time.png",
-    "img/yellow-rgb.png",
     "computer-science/docs/data-structures",
     "computer-science/docs/searching",
     "computer-science/docs/sorting",
