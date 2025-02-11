@@ -6,12 +6,9 @@ There are two types of HTTP messages:
 - **HTTP Response** messages sent from the server to the client each of these messages has a format in which they are generated
 
 ### HTTP Request Message
-
-[](
-
+![](Pasted%20image%2020250211082903.png)
 The request message consists of the following:
 
-  
 
 - The HTTP method: these methods are usually a verb like 'GET' or 'POST' that defines the operation applied by the client to the resource, in this case, the HTTP method is GET note HTTP methods are case sensitive.
 - The Request-URI: identifies the resource upon which the HTTP method is applied. The exact resource is determined using the Request-URI and the Host header field
