@@ -10,4 +10,17 @@ def greet():
 
 
 - Define one [route](routes.md) with multiple methods by changing the accordingly in the HTML code
-- For example set the method of [form](forms.md) to 
+- For example set the method of [form](forms.md) to POST:
+- `index.html`
+```
+{% extends "layout.html" %}
+
+{% block body %}
+
+    <form action="/" method="post">
+        <input autocomplete="off" autofocus name="name" placeholder="Name" type="text">
+        <button type="submit">Greet</button>
+    </form>
+
+{% endblock %}
+```
