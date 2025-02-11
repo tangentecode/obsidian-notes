@@ -11,12 +11,14 @@
             "id": "e26d13348b0ffe64",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/http-response.jpg.png"
+                "file": "computer-science/docs/basics/http/http-messages.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "http-response.jpg"
+              "icon": "lucide-file",
+              "title": "http-messages"
             }
           }
         ]
@@ -164,6 +166,9 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "computer-science/docs/basics/http/http-vs-https.md",
+    "computer-science/docs/basics/http/http-messages.md",
+    "img/http-response.jpg.png",
     "img/pixel_art.png",
     "img/pointer-in-memory-2.png",
     "img/string-decimal.png",
@@ -173,15 +178,12 @@
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/basics/hashing/hashing.md",
     "computer-science/docs/basics/http/contents-http.md",
-    "computer-science/docs/basics/http/http-messages.md",
     "computer-science/docs/basics/http/methods.md",
     "method.md",
     "Pasted image 20250211083008.png",
-    "img/http-response.jpg.png",
     "Pasted image 20250211082903.png",
     "img/http-request.png",
     "computer-science/docs/basics/http/dns.md",
-    "Pasted image 20250211081743.png",
     "computer-science/docs/basics/http/url.md",
     "computer-science/docs/basics/http/process.md",
     "computer-science/docs/basics/http/history.md",
@@ -189,7 +191,6 @@
     "computer-science/docs/linux/package-managers.md",
     "computer-science/docs/basics/running-time.md",
     "computer-science/docs/basics/rgb.md",
-    "computer-science/docs/basics/http/http-vs-https.md",
     "computer-science/docs/basics/sorting/bubble-sort.md",
     "computer-science/docs/basics/sorting/merge-sort.md",
     "computer-science/docs/basics/http.md",
