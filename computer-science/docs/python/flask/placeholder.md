@@ -1,5 +1,7 @@
+# Placeholder
 
 - Define a **placeholder** in your [HTML](contents-html.md) code:
+
 ```html
 <!DOCTYPE html>
 
@@ -19,6 +21,7 @@
 ```
 
 - Set the value for the placeholder
+
 ```python
 from flask import Flask, render_template, request
 
@@ -31,6 +34,7 @@ def index():
 ```
 
 - Retrieve value
+
 ```python
 from flask import Flask, render_template, request
 
@@ -38,8 +42,8 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-	name = request.args.get("name")
-	return render_template()
+	name =
+	return render_template("index.html", name=request.args.get("name"))
 ```
 
 > How to use [`.get()`](computer-science/docs/python/dictionaries.md)

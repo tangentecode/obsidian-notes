@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/placeholder.md",
+                "file": "computer-science/docs/python/flask/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "placeholder"
+              "title": "Untitled"
             }
           }
         ]
@@ -154,6 +154,7 @@
   "active": "007a97109725b1ea",
   "lastOpenFiles": [
     "computer-science/docs/python/flask/placeholder.md",
+    "computer-science/docs/python/flask/Untitled.md",
     "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
@@ -189,7 +190,6 @@
     "computer-science/docs/sql/sqlite/contents-sqlite.md",
     "computer-science/docs/sql/sqlite/connecting-to-database.md",
     "computer-science/docs/sql/sqlite/setup.md",
-    "computer-science/docs/sql/sqlite/general.md",
     "computer-science/docs/javascript/nodejs",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/web-dev-for-beginners",
