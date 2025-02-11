@@ -166,9 +166,9 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
-    "img/http-process.PNG",
     "computer-science/docs/basics/http/history.md",
     "computer-science/docs/basics/http/process.md",
+    "img/http-process.PNG",
     "computer-science/docs/javascript/nodejs/express.md",
     "computer-science/docs/linux/package-managers.md",
     "computer-science/docs/basics/url.md",
@@ -204,7 +204,6 @@
     "img/pointer-in-memory-1.png",
     "img/linked-list-head.png",
     "img/linear-search.png",
-    "img/big-o-notation.png",
     "computer-science/docs/data-structures",
     "computer-science/docs/searching",
     "computer-science/docs/sorting",
