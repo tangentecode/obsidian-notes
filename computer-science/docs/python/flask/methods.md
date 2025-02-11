@@ -12,7 +12,7 @@ def greet():
 - Define one [route](routes.md) with multiple methods by changing the accordingly in the HTML code
 - For example set the method of [form](forms.md) to POST:
 - `index.html`
-```
+```html
 {% extends "layout.html" %}
 
 {% block body %}
@@ -23,4 +23,18 @@ def greet():
     </form>
 
 {% endblock %}
+```
+
+- `app.py`
+```python
+from flask import Flask, render_template, request
+
+app = Flask(__name__)
+
+
+@app.route("/", methods=["GET", "POST"])
+def index():
+    if request.method == "POST":
+        return render_template("greet.html", name=request.form.get("name"))
+    return render_template("index.html")
 ```
