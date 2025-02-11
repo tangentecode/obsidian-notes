@@ -11,14 +11,12 @@
             "id": "e26d13348b0ffe64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "computer-science/docs/basics/hashing/hashing.md",
-                "mode": "source",
-                "source": false
+                "file": "img/http-response.jpg.png"
               },
-              "icon": "lucide-file",
-              "title": "hashing"
+              "icon": "lucide-image",
+              "title": "http-response.jpg"
             }
           }
         ]
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/basics/hashing/hashing.md",
+            "file": "img/http-response.jpg.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,6 +164,12 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "img/pixel_art.png",
+    "img/pointer-in-memory-2.png",
+    "img/string-decimal.png",
+    "img/strings-in-memory-1.png",
+    "img/two-function-pointer-in-memory.png",
+    "img/url-after-dns.jpg.png",
     "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/basics/hashing/hashing.md",
     "computer-science/docs/basics/http/contents-http.md",
@@ -178,14 +182,9 @@
     "img/http-request.png",
     "computer-science/docs/basics/http/dns.md",
     "Pasted image 20250211081743.png",
-    "Pasted image 20250211081740.png",
-    "img/url-after-dns.jpg.png",
-    "img/url.jpg.png",
     "computer-science/docs/basics/http/url.md",
     "computer-science/docs/basics/http/process.md",
-    "img/http-process.PNG",
     "computer-science/docs/basics/http/history.md",
-    "Pasted image 20250211081105.png",
     "computer-science/docs/javascript/nodejs/express.md",
     "computer-science/docs/linux/package-managers.md",
     "computer-science/docs/basics/running-time.md",
@@ -202,7 +201,6 @@
     "computer-science/docs/javascript/nodejs/managing-dependencies.md",
     "computer-science/docs/javascript/nodejs/package.json.md",
     "computer-science/docs/javascript/nodejs/sqlite.md",
-    "schule/Latein/Vokabel Test.md",
     "computer-science/docs/javascript/dom",
     "/computer-science/docs/javascript/dom",
     "computer-science/docs/data-structures",
