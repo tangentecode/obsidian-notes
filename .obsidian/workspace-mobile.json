@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/http/contents-http.md",
+                "file": "computer-science/docs/basics/hashing/hashing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-http"
+              "title": "hashing"
             }
           }
         ]
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/basics/http/contents-http.md",
+            "file": "computer-science/docs/basics/hashing/hashing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -166,8 +166,10 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
-    "computer-science/docs/basics/http/http-messages.md",
+    "computer-science/docs/basics/contents-basic.md",
+    "computer-science/docs/basics/hashing/hashing.md",
     "computer-science/docs/basics/http/contents-http.md",
+    "computer-science/docs/basics/http/http-messages.md",
     "computer-science/docs/basics/http/methods.md",
     "method.md",
     "Pasted image 20250211083008.png",
@@ -201,8 +203,6 @@
     "computer-science/docs/javascript/nodejs/package.json.md",
     "computer-science/docs/javascript/nodejs/sqlite.md",
     "schule/Latein/Vokabel Test.md",
-    "computer-science/docs/javascript/input.md",
-    "computer-science/docs/css/devtools.md",
     "computer-science/docs/javascript/dom",
     "/computer-science/docs/javascript/dom",
     "computer-science/docs/data-structures",
