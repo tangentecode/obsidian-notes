@@ -11,7 +11,8 @@ my_flask_app/
 │   └── form.html
 ├── static/           # Static files (CSS, JS, images)
 │   └── style.css
-
+├── requirements.txt  # Externa   
+│ 
 ```
 
 the only required to run a **Flask** web app is the main **Python** file
