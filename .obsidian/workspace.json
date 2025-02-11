@@ -11,10 +11,14 @@
             "id": "43de86dfe91d3c8a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/courses/cs50x/notes/lecture-9-flask.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "lecture-9-flask"
             }
           }
         ]
@@ -149,6 +153,10 @@
   },
   "active": "43de86dfe91d3c8a",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
+    "computer-science/courses/cs50x/notes/lecture-9-flask.md",
+    "computer-science/courses/cs50x/notes/lecture-8-html-css-javascript.md",
+    "computer-science/courses/cs50x/notes/lecture-7-sql.md",
     "computer-science/docs/javascript/nodejs/sqlite.md",
     "computer-science/docs/javascript/arrow-functions.md",
     "method.md",
@@ -182,11 +190,7 @@
     "computer-science/docs/sql/sqlite/general.md",
     "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/docs/javascript/dom/creating-elements.md",
-    "computer-science/docs/javascript/nodejs/managing-dependencies.md",
-    "computer-science/docs/javascript/nodejs/package.json.md",
-    "computer-science/docs/javascript/nodejs/common-commands.md",
     "computer-science/docs/javascript/nodejs",
-    "computer-science/docs/javascript/dom/accessing-elements.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/web-dev-for-beginners",
     "computer-science/courses/New folder",
