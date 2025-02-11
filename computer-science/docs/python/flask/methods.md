@@ -9,4 +9,5 @@ def greet():
 ```
 
 
-- Define one [[rout]]
+- Define one [route](routes.md) with multiple methods by changing the accordingly in the HTML code
+- For example set the method of [form](forms.md) to 
