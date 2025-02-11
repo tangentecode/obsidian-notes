@@ -4,12 +4,15 @@
 ```python
 from flask import Flask, redirect
 
+app = Flask(__name__)
+
 @app.route("/")
 def index():
 	return redirect("/greet")
 
 @app.route("/greet")
-def gree
+def greet():
+	return "You have been redirected"
 ```
 
 > `redirect()` needs to be imported
