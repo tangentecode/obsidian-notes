@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/running-time.md",
+                "file": "computer-science/docs/python/conditionals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "running-time"
+              "title": "conditionals"
             }
           }
         ]
@@ -85,14 +85,14 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "computer-science/docs/basics/running-time.md",
+            "file": "computer-science/docs/python/conditionals.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
             "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+            "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
           "title": "Backlinks"
@@ -104,6 +104,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "computer-science/docs/python/conditionals.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -116,43 +117,15 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "computer-science/docs/python/conditionals.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "5392aaea7c4695cf",
-        "type": "leaf",
-        "state": {
-          "type": "map-of-content",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "e0e01821a7d21d7f",
-        "type": "leaf",
-        "state": {
-          "type": "map-of-content",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "223507b280e2e0ca",
-        "type": "leaf",
-        "state": {
-          "type": "map-of-content",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,8 +137,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab3a2c172c89a8ae",
+  "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "computer-science/docs/basics/running-time.md",
+    "img/Pasted image 20250211081105.png",
+    "img/Pasted image 20250211081743.png",
     "computer-science/docs/python/conditionals.md",
     "computer-science/docs/basics/data-structures/hash-tables.md",
     "computer-science/docs/basics/http/http-messages.md",
@@ -182,16 +158,13 @@
     "computer-science/docs/basics/http/contents-http.md",
     "computer-science/docs/basics/http/methods.md",
     "method.md",
-    "Pasted image 20250211083008.png",
-    "Pasted image 20250211082903.png",
-    "img/http-request.png",
+    "img/Pasted image 20250211083008.png",
     "computer-science/docs/basics/http/dns.md",
     "computer-science/docs/basics/http/url.md",
     "computer-science/docs/basics/http/process.md",
     "computer-science/docs/basics/http/history.md",
     "computer-science/docs/javascript/nodejs/express.md",
     "computer-science/docs/linux/package-managers.md",
-    "computer-science/docs/basics/running-time.md",
     "computer-science/docs/basics/rgb.md",
     "computer-science/docs/basics/sorting/bubble-sort.md",
     "computer-science/docs/basics/sorting/merge-sort.md",
@@ -202,7 +175,6 @@
     "computer-science/docs/basics/http/status-code.md",
     "computer-science/docs/basics/http",
     "computer-science/docs/javascript/nodejs/managing-dependencies.md",
-    "computer-science/docs/javascript/nodejs/package.json.md",
     "computer-science/docs/javascript/dom",
     "/computer-science/docs/javascript/dom",
     "computer-science/docs/data-structures",
