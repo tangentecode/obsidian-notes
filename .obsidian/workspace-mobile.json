@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/data-structures/hash-tables.md",
+                "file": "computer-science/docs/basics/data-structures/singly-linked-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hash-tables"
+              "title": "singly-linked-list"
             }
           }
         ]
@@ -139,10 +139,10 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "computer-science/docs/basics/data-structures/hash-tables.md",
     "computer-science/docs/python/flask/methods.md",
     "computer-science/content-computer-science.md",
     "computer-science/docs/python/dictionaries.md",
-    "computer-science/docs/basics/data-structures/hash-tables.md",
     "computer-science/docs/python/flask/placeholder.md",
     "computer-science/docs/python/flask/requests.md",
     "computer-science/docs/python/flask/redirect.md",
