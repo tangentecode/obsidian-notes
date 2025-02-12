@@ -18,17 +18,19 @@ Heres what is stored at each region:
 	- Variables in this section persist for the lifetime of the program.
 	- May be further divided into:
 		- **.data**: For initialized global/static variables.
-				- **.bss**: For uninitialized global/static variables (default-initialized to zero).
+		- **.bss**: For uninitialized global/static variables (default-initialized to zero).
+
 - **Heap**:
 		
-		- Used for dynamic memory allocation (e.g., with `malloc` in C or `new` in C++).
-		- Grows downward (towards higher memory addresses).
-		- Memory here must be explicitly managed (allocated and freed by the programmer).
+	- Used for dynamic memory allocation (e.g., with `malloc` in C or `new` in C++).
+	- Grows downward (towards higher memory addresses).
+	- Memory here must be explicitly managed (allocated and freed by the programmer).
+
 - **Stack**:
 		
-		- Stores function call frames (local variables, return addresses, function parameters).
-		- Grows upward (towards lower memory addresses).
-		- Automatically managed (memory is allocated when a function is called and freed when it returns).
+	- Stores function call frames (local variables, return addresses, function parameters).
+	- Grows upward (towards lower memory addresses).
+	- Automatically managed (memory is allocated when a function is called and freed when it returns).
 
 ## Overflows
 
