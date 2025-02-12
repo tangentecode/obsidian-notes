@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/hexadecimal.md",
+                "file": "computer-science/docs/c/preprocessor-statements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hexadecimal"
+              "title": "preprocessor-statements"
             }
           }
         ]
@@ -118,7 +118,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/basics/hexadecimal.md"
+            "file": "computer-science/docs/c/preprocessor-statements.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -137,8 +137,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab3a2c172c89a8ae",
+  "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "computer-science/docs/basics/hexadecimal.md",
     "computer-science/courses/cs50x/notes/lecture-4-memory.md",
     "computer-science/docs/c/strings.md",
     "computer-science/docs/basics/memory/strings.md",
@@ -164,7 +165,6 @@
     "/computer-science/docs/basics/http/contents-http.md",
     "/computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "computer-science/docs/python/conditionals.md",
-    "computer-science/docs/basics/running-time.md",
     "img/Pasted image 20250211081105.png",
     "img/Pasted image 20250211081743.png",
     "img/http-response.jpg.png",
