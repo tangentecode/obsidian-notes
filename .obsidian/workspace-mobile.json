@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/strings.md",
+                "file": "computer-science/docs/basics/hexadecimal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "strings"
+              "title": "hexadecimal"
             }
           }
         ]
@@ -118,7 +118,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/c/strings.md"
+            "file": "computer-science/docs/basics/hexadecimal.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -137,8 +137,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e26d13348b0ffe64",
+  "active": "ab3a2c172c89a8ae",
   "lastOpenFiles": [
+    "computer-science/courses/cs50x/notes/lecture-4-memory.md",
+    "computer-science/docs/c/strings.md",
     "computer-science/docs/basics/memory/strings.md",
     "computer-science/docs/basics/memory/pointer-arithmetic.md",
     "computer-science/docs/basics/memory/globals-heap-stack.md",
@@ -165,8 +167,6 @@
     "computer-science/docs/basics/running-time.md",
     "img/Pasted image 20250211081105.png",
     "img/Pasted image 20250211081743.png",
-    "computer-science/docs/basics/http/http-messages.md",
-    "computer-science/docs/basics/http/http-vs-https.md",
     "img/http-response.jpg.png",
     "img/pixel_art.png",
     "img/pointer-in-memory-2.png",
