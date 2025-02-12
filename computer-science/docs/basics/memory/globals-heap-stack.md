@@ -8,12 +8,14 @@ Heres what is stored at each region:
 
 - **Machine Code (Text Segment)**:
 		
-		- Contains the compiled code of the program, which is executed by the CPU.
-		- This area is typically read-only to prevent accidental modification of instructions.
+	- Contains the compiled code of the program, which is executed by the CPU.
+	
+	- This area is typically read-only to prevent accidental modification of instructions.
+
 - **Globals (Data Segment)**:
 		
-		- Stores global and static variables initialized at the start of the program.
-		- Variables in this section persist for the lifetime of the program.
+	- Stores global and static variables initialized at the start of the program.
+	- Variables in this section persist for the lifetime of the program.
 		- May be further divided into:
 				- **.data**: For initialized global/static variables.
 				- **.bss**: For uninitialized global/static variables (default-initialized to zero).
