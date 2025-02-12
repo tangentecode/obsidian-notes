@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/memory/globals-heap-stack.md",
+                "file": "computer-science/docs/c/strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "globals-heap-stack"
+              "title": "strings"
             }
           }
         ]
@@ -118,7 +118,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/basics/memory/globals-heap-stack.md"
+            "file": "computer-science/docs/c/strings.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -139,6 +139,9 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "computer-science/docs/basics/memory/strings.md",
+    "computer-science/docs/basics/memory/pointer-arithmetic.md",
+    "computer-science/docs/basics/memory/globals-heap-stack.md",
     "computer-science/docs/c/pointers.md",
     "computer-science/docs/basics/data-structures/singly-linked-list.md",
     "computer-science/docs/basics/data-structures/hash-tables.md",
@@ -171,9 +174,6 @@
     "img/strings-in-memory-1.png",
     "img/two-function-pointer-in-memory.png",
     "img/url-after-dns.jpg.png",
-    "computer-science/docs/basics/contents-basic.md",
-    "computer-science/docs/basics/hashing/hashing.md",
-    "computer-science/docs/basics/http/contents-http.md",
     "img/Pasted image 20250211083008.png",
     "computer-science/docs/basics/http",
     "computer-science/docs/javascript/dom",
