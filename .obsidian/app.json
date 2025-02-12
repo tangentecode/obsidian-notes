@@ -1,4 +1,5 @@
 {
+  "showRibbon": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,

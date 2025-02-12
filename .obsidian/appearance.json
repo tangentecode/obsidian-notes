@@ -7,6 +7,5 @@
   "monospaceFontFamily": "JetBrains Mono NL",
   "baseFontSize": 22,
   "baseFontSizeAction": true,
-  "showViewHeader": true,
-  "showRibbon": false
+  "showViewHeader": true
 }
