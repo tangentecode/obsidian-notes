@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/methods.md",
+                "file": "computer-science/docs/basics/data-structures/hash-tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "methods"
+              "title": "hash-tables"
             }
           }
         ]
@@ -139,6 +139,7 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/methods.md",
     "computer-science/content-computer-science.md",
     "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/basics/data-structures/hash-tables.md",
@@ -146,7 +147,6 @@
     "computer-science/docs/python/flask/requests.md",
     "computer-science/docs/python/flask/redirect.md",
     "computer-science/docs/python/flask/templates.md",
-    "computer-science/docs/python/flask/methods.md",
     "/computer-science/docs/python/flask/requests.md",
     "/computer-science/docs/python/flask/redirect.md",
     "/computer-science/docs/python/flask/placeholder.md",
