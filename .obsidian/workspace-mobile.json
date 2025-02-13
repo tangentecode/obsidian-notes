@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/looping-over-arrays.md",
+                "file": "computer-science/docs/c/style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "looping-over-arrays"
+              "title": "style"
             }
           }
         ]
@@ -139,6 +139,10 @@
   },
   "active": "e26d13348b0ffe64",
   "lastOpenFiles": [
+    "computer-science/docs/c/types.md",
+    "computer-science/docs/c/pointers.md",
+    "computer-science/docs/c/loops.md",
+    "computer-science/docs/c/looping-over-arrays.md",
     "computer-science/docs/c/functions.md",
     "computer-science/docs/c/preprocessor-statements.md",
     "computer-science/docs/basics/hexadecimal.md",
@@ -147,7 +151,6 @@
     "computer-science/docs/basics/memory/strings.md",
     "computer-science/docs/basics/memory/pointer-arithmetic.md",
     "computer-science/docs/basics/memory/globals-heap-stack.md",
-    "computer-science/docs/c/pointers.md",
     "computer-science/docs/basics/data-structures/singly-linked-list.md",
     "computer-science/docs/basics/data-structures/hash-tables.md",
     "computer-science/docs/python/flask/methods.md",
@@ -162,9 +165,6 @@
     "/computer-science/docs/python/flask/placeholder.md",
     "/computer-science/docs/python/flask/file-structure.md",
     "/computer-science/docs/python/flask/templates.md",
-    "/computer-science/docs/python/flask/methods.md",
-    "/computer-science/docs/javascript/arrow-functions.md",
-    "/computer-science/docs/basics/http/contents-http.md",
     "img/Pasted image 20250211081105.png",
     "img/Pasted image 20250211081743.png",
     "img/http-response.jpg.png",
