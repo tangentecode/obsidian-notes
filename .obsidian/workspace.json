@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sql/sqlite/executing-queries.md",
+                "file": "computer-science/docs/basics/http/methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "executing-queries"
+              "title": "methods"
             }
           }
         ],
@@ -168,10 +168,10 @@
   },
   "active": "1b45a7b5ba84ec9c",
   "lastOpenFiles": [
+    "computer-science/docs/sql/sqlite/executing-queries.md",
     "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/docs/sql/sqlite/contents-sqlite.md",
     "computer-science/docs/sql/sqlite/connecting-to-database.md",
-    "computer-science/docs/sql/sqlite/executing-queries.md",
     "computer-science/docs/python/flask/running.md",
     "computer-science/docs/python/flask/requests.md",
     "computer-science/docs/python/flask/routes.md",
