@@ -9,3 +9,5 @@ app = Flask(__name__)
 # Configure session
 Session(app)
 ```
+
+- A session is **user specific data** stored locally 
