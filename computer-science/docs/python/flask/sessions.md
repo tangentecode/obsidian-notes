@@ -1,5 +1,8 @@
+# Sessions
+
 - Requires new library `flask_session`
 - Import like this:
+
 ```python
 from flask_session import Session
 
@@ -14,7 +17,7 @@ Session(app)
 - For example items stored in their shopping cart so that when their browser restart the items are still there without pulling the data from a [database](contents-sql.md)
 
 - Any type of data can be appended to the session
-- Be sure to check whether the data already exist before accidently overwriting it
+- Be sure to check whether the data already exist before accidentally overwriting it
 
 ```python
 from cs50 import SQL
