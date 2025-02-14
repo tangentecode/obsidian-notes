@@ -1,0 +1,1 @@
+- Requires new library `flask_session`
