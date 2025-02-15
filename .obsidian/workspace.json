@@ -11,12 +11,14 @@
             "id": "e11d58ec190051a4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "computer-science/courses/cs50p/certificates/CS50P.pdf"
+                "file": "computer-science/courses/informatik-ggg/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "CS50P"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -152,6 +154,8 @@
   "active": "e11d58ec190051a4",
   "lastOpenFiles": [
     "computer-science/courses/content-courses.md",
+    "computer-science/courses/informatik-ggg/Untitled.md",
+    "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.pdf",
     "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
     "computer-science/courses/cs50x/certificates/CS50x.png",
@@ -194,7 +198,6 @@
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/web-dev-for-beginners",
     "computer-science/courses/New folder",
-    "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/docs/javascript/dom",
     "img/Untitled.canvas",
     "Untitled.canvas"
