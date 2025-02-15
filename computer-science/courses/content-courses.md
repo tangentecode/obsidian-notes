@@ -8,8 +8,5 @@
 	- Progress: [Completed](https://cs50.me/cs50x)
 	- Certificate: [PDF](CS50x.pdf)
 
-3. [Low Level Academy]()
-	- Progress: [Not Started]()
-
 4. [Web Dev for Beginners Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 	- Progress: [Not Started]()
