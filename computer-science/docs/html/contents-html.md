@@ -9,6 +9,6 @@
 7. [videos](videos.md)
 8. [hyperlinks](hyperlinks.md)
 9. [link-css](link-css.md)
-10. [input](computer-science/docs/html/input.md)
+10. 
 11. [doctype](doctype.md)
 12. [language](language.md)
