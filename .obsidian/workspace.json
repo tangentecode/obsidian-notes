@@ -153,8 +153,9 @@
   },
   "active": "e337b35f9c1df5be",
   "lastOpenFiles": [
-    "computer-science/docs/rust/rust-ecosystem.md",
+    "computer-science/docs/python/flask/file-structure.md",
     "computer-science/docs/rust/creating-project.md",
+    "computer-science/docs/rust/rust-ecosystem.md",
     "computer-science/docs/rust/installation.md",
     "computer-science/docs/rust/contents-rust.md",
     "computer-science/courses/comprehensive-rust/keyboard-shortcuts.md",
@@ -187,7 +188,6 @@
     "computer-science/courses/cs50x/Untitled.md",
     "computer-science/docs/html/tables.md",
     "computer-science/docs/python/dictionaries.md",
-    "computer-science/docs/python/flask/sessions.md",
     "img/url.jpg.png",
     "img/url-after-dns.jpg.png",
     "img/http-response.jpg.png",
