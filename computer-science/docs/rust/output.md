@@ -19,7 +19,7 @@ print!("Hello, ");
 print!("world!");
 ```
 
-## Passing variables
+## Passing Variables
 
 - In you `{}` placeholder type the variable name directly
 
