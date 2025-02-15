@@ -10,12 +10,11 @@ cargo new project_name
 ```shell
 project_name/
 │
-├── .gitignore  
-├── Cargo.toml  # Main Flask application
+├── .gitignore         # Contains the ignored files for git
+├── Cargo.toml         # Dependecies and their desired versions
 ├── src/               # HTML templates
 │   └── main.rs 
-├── .git/           # Static files (CSS, JS, images)
+├── .git/              # Static files (CSS, JS, images)
 │   └── ...
-├── requirements.txt  # Third-party libraries used   
-│ 
+
 ```
