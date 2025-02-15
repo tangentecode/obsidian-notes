@@ -11,7 +11,8 @@
 
 ```rust
 fn add(a: i32, b: i32) -> i32 {
-    a + b
+    a + b // No semicolon = implicit return
+    return a + b; // Explicit return statement
 }
 
 fn main() {
@@ -22,4 +23,5 @@ fn main() {
 ```
 
 
-The `main` function like in other languages acts as the entry point for the programm
+The `main` function like in other languages acts as the entry point for the program
+
