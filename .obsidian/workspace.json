@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/rust/cargo.md",
+                "file": "computer-science/docs/rust/rust-ecosystem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cargo"
+              "title": "rust-ecosystem"
             }
           }
         ]
@@ -153,8 +153,9 @@
   },
   "active": "e337b35f9c1df5be",
   "lastOpenFiles": [
+    "computer-science/docs/rust/installation.md",
+    "computer-science/docs/rust/rust-ecosystem.md",
     "computer-science/docs/rust/contents-rust.md",
-    "computer-science/docs/rust/cargo.md",
     "computer-science/courses/comprehensive-rust/keyboard-shortcuts.md",
     "computer-science/docs/rust",
     "computer-science/courses/content-courses.md",
@@ -187,7 +188,6 @@
     "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/python/flask/sessions.md",
     "computer-science/docs/sql/sqlite/example-code.md",
-    "computer-science/docs/python/flask/running.md",
     "img/url.jpg.png",
     "img/url-after-dns.jpg.png",
     "img/http-response.jpg.png",

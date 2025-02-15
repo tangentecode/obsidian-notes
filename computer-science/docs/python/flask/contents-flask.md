@@ -1,6 +1,6 @@
 # Flask-contents
 
-1. [installation](installation.md)
+1. [installation](computer-science/docs/python/flask/installation.md)
 2. [running](running.md)
 3. [initialization](initialization.md)
 4. [file-structure](computer-science/docs/python/flask/file-structure.md)
