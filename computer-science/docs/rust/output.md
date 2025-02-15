@@ -4,7 +4,15 @@ It works similarly to `printf` in [C](contents-c.md) or `print` in [python](cont
 
 ## Basic Usage
 
-
 ```rust
 println!("Hello, world!");
 ```
+
+## Avoid new line
+
+- Use `print!` instead of `println!`:
+```rust
+print!("Hello, "); 
+print!("world!");
+```
+
