@@ -22,3 +22,4 @@ fn main() {
 ```
 
 
+The `main` function like in other languages acts as the entry point for the programm
