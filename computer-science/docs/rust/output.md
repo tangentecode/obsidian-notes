@@ -20,5 +20,10 @@ print!("world!");
 
 - Use `{}` to define a placeholder for a formatted values:
 ```rust
-
+println!("My name is {} and I am {} years old.", name, age);
 ```
+
+
+## Named arguments
+
+- When multiple values get passed it gets  
