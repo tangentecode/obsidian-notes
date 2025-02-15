@@ -13,8 +13,12 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ### This will give you
 
-`cargo`: build tool
+1. `cargo`: build tool
 
-`rustc`: rust compiler
+2. `rustc`: rust compiler
 
-`rustup`: [bash](bash.md)
+3. `rustup`: [cli tool](bash.md) for switching compiler versions
+
+
+## Configuring IDE
+
