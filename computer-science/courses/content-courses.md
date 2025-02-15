@@ -5,7 +5,7 @@
 	- Certificate: [PDF](CS50P.pdf)
 
 2. [CS50X](content-cs50.md)
-	- Progress: [Running](https://cs50.me/cs50x)
+	- Progress: [Completed](https://cs50.me/cs50x)
 	- Certificate: 
 
 3. [Low Level Academy]()
