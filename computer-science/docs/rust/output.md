@@ -16,3 +16,9 @@ print!("Hello, ");
 print!("world!");
 ```
 
+## Passing variables 
+
+- Use `{}` to define a placeholder for a formatted values:
+```rust
+
+```
