@@ -8,3 +8,5 @@
 6. [handling-forms](handling-forms.md)
 7. [routes](routes.md)
 8. [advanced](advanced.md)
+9. [sessions](sessions.md)
+10. [redirect](redirect.md)
