@@ -1,4 +1,6 @@
-go to your previously [created project](creating-project.md) and use `cargo run` to build and run your binary:
+## Basics
+
+- go to your previously [created project](creating-project.md) and use `cargo run` to build and run your binary:
 
 ```shell
 $ cd exercise
@@ -8,3 +10,11 @@ $ cargo run
      Running `target/debug/exercise`
 Hello, world!
 ```
+
+
+
+## Advanced
+
+- `cargo check`: to quickly check your project for errors 
+- `cargo build` to compile it without running it. 
+-You will find the output in `target/debug/` for a normal debug build. Use `cargo build --release` to produce an optimized release build in `target/release/`.
