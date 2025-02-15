@@ -16,5 +16,7 @@ Hello, world!
 ## Advanced
 
 - `cargo check`: to quickly check your project for errors 
-- `cargo build` to compile it without running it. 
--You will find the output in `target/debug/` for a normal debug build. Use `cargo build --release` to produce an optimized release build in `target/release/`.
+
+- `cargo build` to compile it without running it. Output: `target/debug/`  
+
+- `cargo build --release` to produce an optimized release build in `target/release/`.
