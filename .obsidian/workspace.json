@@ -11,10 +11,10 @@
             "id": "e67869dbebae41fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -149,6 +149,7 @@
   },
   "active": "e67869dbebae41fb",
   "lastOpenFiles": [
+    "file-operations-python.md",
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
     "computer-science/docs/html/contents-html.md",
     "computer-science/docs/python/os-library/content-os.md",
@@ -180,7 +181,6 @@
     "computer-science/docs/sql/sqlite/connecting-to-database.md",
     "computer-science/docs/python/flask/requests.md",
     "computer-science/docs/python/flask/routes.md",
-    "computer-science/docs/python/flask/templates.md",
     "img/url.jpg.png",
     "img/url-after-dns.jpg.png",
     "img/http-response.jpg.png",
