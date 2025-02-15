@@ -11,10 +11,12 @@ cargo new project_name
 project_name/
 │
 ├── .gitignore         # Contains the ignored files for git
-├── Cargo.toml         # Dependecies and their desired versions
-├── src/               # HTML templates
-│   └── main.rs 
-├── .git/              # Static files (CSS, JS, images)
+├── Cargo.toml         # Dependecies
+├── src/               
+│   └── main.rs        # Main application code
+├── .git/              # Data for the Git repo
 │   └── ...
 
 ```
+
+> `cargo` automatically initializes a git
