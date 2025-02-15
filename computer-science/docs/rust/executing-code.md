@@ -1,3 +1,5 @@
+# Executing-code
+
 ## Basics
 
 - go to your previously [created project](creating-project.md) and use `cargo run` to build and run your binary:
@@ -10,8 +12,6 @@ $ cargo run
      Running `target/debug/exercise`
 Hello, world!
 ```
-
-
 
 ## Advanced
 
