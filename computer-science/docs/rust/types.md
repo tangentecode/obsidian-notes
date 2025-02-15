@@ -16,3 +16,13 @@ The types have widths as follows:
 - `isize` and `usize` are the width of a pointer,
 - `char` is 32 bits wide,
 - `bool` is 8 bits wide.
+
+
+
+### **Quick Rules of Thumb**
+
+- **Working with small numbers?** → `u8`, `i8`, `u16`, `i16`
+- **General-purpose?** → `i32` (default)
+- **Need big numbers?** → `i64`, `u64`, `i128`, `u128`
+- **Indexing an array?** → `usize`
+- **Optimizing for performance?** → Stick to `i32` or `u32` unless memory constraints require smaller types.
