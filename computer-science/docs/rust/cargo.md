@@ -22,3 +22,6 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 ## Configuring IDE
 
+- [rust-analyzer](https://rust-analyzer.github.io/) for autocompletion in [VS Code](https://code.visualstudio.com/), [Emacs](https://rust-analyzer.github.io/manual.html#emacs), [Vim/Neovim](https://rust-analyzer.github.io/manual.html#vimneovim), and many others.
+
+- [RustRover](https://www.jetbrains.com/rust/) IDE from JetBrains
