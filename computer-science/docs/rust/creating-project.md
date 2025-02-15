@@ -7,6 +7,7 @@ cargo new project_name
 ```
 
 - This will create:
+
 ```shell
 project_name/
 │
@@ -19,4 +20,4 @@ project_name/
 
 ```
 
-> `cargo` automatically initializes a git
+> `cargo` automatically initializes a **Git** repository
