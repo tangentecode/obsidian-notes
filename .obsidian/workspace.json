@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/rust/functions.md",
+                "file": "computer-science/docs/rust/output.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "functions"
+              "title": "output"
             }
           }
         ],
@@ -168,8 +168,9 @@
   },
   "active": "6e80bd5f88e4e45e",
   "lastOpenFiles": [
-    "computer-science/docs/rust/contents-rust.md",
     "computer-science/docs/rust/functions.md",
+    "computer-science/docs/rust/output.md",
+    "computer-science/docs/rust/contents-rust.md",
     "computer-science/docs/rust/playground.md",
     "computer-science/docs/rust/what-is-rust.md",
     "computer-science/docs/rust/executing-code.md",
@@ -196,7 +197,6 @@
     "computer-science/docs/javascript/nodejs/common-commands.md",
     "computer-science/docs/javascript/nodejs/express.md",
     "computer-science/courses/informatik-ggg/contents-informatik-ggg.md",
-    "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.png",

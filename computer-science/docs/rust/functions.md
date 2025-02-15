@@ -5,8 +5,6 @@
 3. Parameters in parentheses
 4. `->` with return type (Similar [functions](computer-science/docs/python/functions.md) in [python](contents-python.md))
 
-
-
 # Example
 
 ```rust
@@ -22,6 +20,4 @@ fn main() {
 1
 ```
 
-
 The `main` function like in other languages acts as the entry point for the program
-
