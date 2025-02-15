@@ -35,8 +35,7 @@
               "title": "keyboard-shortcuts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +165,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e337b35f9c1df5be",
+  "active": "2a7a9a10ef7c8f0e",
   "lastOpenFiles": [
-    "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
     "computer-science/courses/comprehensive-rust/keyboard-shortcuts.md",
+    "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
     "computer-science/courses/content-courses.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/learn",
