@@ -28,6 +28,7 @@ println!("My name is {} and I am {} years old.", name, age);
 
 - When multiple values get passed it gets messy
 - Define a placeholder with a name a define a variable with that name
-```rust
 
+```rust
+println!("{subject} is {adjective}!", subject="Rust", adjective="awesome");
 ```
