@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/rust/what-is-rust.md",
+                "file": "computer-science/docs/rust/playground.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "what-is-rust"
+              "title": "playground"
             }
           }
         ]
@@ -153,8 +153,9 @@
   },
   "active": "e337b35f9c1df5be",
   "lastOpenFiles": [
-    "computer-science/docs/rust/executing-code.md",
     "computer-science/docs/rust/what-is-rust.md",
+    "computer-science/docs/rust/playground.md",
+    "computer-science/docs/rust/executing-code.md",
     "computer-science/docs/rust/creating-project.md",
     "computer-science/docs/python/flask/file-structure.md",
     "computer-science/docs/rust/rust-ecosystem.md",
@@ -187,7 +188,6 @@
     "computer-science/courses/cs50x/certificates/CS50x-A4.pdf",
     "computer-science/courses/cs50x/certificates/CS50x-A4.png",
     "computer-science/courses/cs50x/certificates",
-    "computer-science/courses/cs50x/Untitled.md",
     "img/url.jpg.png",
     "img/url-after-dns.jpg.png",
     "img/http-response.jpg.png",
