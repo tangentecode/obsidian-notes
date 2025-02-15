@@ -10,3 +10,5 @@
 
 3. [Web Dev for Beginners Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 	- Progress: [Not Started]()
+
+4. [Comprehensive Rust by Google]
