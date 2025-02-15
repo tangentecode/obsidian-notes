@@ -19,7 +19,7 @@ print!("Hello, ");
 print!("world!");
 ```
 
-## Passing Variables
+## Passing Variables by order
 
 - Use `{}` to define a placeholder for a formatted values:
 
