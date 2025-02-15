@@ -17,8 +17,6 @@ The types have widths as follows:
 - `char` is 32 bits wide,
 - `bool` is 8 bits wide.
 
-
-
 ### **Quick Rules of Thumb**
 
 - **Working with small numbers?** → `u8`, `i8`, `u16`, `i16`

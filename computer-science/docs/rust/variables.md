@@ -1,7 +1,7 @@
 # Variables
 
 - Use `let` like in [javascript](contents-javascript.md)
-- Statically typed: variable [type](computer-science/docs/rust/types.md) need to be declared
+- Its good practice to declare the variable [type](computer-science/docs/rust/types.md)  
 
 ```rust
 let x: i32 = 10;
