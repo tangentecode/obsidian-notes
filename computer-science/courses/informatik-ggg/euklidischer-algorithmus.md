@@ -1,6 +1,6 @@
 # Euklidischer-algorithmus
 
-- Benutzt man um den **Größter Gemeinsamer Teiler** berechnen
+- Benutzt man um den **Größter Gemeinsamer Teiler** zu berechnen
 - Vollständiger code in [Python](contents-python.md):
 
 ```python

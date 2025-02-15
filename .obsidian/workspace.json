@@ -11,10 +11,12 @@
             "id": "e11d58ec190051a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "computer-science/courses/cs50p/certificates/CS50P.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CS50P"
             }
           }
         ]
@@ -147,15 +149,16 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "e11d58ec190051a4",
   "lastOpenFiles": [
-    "computer-science/courses/cs50x/certificates/CS50x.png",
+    "computer-science/courses/content-courses.md",
     "computer-science/courses/cs50x/certificates/CS50x.pdf",
+    "computer-science/courses/informatik-ggg/euklidischer-algorithmus.md",
+    "computer-science/courses/cs50x/certificates/CS50x.png",
     "computer-science/courses/cs50x/certificates/CS50x-A4.pdf",
     "computer-science/courses/cs50x/certificates/CS50x-A4.png",
     "computer-science/courses/cs50x/certificates",
     "computer-science/courses/cs50x/Untitled.md",
-    "computer-science/courses/content-courses.md",
     "computer-science/docs/html/tables.md",
     "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/python/flask/sessions.md",
@@ -178,7 +181,6 @@
     "computer-science/docs/python/flask/flask-contents.md",
     "computer-science/docs/python/flask/file-structure.md",
     "computer-science/docs/basics/http/contents-http.md",
-    "computer-science/courses/cs50x/notes/lecture-9-flask.md",
     "img/url.jpg.png",
     "img/url-after-dns.jpg.png",
     "img/http-response.jpg.png",
@@ -187,7 +189,6 @@
     "img/Pasted image 20250211083008.png",
     "img/Pasted image 20250211082903.png",
     "img/Pasted image 20250211081743.png",
-    "img/Pasted image 20250211081740.png",
     "computer-science/docs/basics/http",
     "computer-science/docs/javascript/nodejs",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",

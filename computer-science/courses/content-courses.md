@@ -6,7 +6,7 @@
 
 2. [CS50X](content-cs50.md)
 	- Progress: [Completed](https://cs50.me/cs50x)
-	- Certificate: 
+	- Certificate: [PDF](CS50x.pdf)
 
 3. [Low Level Academy]()
 	- Progress: [Not Started]()
