@@ -10,3 +10,5 @@
 8. [advanced](advanced.md)
 9. [sessions](sessions.md)
 10. [redirect](redirect.md)
+11. [templates](templates.md)
+12. [requests](requests.md)
