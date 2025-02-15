@@ -19,6 +19,14 @@ print!("Hello, ");
 print!("world!");
 ```
 
+## Passing variables
+
+- In you `{}` placeholder type the variable name directly
+
+```rust
+println!("My name is {name} and I am {age} years old.");
+```
+
 ## Passing Variables by order
 
 - Use `{}` to define a placeholder for a formatted values:
