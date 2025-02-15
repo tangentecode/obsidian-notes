@@ -26,4 +26,8 @@ println!("My name is {} and I am {} years old.", name, age);
 
 ## Named arguments
 
-- When multiple values get passed it gets  
+- When multiple values get passed it gets messy
+- Define a placeholder with a name a define a variable with that name
+```rust
+
+```
