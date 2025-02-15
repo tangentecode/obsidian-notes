@@ -1,3 +1,5 @@
+# Output
+
 `println!` is a macro used to print text to the console with a newline at the end.
 
 It works similarly to `printf` in [C](contents-c.md) or `print` in [python](contents-python.md).
@@ -8,23 +10,24 @@ It works similarly to `printf` in [C](contents-c.md) or `print` in [python](cont
 println!("Hello, world!");
 ```
 
-## Avoid new line
+## Avoid New line
 
 - Use `print!` instead of `println!`:
+
 ```rust
 print!("Hello, "); 
 print!("world!");
 ```
 
-## Passing variables 
+## Passing Variables
 
 - Use `{}` to define a placeholder for a formatted values:
+
 ```rust
 println!("My name is {} and I am {} years old.", name, age);
 ```
 
-
-## Named arguments
+## Named Arguments
 
 - When multiple values get passed it gets messy
 - Define a placeholder with a name a define a variable with that name
