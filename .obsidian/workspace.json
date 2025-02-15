@@ -11,12 +11,14 @@
             "id": "2a7a9a10ef7c8f0e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "computer-science/courses/web-dev-for-beginners/readme.pdf"
+                "file": "computer-science/courses/content-courses.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "readme"
+              "icon": "lucide-file",
+              "title": "content-courses"
             }
           }
         ]
@@ -151,6 +153,7 @@
   },
   "active": "2a7a9a10ef7c8f0e",
   "lastOpenFiles": [
+    "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/content-courses.md",
     "computer-science/courses/learn",
     "computer-science/courses/cs50x/content-cs50.md",
@@ -193,7 +196,6 @@
     "img/Pasted image 20250211081743.png",
     "computer-science/docs/basics/http",
     "computer-science/docs/javascript/nodejs",
-    "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/web-dev-for-beginners",
     "computer-science/courses/New folder",
     "img/Untitled.canvas",
