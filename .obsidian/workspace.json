@@ -11,14 +11,12 @@
             "id": "2a7a9a10ef7c8f0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "computer-science/courses/content-courses.md",
-                "mode": "source",
-                "source": false
+                "file": "computer-science/courses/web-dev-for-beginners/readme.pdf"
               },
-              "icon": "lucide-file",
-              "title": "content-courses"
+              "icon": "lucide-file-text",
+              "title": "readme"
             }
           }
         ]
@@ -151,11 +149,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "af0bd366a9357aeb",
+  "active": "2a7a9a10ef7c8f0e",
   "lastOpenFiles": [
+    "computer-science/courses/content-courses.md",
     "computer-science/courses/learn",
     "computer-science/courses/cs50x/content-cs50.md",
-    "computer-science/courses/content-courses.md",
     "computer-science/docs/sql/operations/select.md",
     "file-operations-python.md",
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
@@ -198,7 +196,6 @@
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/web-dev-for-beginners",
     "computer-science/courses/New folder",
-    "computer-science/docs/javascript/dom",
     "img/Untitled.canvas",
     "Untitled.canvas"
   ]

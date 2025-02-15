@@ -8,5 +8,5 @@
 	- Progress: [Completed](https://cs50.me/cs50x)
 	- Certificate: [PDF](CS50x.pdf)
 
-4. [Web Dev for Beginners Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+3. [Web Dev for Beginners Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 	- Progress: [Not Started]()
