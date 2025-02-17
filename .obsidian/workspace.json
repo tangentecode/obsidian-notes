@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/rust/contents-rust.md",
+                "file": "computer-science/docs/c/raylib/setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-rust"
+              "title": "setup"
             }
           }
         ]
@@ -153,13 +153,16 @@
   },
   "active": "e337b35f9c1df5be",
   "lastOpenFiles": [
+    "computer-science/docs/c/raylib/contents-raylib.md",
+    "computer-science/docs/c/raylib/empty-window.md",
+    "computer-science/docs/c/raylib/cheatsheet.md",
+    "computer-science/docs/rust/contents-rust.md",
     "computer-science/courses/comprehensive-rust/exercises/fibonacci.md",
     "computer-science/docs/rust/loops.md",
     "computer-science/docs/rust/conditionals.md",
     "computer-science/docs/rust/types.md",
     "computer-science/courses/comprehensive-rust/exercises",
     "computer-science/docs/rust/variables.md",
-    "computer-science/docs/rust/contents-rust.md",
     "computer-science/docs/rust/output.md",
     "computer-science/docs/rust/functions.md",
     "computer-science/docs/rust/playground.md",
@@ -180,9 +183,6 @@
     "file-operations-python.md",
     "computer-science/courses/cs50x/notes/lecture-10-the-end.md",
     "computer-science/docs/html/contents-html.md",
-    "computer-science/docs/python/os-library/content-os.md",
-    "computer-science/docs/python/flask/contents-flask.md",
-    "computer-science/docs/python/contents-python.md",
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.png",
