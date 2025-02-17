@@ -1,4 +1,4 @@
-In Rust, conditionals are primarily handled using `if`, `else if`, and `else` statements, similar to other languages. Rust also supports conditional expressions, `match` statements, and `if let` expressions for more complex control flow.
+> **conditionals** in rust are very similar to 
 
 ### 1. **Basic `if` Statement**
 ```rust
