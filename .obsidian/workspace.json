@@ -153,6 +153,7 @@
   },
   "active": "e337b35f9c1df5be",
   "lastOpenFiles": [
+    "computer-science/docs/c/strings.md",
     "computer-science/docs/python/string-constants.md",
     "computer-science/docs/c/raylib/setup.md",
     "computer-science/docs/c/raylib/contents-raylib.md",
@@ -182,7 +183,6 @@
     "computer-science/courses/learn",
     "computer-science/courses/cs50x/content-cs50.md",
     "computer-science/docs/sql/operations/select.md",
-    "file-operations-python.md",
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.png",
