@@ -11,10 +11,14 @@
             "id": "bfe7f29a535ae751",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/rust/conditionals.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conditionals"
             }
           }
         ]
@@ -135,6 +139,7 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/rust/conditionals.md",
     "computer-science/docs/javascript/nodejs/contents-nodejs.md",
     "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/cs50x/certificates/CS50x-A4.pdf",
@@ -169,7 +174,6 @@
     "/computer-science/docs/rust/rust-ecosystem.md",
     "/computer-science/docs/rust/playground.md",
     "/computer-science/docs/rust/output.md",
-    "/computer-science/docs/rust/installation.md",
     "/computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x.pdf",
     "/computer-science/courses/cs50x/certificates/CS50x-A4.png",
