@@ -141,5 +141,3 @@ fn main() {
 - **`for`** → Iterates over ranges and collections.
 - **Loop Labels** → Control nested loops with `'label`.
 - **Returning from a `loop`** → Use `break value`.
-
-Would you like some advanced examples, like iterators or concurrency loops? 🚀
