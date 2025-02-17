@@ -1,6 +1,9 @@
->Basic **conditionals** in rust are very similar to [javascript](computer-science/docs/javascript/contents-javascript.md) an [c](contents-c.md) 
+# Conditionals
+
+> Basic **conditionals** in rust are very similar to [javascript](computer-science/docs/javascript/contents-javascript.md) an [c](contents-c.md) 
 
 ### 1. **Basic `if` Statement**
+
 ```rust
 fn main() {
     let number = 10;
@@ -12,6 +15,7 @@ fn main() {
 ```
 
 ### 2. **`if`-`else` Statement**
+
 ```rust
 fn main() {
     let number = 3;
@@ -25,6 +29,7 @@ fn main() {
 ```
 
 ### 3. **`if`-`else if`-`else` Statement**
+
 ```rust
 fn main() {
     let number = 10;
@@ -39,8 +44,10 @@ fn main() {
 }
 ```
 
-### 4. **Using `if` as an Expression**
+### 4. **Using `if` As an Expression**
+
 Since Rust is an expression-based language, `if` can return a value:
+
 ```rust
 fn main() {
     let condition = true;
@@ -51,7 +58,9 @@ fn main() {
 ```
 
 ### 5. **`match` Statement (Alternative to `if`-`else`)**
+
 `match` is a powerful control-flow operator that acts like a `switch` statement:
+
 ```rust
 fn main() {
     let number = 2;
@@ -65,8 +74,10 @@ fn main() {
 }
 ```
 
-### 6. **`if let` for Matching a Single Pattern**
+### 6. **`if let` For Matching a Single Pattern**
+
 `if let` is useful for checking a single pattern inside an `Option` or `Result` type:
+
 ```rust
 fn main() {
     let some_value = Some(42);
@@ -78,4 +89,3 @@ fn main() {
     }
 }
 ```
- 
