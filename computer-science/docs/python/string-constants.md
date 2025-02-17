@@ -1,6 +1,8 @@
+# String-constants
+
 > Import: `import string`
 
-## String constants
+## String Constants
 
 The constants defined in this module are:
 
@@ -21,6 +23,7 @@ The uppercase letters `'ABCDEFGHIJKLMNOPQRSTUVWXYZ'`. This value is not locale-d
 The string `'0123456789'`.
 
 #### `string.hexdigits`
+
 The string `'0123456789abcdefABCDEF'`.
 
 #### `string.octdigits`

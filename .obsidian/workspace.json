@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/string-constants.md",
+                "file": "computer-science/docs/c/strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "string-constants"
+              "title": "strings"
             }
           }
         ]
@@ -153,8 +153,8 @@
   },
   "active": "e337b35f9c1df5be",
   "lastOpenFiles": [
-    "computer-science/docs/c/raylib/setup.md",
     "computer-science/docs/python/string-constants.md",
+    "computer-science/docs/c/raylib/setup.md",
     "computer-science/docs/c/raylib/contents-raylib.md",
     "computer-science/docs/c/raylib/empty-window.md",
     "computer-science/docs/c/raylib/cheatsheet.md",
