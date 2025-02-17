@@ -1,4 +1,4 @@
-> **conditionals** in rust are very similar to 
+>Basic **conditionals** in rust are very similar to [javascript](computer-science/docs/javascript/contents-javascript.md) an [c](contents-c.md) 
 
 ### 1. **Basic `if` Statement**
 ```rust
