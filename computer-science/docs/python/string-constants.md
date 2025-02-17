@@ -1,3 +1,5 @@
+> Import: `import string`
+
 ## String constants
 
 The constants defined in this module are:
