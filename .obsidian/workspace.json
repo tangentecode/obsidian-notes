@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "output"
             }
+          },
+          {
+            "id": "538ba77b0ca61c0f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e337b35f9c1df5be",
+  "active": "538ba77b0ca61c0f",
   "lastOpenFiles": [
     "computer-science/docs/c/loops.md",
     "computer-science/docs/c/reallocate-memory.md",
