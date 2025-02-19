@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/loops.md",
+                "file": "computer-science/docs/c/output.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loops"
+              "title": "output"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "e337b35f9c1df5be",
   "lastOpenFiles": [
+    "computer-science/docs/c/loops.md",
     "computer-science/docs/c/reallocate-memory.md",
     "computer-science/docs/c/file-i-o.md",
     "computer-science/docs/c/strings.md",
@@ -180,7 +181,6 @@
     "computer-science/courses/comprehensive-rust/keyboard-shortcuts.md",
     "computer-science/docs/rust",
     "computer-science/courses/content-courses.md",
-    "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/learn",
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
