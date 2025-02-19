@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/file-i-o.md",
+                "file": "computer-science/docs/c/loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "file-i-o"
+              "title": "loops"
             }
           }
         ]
@@ -153,8 +153,9 @@
   },
   "active": "e337b35f9c1df5be",
   "lastOpenFiles": [
-    "computer-science/docs/c/strings.md",
+    "computer-science/docs/c/reallocate-memory.md",
     "computer-science/docs/c/file-i-o.md",
+    "computer-science/docs/c/strings.md",
     "computer-science/docs/python/string-constants.md",
     "computer-science/docs/c/raylib/setup.md",
     "computer-science/docs/c/raylib/contents-raylib.md",
@@ -182,7 +183,6 @@
     "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/learn",
-    "computer-science/courses/cs50x/content-cs50.md",
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.png",
