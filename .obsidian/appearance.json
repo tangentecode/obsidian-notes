@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Atom",
-  "accentColor": "#6a51ec",
+  "cssTheme": "Obsidian Nord",
+  "accentColor": "#0061fe",
   "interfaceFontFamily": "JetBrainsMono Nerd Font Mono",
   "textFontFamily": "JetBrainsMono Nerd Font",
   "monospaceFontFamily": "JetBrains Mono NL",
