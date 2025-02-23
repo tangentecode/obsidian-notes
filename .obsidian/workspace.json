@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/html/tables.md",
+                "file": "computer-science/docs/python/dictionaries.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tables"
+              "title": "dictionaries"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "69df6165277e5e5c",
   "lastOpenFiles": [
+    "computer-science/docs/html/tables.md",
     "computer-science/docs/sql/sqlite/example-code.md",
     "computer-science/docs/python/flask/requests.md",
     "computer-science/docs/python/flask/contents-flask.md",
@@ -179,7 +180,6 @@
     "computer-science/docs/rust/what-is-rust.md",
     "computer-science/docs/rust/executing-code.md",
     "computer-science/docs/rust/creating-project.md",
-    "computer-science/docs/python/flask/file-structure.md",
     "computer-science/docs/rust",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/learn",
