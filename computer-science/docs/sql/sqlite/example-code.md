@@ -26,6 +26,8 @@ results = cursor.fetchall()  # Fetch all rows
 for row in results:
     print(row)
 
+cursor.execute('DELETE FROM users WHERE id = ?', (1,))
+
 conn.commit()  # Save changes
 conn.close()  # Closing connection
 ```
