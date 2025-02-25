@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/css/contents-css.md",
-                "mode": "source",
+                "file": "computer-science/docs/css/basics.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-css"
+              "title": "basics"
             }
           },
           {
@@ -167,8 +167,8 @@
   },
   "active": "69df6165277e5e5c",
   "lastOpenFiles": [
-    "computer-science/docs/css/comments.md",
     "computer-science/docs/css/contents-css.md",
+    "computer-science/docs/css/comments.md",
     "computer-science/docs/python/dictionaries.md",
     "computer-science/docs/html/tables.md",
     "computer-science/docs/sql/sqlite/example-code.md",
