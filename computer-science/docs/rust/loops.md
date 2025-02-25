@@ -1,8 +1,11 @@
-Rust provides several types of loops for different use cases: `loop`, `while`, and `for`. Let’s go over each one with examples.
+# Loops
+
+Rust provides several types of loops for different use cases: `loop`, `while`, and `for`. Let's go over each one with examples.
 
 ---
 
 ## **1. `loop` (Infinite Loop)**
+
 The `loop` keyword creates an infinite loop that runs until explicitly broken with `break`.
 
 ```rust
@@ -21,7 +24,8 @@ fn main() {
 ```
 
 - Use `continue` to skip to the next iteration:
-  ```rust
+
+	```rust
   fn main() {
       let mut num = 0;
 
@@ -44,6 +48,7 @@ fn main() {
 ---
 
 ## **2. `while` Loop**
+
 Runs as long as the condition is `true`.
 
 ```rust
@@ -62,7 +67,9 @@ fn main() {
 ---
 
 ## **3. `for` Loop (Iterating Over Ranges and Collections)**
+
 ### **Iterating Over a Range**
+
 Rust provides `for` loops for iterating over a range of numbers:
 
 ```rust
@@ -84,6 +91,7 @@ fn main() {
 ```
 
 ### **Iterating Over a Collection**
+
 ```rust
 fn main() {
     let numbers = [10, 20, 30, 40, 50];
@@ -97,6 +105,7 @@ fn main() {
 ---
 
 ## **4. Loop Labels (Nesting Loops)**
+
 Rust allows you to label loops and control them using `break` and `continue`.
 
 ```rust
@@ -115,6 +124,7 @@ fn main() {
 ---
 
 ## **5. Using `loop` as an Expression**
+
 You can return a value from a `loop`:
 
 ```rust
@@ -136,6 +146,7 @@ fn main() {
 ---
 
 ### **Summary**
+
 - **`loop`** → Infinite loop, needs `break` to stop.
 - **`while`** → Runs while a condition is true.
 - **`for`** → Iterates over ranges and collections.
