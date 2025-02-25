@@ -6,3 +6,8 @@
 4. [creating-project](creating-project.md)
 5. [executing-code](executing-code.md)
 6. [playground](playground.md)
+7. [variables](computer-science/docs/rust/variables.md)
+8. [loops](computer-science/docs/rust/loops.md)
+9. [output](computer-science/docs/rust/output.md)
+10. [types](computer-science/docs/rust/types.md)
+11. [functions](computer-science/docs/rust/functions.md)
