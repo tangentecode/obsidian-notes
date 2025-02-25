@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
+                "file": "computer-science/docs/rust/contents-rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-comprehensive-rust"
+              "title": "contents-rust"
             }
           }
         ]
@@ -153,8 +153,9 @@
   },
   "active": "abf83054e7b2d57a",
   "lastOpenFiles": [
-    "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
+    "computer-science/content-computer-science.md",
     "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
+    "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/docs/css/comments.md",
     "computer-science/docs/css/basics.md",
     "computer-science/docs/css/contents-css.md",
@@ -198,7 +199,6 @@
     "img/Pasted image 20250211082903.png",
     "img/Pasted image 20250211081743.png",
     "computer-science/docs/basics/http",
-    "computer-science/docs/javascript/nodejs",
     "img/Untitled.canvas",
     "Untitled.canvas"
   ]
