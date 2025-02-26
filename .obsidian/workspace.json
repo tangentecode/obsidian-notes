@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/rust/playground.md",
+                "file": "computer-science/docs/rust/blocks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "playground"
+              "title": "blocks"
             }
           }
         ]
@@ -153,8 +153,9 @@
   },
   "active": "abf83054e7b2d57a",
   "lastOpenFiles": [
-    "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
     "computer-science/docs/rust/playground.md",
+    "computer-science/docs/rust/blocks.md",
+    "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
     "computer-science/docs/rust/output.md",
     "computer-science/docs/rust/loops.md",
     "computer-science/docs/rust/contents-rust.md",
@@ -179,7 +180,6 @@
     "computer-science/docs/c/raylib/empty-window.md",
     "computer-science/docs/c/raylib/cheatsheet.md",
     "computer-science/courses/comprehensive-rust/exercises/fibonacci.md",
-    "computer-science/docs/rust/conditionals.md",
     "computer-science/courses/comprehensive-rust/exercises",
     "computer-science/docs/rust",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",

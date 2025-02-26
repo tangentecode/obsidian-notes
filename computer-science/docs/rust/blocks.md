@@ -1,0 +1,2 @@
+- A block in rust contains a sequence of expressions, enclosed by braces `{}`
+- 
