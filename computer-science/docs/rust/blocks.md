@@ -1,2 +1,2 @@
 - A block in rust contains a sequence of expressions, enclosed by braces `{}`
-- 
+- **Value and [[computer-science/docs/rust/types|type]]** **are those of the last expression** in 
