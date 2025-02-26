@@ -1,2 +1,3 @@
 - A block in rust contains a sequence of expressions, enclosed by braces `{}`
-- **Value and [[computer-science/docs/rust/types|type]]** **are those of the last expression** in 
+- **Value and [[computer-science/docs/rust/types|type]]** **are those of the last expression** in the block
+- The last expression doesn't have a semicolon `;` at the end like returnin 
