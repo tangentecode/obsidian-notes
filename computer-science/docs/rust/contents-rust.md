@@ -9,7 +9,8 @@
 7. [variables](computer-science/docs/rust/variables.md)
 8. [[computer-science/docs/rust/conditionals|conditionals]]
 9. [loops](computer-science/docs/rust/loops.md)
-10. [output](computer-science/docs/rust/output.md)
-11. [types](computer-science/docs/rust/types.md)
-12. [functions](computer-science/docs/rust/functions.md)
-13. [[blocks]]
+10. [[break-continue]]
+11. [output](computer-science/docs/rust/output.md)
+12. [types](computer-science/docs/rust/types.md)
+13. [functions](computer-science/docs/rust/functions.md)
+14. [[blocks]]
