@@ -19,3 +19,23 @@ fn main() {
 	}
 }
 ```
+
+## Continue
+
+### Explanation
+
+- To immediately start the next iteration use [`continue`](https://doc.rust-lang.org/reference/expressions/loop-expr.html#continue-expressions).
+
+### Example
+
+```rust
+fn main() {
+	let mut i = 0;
+	loop {
+		i+=1;
+		if i  {
+			break
+		}
+	}
+}
+```
