@@ -7,8 +7,9 @@
 5. [executing-code](executing-code.md)
 6. [playground](playground.md)
 7. [variables](computer-science/docs/rust/variables.md)
-8. [loops](computer-science/docs/rust/loops.md)
-9. [output](computer-science/docs/rust/output.md)
-10. [types](computer-science/docs/rust/types.md)
-11. [functions](computer-science/docs/rust/functions.md)
-12. [[blocks]]
+8. [[computer-science/docs/rust/conditionals|conditionals]]
+9. [loops](computer-science/docs/rust/loops.md)
+10. [output](computer-science/docs/rust/output.md)
+11. [types](computer-science/docs/rust/types.md)
+12. [functions](computer-science/docs/rust/functions.md)
+13. [[blocks]]
