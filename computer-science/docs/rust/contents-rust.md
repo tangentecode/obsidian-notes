@@ -11,3 +11,4 @@
 9. [output](computer-science/docs/rust/output.md)
 10. [types](computer-science/docs/rust/types.md)
 11. [functions](computer-science/docs/rust/functions.md)
+12. [[blocks]]
