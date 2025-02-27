@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/rust/contents-rust.md",
+                "file": "computer-science/courses/comprehensive-rust/exercises/fibonacci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-rust"
+              "title": "fibonacci"
             }
           }
         ],
@@ -168,9 +168,9 @@
   },
   "active": "91dc9913b9176e5c",
   "lastOpenFiles": [
+    "computer-science/docs/rust/contents-rust.md",
     "computer-science/docs/rust/loops.md",
     "computer-science/docs/rust/break-continue.md",
-    "computer-science/docs/rust/contents-rust.md",
     "computer-science/docs/rust/conditionals.md",
     "computer-science/docs/rust/blocks.md",
     "computer-science/docs/rust/playground.md",
