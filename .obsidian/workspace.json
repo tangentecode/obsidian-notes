@@ -35,8 +35,7 @@
               "title": "strings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +165,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "e64ffcbdb3e47c5b",
+  "active": "91dc9913b9176e5c",
   "lastOpenFiles": [
-    "computer-science/docs/c/file-i-o.md",
     "computer-science/docs/c/strings.md",
+    "computer-science/docs/c/file-i-o.md",
     "computer-science/docs/rust/blocks.md",
     "computer-science/courses/comprehensive-rust/exercises/fibonacci.md",
     "computer-science/docs/rust/contents-rust.md",
