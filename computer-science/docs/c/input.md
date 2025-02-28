@@ -27,3 +27,7 @@ scanf("%99s", &name);
 | `%i`                     | `int`    |
 | `%li`                    | `long`   |
 | `%s`                     | `string` |
+```
+
+```
+``
