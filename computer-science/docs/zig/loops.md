@@ -1,35 +1,145 @@
-# Loops
+In Zig, loops are primarily implemented using `while`, `for`, and `inline while/for` constructs. Here's a breakdown of each:
 
-> Run the same code multiple times
+---
 
-## `for` Loop
+### **1. `while` Loop (Basic Looping)**
 
-- Iterates the code in the code as long the condition (the second parameter) is no longer met:
-- Conditions need to have an [operators](computer-science/docs/c/operators.md) in most cases
+The `while` loop executes a block of code as long as a condition is `true`.
 
-```c
-for (int i = 0; i < 3; i++) {
-	// do something three times
+```zig
+var i: usize = 0;
+while (i < 5) : (i += 1) {
+    std.debug.print("Iteration: {}\n", .{i});
 }
 ```
 
-## `while` Loop
+- `i < 5` is the condition.
+- `: (i += 1)` is the post-expression (executed after each iteration).
 
-- Do something as long as the condition after the `while` keyword is true
-- You cannot define the [variable](computer-science/docs/c/variables.md) in the `while` loop like in a `for` loop
+Equivalent manual form:
 
-```python
-int i = 0
-while (i < 3) {
-	// do something three times
-	i++;
+```zig
+var i: usize = 0;
+while (i < 5) {
+    std.debug.print("Iteration: {}\n", .{i});
+    i += 1;
 }
 ```
 
-- If you want to create an infinite loop:
+#### **Breaking a `while` Loop**
 
-```c
+Use `break` to exit early.
+
+```zig
+var i: usize = 0;
+while (i < 10) : (i += 1) {
+    if (i == 5) break;
+    std.debug.print("Iteration: {}\n", .{i});
+}
+```
+
+#### **Skipping Iterations (`continue`)**
+
+Use `continue` to skip to the next iteration.
+
+```zig
+var i: usize = 0;
+while (i < 10) : (i += 1) {
+    if (i % 2 == 0) continue; // Skip even numbers
+    std.debug.print("Odd number: {}\n", .{i});
+}
+```
+
+---
+
+### **2. `for` Loop (Iterating Over Collections)**
+
+The `for` loop iterates over arrays, slices, tuples, or other iterable objects.
+
+```zig
+const list = [_]i32{ 1, 2, 3, 4, 5 };
+for (list) |item| {
+    std.debug.print("Item: {}\n", .{item});
+}
+```
+
+- `list` is the iterable.
+- `|item|` is the value in each iteration.
+
+#### **Iterating with Index**
+
+To get both the index and value:
+
+```zig
+for (list, 0..) |item, index| {
+    std.debug.print("Index: {}, Value: {}\n", .{index, item});
+}
+```
+
+---
+
+### **3. Infinite Loop (`while (true)`)**
+
+A loop that runs indefinitely (useful for event loops).
+
+```zig
 while (true) {
-	// cancel with control+c
+    std.debug.print("Running...\n", .{});
 }
 ```
+
+To break out, use `break` when needed.
+
+---
+
+### **4. `inline while` and `inline for` (Compile-Time Execution)**
+
+Used in `comptime` to unroll loops at compile time.
+
+```zig
+comptime {
+    var i: usize = 0;
+    inline while (i < 3) : (i += 1) {
+        std.debug.print("Compile-time iteration: {}\n", .{i});
+    }
+}
+```
+
+For iterating over tuples at compile time:
+
+```zig
+const tuple = .{ "A", "B", "C" };
+inline for (tuple) |char| {
+    std.debug.print("Compile-time item: {s}\n", .{char});
+}
+```
+
+---
+
+### **5. `while` with Optional Value Unwrapping**
+
+Useful when dealing with optional values.
+
+```zig
+var optional_value: ?i32 = 42;
+while (optional_value) |val| {
+    std.debug.print("Got value: {}\n", .{val});
+    optional_value = null; // End loop
+}
+```
+
+- If `optional_value` is `null`, the loop exits.
+
+---
+
+### **Summary**
+
+|Loop Type|Usage|
+|---|---|
+|`while`|General looping with a condition.|
+|`for`|Iterating over collections like arrays or slices.|
+|`inline while/for`|Compile-time iteration.|
+|`while (true)`|Infinite loops (e.g., event loops).|
+|`while` with optionals|Unwrapping and iterating over `?T`.|
+
+Would you like an example for a specific use case? 🚀
