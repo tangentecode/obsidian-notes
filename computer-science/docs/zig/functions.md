@@ -9,7 +9,13 @@ fn addFive(x: u32) u32 {    return x + 5;}test "function" {    const y = addFive
 Recursion is allowed:
 
 ```zig
-fn fibonacci(n: u16) u16 {    if (n == 0 or n == 1) return n;    return fibonacci(n - 1) + fibonacci(n - 2);}test "function recursion" {    const x = fibonacci(10);    try expect(x == 55);}
+fn fibonacci(n: u16) u16 {
+	if (n == 0 or n == 1) return n;
+	return fibonacci(n - 1) + fibonacci(n - 2);
+	}
+	
+test "function recursion" {
+	const x = fibonacci(10);    try expect(x == 55);}
 ```
 
 When recursion happens, the compiler is no longer able to work out the maximum stack size, which may result in unsafe behaviour - a stack overflow. Details on how to achieve safe recursion will be covered in the future.
