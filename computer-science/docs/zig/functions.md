@@ -1,10 +1,17 @@
 # Functions
 
-**All function arguments are immutable** - if a copy is desired the user must explicitly make one. Unlike variables, which are snake_case, functions are camelCase. Here's an example of declaring and calling a simple function.
+**All function arguments are immutable** - if a copy is desired the user must explicitly make one. Unlike [[computer-science/docs/zig/variables|variables]], which are snake_case, functions are camelCase. Here's an example of declaring and calling a simple function.
 
 ```zig
 fn addFive(x: u32) u32 {    
-	return x + 5;}test "function" {    const y = addFive(0);    try expect(@TypeOf(y) == u32);    try expect(y == 5);}
+	return x + 5;
+}
+
+test "function" {    
+	const y = addFive(0);    
+	try expect(@TypeOf(y) == u32);
+	try expect(y == 5);
+}
 ```
 
 Recursion is allowed:
