@@ -1,60 +1,26 @@
-# Variables
+Value assignment has the following syntax: `(const|var) identifier[: type] = value`.
 
-## Structure
+- `const` indicates that `identifier` is a **constant** that stores an immutable value.
+- `var` indicates that `identifier` is a **variable** that stores a mutable value.
+- `: type` is a [[computer-science/docs/zig/types|type]] annotation for `identifier`, and may be omitted if the data type of `value` can be inferred.
 
-| Data type     | [types](computer-science/docs/c/types.md) (e.g. int, char)                              |
-| ------------- | --------------------------------------------------------------- |
-| Variable name | Anything apart from [[computer-science/docs/c/functions]] names (recommended [[computer-science/docs/c/style]]) |
-| Value         | Needs to be from the data [types](computer-science/docs/c/types.md) declared before     |
+```zig
+const constant: i32 = 5; // signed 32-bit constantvar variable: u32 = 5000; // unsigned 32-bit variable
 
-## Declaration
-
-- Only variable name and type:
-
-```c
-int age;
+// @as performs an explicit type coercion
+const inferred_constant = @as(i32, 5);var inferred_variable = @as(u32, 5000);
 ```
 
-## Definition
+Constants and variables _must_ have a value. If no known value can be given, the [`undefined`](https://ziglang.org/documentation/master/#undefined) value, which coerces to any type, may be used as long as a type annotation is provided.
 
-- Gives a predeclared variable a value:
-
-```c
-age = 18;
+```
+const a: i32 = undefined;var b: u32 = undefined;
 ```
 
-## Initialization
+Coming from JavaScript?
 
-- Combines `Declaration` and `Definition` in one step:
+▼
 
-```c
-int age = 18;
-```
+[](https://zig.guide/language-basics/optionals)
 
-## Incrementation
-
-- Increment/decrement a variable by one with this syntax:
-
-```c
-age++;
-// or
-age --;
-```
-
-## Arrays
-
-- Declare `int scores[3];` with the size that needs to be [allocated](allocate-memory.md) in square brackets
-
-- Define each index individually
-
-```c
-scores[0] = 72;
-scores[1] = 73;
-scores[2] = 33;
-```
-
-or use this syntax
-
-```c
-scores = {72, 73, 33};
-```
+Where possible, `const` values are preferred over `var` values.
