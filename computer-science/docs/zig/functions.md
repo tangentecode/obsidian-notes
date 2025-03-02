@@ -1,6 +1,6 @@
 # Functions
 
-**All function arguments are immutable** - if a copy is desired the user must explicitly make one. Unlike [[computer-science/docs/zig/variables|variables]], which are snake_case, functions are camelCase. Here's an example of declaring and calling a simple function.
+**All function arguments are immutable** - if a copy is desired the user must explicitly make one. Unlike [[computer-science/docs/zig/variables|variables]], which are snake_case, functions are **camelCase**. Here's an example of declaring and calling a simple function.
 
 ```zig
 fn addFive(x: u32) u32 {    
