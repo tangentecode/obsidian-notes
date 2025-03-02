@@ -1,3 +1,5 @@
+# Loops
+
 In Zig, loops are primarily implemented using `while`, `for`, and `inline while/for` constructs. Here's a breakdown of each:
 
 ---
@@ -26,7 +28,7 @@ while (i < 5) {
 }
 ```
 
-#### **Breaking a `while` Loop**
+#### **Breaking A `while` Loop**
 
 Use `break` to exit early.
 
@@ -66,7 +68,7 @@ for (list) |item| {
 - `list` is the iterable.
 - `|item|` is the value in each iteration.
 
-#### **Iterating with Index**
+#### **Iterating With Index**
 
 To get both the index and value:
 
@@ -92,7 +94,7 @@ To break out, use `break` when needed.
 
 ---
 
-### **4. `inline while` and `inline for` (Compile-Time Execution)**
+### **4. `inline while` And `inline for` (Compile-Time Execution)**
 
 Used in `comptime` to unroll loops at compile time.
 
@@ -116,7 +118,7 @@ inline for (tuple) |char| {
 
 ---
 
-### **5. `while` with Optional Value Unwrapping**
+### **5. `while` With Optional Value Unwrapping**
 
 Useful when dealing with optional values.
 
@@ -134,12 +136,12 @@ while (optional_value) |val| {
 
 ### **Summary**
 
-|Loop Type|Usage|
-|---|---|
-|`while`|General looping with a condition.|
-|`for`|Iterating over collections like arrays or slices.|
-|`inline while/for`|Compile-time iteration.|
-|`while (true)`|Infinite loops (e.g., event loops).|
-|`while` with optionals|Unwrapping and iterating over `?T`.|
+| Loop Type              | Usage                                             |
+| ---------------------- | ------------------------------------------------- |
+| `while`                | General looping with a condition.                 |
+| `for`                  | Iterating over collections like arrays or slices. |
+| `inline while/for`     | Compile-time iteration.                           |
+| `while (true)`         | Infinite loops (e.g., event loops).               |
+| `while` with optionals | Unwrapping and iterating over `?T`.               |
 
-Would you like an example for a specific use case? 🚀
+�

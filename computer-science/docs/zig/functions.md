@@ -1,29 +1,21 @@
 # Functions
 
-## Structure
+**All function arguments are immutable** - if a copy is desired the user must explicitly make one. Unlike variables, which are snake_case, functions are camelCase. Here's an example of declaring and calling a simple function.
 
-| Return type    | `int`, `char`,… (No return value: `void`)                                     |
-| -------------- | ------------------------------------------------------------------------------- |
-| Functions name | Anything apart from variable names (Recommended [style](computer-science/docs/c/style.md))               |
-| Parameters     | Data passed in to the local scope of the function (use `void` for no parameters) |
-
-## Example
-
-```c
-void example(int age) {
-	// do something
-}
+```
+fn addFive(x: u32) u32 {    return x + 5;}test "function" {    const y = addFive(0);    try expect(@TypeOf(y) == u32);    try expect(y == 5);}
 ```
 
-## `main` Function
+Recursion is allowed:
 
-- Every C Program needs to have a `main` function.
-- It acts like an entry point for the program
-- The `main` functions always returns an `int`
-- If the `int` is not zero there was an error in the programm
+```zig
+fn fibonacci(n: u16) u16 {    if (n == 0 or n == 1) return n;    return fibonacci(n - 1) + fibonacci(n - 2);}test "function recursion" {    const x = fibonacci(10);    try expect(x == 55);}
+```
 
-```c
-int main(void) {
-	// do something
-}
+When recursion happens, the compiler is no longer able to work out the maximum stack size, which may result in unsafe behaviour - a stack overflow. Details on how to achieve safe recursion will be covered in the future.
+
+Values can be ignored using `_` instead of a variable or const declaration. This does not work at the global scope (i.e. it only works inside functions and blocks) and is useful for ignoring the values returned from functions if you do not need them.
+
+```zig
+_ = 10;
 ```

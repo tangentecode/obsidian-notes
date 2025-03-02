@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/zig/loops.md",
+                "file": "computer-science/docs/zig/functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loops"
+              "title": "functions"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "active": "6ba0fedbcda9789f",
   "lastOpenFiles": [
+    "computer-science/docs/zig/loops.md",
     "computer-science/docs/zig/conditionals.md",
     "computer-science/docs/zig/arrays.md",
     "computer-science/docs/zig/variables.md",
@@ -173,7 +174,6 @@
     "computer-science/docs/zig/pointers.md",
     "computer-science/docs/zig/output.md",
     "computer-science/docs/zig/operators.md",
-    "computer-science/docs/zig/loops.md",
     "computer-science/docs/zig/looping-over-arrays.md",
     "computer-science/docs/zig/libraries.md",
     "computer-science/docs/zig/input.md",
