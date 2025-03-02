@@ -1,35 +1,15 @@
-# Conditionals
+Zig's if statements accept `bool` values (i.e. `true` or `false`). Unlike languages like C or JavaScript, there are no values that implicitly coerce to bool values.
 
-## Compare Two Values
+Ternary conditional operators (cond ? a : b) do not exist in zig.
 
-with multiple conditions
-
-```c
-if (x > y) {
-	// do something
-}
-else if (x < y) {
-	// do something else
-}
-else {
-	// previous conditions not met
-}
+```
+const expect = @import("std").testing.expect;test "if statement" {    const a = true;    var x: u16 = 0;    if (a) {        x += 1;    } else {        x += 2;    }    try expect(x == 1);}
 ```
 
-## Chain Conditions
+If statements also work as expressions.
 
-### 1. And
-
-```c
-if (x > y && x == y) {
-	// both conditions are met
-}
 ```
-
-### 2. Or
-
-```c
-if (x > y || x == y) {
-	// one or more of the conditions are met
-}
+test "if statement expression" {
+	const a = true;
+	var x: u16 = 0;    x += if (a) 1 else 2;    try expect(x == 1);}
 ```
