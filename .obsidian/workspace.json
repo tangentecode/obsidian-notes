@@ -35,8 +35,7 @@
               "title": "globals-heap-stack"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,8 +165,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "0a9f5172ac46bb98",
+  "active": "6ba0fedbcda9789f",
   "lastOpenFiles": [
+    "computer-science/docs/basics/memory/globals-heap-stack.md",
     "computer-science/docs/zig/loops.md",
     "computer-science/docs/zig/converting-input.md",
     "computer-science/docs/zig/contents-zig.md",
@@ -193,7 +193,6 @@
     "computer-science/docs/zig/pointers.md",
     "computer-science/docs/zig/output.md",
     "computer-science/docs/zig/operators.md",
-    "computer-science/docs/zig/looping-over-arrays.md",
     "computer-science/docs/zig",
     "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/courses/comprehensive-rust/exercises",
