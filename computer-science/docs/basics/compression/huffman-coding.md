@@ -38,6 +38,8 @@ D(1)    C(1)    B(2)    A(3)
 
 ### 4. Build Tree
 
- - Repeat the step above but combine the least frequent character that is not connected to a node with the previusly created node
+ - Repeat the step above but combine the least frequent character that is not connected to a node with the previously created node
+ - This step must be repeated as often as there are no **Leaf Nodes**
+
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
