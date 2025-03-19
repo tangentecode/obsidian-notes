@@ -31,10 +31,11 @@ D(1)    C(1)    B(2)    A(3)
 - Start by combining the frequency of the 2 least frequent characters and connect those with a node
 - In this case:
 ```plaintext
-
- 
+ |--(2)--|
+ |       |
 D(1)    C(1)    B(2)    A(3)
 ```
 
+### 4. Build Tree
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
