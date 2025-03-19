@@ -21,12 +21,12 @@ Compresses and decodes any string to bits
 
 - Create a node for each character in your frequency table and sort the from least frequent to most frequent
 - A Node could look like something like this:
-
 ```plaintext
 Leaf Nodes:
-
-
+D(1)    C(1)    B(2)    A(3)
 ```
+
+### 3. 
 
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
