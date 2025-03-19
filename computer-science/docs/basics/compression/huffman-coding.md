@@ -4,9 +4,14 @@ Compresses and decodes any string to bits
 
 ## Example
 
-**Input string: 
+**Input string:** "AABCBAD"
 
 ### 1. [[rle]] (Frequency Table)
+
+
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
 
 
 
