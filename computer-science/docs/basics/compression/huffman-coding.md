@@ -26,12 +26,14 @@ Leaf Nodes:
 D(1)    C(1)    B(2)    A(3)
 ```
 
-### 3. Build tree
+### 3. First Combining
 
-- Combine the frequency of the 2 least frequent characters and connect those with a node
-
+- Start by combining the frequency of the 2 least frequent characters and connect those with a node
+- In this case:
 ```plaintext
 
+ 
+D(1)    C(1)    B(2)    A(3)
 ```
 
 
