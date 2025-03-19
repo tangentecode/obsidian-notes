@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/zig/loops.md",
+                "file": "computer-science/docs/basics/compression/rle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "loops"
+              "title": "rle"
             }
           }
         ]
@@ -153,10 +153,13 @@
   },
   "active": "9b48b9624dea4f22",
   "lastOpenFiles": [
+    "computer-science/docs/zig/loops.md",
+    "computer-science/docs/basics/compression/rle.md",
+    "computer-science/docs/basics/compression",
+    "computer-science/docs/basics/Untitled.md",
     "computer-science/docs/zig/jetzig/quickstart.md",
     "computer-science/docs/zig/jetzig/contents-jetzig.md",
     "computer-science/docs/zig/jetzig",
-    "computer-science/docs/zig/loops.md",
     "computer-science/docs/basics/memory/globals-heap-stack.md",
     "computer-science/docs/c/comments.md",
     "computer-science/docs/zig/converting-input.md",
@@ -178,8 +181,6 @@
     "computer-science/docs/zig/strings.md",
     "computer-science/docs/zig/run-programm.md",
     "computer-science/docs/zig/reallocate-memory.md",
-    "computer-science/docs/zig/random.md",
-    "computer-science/docs/zig/preprocessor-statements.md",
     "computer-science/docs/zig",
     "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/courses/comprehensive-rust/exercises",
@@ -189,7 +190,6 @@
     "computer-science/courses/cs50p/certificates/CS50P.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.png",
-    "computer-science/courses/cs50x/certificates/CS50x-A4.pdf",
     "computer-science/courses/cs50x/certificates/CS50x-A4.png",
     "img/url.jpg.png",
     "img/url-after-dns.jpg.png",

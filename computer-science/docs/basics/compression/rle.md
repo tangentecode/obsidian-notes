@@ -1,0 +1,1 @@
+**RLE** Compression is a bas
