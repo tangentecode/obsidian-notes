@@ -44,13 +44,16 @@ D(1)    C(1)    B(2)    A(3)
 
 ```plaintext
 
-
-
+				 |--(7)--| 
+                 |	     |
+		 |--(4)--|      A(3)
          |       |	
- |--(2)--|      B(2)    A(3)
+ |--(2)--|      B(2)    
  |       |
 D(1)    C(1)    
 
 ```
+
+#
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
