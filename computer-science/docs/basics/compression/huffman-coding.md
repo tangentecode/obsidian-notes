@@ -1,7 +1,12 @@
+# Huffman-coding
+
 Compresses and decodes any string to bits
 
-### 1. [[rle]]
+## Example
 
+**Input string: 
+
+### 1. [[rle]] (Frequency Table)
 
 
 
