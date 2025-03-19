@@ -17,7 +17,9 @@ Compresses and decodes any string to bits
 | C        | 1             |
 | D        | 1             |
 
-### 2. 
+### 2. Create Leaf Nodes
+
+- Create a node for each character in your frequency table and 
 
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
