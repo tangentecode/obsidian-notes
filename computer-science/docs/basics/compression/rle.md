@@ -1,1 +1,1 @@
-**RLE** Compression is a bas
+**RLE** Compression is a basic compression method which just replaces multiple same characters after each other with t
