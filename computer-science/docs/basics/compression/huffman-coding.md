@@ -58,6 +58,6 @@ D(1)    C(1)
 
 - The left connection of a node as a **0** while the right connection is a **1**
 - Now look up the path to your current char beginning from the **Root** and write down the 1/0 
-
+- Path to **C** would be  `001`
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
