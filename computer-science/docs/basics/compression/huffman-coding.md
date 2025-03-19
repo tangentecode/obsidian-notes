@@ -9,9 +9,12 @@ Compresses and decodes any string to bits
 ### 1. [[rle]] (Frequency Table)
 
 
-|     |     |     |
-| --- | --- | --- |
-|     |     |     |
+| **char** | **frequency** |
+| -------- | ------------- |
+| A        | 3             |
+| B        | 2             |
+| C        | 1             |
+|          |               |
 
 
 
