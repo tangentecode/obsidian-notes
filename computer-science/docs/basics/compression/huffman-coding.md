@@ -21,6 +21,7 @@ Compresses and decodes any string to bits
 
 - Create a node for each character in your frequency table and sort the from least frequent to most frequent
 - A Node could look like something like this:
+
 ```plaintext
 Leaf Nodes:
 D(1)    C(1)    B(2)    A(3)
@@ -30,6 +31,7 @@ D(1)    C(1)    B(2)    A(3)
 
 - Start by combining the frequency of the 2 least frequent characters and connect those with a node
 - In this case:
+
 ```plaintext
  |--(2)--|
  |       |
@@ -58,6 +60,7 @@ D(1)    C(1)
 
 - The left connection of a node as a **0** while the right connection is a **1**
 - Now look up the path to your current char beginning from the **Root** and write down the 1/0 
-- Path to **C** would be  `001`
+- Path to **C** would be `010`
+- Repeat this process for each character
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
