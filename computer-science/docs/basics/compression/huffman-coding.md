@@ -54,6 +54,9 @@ D(1)    C(1)
 
 ```
 
-#
+### 5. Decode with Tree
+
+- The left connection of a node as a **0** while the right connection is a **1**
+- Now look 
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
