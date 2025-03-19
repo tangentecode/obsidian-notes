@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "29cf74cdaf33dd39",
+        "id": "b2ab3c5b12aefb28",
         "type": "tabs",
         "children": [
           {
-            "id": "55da38eb4157f128",
+            "id": "60361a9d2dd33f14",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "computer-science/docs/basics/compression/huffman-coding.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "huffman-coding"
             }
           }
         ]
@@ -147,7 +151,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "55da38eb4157f128",
+  "active": "60361a9d2dd33f14",
   "lastOpenFiles": [
     "computer-science/docs/basics/compression/huffman-coding.md",
     "computer-science/docs/basics/compression/rle.md",
