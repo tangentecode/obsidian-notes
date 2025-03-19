@@ -26,7 +26,9 @@ Leaf Nodes:
 D(1)    C(1)    B(2)    A(3)
 ```
 
-### 3. 
+### 3. Build tree
+
+- Start by combining the frequency of the 2 
 
 
 > Step-by-Step Example [here](https://www.youtube.com/watch?v=iEm1NRyEe5c)
