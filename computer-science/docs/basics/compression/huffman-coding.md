@@ -1,5 +1,6 @@
+Compresses and decodes any string to bits
 
-
+### 1. [[rle]]
 
 
 
