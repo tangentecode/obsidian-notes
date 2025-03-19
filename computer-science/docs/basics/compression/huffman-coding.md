@@ -43,7 +43,12 @@ D(1)    C(1)    B(2)    A(3)
 - Complete Tree:
 
 ```plaintext
-
+ 
+				   
+				 |
+ |--(2)--|      B(2)    A(3)
+ |       |
+D(1)    C(1)    
 
 ```
 
