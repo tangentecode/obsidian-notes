@@ -23,7 +23,7 @@ Compresses and decodes any string to bits
 - A Node could look like something like this:
 
 ```plaintext
-Leaf Nodes:
+Leave Nodes:
 D(1)    C(1)    B(2)    A(3)
 ```
 
