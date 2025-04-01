@@ -35,8 +35,7 @@
               "title": "loops"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,11 +165,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "b8a9c964b323804f",
+  "active": "60361a9d2dd33f14",
   "lastOpenFiles": [
+    "computer-science/docs/zig/loops.md",
     "computer-science/docs/basics/compression/huffman-coding.md",
     "computer-science/docs/basics/compression/rle.md",
-    "computer-science/docs/zig/loops.md",
     "computer-science/docs/basics/compression",
     "computer-science/docs/basics/Untitled.md",
     "computer-science/docs/zig/jetzig/quickstart.md",
