@@ -11,7 +11,8 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar",
-    "editor:insert-codeblock"
+    "editor:insert-codeblock",
+    "editor:insert-table"
   ],
   "promptDelete": false
 }
