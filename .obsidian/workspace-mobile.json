@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/courses/informatik-ggg/digitaltechnik.md",
+                "file": "computer-science/docs/basics/binary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "digitaltechnik"
+              "title": "binary"
             }
           }
         ]
@@ -143,8 +143,9 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
-    "computer-science/content-computer-science.md",
+    "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/informatik-ggg/digitaltechnik.md",
+    "computer-science/content-computer-science.md",
     "computer-science/docs/zig/contents-zig.md",
     "computer-science/docs/contents-docs.md",
     "computer-science/docs/Untitled.md",
@@ -157,7 +158,6 @@
     "computer-science/docs/rust/loops.md",
     "computer-science/docs/rust/conditionals.md",
     "computer-science/docs/javascript/nodejs/contents-nodejs.md",
-    "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/cs50x/certificates/CS50x-A4.pdf",
     "computer-science/courses/cs50x/certificates",
     "computer-science/docs/python/flask/contents-flask.md",
