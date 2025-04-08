@@ -11,14 +11,12 @@
             "id": "bfe7f29a535ae751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "computer-science/docs/basics/binary.md",
-                "mode": "source",
-                "source": false
+                "file": "computer-science/courses/web-dev-for-beginners/readme.pdf"
               },
-              "icon": "lucide-file",
-              "title": "binary"
+              "icon": "lucide-file-text",
+              "title": "readme"
             }
           }
         ]
@@ -143,6 +141,9 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/basics/running-time.md",
+    "computer-science/courses/web-dev-for-beginners/readme.pdf",
+    "computer-science/docs/basics/binary.md",
     "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/informatik-ggg/digitaltechnik.md",
     "computer-science/content-computer-science.md",
@@ -174,12 +175,8 @@
     "computer-science/docs/rust/functions.md",
     "computer-science/docs/rust/playground.md",
     "computer-science/docs/rust/what-is-rust.md",
-    "computer-science/docs/rust/executing-code.md",
     "computer-science/docs/rust",
-    "computer-science/courses/informatik-ggg/contents-informatik-ggg.md",
     "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
-    "computer-science/docs/python/flask/sessions.md",
-    "computer-science/courses/cs50x/certificates/CS50x.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x-A4.png",
