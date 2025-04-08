@@ -11,12 +11,14 @@
             "id": "bfe7f29a535ae751",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "computer-science/courses/web-dev-for-beginners/readme.pdf"
+                "file": "computer-science/docs/python/flask/sessions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "readme"
+              "icon": "lucide-file",
+              "title": "sessions"
             }
           }
         ]
@@ -117,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/courses/web-dev-for-beginners/readme.pdf",
+            "file": "computer-science/docs/python/flask/sessions.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -141,8 +143,8 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
-    "computer-science/docs/basics/running-time.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
+    "computer-science/docs/basics/running-time.md",
     "computer-science/docs/basics/binary.md",
     "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/informatik-ggg/digitaltechnik.md",
