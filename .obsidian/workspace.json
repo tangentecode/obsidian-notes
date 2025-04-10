@@ -180,6 +180,7 @@
       "graph:Open graph view": false
     }
   },
+<<<<<<< HEAD
   "active": "1f4dc05cb9d78603",
   "lastOpenFiles": [
     "computer-science/docs/c/file-i-o.md",
@@ -194,6 +195,39 @@
     "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
     "computer-science/docs/rust/output.md",
     "computer-science/content-computer-science.md",
+=======
+  "active": "b8a9c964b323804f",
+  "lastOpenFiles": [
+    "computer-science/docs/basics/compression/huffman-coding.md",
+    "computer-science/docs/basics/compression/rle.md",
+    "computer-science/docs/zig/loops.md",
+    "computer-science/docs/basics/compression",
+    "computer-science/docs/basics/Untitled.md",
+    "computer-science/docs/zig/jetzig/quickstart.md",
+    "computer-science/docs/zig/jetzig/contents-jetzig.md",
+    "computer-science/docs/zig/jetzig",
+    "computer-science/docs/basics/memory/globals-heap-stack.md",
+    "computer-science/docs/c/comments.md",
+    "computer-science/docs/zig/converting-input.md",
+    "computer-science/docs/zig/contents-zig.md",
+    "computer-science/docs/zig/defer.md",
+    "computer-science/docs/zig/errors.md",
+    "computer-science/docs/zig/functions.md",
+    "computer-science/docs/zig/conditionals.md",
+    "computer-science/docs/zig/arrays.md",
+    "computer-science/docs/zig/variables.md",
+    "computer-science/docs/zig/comments.md",
+    "computer-science/docs/zig/allocate-memory.md",
+    "computer-science/docs/zig/access-memory.md",
+    "computer-science/docs/zig/types.md",
+    "computer-science/docs/c/contents-zig.md",
+    "computer-science/docs/c/variables.md",
+    "computer-science/docs/zig/style.md",
+    "computer-science/docs/zig/structs.md",
+    "computer-science/docs/zig/strings.md",
+    "computer-science/docs/zig/run-programm.md",
+    "computer-science/docs/zig",
+>>>>>>> parent of f1b4530 (vault backup: 2025-04-01 14:16:29)
     "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/docs/css/comments.md",
     "computer-science/docs/css/basics.md",
