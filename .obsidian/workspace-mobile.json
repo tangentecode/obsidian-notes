@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/methods.md",
+                "file": "computer-science/docs/python/flask/templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "methods"
+              "title": "templates"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/python/flask/methods.md",
+            "file": "computer-science/docs/python/flask/templates.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,6 +143,7 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/methods.md",
     "computer-science/docs/python/flask/installation.md",
     "computer-science/docs/python/flask/initialization.md",
     "computer-science/docs/python/flask/running.md",
@@ -169,7 +170,6 @@
     "computer-science/courses/informatik-ggg/digitaltechnik.md",
     "computer-science/content-computer-science.md",
     "computer-science/docs/zig/contents-zig.md",
-    "computer-science/docs/contents-docs.md",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
     "/computer-science/docs",
