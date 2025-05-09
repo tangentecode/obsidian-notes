@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/input.md",
+                "file": "computer-science/docs/basics/http/methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "input"
+              "title": "methods"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/python/input.md",
+            "file": "computer-science/docs/basics/http/methods.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -141,17 +141,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfe7f29a535ae751",
+  "active": "ab3a2c172c89a8ae",
   "lastOpenFiles": [
+    "computer-science/docs/basics/http/process.md",
+    "computer-science/docs/basics/rgb.md",
+    "computer-science/docs/basics/running-time.md",
+    "computer-science/docs/basics/regex.md",
+    "computer-science/docs/basics/pixel-art.md",
+    "computer-science/docs/basics/hexadecimal.md",
+    "computer-science/docs/basics/ascii.md",
+    "computer-science/docs/basics/binary.md",
+    "computer-science/docs/python/flask/placeholder.md",
+    "computer-science/docs/python/flask/sessions.md",
+    "computer-science/docs/python/output.md",
+    "computer-science/docs/python/input.md",
     "computer-science/docs/python/exit.md",
     "computer-science/docs/python/csv.md",
     "computer-science/docs/python/command-line-arguments.md",
     "computer-science/docs/python/pyqt6-guide/projects/2048.md",
     "computer-science/docs/python/flask/installation.md",
-    "computer-science/docs/python/flask/sessions.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
-    "computer-science/docs/basics/running-time.md",
-    "computer-science/docs/basics/binary.md",
     "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/informatik-ggg/digitaltechnik.md",
     "computer-science/content-computer-science.md",
@@ -165,19 +174,10 @@
     "/computer-science/docs",
     "/computer-science",
     "computer-science/docs/rust/loops.md",
-    "computer-science/docs/rust/conditionals.md",
-    "computer-science/docs/javascript/nodejs/contents-nodejs.md",
     "computer-science/courses/cs50x/certificates/CS50x-A4.pdf",
     "computer-science/courses/cs50x/certificates",
-    "computer-science/docs/python/flask/contents-flask.md",
     "computer-science/courses/cs50x/certificates/CS50x-A4.png",
-    "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
-    "computer-science/courses/comprehensive-rust/keyboard-shortcuts.md",
     "computer-science/courses/comprehensive-rust",
-    "computer-science/docs/rust/rust-ecosystem.md",
-    "computer-science/docs/rust/variables.md",
-    "computer-science/docs/rust/creating-project.md",
-    "computer-science/docs/rust/installation.md",
     "computer-science/docs/rust",
     "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.png",
