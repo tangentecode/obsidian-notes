@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/sessions.md",
+                "file": "computer-science/docs/python/flask/placeholder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sessions"
+              "title": "placeholder"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/python/flask/sessions.md",
+            "file": "computer-science/docs/python/flask/placeholder.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,12 +143,12 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/sessions.md",
     "computer-science/docs/python/flask/running.md",
     "computer-science/docs/python/flask/templates.md",
     "computer-science/docs/python/flask/methods.md",
     "computer-science/docs/python/flask/installation.md",
     "computer-science/docs/python/flask/initialization.md",
-    "computer-science/docs/python/flask/sessions.md",
     "computer-science/docs/python/flask/advanced.md",
     "computer-science/docs/basics/http/methods.md",
     "computer-science/docs/basics/http/process.md",
