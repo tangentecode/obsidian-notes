@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/templates.md",
+                "file": "computer-science/docs/python/flask/sessions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "templates"
+              "title": "sessions"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/python/flask/templates.md",
+            "file": "computer-science/docs/python/flask/running.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,10 +143,11 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/running.md",
+    "computer-science/docs/python/flask/templates.md",
     "computer-science/docs/python/flask/methods.md",
     "computer-science/docs/python/flask/installation.md",
     "computer-science/docs/python/flask/initialization.md",
-    "computer-science/docs/python/flask/running.md",
     "computer-science/docs/python/flask/sessions.md",
     "computer-science/docs/python/flask/advanced.md",
     "computer-science/docs/basics/http/methods.md",
@@ -169,7 +170,6 @@
     "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/informatik-ggg/digitaltechnik.md",
     "computer-science/content-computer-science.md",
-    "computer-science/docs/zig/contents-zig.md",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
     "/computer-science/docs",
