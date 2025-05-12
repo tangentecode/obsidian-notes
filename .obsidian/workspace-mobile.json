@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/placeholder.md",
+                "file": "computer-science/docs/python/flask/templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "placeholder"
+              "title": "templates"
             }
           }
         ]
@@ -143,6 +143,8 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/html-templates.md",
+    "computer-science/docs/python/flask/placeholder.md",
     "computer-science/docs/python/flask/sessions.md",
     "computer-science/docs/python/flask/running.md",
     "computer-science/docs/python/flask/templates.md",
@@ -159,7 +161,6 @@
     "computer-science/docs/basics/hexadecimal.md",
     "computer-science/docs/basics/ascii.md",
     "computer-science/docs/basics/binary.md",
-    "computer-science/docs/python/flask/placeholder.md",
     "computer-science/docs/python/output.md",
     "computer-science/docs/python/input.md",
     "computer-science/docs/python/exit.md",
@@ -169,7 +170,6 @@
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/courses/informatik-ggg/fehler-in-programmen.md",
     "computer-science/courses/informatik-ggg/digitaltechnik.md",
-    "computer-science/content-computer-science.md",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
     "/computer-science/docs",
