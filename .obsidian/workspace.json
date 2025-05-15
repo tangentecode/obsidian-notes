@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/sessions.md",
+                "file": "computer-science/docs/python/flask/templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sessions"
+              "title": "templates"
             }
           }
         ]
@@ -156,5 +156,8 @@
     }
   },
   "active": "7537ffdb1d9fda46",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "computer-science/docs/python/flask/html-templates.md",
+    "computer-science/docs/python/flask/sessions.md"
+  ]
 }
