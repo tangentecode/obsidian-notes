@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/c/preprocessor-statements.md",
+                "file": "computer-science/docs/sql/special-commands/join.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "preprocessor-statements"
+              "title": "join"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/c/preprocessor-statements.md",
+            "file": "computer-science/docs/sql/special-commands/join.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,6 +143,10 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/sql/basics.md",
+    "computer-science/docs/c/file-i-o.md",
+    "computer-science/docs/c/pointers.md",
+    "computer-science/docs/c/preprocessor-statements.md",
     "computer-science/docs/c/random.md",
     "computer-science/docs/zig/contents-zig.md",
     "computer-science/docs/python/flask/templates.md",
@@ -165,10 +169,6 @@
     "computer-science/docs/basics/binary.md",
     "computer-science/docs/python/output.md",
     "computer-science/docs/python/input.md",
-    "computer-science/docs/python/exit.md",
-    "computer-science/docs/python/csv.md",
-    "computer-science/docs/python/command-line-arguments.md",
-    "computer-science/docs/python/pyqt6-guide/projects/2048.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
