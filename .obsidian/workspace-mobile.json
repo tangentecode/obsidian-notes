@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sql/special-commands/join.md",
+                "file": "computer-science/docs/sql/additional/types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "join"
+              "title": "types"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/sql/special-commands/join.md",
+            "file": "computer-science/docs/sql/additional/types.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,6 +143,13 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/sql/additional/special-constraints.md",
+    "computer-science/docs/sql/additional/comments.md",
+    "computer-science/docs/sql/special-commands/where.md",
+    "computer-science/docs/sql/special-commands/order-by.md",
+    "computer-science/docs/sql/special-commands/limit.md",
+    "computer-science/docs/sql/special-commands/like.md",
+    "computer-science/docs/sql/special-commands/join.md",
     "computer-science/docs/sql/basics.md",
     "computer-science/docs/c/file-i-o.md",
     "computer-science/docs/c/pointers.md",
@@ -162,13 +169,6 @@
     "computer-science/docs/basics/http/process.md",
     "computer-science/docs/basics/rgb.md",
     "computer-science/docs/basics/running-time.md",
-    "computer-science/docs/basics/regex.md",
-    "computer-science/docs/basics/pixel-art.md",
-    "computer-science/docs/basics/hexadecimal.md",
-    "computer-science/docs/basics/ascii.md",
-    "computer-science/docs/basics/binary.md",
-    "computer-science/docs/python/output.md",
-    "computer-science/docs/python/input.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
