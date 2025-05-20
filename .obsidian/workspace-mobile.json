@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/sql/additional/types.md",
+                "file": "computer-science/docs/basics/bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "types"
+              "title": "bash"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/sql/additional/types.md",
+            "file": "computer-science/docs/basics/bash.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,6 +143,13 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/basics/binary.md",
+    "computer-science/docs/basics/bash.md",
+    "computer-science/docs/basics/ascii.md",
+    "computer-science/docs/basics/searching/linear-search.md",
+    "computer-science/docs/basics/searching/contents-searching.md",
+    "computer-science/docs/basics/searching/binary-search.md",
+    "computer-science/docs/sql/additional/types.md",
     "computer-science/docs/sql/additional/special-constraints.md",
     "computer-science/docs/sql/additional/comments.md",
     "computer-science/docs/sql/special-commands/where.md",
@@ -162,13 +169,6 @@
     "computer-science/docs/python/flask/sessions.md",
     "computer-science/docs/python/flask/running.md",
     "computer-science/docs/python/flask/methods.md",
-    "computer-science/docs/python/flask/installation.md",
-    "computer-science/docs/python/flask/initialization.md",
-    "computer-science/docs/python/flask/advanced.md",
-    "computer-science/docs/basics/http/methods.md",
-    "computer-science/docs/basics/http/process.md",
-    "computer-science/docs/basics/rgb.md",
-    "computer-science/docs/basics/running-time.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
