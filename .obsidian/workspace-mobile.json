@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/bash.md",
+                "file": "computer-science/docs/python/flask/html-templates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bash"
+              "title": "html-templates"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/basics/bash.md",
+            "file": "computer-science/docs/basics/running-time.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,6 +143,12 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/basics/running-time.md",
+    "computer-science/docs/basics/rgb.md",
+    "computer-science/docs/basics/regex.md",
+    "computer-science/docs/basics/pixel-art.md",
+    "computer-science/docs/basics/hexadecimal.md",
+    "computer-science/docs/basics/contents-basic.md",
     "computer-science/docs/basics/binary.md",
     "computer-science/docs/basics/bash.md",
     "computer-science/docs/basics/ascii.md",
@@ -163,12 +169,6 @@
     "computer-science/docs/c/preprocessor-statements.md",
     "computer-science/docs/c/random.md",
     "computer-science/docs/zig/contents-zig.md",
-    "computer-science/docs/python/flask/templates.md",
-    "computer-science/docs/python/flask/html-templates.md",
-    "computer-science/docs/python/flask/placeholder.md",
-    "computer-science/docs/python/flask/sessions.md",
-    "computer-science/docs/python/flask/running.md",
-    "computer-science/docs/python/flask/methods.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
