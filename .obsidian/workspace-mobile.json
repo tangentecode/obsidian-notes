@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "computer-science/courses/web-dev-for-beginners/readme.pdf"
+                "file": "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "readme"
+              "title": "comprehensive-rust"
             }
           }
         ]
@@ -141,6 +141,9 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
+    "computer-science/courses/content-courses.md",
+    "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/docs/python/flask/templates.md",
     "mathematics",
     "computer-science/docs/python/flask/html-templates.md",
@@ -166,9 +169,6 @@
     "computer-science/docs/sql/special-commands/join.md",
     "computer-science/docs/sql/basics.md",
     "computer-science/docs/c/file-i-o.md",
-    "computer-science/docs/c/pointers.md",
-    "computer-science/docs/c/preprocessor-statements.md",
-    "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
     "/computer-science/docs",
