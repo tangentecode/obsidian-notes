@@ -11,12 +11,14 @@
             "id": "bfe7f29a535ae751",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf"
+                "file": "computer-science/docs/linux/system-services.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "comprehensive-rust"
+              "icon": "lucide-file",
+              "title": "system-services"
             }
           }
         ]
@@ -141,19 +143,24 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/linux/wsl.md",
+    "computer-science/docs/linux/system-services.md",
+    "computer-science/docs/basics/binary.md",
+    "computer-science/docs/basics/contents-basic.md",
+    "computer-science/docs/basics/hexadecimal.md",
+    "computer-science/docs/basics/pixel-art.md",
+    "computer-science/docs/basics/running-time.md",
+    "computer-science/docs/basics/rgb.md",
+    "computer-science/docs/basics/regex.md",
+    "computer-science/courses/comprehensive-rust/keyboard-shortcuts.md",
+    "computer-science/courses/comprehensive-rust/exercises/fibonacci.md",
+    "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/courses/comprehensive-rust/contents-comprehensive-rust.md",
     "computer-science/courses/content-courses.md",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "computer-science/docs/python/flask/templates.md",
     "mathematics",
     "computer-science/docs/python/flask/html-templates.md",
-    "computer-science/docs/basics/running-time.md",
-    "computer-science/docs/basics/rgb.md",
-    "computer-science/docs/basics/regex.md",
-    "computer-science/docs/basics/pixel-art.md",
-    "computer-science/docs/basics/hexadecimal.md",
-    "computer-science/docs/basics/contents-basic.md",
-    "computer-science/docs/basics/binary.md",
     "computer-science/docs/basics/bash.md",
     "computer-science/docs/basics/ascii.md",
     "computer-science/docs/basics/searching/linear-search.md",
@@ -165,10 +172,6 @@
     "computer-science/docs/sql/special-commands/where.md",
     "computer-science/docs/sql/special-commands/order-by.md",
     "computer-science/docs/sql/special-commands/limit.md",
-    "computer-science/docs/sql/special-commands/like.md",
-    "computer-science/docs/sql/special-commands/join.md",
-    "computer-science/docs/sql/basics.md",
-    "computer-science/docs/c/file-i-o.md",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
     "/computer-science/docs",
@@ -177,7 +180,6 @@
     "computer-science/courses/cs50x/certificates",
     "computer-science/courses/cs50x/certificates/CS50x-A4.png",
     "computer-science/courses/comprehensive-rust",
-    "computer-science/docs/rust",
     "computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x-A4.png",
