@@ -11,14 +11,12 @@
             "id": "bfe7f29a535ae751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "computer-science/docs/python/flask/templates.md",
-                "mode": "source",
-                "source": false
+                "file": "computer-science/courses/web-dev-for-beginners/readme.pdf"
               },
-              "icon": "lucide-file",
-              "title": "templates"
+              "icon": "lucide-file-text",
+              "title": "readme"
             }
           }
         ]
@@ -143,6 +141,7 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/python/flask/templates.md",
     "mathematics",
     "computer-science/docs/python/flask/html-templates.md",
     "computer-science/docs/basics/running-time.md",
@@ -179,7 +178,6 @@
     "computer-science/courses/cs50x/certificates/CS50x-A4.png",
     "computer-science/courses/comprehensive-rust",
     "computer-science/docs/rust",
-    "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x-A4.png",
