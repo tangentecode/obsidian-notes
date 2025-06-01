@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics/courses/mathematics-(all-of-it).md",
+                "file": "mathematics/courses/contents-courses.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mathematics-(all-of-it)"
+              "title": "contents-courses"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "mathematics/courses/mathematics-(all-of-it).md",
+            "file": "mathematics/courses/contents-courses.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,8 +143,8 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
-    "mathematics/courses/contents-courses.md",
     "mathematics/courses/mathematics-(all-of-it).md",
+    "mathematics/courses/contents-courses.md",
     "mathematics/contents-mathematics.md",
     "mathematics/courses",
     "mathematics/algebra/contents-algebra.md",
