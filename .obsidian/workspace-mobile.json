@@ -11,12 +11,14 @@
             "id": "bfe7f29a535ae751",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/http-request.png"
+                "file": "computer-science/docs/basics/searching/binary-search.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "http-request"
+              "icon": "lucide-file",
+              "title": "binary-search"
             }
           }
         ]
@@ -117,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "img/http-request.png",
+            "file": "computer-science/docs/basics/searching/binary-search.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -139,8 +141,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfe7f29a535ae751",
+  "active": "ab3a2c172c89a8ae",
   "lastOpenFiles": [
+    "computer-science/docs/basics/running-time.md",
+    "img/big-o-notation.png",
+    "img/http-request.png",
     "img/http-process.PNG",
     "img/hash-table-basic.png",
     "img/hash-algorithms-collisions.png",
@@ -149,7 +154,6 @@
     "img/client-server.png",
     "img/request.png",
     "img/ip-url.png",
-    "img/url.png",
     "mathematics/contents-mathematics.md",
     "mathematics/geometry/lines-and-angles.md",
     "mathematics/geometry/contents-geometry.md",
@@ -184,8 +188,6 @@
     "mathematics-md",
     "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
-    "mathematics",
-    "computer-science/courses/cs50x/certificates/CS50x-A4.png",
-    "computer-science/courses/cs50x/certificates/CS50x.png"
+    "mathematics"
   ]
 }
