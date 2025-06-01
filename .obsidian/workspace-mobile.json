@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/memory/globals-heap-stack.md",
+                "file": "mathematics/contents-mathematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "globals-heap-stack"
+              "title": "contents-mathematics"
             }
           }
         ]
@@ -119,7 +119,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/basics/memory/globals-heap-stack.md",
+            "file": "mathematics/contents-mathematics.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -143,6 +143,9 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "mathematics/algebra/contents-algebra.md",
+    "mathematics/algebra/polynomials.md",
+    "computer-science/docs/basics/memory/globals-heap-stack.md",
     "computer-science/docs/basics/searching/binary-search.md",
     "computer-science/docs/basics/running-time.md",
     "img/big-o-notation.png",
@@ -170,16 +173,13 @@
     "mathematics/arithmetic/fractions-and-decimals.md",
     "mathematics/arithmetic/contents-arithmetic.md",
     "mathematics/algebra/quadratic-equations.md",
-    "mathematics/algebra/polynomials.md",
     "mathematics/algebra/linear-equations.md",
     "mathematics/algebra/factoring.md",
-    "mathematics/algebra/contents-algebra.md",
     "mathematics.zip",
     "mathematics-md/Algebra/contents-Algebra.md",
     "mathematics-md/Algebra/Polynomials.md",
     "mathematics-md/Algebra/Quadratic Equations.md",
     "mathematics-md/Algebra/Linear Equations.md",
-    "mathematics-md/Algebra/Factoring.md",
     "mathematics-md/Arithmetic",
     "mathematics-md/Algebra",
     "mathematics-md/Precalculus",
