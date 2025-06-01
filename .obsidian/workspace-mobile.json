@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics/mathematics/algebra/factoring.md",
+                "file": "mathematics/mathematics/geometry/lines-and-angles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "factoring"
+              "title": "lines-and-angles"
             }
           }
         ]
@@ -141,8 +141,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfe7f29a535ae751",
+  "active": "ab3a2c172c89a8ae",
   "lastOpenFiles": [
+    "mathematics/mathematics/geometry/contents-geometry.md",
+    "mathematics/mathematics/geometry/circles.md",
+    "mathematics/mathematics/calculus/limits.md",
+    "mathematics/mathematics/calculus/integrals.md",
+    "mathematics/mathematics/calculus/derivatives.md",
+    "mathematics/mathematics/calculus/contents-calculus.md",
+    "mathematics/mathematics/arithmetic/properties-of-operations.md",
+    "mathematics/mathematics/arithmetic/percentages.md",
+    "mathematics/mathematics/arithmetic/operations.md",
+    "mathematics/mathematics/arithmetic/number-systems.md",
+    "mathematics/mathematics/arithmetic/fractions-and-decimals.md",
+    "mathematics/mathematics/arithmetic/contents-arithmetic.md",
+    "mathematics/mathematics/algebra/quadratic-equations.md",
+    "mathematics/mathematics/algebra/polynomials.md",
+    "mathematics/mathematics/algebra/linear-equations.md",
+    "mathematics/mathematics/algebra/factoring.md",
     "mathematics/mathematics/algebra/contents-algebra.md",
     "mathematics.zip",
     "mathematics-md/Algebra/contents-Algebra.md",
@@ -154,22 +170,6 @@
     "mathematics-md/contents-mathematics.md",
     "computer-science/docs/basics/regex.md",
     "mathematics-md/Arithmetic/Fractions and Decimals.md",
-    "mathematics-md/Arithmetic/Operations.md",
-    "mathematics-md/Arithmetic/Percentages.md",
-    "mathematics-md/Arithmetic/Number Systems.md",
-    "mathematics-md/Arithmetic/Properties of Operations.md",
-    "mathematics-md/Precalculus/Functions.md",
-    "mathematics-md/Precalculus/Exponents and Logarithms.md",
-    "mathematics-md/Precalculus/contents-Precalculus.md",
-    "mathematics-md/Precalculus/Complex Numbers.md",
-    "mathematics-md/Geometry/contents-Geometry.md",
-    "mathematics-md/Geometry/Circles.md",
-    "mathematics-md/Geometry/Triangles.md",
-    "mathematics-md/Geometry/Polygons.md",
-    "mathematics-md/Geometry/Lines and Angles.md",
-    "mathematics-md/Trigonometry/Trig Identities.md",
-    "mathematics-md/Trigonometry/Laws of Sines and Cosines.md",
-    "mathematics-md/Trigonometry/contents-Trigonometry.md",
     "mathematics-md/Arithmetic",
     "mathematics-md/Algebra",
     "mathematics-md/Precalculus",
