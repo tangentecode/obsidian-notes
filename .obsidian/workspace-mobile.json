@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Pasted image 20250211081743.png"
+                "file": "img/http-request.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250211081743"
+              "title": "http-request"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "computer-science/docs/basics/running-time.md",
+            "file": "img/http-request.png",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -141,9 +141,15 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
-    "img/url.png",
+    "img/http-process.PNG",
+    "img/hash-table-basic.png",
+    "img/hash-algorithms-collisions.png",
+    "img/general-instructions.png",
+    "img/general-html.png",
     "img/client-server.png",
-    "img/Pasted image 20250211081743.png",
+    "img/request.png",
+    "img/ip-url.png",
+    "img/url.png",
     "mathematics/contents-mathematics.md",
     "mathematics/geometry/lines-and-angles.md",
     "mathematics/geometry/contents-geometry.md",
@@ -180,12 +186,6 @@
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "mathematics",
     "computer-science/courses/cs50x/certificates/CS50x-A4.png",
-    "computer-science/courses/cs50x/certificates/CS50x.png",
-    "/computer-science/courses/cs50x/certificates/CS50x.png",
-    "/computer-science/courses/cs50x/certificates/CS50x-A4.png",
-    "img/http-response.jpg.png",
-    "img/pixel_art.png",
-    "img/pointer-in-memory-2.png",
-    "img/string-decimal.png"
+    "computer-science/courses/cs50x/certificates/CS50x.png"
   ]
 }

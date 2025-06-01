@@ -7,7 +7,7 @@ There are two types of HTTP messages:
 
 ### HTTP Request Message
 
-![](Pasted%20image%2020250211082903.png)
+![](request.png)
 
 ### HTTP Response Message
 

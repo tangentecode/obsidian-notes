@@ -10,6 +10,6 @@
 
 ### After the **DNS Lookup**
 
-![](Pasted%20image%2020250211081743.png)
+![](ip-url.png)
 
 > This process of DNS Lookup only occurs when the HTTP request is made.
