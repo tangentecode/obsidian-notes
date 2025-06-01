@@ -11,14 +11,12 @@
             "id": "bfe7f29a535ae751",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "mathematics/contents-mathematics.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20250211081105.png"
               },
-              "icon": "lucide-file",
-              "title": "contents-mathematics"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250211081105"
             }
           }
         ]
@@ -143,6 +141,10 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "img/Pasted image 20250211081743.png",
+    "img/Pasted image 20250211081740.png",
+    "img/Pasted image 20250211081105.png",
+    "mathematics/contents-mathematics.md",
     "mathematics/geometry/lines-and-angles.md",
     "mathematics/geometry/contents-geometry.md",
     "mathematics/geometry/circles.md",
@@ -168,8 +170,6 @@
     "mathematics-md/Algebra/Linear Equations.md",
     "mathematics-md/Algebra/Factoring.md",
     "mathematics-md/Arithmetic/contents-Arithmetic.md",
-    "mathematics-md/contents-mathematics.md",
-    "computer-science/docs/basics/regex.md",
     "mathematics-md/Arithmetic",
     "mathematics-md/Algebra",
     "mathematics-md/Precalculus",
@@ -183,8 +183,6 @@
     "computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x-A4.png",
-    "img/Pasted image 20250211081105.png",
-    "img/Pasted image 20250211081743.png",
     "img/http-response.jpg.png",
     "img/pixel_art.png",
     "img/pointer-in-memory-2.png",
