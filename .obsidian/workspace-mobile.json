@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics-md/Arithmetic/contents-Arithmetic.md",
+                "file": "mathematics/mathematics/algebra/factoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "contents-Arithmetic"
+              "title": "factoring"
             }
           }
         ]
@@ -143,18 +143,21 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "mathematics/mathematics/algebra/contents-algebra.md",
+    "mathematics.zip",
+    "mathematics-md/Algebra/contents-Algebra.md",
+    "mathematics-md/Algebra/Polynomials.md",
+    "mathematics-md/Algebra/Quadratic Equations.md",
+    "mathematics-md/Algebra/Linear Equations.md",
+    "mathematics-md/Algebra/Factoring.md",
+    "mathematics-md/Arithmetic/contents-Arithmetic.md",
+    "mathematics-md/contents-mathematics.md",
     "computer-science/docs/basics/regex.md",
     "mathematics-md/Arithmetic/Fractions and Decimals.md",
-    "mathematics-md/Arithmetic/contents-Arithmetic.md",
     "mathematics-md/Arithmetic/Operations.md",
     "mathematics-md/Arithmetic/Percentages.md",
     "mathematics-md/Arithmetic/Number Systems.md",
     "mathematics-md/Arithmetic/Properties of Operations.md",
-    "mathematics-md/Algebra/Quadratic Equations.md",
-    "mathematics-md/Algebra/Factoring.md",
-    "mathematics-md/Algebra/contents-Algebra.md",
-    "mathematics-md/Algebra/Polynomials.md",
-    "mathematics-md/Algebra/Linear Equations.md",
     "mathematics-md/Precalculus/Functions.md",
     "mathematics-md/Precalculus/Exponents and Logarithms.md",
     "mathematics-md/Precalculus/contents-Precalculus.md",
@@ -167,18 +170,15 @@
     "mathematics-md/Trigonometry/Trig Identities.md",
     "mathematics-md/Trigonometry/Laws of Sines and Cosines.md",
     "mathematics-md/Trigonometry/contents-Trigonometry.md",
-    "mathematics-md/Trigonometry/Trig Functions.md",
     "mathematics-md/Arithmetic",
     "mathematics-md/Algebra",
     "mathematics-md/Precalculus",
     "mathematics-md/Geometry",
     "mathematics-md/Trigonometry",
-    "mathematics-md/contents-mathematics.md",
     "mathematics-md",
     "computer-science/courses/comprehensive-rust/comprehensive-rust.pdf",
     "computer-science/courses/web-dev-for-beginners/readme.pdf",
     "mathematics",
-    "computer-science/docs/zig",
     "computer-science/courses/cs50x/certificates/CS50x-A4.png",
     "computer-science/courses/cs50x/certificates/CS50x.png",
     "/computer-science/courses/cs50x/certificates/CS50x.png",
