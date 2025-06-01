@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematics/mathematics/geometry/lines-and-angles.md",
+                "file": "mathematics/contents-mathematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lines-and-angles"
+              "title": "contents-mathematics"
             }
           }
         ]
@@ -141,25 +141,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab3a2c172c89a8ae",
+  "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
-    "mathematics/mathematics/geometry/contents-geometry.md",
-    "mathematics/mathematics/geometry/circles.md",
-    "mathematics/mathematics/calculus/limits.md",
-    "mathematics/mathematics/calculus/integrals.md",
-    "mathematics/mathematics/calculus/derivatives.md",
-    "mathematics/mathematics/calculus/contents-calculus.md",
-    "mathematics/mathematics/arithmetic/properties-of-operations.md",
-    "mathematics/mathematics/arithmetic/percentages.md",
-    "mathematics/mathematics/arithmetic/operations.md",
-    "mathematics/mathematics/arithmetic/number-systems.md",
-    "mathematics/mathematics/arithmetic/fractions-and-decimals.md",
-    "mathematics/mathematics/arithmetic/contents-arithmetic.md",
-    "mathematics/mathematics/algebra/quadratic-equations.md",
-    "mathematics/mathematics/algebra/polynomials.md",
-    "mathematics/mathematics/algebra/linear-equations.md",
-    "mathematics/mathematics/algebra/factoring.md",
-    "mathematics/mathematics/algebra/contents-algebra.md",
+    "mathematics/geometry/lines-and-angles.md",
+    "mathematics/geometry/contents-geometry.md",
+    "mathematics/geometry/circles.md",
+    "mathematics/calculus/limits.md",
+    "mathematics/calculus/integrals.md",
+    "mathematics/calculus/derivatives.md",
+    "mathematics/calculus/contents-calculus.md",
+    "mathematics/arithmetic/properties-of-operations.md",
+    "mathematics/arithmetic/percentages.md",
+    "mathematics/arithmetic/operations.md",
+    "mathematics/arithmetic/number-systems.md",
+    "mathematics/arithmetic/fractions-and-decimals.md",
+    "mathematics/arithmetic/contents-arithmetic.md",
+    "mathematics/algebra/quadratic-equations.md",
+    "mathematics/algebra/polynomials.md",
+    "mathematics/algebra/linear-equations.md",
+    "mathematics/algebra/factoring.md",
+    "mathematics/algebra/contents-algebra.md",
     "mathematics.zip",
     "mathematics-md/Algebra/contents-Algebra.md",
     "mathematics-md/Algebra/Polynomials.md",
@@ -169,7 +170,6 @@
     "mathematics-md/Arithmetic/contents-Arithmetic.md",
     "mathematics-md/contents-mathematics.md",
     "computer-science/docs/basics/regex.md",
-    "mathematics-md/Arithmetic/Fractions and Decimals.md",
     "mathematics-md/Arithmetic",
     "mathematics-md/Algebra",
     "mathematics-md/Precalculus",

@@ -1,4 +1,4 @@
 # Precalculus
-- [[functions]]
+- [[mathematics/precalculus/functions]]
 - [[exponents-and-logarithms]]
 - [[complex-numbers]]

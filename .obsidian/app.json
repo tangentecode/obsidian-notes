@@ -14,5 +14,6 @@
     "editor:insert-codeblock",
     "editor:insert-table"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
