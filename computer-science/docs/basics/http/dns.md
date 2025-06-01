@@ -6,7 +6,7 @@
 
 ### User [request](process.md)
 
-![](Pasted%20image%2020250211081740.png)
+![](url.png)
 
 ### After the **DNS Lookup**
 

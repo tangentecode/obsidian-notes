@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "img/Pasted image 20250211081105.png"
+                "file": "img/Pasted image 20250211081743.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250211081105"
+              "title": "Pasted image 20250211081743"
             }
           }
         ]
@@ -141,9 +141,9 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "img/url.png",
+    "img/client-server.png",
     "img/Pasted image 20250211081743.png",
-    "img/Pasted image 20250211081740.png",
-    "img/Pasted image 20250211081105.png",
     "mathematics/contents-mathematics.md",
     "mathematics/geometry/lines-and-angles.md",
     "mathematics/geometry/contents-geometry.md",
