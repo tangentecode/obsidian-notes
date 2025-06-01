@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/basics/http/methods.md",
+                "file": "computer-science/docs/basics/regex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "methods"
+              "title": "regex"
             }
           }
         ]
@@ -143,6 +143,10 @@
   },
   "active": "bfe7f29a535ae751",
   "lastOpenFiles": [
+    "computer-science/docs/basics/pixel-art.md",
+    "computer-science/docs/basics/hexadecimal.md",
+    "computer-science/docs/basics/ascii.md",
+    "computer-science/docs/basics/http/methods.md",
     "computer-science/docs/basics/http/http-vs-https.md",
     "computer-science/docs/basics/http/http-server-command.md",
     "computer-science/docs/basics/http/http-messages.md",
@@ -155,8 +159,6 @@
     "computer-science/docs/linux/system-services.md",
     "computer-science/docs/basics/binary.md",
     "computer-science/docs/basics/contents-basic.md",
-    "computer-science/docs/basics/hexadecimal.md",
-    "computer-science/docs/basics/pixel-art.md",
     "computer-science/docs/basics/running-time.md",
     "computer-science/docs/basics/rgb.md",
     "computer-science/docs/basics/regex.md",
@@ -170,8 +172,6 @@
     "mathematics",
     "computer-science/docs/python/flask/html-templates.md",
     "computer-science/docs/basics/bash.md",
-    "computer-science/docs/basics/ascii.md",
-    "computer-science/docs/basics/searching/linear-search.md",
     "computer-science/docs/zig",
     "/computer-science/docs/c",
     "/computer-science/docs",
