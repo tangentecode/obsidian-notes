@@ -9,9 +9,8 @@
 - run `lsblk` to view **drives** and there corresponding **partition**
 - to make the installation process easier run `archinstall`
 
-## Archinstall
+## Archinstall Script
 
-nvme0n1p4
 
 ### Configuration:
 
