@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "templates"
             }
+          },
+          {
+            "id": "3156498f9a9f3473",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7537ffdb1d9fda46",
+  "active": "3156498f9a9f3473",
   "lastOpenFiles": [
     "computer-science/docs/python/flask/html-templates.md",
     "computer-science/docs/python/flask/sessions.md"
