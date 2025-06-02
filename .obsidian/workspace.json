@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer-science/docs/python/flask/templates.md",
+                "file": "computer-science/docs/c/file-i-o.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "templates"
-            }
-          },
-          {
-            "id": "3156498f9a9f3473",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "file-i-o"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,9 +155,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3156498f9a9f3473",
+  "active": "7537ffdb1d9fda46",
   "lastOpenFiles": [
-    "computer-science/docs/python/flask/html-templates.md",
-    "computer-science/docs/python/flask/sessions.md"
+    "mathematics/contents-mathematics.md",
+    "mathematics/courses/contents-courses.md",
+    "computer-science/docs/basics/running-time.md",
+    "computer-science/docs/basics/rgb.md",
+    "computer-science/docs/python/flask/templates.md",
+    "mathematics/trigonometry/trig-identities.md",
+    "mathematics/trigonometry/trig-functions.md",
+    "mathematics/trigonometry/laws-of-sines-and-cosines.md",
+    "mathematics/trigonometry/contents-trigonometry.md",
+    "mathematics/statistics/probability-basics.md",
+    "mathematics/statistics/descriptive-statistics.md",
+    "mathematics/statistics/contents-statistics.md",
+    "mathematics/courses/mathematics-(all-of-it).md",
+    "mathematics/precalculus/functions.md",
+    "mathematics/precalculus/exponents-and-logarithms.md",
+    "mathematics/precalculus/contents-precalculus.md",
+    "mathematics/precalculus/complex-numbers.md",
+    "mathematics/geometry/triangles.md",
+    "mathematics/geometry/polygons.md",
+    "mathematics/geometry/lines-and-angles.md",
+    "mathematics/geometry/contents-geometry.md",
+    "mathematics/geometry/circles.md",
+    "mathematics/calculus/limits.md",
+    "mathematics/calculus/integrals.md",
+    "mathematics/calculus/derivatives.md",
+    "mathematics/calculus/contents-calculus.md",
+    "mathematics/trigonometry",
+    "mathematics/statistics",
+    "mathematics/courses",
+    "mathematics/precalculus",
+    "mathematics/geometry",
+    "mathematics/calculus",
+    "mathematics/arithmetic",
+    "mathematics/algebra",
+    "mathematics",
+    "img/url.png",
+    "img/request.png",
+    "img/ip-url.png",
+    "img/client-server.png"
   ]
 }

@@ -2,6 +2,7 @@
 
 This vault covers major topics in foundational mathematics. It links to each topic's contents file:
 
+- [[contents-courses]]
 - [[contents-arithmetic]]  
 - [[contents-algebra]]  
 - [[contents-geometry]]  
