@@ -11,7 +11,6 @@
 
 ## Archinstall Script
 
-
 ### Configuration:
 
 1. **Language:**
