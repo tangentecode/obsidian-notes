@@ -12,7 +12,8 @@
     "editor:redo",
     "editor:configure-toolbar",
     "editor:insert-codeblock",
-    "editor:insert-table"
+    "editor:insert-table",
+    "editor:insert-mathblock"
   ],
   "promptDelete": false,
   "alwaysUpdateLinks": true
