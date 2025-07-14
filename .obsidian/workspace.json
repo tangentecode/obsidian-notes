@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematik/Struktur.md",
+                "file": "mathematik/LaTeX/LaTex Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Struktur"
+              "title": "LaTex Test"
             }
           }
         ]
@@ -155,10 +155,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd5e37ef6bb7926f",
+  "active": "2da612cd9e269c22",
   "lastOpenFiles": [
-    "mathematik/LaTeX",
     "mathematik/Struktur.md",
+    "mathematik/LaTeX/LaTex Test.md",
+    "mathematik/LaTeX",
     "mathematik",
     "Latex.md",
     "computer-science/docs/c/file-i-o.md",
@@ -192,7 +193,6 @@
     "mathematics/calculus",
     "mathematics/arithmetic",
     "mathematics/algebra",
-    "mathematics",
     "img/url.png",
     "img/request.png",
     "img/ip-url.png",
