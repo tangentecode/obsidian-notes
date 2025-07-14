@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematik/LaTeX/LaTex Test.md",
+                "file": "mathematik/LaTeX/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LaTex Test"
+              "title": "Test"
             }
           }
         ]
@@ -158,7 +158,7 @@
   "active": "2da612cd9e269c22",
   "lastOpenFiles": [
     "mathematik/Struktur.md",
-    "mathematik/LaTeX/LaTex Test.md",
+    "mathematik/LaTeX/Test.md",
     "mathematik/LaTeX",
     "mathematik",
     "Latex.md",
