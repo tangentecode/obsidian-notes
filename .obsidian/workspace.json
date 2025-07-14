@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mathematik/LaTeX/Test.md",
+                "file": "mathematik/LaTeX/Obsidian integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Obsidian integration"
             }
           }
         ]
@@ -157,8 +157,9 @@
   },
   "active": "2da612cd9e269c22",
   "lastOpenFiles": [
-    "mathematik/Struktur.md",
     "mathematik/LaTeX/Test.md",
+    "mathematik/LaTeX/Obsidian integration.md",
+    "mathematik/Struktur.md",
     "mathematik/LaTeX",
     "mathematik",
     "Latex.md",
@@ -184,7 +185,6 @@
     "mathematics/geometry/polygons.md",
     "mathematics/geometry/lines-and-angles.md",
     "mathematics/geometry/contents-geometry.md",
-    "mathematics/geometry/circles.md",
     "mathematics/trigonometry",
     "mathematics/statistics",
     "mathematics/courses",
