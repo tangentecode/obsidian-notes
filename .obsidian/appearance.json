@@ -1,5 +1,6 @@
 {
   "showRibbon": false,
   "cssTheme": "Atom",
-  "baseFontSize": 22
+  "baseFontSize": 22,
+  "theme": "obsidian"
 }

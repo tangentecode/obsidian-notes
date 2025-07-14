@@ -16,5 +16,7 @@
     "editor:insert-mathblock"
   ],
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "vimMode": true,
+  "spellcheck": true
 }
