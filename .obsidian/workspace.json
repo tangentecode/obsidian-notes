@@ -155,8 +155,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2da612cd9e269c22",
+  "active": "bd5e37ef6bb7926f",
   "lastOpenFiles": [
+    "mathematik/LaTeX",
     "mathematik/Struktur.md",
     "mathematik",
     "Latex.md",
@@ -183,7 +184,6 @@
     "mathematics/geometry/lines-and-angles.md",
     "mathematics/geometry/contents-geometry.md",
     "mathematics/geometry/circles.md",
-    "mathematics/calculus/limits.md",
     "mathematics/trigonometry",
     "mathematics/statistics",
     "mathematics/courses",
