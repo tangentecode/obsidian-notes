@@ -1,5 +1,0 @@
-# Calculus
-
-- [[limits]]
-- [[derivatives]]
-- [[integrals]]
