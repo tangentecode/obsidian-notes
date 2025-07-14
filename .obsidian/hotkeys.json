@@ -34,5 +34,13 @@
       ],
       "key": "Z"
     }
+  ],
+  "editor:insert-mathblock": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
   ]
 }
